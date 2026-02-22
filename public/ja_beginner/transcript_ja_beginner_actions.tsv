@@ -1,0 +1,1623 @@
+english	translation	category	sub_category	source
+Talk-to	はなしかける	actions	npc	Tool Leprechaun
+Exchange	こうかんする	actions	npc	Tool Leprechaun
+Attack	こうげきする	actions	npc	Molanisk
+Trade	とりひきする	actions	npc	Hudo
+Travel	りょこうする	actions	npc	Rug Merchant
+Pet	ペットをなでる	actions	npc	Dog
+Guess-letter	もじをあてる	actions	npc	Hangman game
+Banish	ほうむする	actions	npc	Hangman game
+Reset	リセットする	actions	npc	Hangman game
+Hit	なぐる	actions	npc	Combat stone
+Dismiss	かえす	actions	npc	Dr Jekyll
+Rewards	ほうしゅう	actions	npc	Emblem Trader
+Skull	どくろをえらぶ	actions	npc	Emblem Trader
+Pay	しはらう	actions	npc	Ayesha
+Armour	よろいをみる	actions	npc	Ironman tutor
+Check-pets	ペットをかくにんする	actions	npc	Leagues Tutor
+Collect-items	アイテムをあつめる	actions	npc	Leagues Tutor
+Claim-trophies	トロフィーをもらう	actions	npc	Leagues Tutor
+Pick-up	ひろう	actions	npc	Dark core
+Metamorphosis	へんしんする	actions	npc	Dark core
+Pick	とる	actions	npc	Strange plant
+Grab	つかむ	actions	npc	Suspect
+Pop	はじく	actions	npc	Balloon Animal
+Kill	ころす	actions	npc	Pheasant
+Disturb	さまたげる	actions	npc	Phosani's Nightmare
+Gauntlets	ガントレットをつける	actions	npc	Avan
+Lure	さそう	actions	npc	Rod Fishing spot
+Bait	えさをつける	actions	npc	Rod Fishing spot
+Pickpocket	すりをはたらく	actions	npc	Guard
+Assignment	たいいくをもらう	actions	npc	Turael
+Search	さがす	actions	npc	Entomologist
+Confront	むかいたつ	actions	npc	Mi-Gor
+Transport	はこぶ	actions	npc	Brother Tranquility
+Intimidate	おどす	actions	npc	Zombie swab
+Fish	つる	actions	npc	Fishing spot
+Smash-ice	こおりをこわす	actions	npc	Ice block
+Shear	けをかる	actions	npc	Sheep
+Knock-Out	ぶんなぐる	actions	npc	Bandit
+Bank	よきんをする	actions	npc	Banker
+Collect	あつめる	actions	npc	Banker
+Check-Approval	みとめをかくにんする	actions	npc	Arnor
+Tuxedo-time	タキシードをきる	actions	npc	Larry
+Mines	こうざんする	actions	npc	Dartog
+Cellar	ちかしつにいく	actions	npc	Dartog
+Sew	ぬう	actions	npc	Patchy
+Dream	ゆめをみる	actions	npc	Dominic Onion
+Take-boat	ふねにのる	actions	npc	Monk of Entrana
+Inspect	しらべる	actions	npc	Lumbridge Guide
+Trade-General-Store	しょうてんでこうかんする	actions	npc	Razmire Keelgan
+Trade-Builders-Store	たてものみせでこうかんする	actions	npc	Razmire Keelgan
+Haircut	かみをきる	actions	npc	Hairdresser
+Shave	ひげをそる	actions	npc	Hairdresser
+Makeover	すがたをかえる	actions	npc	Makeover Mage
+Talk-To	はなしかける	actions	npc	Tarquin
+Quick-falcon	はやくたかをつかう	actions	npc	Matthias
+Retrieve	もどす	actions	npc	Gyr Falcon
+Give-Sword	けんをわたす	actions	npc	Tindel Marchant
+Mine	さくせきする	actions	npc	Elemental rock
+Push	おす	actions	npc	Trolley
+Pull	ひく	actions	npc	Trolley
+Big-push	おもいきりおす	actions	npc	Trolley
+Place	おく	actions	npc	Trolley
+Claim-arrows	やじるしをもらう	actions	npc	Rantz
+Inflate	ふくらませる	actions	npc	Swamp toad
+Pluck	むしる	actions	npc	Chompy bird
+Shout-to	さけぶ	actions	npc	Nickolaus
+Quick-travel	はやく りょこうする	actions	npc	Desert eagle
+Walk-past	あるいてすぎる	actions	npc	Eagle
+Threaten	おどす	actions	npc	Kebbit
+Small Net	ちいさいあみをつかう	actions	npc	Fishing spot
+Net	あみをつかう	actions	npc	Fishing spot
+Ammo	だんやくをもらう	actions	npc	Leon
+Cage	おりをしかける	actions	npc	Fishing spot
+Harpoon	もりをぶっこむ	actions	npc	Fishing spot
+Big Net	おおきいあみをつかう	actions	npc	Fishing spot
+Use-rod	つりざおをつかう	actions	npc	Fishing spot
+Escort	ともなう	actions	npc	Smiddi Ryak (hard)
+Supply	ようきゅするする	actions	npc	Smiddi Ryak (hard)
+Claim-runes	ルーンをもらう	actions	npc	Lundail
+Chase	おいかける	actions	npc	Cat
+Interact	そうさする	actions	npc	Cat
+Catch	つかまえる	actions	npc	Baby impling
+Get-rewards	ほうびをもらう	actions	npc	Commander Connad
+Tutorial	チュートリアルをしる	actions	npc	Captain Cain
+Start-minigame	ミニゲームをはじめる	actions	npc	Guardian mummy
+Teleport	テレポートする	actions	npc	Apprentice
+Join-Crew	のりくみいんになる	actions	npc	San Fan
+Join-Team	チームにはいる	actions	npc	Honest Jimmy
+Pick-pocket	すりをする	actions	npc	Fairy Godfather
+Craft-goods	ものをつくる	actions	npc	Thakkrad Sigmundson
+Rellekka	レレッカへいく	actions	npc	Maria Gunnars
+Neitiznot	ネイティズノットへいく	actions	npc	Maria Gunnars
+Jatizso	ジャティズソへいく	actions	npc	Mord Gunnars
+Watch-shouting	さけびをみる	actions	npc	Guard
+Kick	キックする	actions	npc	Bed
+Claim-Tokens	トークンをもらう	actions	npc	Lorelai
+History	れきしをみる	actions	npc	Grand Exchange Clerk
+Sets	セットをみる	actions	npc	Grand Exchange Clerk
+Prices	ねだんをみる	actions	npc	Brugsen Bursen
+Exchange fire cape	ファイヤーケープをこうかんする	actions	npc	TzHaar-Mej-Jal
+Destroy	こわす	actions	npc	Door-support
+Tickets	きっぷをもらう	actions	npc	Cart conductor
+Listen-to	きく	actions	npc	Red Axe Director
+Claim-Shield	たてをもらう	actions	npc	Gamfred
+talk	はなす	actions	npc	Gate of War
+Get job (easy)	かんたんなしごとをえる	actions	npc	Gianne jnr.
+Get job (hard)	むずかしいしごとをえる	actions	npc	Gianne jnr.
+Repairs	しゅうりする	actions	npc	Dark Mage
+Sober-Up	よいをさます	actions	npc	Skippy
+Walk here	ここへあるく	actions	npc	Purepker895
+Follow	ついていく	actions	npc	Purepker895
+Pay (north-west)	きたにしではらう	actions	npc	Elstan
+Pay (south-east)	みなみひがしではらう	actions	npc	Elstan
+Pay (north)	きたではらう	actions	npc	Dantaera
+Pay (south)	みなみではらう	actions	npc	Dantaera
+Detach	はずす	actions	npc	Combat dummy
+Upgrade	グレードアップする	actions	npc	Combat dummy
+Remove	はずす	actions	npc	Combat dummy
+Shoo	おいはらう	actions	npc	Clockwork cat
+Fur Clothing	けがわぎょうを きる	actions	npc	Asyff
+Shoo-away	おいはらう	actions	npc	Stray dog
+Tease	わざとくるしめる	actions	npc	Sabre-toothed kyatt
+Leave	さる	actions	npc	Squire
+Claim-slime	ぬらぬらをもらう	actions	npc	Robin
+Use	つかう	actions	npc	Portal
+Exit	でていく	actions	npc	Portal
+Relocate	いどうする	actions	npc	Estate agent
+Redecorate	かざりなおす	actions	npc	Estate agent
+Buy-plank	いたをかう	actions	npc	Sawmill operator
+Age	としをかぞえる	actions	npc	Hans
+Tackle	ぼぼあわせあう	actions	npc	Gnome baller
+Pass-to	わたす	actions	npc	Gnome winger
+Claim	うけとる	actions	npc	Ranged combat tutor
+Buy	かう	actions	npc	Fadli
+Heal	いやす	actions	npc	A'abla
+Stroke	さわる	actions	npc	Gertrude's cat
+Climb-over	のりこえる	actions	npc	Pile of bones
+Melt	とかす	actions	npc	Crust of ice
+Clear	けす	actions	npc	Furnace grate
+Take	とる	actions	npc	Iron pickaxe
+Steal-from	ぬすむ	actions	npc	Digsite workman
+Pay-fare	ようきんをはらう	actions	npc	Captain Tobias
+Pay-Fare	ようきんをはらう	actions	npc	Customs officer
+Go-inside	なかにはいる	actions	npc	House
+Pirate's Cove	かいぞくのわにへいく	actions	npc	Lokar Searunner
+Deposit-items	どうぐをあずかるじょへあずける	actions	npc	Peer the Seer
+Miscellania	まぜられたくにへいく	actions	npc	Sailor
+Prod	つんつく	actions	npc	Red Sheep
+Return-Home	いえへかえる	actions	npc	Bill Teach
+Devices	きかいをみる	actions	npc	Ava
+Chop	きる	actions	npc	Undead tree
+Roll	ころがす	actions	npc	Boulder
+Watch	みる	actions	npc	Mercenary Captain
+Buy-pass	パスをかう	actions	npc	Shantay
+Pass	すぎる	actions	npc	Shantay Guard
+Fly	とぶ	actions	npc	Auguste
+Decant	つぐ	actions	npc	Zahur
+Clean	きれいにする	actions	npc	Zahur
+Make unfinished potion(s)	みあがらないくすりをつくる	actions	npc	Zahur
+Shoot	うつ	actions	npc	Target
+Shop	おみせであかう	actions	npc	Ezekial Lovecraft
+Board	のる	actions	npc	Ogre boat
+Potions	くすりをみる	actions	npc	Apothecary
+Grab-feather	ねもじをひろう	actions	npc	Desert Phoenix
+Take-from	とりだす	actions	npc	Jig cart
+Coffer	はこにしまう	actions	npc	Yohnus
+Call-Over	よぶ	actions	npc	Zombie
+Insult	ばかにする	actions	npc	Zombie
+Scare	おどろかす	actions	npc	Zombie
+Skin	かわをはぐ	actions	npc	Swamp snake
+Burn	やく	actions	npc	Barricade
+Extinguish	けす	actions	npc	Barricade
+Quick-withdraw	はやくひきだす	actions	npc	Elnock Inquisitor
+Check-gates	もんをしらべる	actions	npc	Wandering impling
+Sand	すなをまく	actions	npc	Bert
+Request-supplies	ようきゅするする	actions	npc	Bork Sigmundson
+Listen	きく	actions	npc	Key Master
+Check	しらべる	actions	npc	Probita
+View Laps	ラップをみる	actions	npc	Grace
+Toggle Counter	カウンターをきりかえる	actions	npc	Grace
+Tap	たたく	actions	npc	Skullball
+Show-Goal	ゴールをみせる	actions	npc	Skullball
+Give-Stick	ぼうをわたす	actions	npc	Agility Trainer
+Waterbirth Island	みずのたんじょうのしまへいく	actions	npc	Jarvald
+Take-flyer	ビラをとる	actions	npc	Ali the Leaflet Dropper
+Trade-with	とりひきする	actions	npc	Rewards Guardian
+Trade-Co-op	きょうりょくでとりひきする	actions	npc	Gabooty
+Trade-Drinks	のみものをこうかんする	actions	npc	Gabooty
+Send-parcel	こづつみをおくる	actions	npc	Rionasta
+Peek	そっとみる	actions	npc	Eye
+Deposit-box	こづつみをあずける	actions	npc	Financial Seer
+Move	うごかす	actions	npc	Boulder
+Log-storage	ほうきをしまう	actions	npc	Friendly Forester
+Claim Sand	すなをもらう	actions	npc	Drew
+Deposit buckets	ばけつをあずける	actions	npc	Drew
+Toggle warnings	けいこくをきりかえる	actions	npc	Doomsayer
+Remove PvP Protection	ぴーぶいぴーぼうごをはずす	actions	npc	Doomsayer
+Observe	みまもる	actions	npc	Maze Guardian
+New-maze	あたらしいめいろをつくる	actions	npc	Maze Guardian
+Maxhit Variant	さいだいいんげきへんこう	actions	npc	Combat Test
+Kill-count	ころしすうをかぞえる	actions	npc	Soldier
+Canyon-count (east)	ひがしけいこくすうをかぞえる	actions	npc	Soldier
+Canyon-count (west)	にしけいこくすうをかぞえる	actions	npc	Soldier
+Pay (north-east)	きたひがしではらう	actions	npc	Marisi
+Pay (south-west)	みなみにしではらう	actions	npc	Marisi
+Task	タスクをうける	actions	npc	Captain Khaled
+Help	たすける	actions	npc	Villia
+Spellbook	じゅつぶっく	actions	npc	Tyss
+Climb-on	のりのる	actions	npc	Stunted demonic gorilla
+Glider	グライダーにのる	actions	npc	Captain Shoracks
+Watermill	すいしゃへいく	actions	npc	Mistag
+Join	さんかする	actions	npc	Lisa
+Locking	ロックする	actions	npc	Rift guardian
+Check Scores	スコアをかくにんする	actions	npc	Captain Kalt
+Contract	けいやくをむすぶ	actions	npc	Amy
+Port Sarim	ポートサリムへいく	actions	npc	Captain Magoro
+Port Piscarilius	ポートピスカリウスへいく	actions	npc	Captain Magoro
+Feed	たべさせる	actions	npc	Lux grub
+Douse	ぶっかける	actions	npc	Fire
+Cut	きる	actions	npc	Meat tree
+Smash	つぶす	actions	npc	Jewelled Crab
+Claim-cape	ケープをもらう	actions	npc	Captain Rimor
+Set-difficulty	こんなんどをきめる	actions	npc	Captain Rimor
+Fight	たたかう	actions	npc	Abigale
+Bars	ぼうをかう	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	こうぶつをきりかえる	actions	npc	Belona
+Kitten	こねこをかう	actions	npc	Gertrude
+Toggle-vials	びんをきりかえる	actions	npc	Barbarian guard
+Redeem-code	コードをつかう	actions	npc	Recruiter
+Purchase Amulet	アミュレットをかう	actions	npc	Wizard Mizgog
+Staves	ぼうをかう	actions	npc	Dark Mage
+Deboard	おりる	actions	npc	Barge guard
+Toggle Fossils	かせきをきりかえる	actions	npc	Peter
+Poke	つつく	actions	npc	Bobbing fossil
+Training	れんしゅうする	actions	npc	Mairin
+Harvest	しゅうかくする	actions	npc	Herbiboar
+Stun	きぜつさせる	actions	npc	Hoop Snake
+Murder	ころす	actions	npc	Conrad King
+Challenge	ちょうせんする	actions	npc	The Mimic
+Quick-Travel	はやくりょこうする	actions	npc	Barge guard
+Escape	にげる	actions	npc	Brundt the Chieftain
+Scry	ぎまんはじんする	actions	npc	Abigaila
+Claim Pet Rock	ペットロックをもらう	actions	npc	Askeladden
+Standard Variant	ひょうじゅんへんこう	actions	npc	Combat Test (maxhit)
+Get-log	まきをもらう	actions	npc	The Collector
+Count-log	まきをかぞえる	actions	npc	The Collector
+Get bird	とりをもらう	actions	npc	Alry the Angler
+Pay (Fruit tree)	くだものゆではらう	actions	npc	Nikkie
+Pay (tree patch)	きのパッチではらう	actions	npc	Rosie
+Pay (Redwood tree)	あかきではらう	actions	npc	Alexandra
+Pay (Spirit tree)	スピリットツリーではらう	actions	npc	Latlink Fastbell
+Swap	とりかえる	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	セラストラスツリーではらう	actions	npc	Taylor
+Land's End	ランズエンドへいく	actions	npc	Veos
+Join Castle Wars	キャッスルウォーズへはいる	actions	npc	Saradominist recruiter
+Holiday-items	ホリデーアイテムをみる	actions	npc	Diango
+Tan-hides	ひょうひをなめす	actions	npc	Eodan
+Ardougne	アルドゥーンへいく	actions	npc	Captain Barnaby
+Brimhaven	ブリムヘイブンへいく	actions	npc	Captain Barnaby
+Rimmington	リミングトンへいく	actions	npc	Captain Barnaby
+Enchant	まほうをかける	actions	npc	Eluned
+Quick-escape	すぐにげる	actions	npc	Elena
+Investigate	しらべる	actions	npc	Elderly Elf
+Fix-exoskeleton	がいこくをなおす	actions	npc	Elderly Elf
+Chop down	たおす	actions	npc	Tree
+Sing	うたう	actions	npc	Reese
+Statistics	とうけいをみる	actions	npc	Ystwyth
+Repair	なおす	actions	npc	Aneirin
+Open Adventure Paths	アドベンチャーパスをあける	actions	npc	Adventurer Jon
+Island of Stone	いしのとうへいく	actions	npc	Haskell
+Charter	ちょくせんかいそうをえぐ	actions	npc	Trader Stan
+Charter-to Brimhaven	ブリムヘイブンへいく	actions	npc	Trader Stan
+Charter-to Catherby	キャサービーへいく	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	モスレハーミスへいく	actions	npc	Trader Stan
+Charter-to Musa Point	ムサポイントへいく	actions	npc	Trader Stan
+Charter-to Port Khazard	ポートカザルドへいく	actions	npc	Trader Stan
+Charter-to Port Phasmatys	ポートファスマティスへいく	actions	npc	Trader Stan
+Charter-to Port Sarim	ポートサリムへいく	actions	npc	Trader Stan
+Charter-to Shipyard	せんたいこうじょうへいく	actions	npc	Trader Stan
+Charter-to Corsair Cove	コルセアコーブへいく	actions	npc	Trader Stan
+Charter-to Prifddinas	プリフディナスへいく	actions	npc	Trader Stan
+Charter-to Port Tyras	ポートティラスへいく	actions	npc	Trader Stan
+Charge	チャージする	actions	npc	Totem
+Spectate	けんしょうする	actions	npc	The Nightmare
+Convert-shards	しゃーどをへんかんする	actions	npc	Noranna Tytanin
+Loot	うばう	actions	npc	Grave
+Lap-count	ラップをかぞえる	actions	npc	Bobawu
+Value	ねだんをつける	actions	npc	Skully
+Settings	せっていい	actions	npc	Skully
+Ungael	ウンゲルへいく	actions	npc	Torfinn
+Glider-to Ta Quir Priw	タクイルプリウへいく	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	ガンディウスへいく	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	カルヘウォへいく	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	レマントアンドラへいく	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	シンダルポスへいく	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	ウークークオリーウンドリへいく	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	レマントリーウンドリへいく	actions	npc	Captain Dalbur
+Other-services	ほかのサービスをうける	actions	npc	Thessalia
+Leave-tutorial	チュートリアルをでる	actions	npc	Nomad
+Fill	みたす	actions	npc	Ammunition crate
+Check-ammo	だんやくをかくにんする	actions	npc	Ammunition crate
+Forfeit	ほうきする	actions	npc	Captain Pudi
+Locks	ロックをやぶる	actions	npc	Dampe
+Take-net	あみをもってくる	actions	npc	Spirit Angler
+Ferry	わたす	actions	npc	Ferryman Sathwood
+Awaken	めをさます	actions	npc	Rubble
+Items	アイテムをみる	actions	npc	Clerk
+Buy-sphere	きゅうていをかう	actions	npc	Oldak
+Power-up	パワーアップする	actions	npc	The Great Guardian
+Buy-crystals	クリスタルをかう	actions	npc	Rick
+Quick-lock	はやくロックする	actions	npc	Apprentice Tamara
+Strike	たたく	actions	npc	Hill Giant
+Hand-in	わたす	actions	npc	Kovac
+Commission	ちゅうもんする	actions	npc	Kovac
+Talk	はなす	actions	npc	Hannibal
+Proceed	すすむ	actions	npc	Osmumten
+Begin	はじめる	actions	npc	Osmumten
+Water	みずをやる	actions	npc	Palm of Resourcefulness
+Check-costume	コスチュームをかくにんする	actions	npc	Costumed child
+Trick-or-treat	ぎょうふくそうりょうをもらう	actions	npc	Generous Treater
+Scare-away	おどろかしてはしらせる	actions	npc	Spooky dog
+Tend-to	かたかたしたたきびへすすむ	actions	npc	Flowering bush (Lilac)
+Emote	エモートをする	actions	npc	Wisp
+Deposit	あずける	actions	npc	Woodcutting Leprechaun
+Cast	となえる	actions	npc	Fishing spot
+Reset-room	へやをリセットする	actions	npc	Cerebral pathfinder
+Take-lure	ルアーをもってくる	actions	npc	Light leech
+Build	そうちをたてる	actions	npc	Unfinished Beehive
+Disarm	かいじょする	actions	npc	Fox trap
+Prune	せんていする	actions	npc	Entling
+Prune-top	せんていする	actions	npc	Entling
+Prune-back	せんていする	actions	npc	Entling
+Prune-sides	せんていする	actions	npc	Entling
+Charter-to Port Piscarilius	ポートピスカリウスへいく	actions	npc	Trader Stan
+Charter-to Land's End	ランズエンドへいく	actions	npc	Trader Stan
+Mark	しるしをつける	actions	npc	Guard
+Unmark	しるしをけす	actions	npc	Guard
+Charter-to Civitas illa Fortis	キウィタスイラフォルティスへいく	actions	npc	Trader Stan
+Charter-to Aldarin	アルダリンへいく	actions	npc	Trader Stan
+Charter-to Sunset Coast	さんせっとこーすとへいく	actions	npc	Trader Stan
+Charter-to Tempestus	テンペストゥスへいく	actions	npc	Trader Stan
+Start-wave	ウェーブをはじめる	actions	npc	Minimus
+Scoreboard	スコアボードをみる	actions	npc	Eyatlalli
+Rumour	ぐわいをきく	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	ぐわいをせっていする	actions	npc	Guild Scribe Verity
+Fur-clothing	けがわぎょうをきる	actions	npc	Pellem
+Recharge-whistle	ホイッスルをチャージする	actions	npc	Soar Leader Pitri
+Trade-in	こうかんする	actions	npc	Oriana
+Last-destination	さいごのもくてきちをみる	actions	npc	Renu
+Search	さがす	actions	object	Crate
+Enter	はいる	actions	object	Cave Entrance
+Open	ひらく	actions	object	Door
+Inspect	しらべる	actions	object	Broken multicannon
+Fire	ひをつける	actions	object	Dwarf multicannon
+Pick-up	ひろう	actions	object	Dwarf multicannon
+Empty	からにする	actions	object	Dwarf multicannon
+Climb-down	おりる	actions	object	Ladder
+Climb-up	のぼる	actions	object	Ladder
+Climb-over	のりこえる	actions	object	Rock pile
+Prod	つんつく	actions	object	Sacks
+Pull	ひく	actions	object	Lever
+Go-through	とおりぬける	actions	object	Gate
+Fish	つる	actions	object	Fishing spot
+Squeeze-through	すりぬける	actions	object	Loose Railing
+Check	しらべる	actions	object	Vine
+Pray-at	おいのりする	actions	object	Chaos altar
+Smash	つぶす	actions	object	Giant crystal
+Hide-in	かくれる	actions	object	Crate
+Take-from	とりだす	actions	object	Beehive
+Cross	わたる	actions	object	Gangplank
+Knock-at	たたく	actions	object	Large door
+Search for traps	わなをさがす	actions	object	Lever
+Shut	しめる	actions	object	Open chest
+Cook	やく	actions	object	Cooking range
+Burst	はじく	actions	object	Party Balloon
+Jump-up	とぶ	actions	object	Rocks
+Operate	あやつる	actions	object	Winch
+Pick	とる	actions	object	Potato
+Close	とじる	actions	object	Large open cupboard
+Play	さいせい	actions	object	Church organ
+Use	つかう	actions	object	Crevice
+Peek	そっとみる	actions	object	Crevice
+Private	ぷらいべーとにする	actions	object	Crevice
+Jump	とぶ	actions	object	Broken Fence
+Steal-from	ぬすむ	actions	object	Tea stall
+Take	とる	actions	object	Small fishing net
+Exit	でていく	actions	object	Cave exit
+Suck	すいこむ	actions	object	Swamp bubbles
+Reset	リセットする	actions	object	Shaking box
+Slash	ぎゃくばきり	actions	object	Web
+Weave	おる	actions	object	Loom
+Attack	こうげきする	actions	object	Dummy
+Read	よむ	actions	object	Plaque
+Chop down	たおす	actions	object	Tree
+Push	おす	actions	object	Wall
+Take-1	ひとつもってくる	actions	object	Bandage table
+Take-5	いつつもってくる	actions	object	Bandage table
+Take-10	じゅうこもってくる	actions	object	Bandage table
+Commune	さゆうする	actions	object	Lever
+Board	のる	actions	object	Log raft
+Swim to	およぐ	actions	object	Rock
+Take treasure	たからをもってくる	actions	object	Chalice
+Climb	のぼる	actions	object	Dead Tree
+Get in	はいる	actions	object	Barrel
+Chop	きる	actions	object	Achey Tree
+Drink From	のむ	actions	object	Cauldron
+Smelt	あきする	actions	object	Furnace
+Smith	たんすする	actions	object	Anvil
+Hit	なぐる	actions	object	Dummy
+Fill	みたす	actions	object	Crate
+Look-at	みる	actions	object	Mound of earth
+Investigate	しらべる	actions	object	Strange looking stone
+Craft	つくる	actions	object	Smashed table
+Disembark	おりる	actions	object	Crude raft
+Pay-fare	ようきんをはらう	actions	object	Travel cart
+Listen-at	きく	actions	object	Grill
+Pan	なべでいためる	actions	object	Panning point
+Shoot	うつ	actions	object	Gnome goal
+Deposit	あずける	actions	object	Chest
+Climb-on	のりのる	actions	object	Barrel
+Kick	キックする	actions	object	Loose panel
+Rotate	まわす	actions	object	Crane
+Walk-down	おりる	actions	object	Spooky stairs
+Walk-up	のぼる	actions	object	Spooky stairs
+Repair	なおす	actions	object	Hole
+Walk-Down	おりる	actions	object	Stairs
+Walk-Up	のぼる	actions	object	Stairs
+Mine	さくせきする	actions	object	Rock slide
+Look at	みる	actions	object	Winch
+Cut	きる	actions	object	Kharidian cactus (Healthy)
+Watch	みる	actions	object	Mine door entrance
+Look-in	なかをみる	actions	object	Barrel
+Look in	なかをみる	actions	object	Barrel
+Collect	あつめる	actions	object	Bank chest
+Climb-to	のぼる	actions	object	Rock
+Climb down	おりる	actions	object	Rock
+Walk through	とおりぬける	actions	object	Mine cave
+Walk-through	とおりぬける	actions	object	Tent door
+Remove	はずす	actions	object	Hellhound
+Steal-From	ぬすむ	actions	object	Counter
+Prospect	さぐる	actions	object	Rock of Dalgroth
+Leave	さる	actions	object	Cave exit
+Jump-Over	とびこえる	actions	object	Gap
+Turn	ねじる	actions	object	Sewer valve
+Look-under	ほかめをみる	actions	object	Potted plant
+Step-into	ふみいれる	actions	object	Sparkling pool
+Chop-down	きりおとす	actions	object	Jungle tree
+Touch	さわる	actions	object	Fire Wall
+search	さがす	actions	object	Desk
+Smash-to-bits	ずたずたにたたきこわす	actions	object	Boulder
+Jump-over	とびこえる	actions	object	Jagged wall
+Look	みる	actions	object	Carved rock
+Lift	もちあげる	actions	object	Totem pole
+Shake	ゆらす	actions	object	Leafy Palm Tree
+Cut down	きりおとす	actions	object	Arctic pine tree
+Forfeit	ほうきする	actions	object	Entrance
+Bank	よきんをする	actions	object	Open chest
+Buy	かう	actions	object	Crate
+Pass-through	とおりぬける	actions	object	Tunnel
+Descend	おりる	actions	object	Cave
+Ascend	のぼる	actions	object	Cave
+Picklock	ぎおんをあける	actions	object	Gate
+Fire-at	うつ	actions	object	Guide rope
+Unlock	ろをあける	actions	object	Locked Ogre chest
+Study	べんきょうする	actions	object	Monument
+Take-cutting	ざつしょくをとる	actions	object	Budding branch
+Walk-on	あるく	actions	object	Balancing rope
+Walk-across	あるいてわたる	actions	object	Balancing ledge
+Swing-across	ふりてわたる	actions	object	Monkey bars
+Swing-on	ふりあがる	actions	object	Rope swing
+Jump-on	とびのる	actions	object	Pillar
+Tag	たぐをつける	actions	object	Ticket Dispenser
+Climb-across	ぐいのあるきをよじのぼる	actions	object	Hand holds
+Toggle-warning	けいこくをきりかえる	actions	object	Cave entrance
+Dump	ぽいぽいすてる	actions	object	Compost Bin
+Step-over	またぐ	actions	object	Tripwire
+Pass	すぎる	actions	object	Sticks
+Reinforce	つよくする	actions	object	Temple wall
+Light	あかりをつける	actions	object	Fire altar
+Summon	よぶ	actions	object	Strange altar
+Cut-branch	ひねりきる	actions	object	Swaying tree
+Put-inside	いれる	actions	object	Pipe
+Spin	まわす	actions	object	Spinning wheel
+Capture	つかまえる	actions	object	Standard Stand
+Jump-to	とびのる	actions	object	Stepping stone
+Collapse	くずれさせる	actions	object	Cave wall
+Lock	ロックする	actions	object	Door
+View	みる	actions	object	Scoreboard
+View Stats	ステータスをみる	actions	object	Scoreboard
+Build	そうちをたてる	actions	object	Chair space
+Remove board advert	こくこくはんをはずす	actions	object	Portal
+Remove-room	へやをはずす	actions	object	Dungeon entrance
+Jump-across	とびわたる	actions	object	Basalt rock
+View-game	ゲームをみる	actions	object	Table
+Weed	くさをぬく	actions	object	Herbs
+Jump off	とびおりる	actions	object	End of bridge
+Talk-to	はなしかける	actions	object	Awowogei
+Pick-lock	ぎおんをあける	actions	object	Jail Door
+Steal from	ぬすむ	actions	object	Crafting Stall
+Crawl-down	はいくぐる	actions	object	Cart tunnel
+Crawl-through	はいくぐりぬける	actions	object	Cart tunnel
+Go-down	おりる	actions	object	Lift
+Go-up	のぼる	actions	object	Lift
+Slide	すべる	actions	object	Slope
+Squeeze-past	すりぬける	actions	object	Stalagmite
+Wind	きぜんをまく	actions	object	Clock
+Dig	ほる	actions	object	Grave
+Pick-Lock	ぎおんをあける	actions	object	Trapdoor
+Take-axe	おのをもってくる	actions	object	Logs
+Ring-bell	ベルをならす	actions	object	Antiques Shop Stall
+Listen-to	きく	actions	object	Shining pool
+Pick-from	とる	actions	object	Thorny bushes
+Dig-up	ほりおこす	actions	object	Mud
+Dig-below	ほりしたす	actions	object	Roots
+Jump-through	とびぬける	actions	object	Wall of flame
+Take-beer	ビールをもってくる	actions	object	Table
+Hide-behind	かくれる	actions	object	Cactus
+Smoke	けむりをだす	actions	object	Smokey well
+Look-into	のぞく	actions	object	Mystical mirror
+Step-off	ふみおりる	actions	object	Ice ledge
+Climb-through	よじぬける	actions	object	Hole
+Collect-from	あつめる	actions	object	Weeping wall
+Sit-on	すわる	actions	object	Chair
+Upgrade	グレードアップする	actions	object	Tools
+Work-at	はたらく	actions	object	Workbench
+Make-helmet	かぶとをつくる	actions	object	Helmet pluming stand
+Ring	ベルをならす	actions	object	Bell
+Quick-board	はやくのる	actions	object	Swamp Boaty
+Ride	のる	actions	object	Train cart
+Observe	みまもる	actions	object	Telescope
+Leave-area	そのばをさる	actions	object	Ladder
+Crack	ひびをわぶる	actions	object	Wall safe
+Pull-spade	しゃべるをひく	actions	object	Stone Door
+Guide	ほどこす	actions	object	Belladonna patch
+Rake	くまでをつかう	actions	object	Belladonna patch
+Cure	なおす	actions	object	Diseased Belladonna
+Clear	けす	actions	object	Dead Belladonna
+Check-health	けんこうをかくにんする	actions	object	Cadavaberry bush
+Prune	せんていする	actions	object	Diseased cadavaberry bush
+Pick-spine	トゲをぬく	actions	object	Cactus
+Pick-fruit	みをとる	actions	object	Calquat tree
+Gear	ぐそくをえらぶ	actions	object	Supplies
+Stats	すうじ	actions	object	Supplies
+Standard spellbook	せんばんほうじゅつしょをえらぶ	actions	object	Altar
+Ancient spellbook	こだいほうじゅつしょをえらぶ	actions	object	Altar
+Lunar spellbook	げつほうじゅつしょをえらぶ	actions	object	Altar
+Arceuus spellbook	アルケウスほうじゅつしょをえらぶ	actions	object	Altar
+Pick-apple	りんごをとる	actions	object	Apple tree
+Pick-pineapple	パイナップルをとる	actions	object	Pineapple plant
+Pick-banana	バナナをとる	actions	object	Banana tree
+Pick-leaf	ようりょうはっぱをとる	actions	object	Curry tree
+Pick-orange	オレンジをとる	actions	object	Orange tree
+Pick-coconut	ココナッツをとる	actions	object	Palm tree
+Harvest	しゅうかくする	actions	object	Asgarnian Hops
+Travel	りょこうする	actions	object	Spirit Tree
+Milk	ぎゅうにゅうをしぼる	actions	object	Dairy cow
+Steal-cowbell	ぎゅうのベルをぬすむ	actions	object	Dairy cow
+Dismantle	ばらばらにする	actions	object	Young tree
+Set-trap	わなをしかける	actions	object	Young tree
+Release	はなす	actions	object	Gnome on a rack
+Level	レベルをあげる	actions	object	Kelda Stout
+Control	あやつる	actions	object	Dwarven machinery
+Return	もどってくる	actions	object	Train cart
+Chip	けずりおとす	actions	object	Dense runestone
+Hack	きりさく	actions	object	Light Jungle
+Quick-Pay(100)	はやく１００をはらう	actions	object	Hardwood Grove Doors
+Refuel	ねんりょうをたす	actions	object	Stove
+Retrieve	もどす	actions	object	Bars
+Pedal	ペダルをふむ	actions	object	Pedals
+Put-ore-on	こうぶつをのせる	actions	object	Conveyor belt
+Fill-bucket	バケツにみずをいれる	actions	object	Sink
+Take-seed	たねをもってくる	actions	object	Roses
+Attach	つける	actions	object	Ornate combat dummy
+Swap	とりかえる	actions	object	Ornate combat dummy
+Take-Coffin	ひつぎをもってくる	actions	object	Grave
+Make	つくる	actions	object	Bed
+Net	あみをつかう	actions	object	Fishing spot
+Ardougne	アルドゥーンへいく	actions	object	Lever
+Edgeville	エッジビルへいく	actions	object	Lever
+Swap-options	オプションをきりかえる	actions	object	Lever
+Talk to	はなしかける	actions	object	Tree
+Exchange	こうかんする	actions	object	Grand Exchange booth
+Lure	さそう	actions	object	Ominous Fishing Spot
+Bait	えさをつける	actions	object	Ominous Fishing Spot
+Fish-In	みずそうのなかでつる	actions	object	Aquarium
+Count	かぞえる	actions	object	Pressure Barrel
+Swim	およぐ	actions	object	River
+Look-up	うえをみる	actions	object	Trellis
+Spectate	けんしょうする	actions	object	Rat wall
+Deposit-box	こづつみをあずける	actions	object	Bank booth
+Grab	つかむ	actions	object	Bones
+Remove-coal	すみをおろす	actions	object	Coal Truck
+Take-sigil	しゅごをもってくる	actions	object	Pedestal
+Empty-Out	からにする	actions	object	Cannon
+Fire!	うつ	actions	object	Cannon
+Loot	うばう	actions	object	Crate
+Plunder	あたらしいむねをぶんどる	actions	object	Closed chest
+Ransack	たるをぶんどる	actions	object	Barrel
+Count-plunder	ぶんどったものをかぞえる	actions	object	Plunder Storage
+Store-plunder	ぶんどったものをしまう	actions	object	Plunder Storage
+Take-powder	こなをとる	actions	object	Powder Barrel
+Waterproof	ぼうずいこうしする	actions	object	Ship hull
+Balance	バランスをとる	actions	object	Narrow wall
+Teeth-grip	しがかみする	actions	object	Zip line
+Drain	みずをぬく	actions	object	Barrel
+Churn	かくはんする	actions	object	Dairy churn
+Zanaris	ザナリスへいく	actions	object	Fairy ring
+Configure	ていぎする	actions	object	Fairy ring
+Last-destination (AIP)	さいごのもくてきち（AIP）へいく	actions	object	Fairy ring
+Escape	にげる	actions	object	Cave entrance
+Examine	しらべる	actions	object	Healing certificate
+Shape-Canoe	カヌーをけずる	actions	object	Canoe Station
+Float Log	ながおをうかべる	actions	object	Canoe Station
+Float Canoe	カヌーをうかべる	actions	object	Canoe Station
+Paddle Log	ながおをこぐ	actions	object	Canoe Station
+Paddle Canoe	カヌーをこぐ	actions	object	Canoe Station
+Look-inside	なかをのぞく	actions	object	Mole hill
+Buy-food	たべものをかう	actions	object	Chest
+Buy-items	どうぐをかう	actions	object	Chest
+Quick-escape	すぐにげる	actions	object	Door
+Drink-from	のむ	actions	object	Fountain
+Pick-Fruit	くだものをつむ	actions	object	Sq'irk tree
+Stand-on	のる	actions	object	Balance beam
+Get-down	おりる	actions	object	Balance beam
+Change-clothes	ふくをかえる	actions	object	Shoe box
+Preen	みだしなみをなおす	actions	object	Shaving stand
+Haircut	かみをきる	actions	object	Shaving stand
+Shave	ひげをそる	actions	object	Shaving stand
+Pray	いのる	actions	object	Altar
+Re-light	ひをつける	actions	object	Incense burner
+Build-in	たてる	actions	object	Cage
+Force	おしあける	actions	object	Door
+Activate	はじめる	actions	object	Treasure Hunt Fairy House
+Set-up	セットアップする	actions	object	Attack stone
+Hoop	ふープをなげる	actions	object	Stick
+Throw-at	ぶつける	actions	object	Dartboard
+Shoot-at	いうをはなつ	actions	object	Archery target
+Karamja	カラムジャへいく	actions	object	Amulet of Glory
+Draynor Village	ドレイナーのむらへいく	actions	object	Amulet of Glory
+Al Kharid	アルカリッドへいく	actions	object	Amulet of Glory
+Take-kettle	やかんをとる	actions	object	Firepit with hook
+Sleep-in	ねる	actions	object	Pet blanket
+Last-destination (AIS)	さいごのもくてきち（AIS）へいく	actions	object	Fairy ring
+Last-destination (AIR)	さいごのもくてきち（AIR）へいく	actions	object	Fairy ring
+Last-destination (AIQ)	さいごのもくてきち（AIQ）へいく	actions	object	Fairy ring
+Direct-portal	ぽーたるをあやつる	actions	object	Scrying pool
+Scry	ぎまんはじんする	actions	object	Scrying pool
+Challenge-mode	ちゃれんじもーどをはじめる	actions	object	Lever
+Evade-event	さけける	actions	object	Path
+Continue-trek	つづける	actions	object	Path
+Swing-from	ふりこのようにゆれる	actions	object	Swamp tree branch
+Cut-vine	つるをきる	actions	object	Swamp tree
+Escape-event	にげだす	actions	object	Boat
+Return-to-Burgh	ぶるぐへもどる	actions	object	Path
+Remove-Pot	なべをとりのぞく	actions	object	Pot-boiler
+Remove-Bone	ほねをとりのぞく	actions	object	Pot-boiler
+Jump-down	おりる	actions	object	Rocks
+Use-Driftwood	ながれぎをつかう	actions	object	Embers
+Climb-through (normal)	ぬけぬける	actions	object	Broken bars
+Climb-through (private)	ぬけぬける	actions	object	Broken bars
+Peek (normal)	そっとのぞく	actions	object	Broken bars
+Eat	たべる	actions	object	Food Pile
+Leap	とびこえる	actions	object	Gap
+Teleport to Destination	もくてきちへテレポートする	actions	object	Obelisk
+Set Destination	もくてきちをせっていする	actions	object	Obelisk
+Hurdle	とびこえる	actions	object	Ledge
+Jump-off	とびおりる	actions	object	Edge
+Vault	とびこえる	actions	object	Pole-vault
+Jump-in	とびこむ	actions	object	Pile of fish
+Take-pickaxe	つるはしをとる	actions	object	Rocks
+Use-Lift	いんかをつかう	actions	object	Platform
+Take-Beam	はりをとる	actions	object	Crate
+Take-Pulley-Beam	ていしゃをとる	actions	object	Crate
+Take-Rope	なわをとる	actions	object	Crate
+Swing Across	ふりこのようにわたる	actions	object	Monkeybars
+Home	ホームへいく	actions	object	Portal
+Build mode	ビルドもーど	actions	object	Portal
+Friend's house	ゆうじんのいえへいく	actions	object	Portal
+Swing	ゆれる	actions	object	Rope
+Sit-On	すわる	actions	object	Piano stool
+Pick Nuts	くるみをつむ	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	バナナをつむ	actions	object	Strange banana tree
+Throw	なげる	actions	object	Shot
+Unblock	ふさいだみちをあける	actions	object	Tunnel
+Take-Rum	ラムをとる	actions	object	Conveyor Belt
+Pump	ポンプをすえる	actions	object	Steam Pump
+Vent	あなをあける	actions	object	Steam Pump
+Take-Log	たきぎをとる	actions	object	Log Store
+Take-Tool	どうぐをとる	actions	object	Workbench
+Cut-Down	きをきる	actions	object	Jungle tree
+Pay-toll(2-Ecto)	りょうきん（2エクト）をしはらう	actions	object	Energy Barrier
+Jump-To	とびつく	actions	object	Rock
+Enter-cloud	くもにはいる	actions	object	Cloud bank
+Listen	きく	actions	object	Crevice
+Manoeuvre-past	よけてとおる	actions	object	Tight-gap
+Climb-under	したからのぼる	actions	object	Castle wall
+Climb-into	なかへのぼる	actions	object	Hole
+Jump-onto	のる	actions	object	Stepping stone
+Press	おす	actions	object	Zero
+Step-on	ふむ	actions	object	Platform
+Worship	あがめる	actions	object	Ectofuntus
+Status	すてーたすをみる	actions	object	Bone grinder
+Talk-To	はなしかける	actions	object	Pirate Captain
+Admire	みほめる	actions	object	Tall mirror
+Roll	ころがす	actions	object	Dice
+Grapple	よじのぼる	actions	object	Rocks
+Take-bowl	ボウルをとる	actions	object	Table
+Sing-crystal	うたう	actions	object	Singing bowl
+test	てすと	actions	object	Argento
+Crawl-under	はいくぐる	actions	object	Wall
+Fix	ふいごをなおす	actions	object	Bellows
+Bend	まげる	actions	object	Cell wall window
+Steal	ぬすむ	actions	object	Candles
+Deactivate	おわる	actions	object	Magic box
+Trap	わなをしかける	actions	object	Pit
+Flush	さけびこえる	actions	object	Rabbit hole
+Shout-over	さけぶ	actions	object	Rockslide
+Pull-down	ひきおろす	actions	object	Eagle lever
+Push-up	おしあげる	actions	object	Eagle lever
+Quick-start	すぐにはじめる	actions	object	Ladder
+Reset-wave	なみをもとにもどす	actions	object	Door
+Dunk	ひたす	actions	object	Lava crater
+Block	ふせぐ	actions	object	Penance cave
+Demolish	こわす	actions	object	Penance cave
+Take-Arrows	やをとる	actions	object	Attacker item machine
+Take-Runes	ルーンをとる	actions	object	Attacker item machine
+Stock-Up	ためこむ	actions	object	Defender item machine
+Take-Crackers	クラッカーをとる	actions	object	Defender item machine
+Take-Tofu	とうふをとる	actions	object	Defender item machine
+Take-Worms	みみずをとる	actions	object	Defender item machine
+Take-Vial	びんをとる	actions	object	Healer item machine
+Take-Meat	にくをとる	actions	object	Healer item machine
+Call	よぶ	actions	object	Horn of glory
+Get-Spikes	とげをうける	actions	object	Petrified mushroom
+Load	つみこむ	actions	object	Egg hopper
+Evade	さけける	actions	object	Trap
+Disable	オフにする	actions	object	Trap
+Harpoon	もりをぶっこむ	actions	object	Fishing spot
+Cage	おりをしかける	actions	object	Fishing spot
+Leave Tomb	おはかをでる	actions	object	Tomb Door
+Quick-leave	すぐにでる	actions	object	Tomb Door
+Tread-softly	そっとあるく	actions	object	Icicles
+Convert	かえる	actions	object	Collector Converter
+Check for Snakes	ヘビをさがす	actions	object	Urn
+Charm Snake	ヘビをなだめる	actions	object	Urn
+Cut-wood	きをきる	actions	object	Woodcutting stump
+Cross-bridge	はしをわたる	actions	object	Rope bridge
+Exit-cave	ほらあなをでる	actions	object	Exit cavern
+Decapitate	あたまをきる	actions	object	Ice Troll King
+Jump-from	とびおりる	actions	object	Stepping stone
+Peer-through	そっとのぞく	actions	object	Peephole
+Add-bottom	そこをくわえる	actions	object	Crate
+Return-to-Paterdomus	パターどーむすへもどる	actions	object	Path
+Excavate	ほってだす	actions	object	Statue
+Quick Pass	すぐとおる	actions	object	Flames
+Tamper	あしくかんしょうする	actions	object	Device
+Untie	ほどく	actions	object	Zanik
+Walk-along	あるいていく	actions	object	Tunnel
+Swing across	ふりこのようにわたる	actions	object	Monkeybars
+Animate	いのちをえる	actions	object	Magical Animator
+Check Kudos	しょうゆをかくにんする	actions	object	Information booth
+Add finds	みつけたものをくわえる	actions	object	Storage crate
+Clean	きれいにする	actions	object	Specimen table
+Talk-into	はなしかける	actions	object	Drain Pipe
+Wind-up	まきあげる	actions	object	Gramophone
+Turn-Off	けす	actions	object	Gramophone
+Climb up	のぼる	actions	object	Beard
+Exit-through	ぬける	actions	object	Fire rift
+Push-through	おしとおす	actions	object	Magical wheat
+Dive in	ダイビングする	actions	object	Whirlpool
+Construct	たてる	actions	object	Pyre site
+Rummage	さぐる	actions	object	Skeleton
+Burn-down	やきはらう	actions	object	Boil
+Take From	とる	actions	object	Barrel of flour
+Reach	てをのばす	actions	object	Vent
+Free	ふりにする	actions	object	King Arthur
+Break	わる	actions	object	Smashed window
+Distract	きをそらす	actions	object	Eyes
+Drink	のむ	actions	object	Potion
+Store	しまう	actions	object	Super ranging potion
+Equip	そうびする	actions	object	Anti-dragon shield
+Teleport	テレポートする	actions	object	Zamorak altar
+Tie-rope	なわをむすぶ	actions	object	Rock
+Move	うごかす	actions	object	Boulder
+Claim-staves	ぼうじゃくをうけとる	actions	object	Barrel
+Climb-off	おりる	actions	object	Ice bridge
+Crawl	はいはいする	actions	object	Cave
+Join	さんかする	actions	object	Challenge portal
+Hammer	かなづちでうつ	actions	object	Broken strut
+Toggle K/D	キル・デス（K/D）をきりかえる	actions	object	Wilderness Statistics
+Make-raft	いかだをつくる	actions	object	Old log
+Weiss	ワイス	actions	object	Portal Nexus
+Teleport Menu	テレポートメニュー	actions	object	Portal Nexus
+Configuration	せっていする	actions	object	Portal Nexus
+Toggle XP	XPをきりかえる	actions	object	Deadman chest
+Take-X	Xをとる	actions	object	Meat table
+Serve	だす	actions	object	Buffet table
+Water	みずをやる	actions	object	Golovanova seedling
+Bind	むすぶ	actions	object	Blood Altar
+Venerate	あがめる	actions	object	Dark Altar
+Take-remains	のこりをとる	actions	object	Kruk
+Scale	のぼる	actions	object	Rocks
+Walk on	あるく	actions	object	Vine
+Look-in-all	なかをのぞく	actions	object	Hole
+Disarm	かいじょする	actions	object	Floor spikes
+Pass through	とおる	actions	object	Sliced web
+Gaze-into	じっとみる	actions	object	Burning brazier
+Reset-time	じかんをもとにもどす	actions	object	Burning brazier
+Balance-across	バランスをとりながらわたる	actions	object	Steep roof
+Leave Cavern	ほらあなをでる	actions	object	Inanimate Altar
+Story	ものがたりをきく	actions	object	Juna
+Climb over	のぼってこえる	actions	object	Broken cart
+Claim	うけとる	actions	object	Reward chest
+Add-House	いえをたす	actions	object	House Advertisement
+Visit-Last	さいごのいえをおとずれる	actions	object	House Advertisement
+Cross-to	わたる	actions	object	Rock
+Setup	ていぎする	actions	object	Tip jar
+Jars	つぼ	actions	object	Boss lair display
+Perks	とくてん	actions	object	Mounted Max Cape
+Spellbook	じゅつぶっく	actions	object	Mounted Magic Cape
+Clip	かりこむ	actions	object	Topiary bush
+Feed	たべさせる	actions	object	Burning brazier
+Take-hammer	かなづちをとる	actions	object	Crate
+Take-knife	ナイフをとる	actions	object	Crate
+Take-tinderbox	むしうけをとる	actions	object	Crate
+Take-concoction	やくをとる	actions	object	Crate
+Take-5-concoction	やく（５）をとる	actions	object	Crate
+Take-10-concoction	やく（１０）をとる	actions	object	Crate
+Last-destination (ALP)	さいごのもくてきち（ALP）へいく	actions	object	Fairy ring
+Last-destination (ALS)	さいごのもくてきち（ALS）へいく	actions	object	Fairy ring
+Last-destination (ALR)	さいごのもくてきち（ALR）へいく	actions	object	Fairy ring
+Last-destination (ALQ)	さいごのもくてきち（ALQ）へいく	actions	object	Fairy ring
+Last-destination (AKP)	さいごのもくてきち（AKP）へいく	actions	object	Fairy ring
+Last-destination (AKS)	さいごのもくてきち（AKS）へいく	actions	object	Fairy ring
+Last-destination (AKR)	さいごのもくてきち（AKR）へいく	actions	object	Fairy ring
+Last-destination (AKQ)	さいごのもくてきち（AKQ）へいく	actions	object	Fairy ring
+Last-destination (AJP)	さいごのもくてきち（AJP）へいく	actions	object	Fairy ring
+Last-destination (AJS)	さいごのもくてきち（AJS）へいく	actions	object	Fairy ring
+Last-destination (AJR)	さいごのもくてきち（AJR）へいく	actions	object	Fairy ring
+Last-destination (AJQ)	さいごのもくてきち（AJQ）へいく	actions	object	Fairy ring
+Last-destination (DIP)	さいごのもくてきち（DIP）へいく	actions	object	Fairy ring
+Last-destination (DIS)	さいごのもくてきち（DIS）へいく	actions	object	Fairy ring
+Last-destination (DIR)	さいごのもくてきち（DIR）へいく	actions	object	Fairy ring
+Last-destination (DIQ)	さいごのもくてきち（DIQ）へいく	actions	object	Fairy ring
+Last-destination (DLP)	さいごのもくてきち（DLP）へいく	actions	object	Fairy ring
+Last-destination (DLS)	さいごのもくてきち（DLS）へいく	actions	object	Fairy ring
+Last-destination (DLR)	さいごのもくてきち（DLR）へいく	actions	object	Fairy ring
+Last-destination (DLQ)	さいごのもくてきち（DLQ）へいく	actions	object	Fairy ring
+Last-destination (DKP)	さいごのもくてきち（DKP）へいく	actions	object	Fairy ring
+Last-destination (DKS)	さいごのもくてきち（DKS）へいく	actions	object	Fairy ring
+Last-destination (DKR)	さいごのもくてきち（DKR）へいく	actions	object	Fairy ring
+Last-destination (DKQ)	さいごのもくてきち（DKQ）へいく	actions	object	Fairy ring
+Last-destination (DJP)	さいごのもくてきち（DJP）へいく	actions	object	Fairy ring
+Last-destination (DJS)	さいごのもくてきち（DJS）へいく	actions	object	Fairy ring
+Last-destination (DJR)	さいごのもくてきち（DJR）へいく	actions	object	Fairy ring
+Last-destination (DJQ)	さいごのもくてきち（DJQ）へいく	actions	object	Fairy ring
+Last-destination (CIP)	さいごのもくてきち（CIP）へいく	actions	object	Fairy ring
+Last-destination (CIS)	さいごのもくてきち（CIS）へいく	actions	object	Fairy ring
+Last-destination (CIR)	さいごのもくてきち（CIR）へいく	actions	object	Fairy ring
+Last-destination (CIQ)	さいごのもくてきち（CIQ）へいく	actions	object	Fairy ring
+Last-destination (CLP)	さいごのもくてきち（CLP）へいく	actions	object	Fairy ring
+Last-destination (CLS)	さいごのもくてきち（CLS）へいく	actions	object	Fairy ring
+Last-destination (CLR)	さいごのもくてきち（CLR）へいく	actions	object	Fairy ring
+Last-destination (CLQ)	さいごのもくてきち（CLQ）へいく	actions	object	Fairy ring
+Last-destination (CKP)	さいごのもくてきち（CKP）へいく	actions	object	Fairy ring
+Last-destination (CKS)	さいごのもくてきち（CKS）へいく	actions	object	Fairy ring
+Last-destination (CKR)	さいごのもくてきち（CKR）へいく	actions	object	Fairy ring
+Last-destination (CKQ)	さいごのもくてきち（CKQ）へいく	actions	object	Fairy ring
+Last-destination (CJP)	さいごのもくてきち（CJP）へいく	actions	object	Fairy ring
+Last-destination (CJS)	さいごのもくてきち（CJS）へいく	actions	object	Fairy ring
+Last-destination (CJR)	さいごのもくてきち（CJR）へいく	actions	object	Fairy ring
+Last-destination (CJQ)	さいごのもくてきち（CJQ）へいく	actions	object	Fairy ring
+Last-destination (BIP)	さいごのもくてきち（BIP）へいく	actions	object	Fairy ring
+Last-destination (BIS)	さいごのもくてきち（BIS）へいく	actions	object	Fairy ring
+Last-destination (BIR)	さいごのもくてきち（BIR）へいく	actions	object	Fairy ring
+Last-destination (BIQ)	さいごのもくてきち（BIQ）へいく	actions	object	Fairy ring
+Last-destination (BLP)	さいごのもくてきち（BLP）へいく	actions	object	Fairy ring
+Last-destination (BLS)	さいごのもくてきち（BLS）へいく	actions	object	Fairy ring
+Last-destination (BLR)	さいごのもくてきち（BLR）へいく	actions	object	Fairy ring
+Last-destination (BLQ)	さいごのもくてきち（BLQ）へいく	actions	object	Fairy ring
+Last-destination (BKP)	さいごのもくてきち（BKP）へいく	actions	object	Fairy ring
+Last-destination (BKS)	さいごのもくてきち（BKS）へいく	actions	object	Fairy ring
+Last-destination (BKR)	さいごのもくてきち（BKR）へいく	actions	object	Fairy ring
+Last-destination (BKQ)	さいごのもくてきち（BKQ）へいく	actions	object	Fairy ring
+Last-destination (BJP)	さいごのもくてきち（BJP）へいく	actions	object	Fairy ring
+Last-destination (BJS)	さいごのもくてきち（BJS）へいく	actions	object	Fairy ring
+Last-destination (BJR)	さいごのもくてきち（BJR）へいく	actions	object	Fairy ring
+Last-destination (BJQ)	さいごのもくてきち（BJQ）へいく	actions	object	Fairy ring
+Tree	きへいく	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	ザナリスのゆびわへいく	actions	object	Spiritual Fairy Tree
+Ring-configure	ゆびわをせっていする	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	ゆびわのさいごのもくてきち（AIP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	ゆびわのさいごのもくてきち（AIS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	ゆびわのさいごのもくてきち（AIR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	ゆびわのさいごのもくてきち（AIQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	ゆびわのさいごのもくてきち（ALP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	ゆびわのさいごのもくてきち（ALS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	ゆびわのさいごのもくてきち（ALR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	ゆびわのさいごのもくてきち（ALQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	ゆびわのさいごのもくてきち（AKP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	ゆびわのさいごのもくてきち（AKS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	ゆびわのさいごのもくてきち（AKR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	ゆびわのさいごのもくてきち（AKQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	ゆびわのさいごのもくてきち（AJP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	ゆびわのさいごのもくてきち（AJS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	ゆびわのさいごのもくてきち（AJR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	ゆびわのさいごのもくてきち（AJQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	ゆびわのさいごのもくてきち（DIP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	ゆびわのさいごのもくてきち（DIS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	ゆびわのさいごのもくてきち（DIR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	ゆびわのさいごのもくてきち（DIQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	ゆびわのさいごのもくてきち（DLP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	ゆびわのさいごのもくてきち（DLS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	ゆびわのさいごのもくてきち（DLR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	ゆびわのさいごのもくてきち（DLQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	ゆびわのさいごのもくてきち（DKP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	ゆびわのさいごのもくてきち（DKS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	ゆびわのさいごのもくてきち（DKR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	ゆびわのさいごのもくてきち（DKQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	ゆびわのさいごのもくてきち（DJP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	ゆびわのさいごのもくてきち（DJS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	ゆびわのさいごのもくてきち（DJR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	ゆびわのさいごのもくてきち（DJQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	ゆびわのさいごのもくてきち（CIP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	ゆびわのさいごのもくてきち（CIS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	ゆびわのさいごのもくてきち（CIR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	ゆびわのさいごのもくてきち（CIQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	ゆびわのさいごのもくてきち（CLP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	ゆびわのさいごのもくてきち（CLS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	ゆびわのさいごのもくてきち（CLR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	ゆびわのさいごのもくてきち（CLQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	ゆびわのさいごのもくてきち（CKP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	ゆびわのさいごのもくてきち（CKS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	ゆびわのさいごのもくてきち（CKR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	ゆびわのさいごのもくてきち（CKQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	ゆびわのさいごのもくてきち（CJP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	ゆびわのさいごのもくてきち（CJS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	ゆびわのさいごのもくてきち（CJR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	ゆびわのさいごのもくてきち（CJQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	ゆびわのさいごのもくてきち（BIP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	ゆびわのさいごのもくてきち（BIS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	ゆびわのさいごのもくてきち（BIR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	ゆびわのさいごのもくてきち（BIQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	ゆびわのさいごのもくてきち（BLP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	ゆびわのさいごのもくてきち（BLS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	ゆびわのさいごのもくてきち（BLR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	ゆびわのさいごのもくてきち（BLQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	ゆびわのさいごのもくてきち（BKP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	ゆびわのさいごのもくてきち（BKS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	ゆびわのさいごのもくてきち（BKR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	ゆびわのさいごのもくてきち（BKQ）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	ゆびわのさいごのもくてきち（BJP）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	ゆびわのさいごのもくてきち（BJS）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	ゆびわのさいごのもくてきち（BJR）へいく	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	ゆびわのさいごのもくてきち（BJQ）へいく	actions	object	Spiritual Fairy Tree
+Craft-rune	ルーンをつくる	actions	object	Altar
+Fuel	ねんりょうをくわえる	actions	object	Brazier
+Dispel	ぎまんをといて	actions	object	Shimmering barrier
+Shared	きょうゆうされた	actions	object	Small storage unit
+Take Rake	こういちをとる	actions	object	Old tools
+Take Spade	しゃべるをとる	actions	object	Old tools
+Take Seed Dibber	たねをくわえたしゃべるをとる	actions	object	Old tools
+Pick-lots	いっぱいつむ	actions	object	Gourd tree
+Quick-pass	すぐとおる	actions	object	Mystical barrier
+Coffer	はこにしまう	actions	object	Furnace
+Quick-exit	すぐにでる	actions	object	Cave exit
+Travel to platform	プラットフォームへいく	actions	object	Row boat
+Leave platform	プラットフォームをでる	actions	object	Row boat
+Check count	かずをかくにんする	actions	object	Rock
+Toggle warning	けいこくをきりかえる	actions	object	Rock
+Seeds	たねをだす	actions	object	Birdhouse (empty)
+Interact	そうさする	actions	object	Birdhouse
+Inject	ちゅうにゅうする	actions	object	Sulliuscep
+Jump on	のる	actions	object	Rubber cap mushroom
+Navigate	しんろをつく	actions	object	Obstacle
+Climb Down	おりる	actions	object	Trap Door
+Climb Up	のぼる	actions	object	Rope anchor
+Dive	ダイビングする	actions	object	Rowboat
+Build on	たてる	actions	object	Ring of Stones
+Take tools	どうぐをとる	actions	object	Crate
+Set up	セットアップする	actions	object	Drift net anchors
+Take down	もんたいをはずす	actions	object	Drift net anchors
+Pick up	ひろう	actions	object	Pile of Fishbowls
+Pay	しはらう	actions	object	Volcano Entrance
+Feel	てでふれる	actions	object	Gas hole
+Add to	くわえる	actions	object	Large Fossil Support
+Climb through	ぬける	actions	object	Hole
+Teleport to destination	もくてきちへテレポートする	actions	object	Obelisk
+Set destination	もくてきちをせっていする	actions	object	Obelisk
+Jump to	とびつく	actions	object	Pillar
+Preferences	こうしんする	actions	object	Log storage
+Absorb	すいこむ	actions	object	Energy Sphere
+Reminisce	おもいだす	actions	object	Pool of Dreams
+Nets	あみをしかける	actions	object	Annette
+Ancient	こだい	actions	object	Altar of the Occult
+Lunar	つきのじゅつをつかう	actions	object	Altar of the Occult
+Arceuus	アーキーウス	actions	object	Altar of the Occult
+Standard	ひょうじゅん	actions	object	Altar of the Occult
+Recharge-jewellery	ほうせきをじゅうでんする	actions	object	Totem Pole
+Douse	ぶっかける	actions	object	Fire
+Heal	いやす	actions	object	Fremennik warrior
+Complete	かんりょうする	actions	object	Incomplete map
+Check-Count	かずをかくにんする	actions	object	Gate
+Clamber	よじのぼる	actions	object	Rock Pile
+Look-through	のぞく	actions	object	Window
+Charge-at	つきすすむ	actions	object	Vyre well
+Quick-enter	すぐにはいる	actions	object	Door
+Resign	やめる	actions	object	Vyre Orator
+Varrock	ヴァーロックへいく	actions	object	Varrock Portal
+Grand Exchange	グランドえくすちぇんじ	actions	object	Varrock Portal
+Toggle	きりかえる	actions	object	Varrock Portal
+Camelot	キャメロットへいく	actions	object	Camelot Portal
+Seers' Village	せいりんのむらへいく	actions	object	Camelot Portal
+Watchtower	やぐらへいく	actions	object	Yanille Watchtower Portal
+Yanille	ヤニール	actions	object	Yanille Watchtower Portal
+Quick-Enter	すぐにはいる	actions	object	Formidable passage
+Iceberg	ひょうざんへいく	actions	object	Boat
+Lumbridge	ラムブリッジへいく	actions	object	Portal Nexus
+Falador	ファラダーへいく	actions	object	Portal Nexus
+Senntisten	センティスンへいく	actions	object	Portal Nexus
+Marim	マリムへいく	actions	object	Portal Nexus
+Kharyrll	カハリルへいく	actions	object	Portal Nexus
+Lunar Isle	つきのしまへいく	actions	object	Portal Nexus
+Great Kourend	だいくうれんどへいく	actions	object	Portal Nexus
+Waterbirth Island	みずのたんじょうのしまへいく	actions	object	Portal Nexus
+Fishing Guild	つりギルド	actions	object	Portal Nexus
+Annakarl	あんなかーるへいく	actions	object	Portal Nexus
+Troll Stronghold	トロールのようさいへいく	actions	object	Portal Nexus
+Look out	みはる	actions	object	Xeric's Talisman
+Teleport menu	テレポートメニュー	actions	object	Xeric's Talisman
+Glade	くうきのしげみへいく	actions	object	Xeric's Talisman
+Inferno	じごくへいく	actions	object	Xeric's Talisman
+Heart	こころへいく	actions	object	Xeric's Talisman
+Honour	めいよへいく	actions	object	Xeric's Talisman
+Digsite	はっくつじょへいく	actions	object	Digsite Pendant
+Fossil Island	かせきのしまへいく	actions	object	Digsite Pendant
+Lithkren	いしのしまへいく	actions	object	Digsite Pendant
+Catherby	きゃさーびーへいく	actions	object	Portal Nexus
+Ghorrock	ごろっくへいく	actions	object	Portal Nexus
+Carrallanger	かーららんじゃーへいく	actions	object	Portal Nexus
+Ancients	こだいのじゅつをつかう	actions	object	Supplies
+Start	はじめる	actions	object	Steam Generator
+Align	そろえる	actions	object	Power Grid
+Fill-jug	つぼにつめる	actions	object	Coolant Dispenser
+Cleanse	きよめる	actions	object	Refinery
+Rebalance	バランスをもとにもどす	actions	object	Energy Pylon
+Pick-dragonfruit	ドラゴンフルーツをつむ	actions	object	Dragonfruit tree
+Crawl through	はいくぐる	actions	object	Tunnel
+Quick-open	すぐあける	actions	object	Alchemical door
+Take-rock	いしをとる	actions	object	Rubble
+Quick-Exit	すぐにでる	actions	object	Ancient Fire
+Check-Faith	しんこうをかくにんする	actions	object	Sacred Bone Burner
+Enter-crypt	びょういんへはいる	actions	object	Thick Web
+Follow	ついていく	actions	object	Tracks
+Fill-from	ぐむをやる	actions	object	Water Pump
+Channel	つうろをひらく	actions	object	Teleport Platform
+Enter-corrupted	ふうはいしたぐむへはいる	actions	object	The Gauntlet
+Refine	せいれつする	actions	object	Furnace
+Imbue	みたすならえる	actions	object	Altar
+PvP Arena	ぴーぶいぴーあおリーナへいく	actions	object	Basic Jewellery Box
+Castle Wars	しろのせんそうへいく	actions	object	Basic Jewellery Box
+Ferox Enclave	ふぇろっくすのようさいへいく	actions	object	Basic Jewellery Box
+Burthorpe	ばーさおーぷへいく	actions	object	Basic Jewellery Box
+Barbarian Outpost	ばーばりあんのきち	actions	object	Basic Jewellery Box
+Corporeal Beast	そうのくうせいじゅうへいく	actions	object	Basic Jewellery Box
+Tears of Guthix	ぐてぃっくすのなみだへいく	actions	object	Basic Jewellery Box
+Wintertodt Camp	ふゆのかぜのきち	actions	object	Basic Jewellery Box
+Warriors' Guild	せんしのぎるどへいく	actions	object	Fancy Jewellery Box
+Champions' Guild	しょうしゃのぎるどへいく	actions	object	Fancy Jewellery Box
+Monastery	きかんへいく	actions	object	Fancy Jewellery Box
+Ranging Guild	ゆみぎるどへいく	actions	object	Fancy Jewellery Box
+Mining Guild	こうさんぎるどへいく	actions	object	Fancy Jewellery Box
+Crafting Guild	こうげいぎるどへいく	actions	object	Fancy Jewellery Box
+Cooking Guild	ちゅうりぎるどへいく	actions	object	Fancy Jewellery Box
+Woodcutting Guild	もくきりぎるどへいく	actions	object	Fancy Jewellery Box
+Farming Guild	のうぎるどへいく	actions	object	Fancy Jewellery Box
+Miscellania	まぜられたくにへいく	actions	object	Ornate Jewellery Box
+Falador Park	ふぁらだーこうえんへいく	actions	object	Ornate Jewellery Box
+Dondakan's Rock	どんだかんのいしへいく	actions	object	Ornate Jewellery Box
+Draynor Manor	どれいなーやかたへいく	actions	object	Portal Nexus
+Battlefront	せんとうせん	actions	object	Portal Nexus
+Mind Altar	こころのさいだんへいく	actions	object	Portal Nexus
+Salve Graveyard	さるぶぼじゃこじゃかへいく	actions	object	Portal Nexus
+Fenkenstrain's Castle	ふぇんけんすとらいんのしろへいく	actions	object	Portal Nexus
+West Ardougne	にしのあるどぅーにゃへいく	actions	object	Portal Nexus
+Harmony Island	ちょうわのしまへいく	actions	object	Portal Nexus
+Cemetery	ぼしょへいく	actions	object	Portal Nexus
+Barrows	しおただしのた	actions	object	Portal Nexus
+Ape Atoll Dungeon	えんのこじまもぐぐらへいく	actions	object	Portal Nexus
+Destroy	こわす	actions	object	Lab table
+Stamp-out	ふみつぶす	actions	object	Magical Fire
+Continue	つづける	actions	object	Path
+Climp-up	のぼる	actions	object	Stairs
+Check-statistics (Personal)	こじんのとうけいをかくにんする	actions	object	Noticeboard
+Check-statistics (Global)	ぜんたいのとうけいをかくにんする	actions	object	Noticeboard
+Sacrifice	おさげする	actions	object	Saradomin Brazier
+Walk-over	あるいてわたる	actions	object	Bridge
+Conjure	うみだす	actions	object	Portal frame
+Search-for-traps	わなをさがす	actions	object	Coffin
+Pass-Through	とおる	actions	object	Casual
+Cut-foot	あしをきる	actions	object	Dead sourhog
+Take-candy	あめをとる	actions	object	Magical pumpkin
+Jump-Down	とびおりる	actions	object	Crevice
+Channel (Asgarnia)	あすがるにあへいく	actions	object	Waystone
+Channel (Misthalin)	みすたりんへいく	actions	object	Waystone
+Channel (Kandarin)	かんだりんへいく	actions	object	Waystone
+Channel (Fremennik)	ふれめんぎせいはんぐくへいく	actions	object	Waystone
+Channel (Kharidian Desert)	かはりでぃあんえんばくへいく	actions	object	Waystone
+Channel (Morytania)	もりたにあへいく	actions	object	Waystone
+Channel (Tirannwn)	てぃらんぬへいく	actions	object	Waystone
+Channel (Karamja)	からむじゃへいく	actions	object	Waystone
+Channel (Wilderness)	あらぶだいちへいく	actions	object	Waystone
+Slayer	ころしやのしょくぎょうへいく	actions	object	Kings' ladder
+Open (normal)	あける	actions	object	Big door
+Open (private)	あける	actions	object	Big door
+Climb-down (normal)	おりる	actions	object	Tunnel entrance
+Climb-down (private)	おりる	actions	object	Tunnel entrance
+Sacrifice-fragments	ぶっぶんをささげる	actions	object	Soul Obelisk
+Remove-decorations	かざりをとりのぞく	actions	object	Christmas curtains
+Untether	しばりをはずす	actions	object	Mast
+Tether	つなぎとめる	actions	object	Mast
+Remove-trophy	たてをとりのぞく	actions	object	Trophy pedestal
+View-trophies	たてをみる	actions	object	Oak trophy case
+Remove-banner	のぼりをとりのぞく	actions	object	Banner stand
+Remove-outfit	ふくをとりのぞく	actions	object	Oak outfit stand
+Spin-globe	ちきゅうぎぎをまわす	actions	object	Trailblazer globe
+League-statistics	りーぐのとうけいをみる	actions	object	League Accomplishment Scroll
+League-rankings	りーぐのランキングをみる	actions	object	League Accomplishment Scroll
+League-firsts	りーぐのさきがけをみる	actions	object	League Accomplishment Scroll
+Cook-at	りょうりをする	actions	object	Shrine
+Quick-climb	すぐよじのぼる	actions	object	Rope ladder
+Arceuus Library	あるくえうすとしょかんへいく	actions	object	Portal Nexus
+Prepare-fish	さかなをじゅんびする	actions	object	Preparation Table
+Offer-fish	さかなをささげる	actions	object	Altar
+Entertain	たのしませる	actions	object	Piano
+Play-quietly	しずかにぶっそうする	actions	object	Piano
+Background-music	けいこくおんがくをされられるするする	actions	object	Piano
+Enter-member	くみいんがはいる	actions	object	Clan hall portal
+Enter-guest	ゲストがはいる	actions	object	Clan hall portal
+Pet	ペットをなでる	actions	object	Cat
+Pass (normal)	とおる	actions	object	Ancient Barrier
+Pass (private)	とおる	actions	object	Ancient Barrier
+Adjust	ちょうせいする	actions	object	Machine
+Say-name	なまえをいう	actions	object	Grave
+Deposit-runes	ルーンをあずかるじょへあずける	actions	object	Deposit Pool
+Deposit-items	どうぐをあずかるじょへあずける	actions	object	Deposit Pool
+Visual-effects	みるかじゃかよう	actions	object	Barrier
+Toggle-talisman	ぎしゃんをきりかえる	actions	object	Guardian of Air
+Assemble	あつめた	actions	object	Essence pile (elemental)
+Place-cell	そだらをおく	actions	object	Inactive cell tile
+Exit-through (Kourend)	くうれんどをぬける	actions	object	Blood rift
+Pay-toll(10gp)	りょうきん（１０）をしはらう	actions	object	Gate
+Pour	そそぐ	actions	object	Crucible (full)
+Heat-preform	あたためよう	actions	object	Lava pool
+Dunk-preform	ひたす	actions	object	Lava pool
+Cool-preform	ひやす	actions	object	Waterfall
+Quench-preform	ひやすぎった	actions	object	Waterfall
+Store-preform	しまう	actions	object	Preform storage
+Take-preform	とる	actions	object	Preform storage
+Rank	そしきをする	actions	object	Arena recruitment board
+Quick-use	すぐにつかう	actions	object	Staging area steps
+Quick-Pass	すぐとおる	actions	object	Barrier
+Flip	ひっくりかえす	actions	object	Pressure plate
+Rotate-clockwise	じかんぐみにまわす	actions	object	Mirror
+Rotate-anticlockwise	はんじかんぐみにまわす	actions	object	Mirror
+Deposit-pickaxe	つるはしをあずかるじょへあずける	actions	object	Statue
+Quick-Use	すぐにつかう	actions	object	Teleport crystal
+Quick-Board	すぐにのる	actions	object	Sacrificial boat
+Check-permissions	けんげんをかくにんする	actions	object	Chest
+Pickup	ひろう	actions	object	Gingerbread
+Check-times	じかんをかくにんする	actions	object	Santa's log
+Push-against	おしつける	actions	object	Wall
+Check-Fee	ぶっこすをかくにんする	actions	object	Crevice
+Peer-into	そっとのぞく	actions	object	Prifddinas Display
+Release-bees	みつばちをにがす	actions	object	Beehive
+Add-mulch	くわをつめ	actions	object	Struggling sapling
+Read (Awakened)	よむ	actions	object	Scoreboard
+Attach-rope	なわをむすぶ	actions	object	Rock
+Climb-rope	なわをよじのぼる	actions	object	Rock
+Build-barricade	よせなおをたてる	actions	object	Surface
+Take-supplies	ていきゅうするびんをとる	actions	object	Stone chest
+Lockpick	ろっくぴっくる	actions	object	Stone chest (locked)
+Burn	やく	actions	object	Shipwreck
+Burn`	ぼんびんをやく	actions	object	Gunpowder
+Withdraw	ひきだす	actions	object	Extract orifice
+Tend-to	かたかたしたたきびへすすむ	actions	object	Forester's Campfire
+Rest	やすむ	actions	object	Forester's Campfire
+Retrieve-egg	たまごをとりもどす	actions	object	Pheasant Nest
+Revert	えんくぎょうこくへもどす	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	だいくうれんどへいく	actions	object	Waystone
+Travel-End	もくてきちへいく	actions	object	Portal
+Travel-Start	しゅっぱつてんはじめる	actions	object	Portal
+Reload	もっこうする	actions	object	Steps
+Collect-reward	しょうきんをうけとる	actions	object	Table
+Look-over	ながめる	actions	object	Balcony
+Walk-to	あおいたいるへあるく	actions	object	Blue tile
+Civitas illa Fortis	しびたすいらふぉるてぃすへいく	actions	object	Portal Nexus
+Fortis Colosseum	ふぉるてぃすころしいあむへいく	actions	object	Basic Jewellery Box
+View-stats	とうけいをみる	actions	object	Colosseum scoreboard
+View-glory	えいこうをみる	actions	object	Colosseum scoreboard
+Sabotage	さぼたーじゅする	actions	object	Lily pad
+Plant-evidence	しょうこをしょくえんする	actions	object	Capybara Dung
+Rustle	ざわめく	actions	object	Bush
+Make-cuppa	こーひーをつくる	actions	object	Cooking stove
+Align-net	あみをそろえる	actions	object	Stream
+Take-from Fishing	つりのしょくりょうをもらう	actions	object	Supply crates
+Take-from Hunting	しゅつりょくのしょくりょうをもらう	actions	object	Supply crates
+Take-from Herblore	やくそうのしょくりょうをもらう	actions	object	Supply crates
+Take-log	まるたをとる	actions	object	Roots
+Bask	たいようにあたる	actions	object	Shrine of Ralos
+Cimb-down	ふたをあける	actions	object	Open trapdoor
+Bless	もじゃをきよめる	actions	object	Exposed altar
+Deposit-eggs	たまごをあずける	actions	object	Easter mine cart
+Redeem	もらう	actions	object	Agility dispenser
+Squeeze-Through	とおりぬける	actions	object	Crevice
+Jump-Across	とびこえる	actions	object	Dry stone wall
+Walk here	ここへあるく	actions	manual	
+Examine	しらべる	actions	manual	
+Cancel	キャンセル	actions	manual	
+Add to canvas	キャンバスへあてはめる	actions	manual	
+Wiki	ウィキ	actions	manual	
+Examine	しらべる	actions	npc	
+Examine	しらべる	actions	item	
+Take	とる	actions	item	
+Light	あかりをつける	actions	item	
+Assignment	たいいくをもらう	actions	npc	Vannaka
+Attract	あかりのいきものをひきよせる	actions	npc	Light creature
+Plant-orb	きゅうをうえる	actions	npc	Surok Magis
+Build	そうちをたてる	actions	object	Funeral Pyre
+Emir's Arena	どうぐばこをひらく	actions	object	Basic Jewellery Box
+Big-Search	ほうしゅういけをさがす	actions	object	Reward pool
+Solo-start	なわばしごでのぼる	actions	object	Rope ladder
+Cross-over	こわれたかべをわたる	actions	object	Broken wall
+Follow	ついていく	actions	player	
+Trade with	とりひきする	actions	player	
+Lookup	さがす	actions	player	
+Equipment	そうび	actions	player	
+Report	ほうこく	actions	player	
+Walk here	ここへあるく	actions	manual	
+Examine	しらべる	actions	npc	
+Examine	しらべる	actions	item	
+Take	とる	actions	item	
+Light	あかりをつける	actions	item	
+Cancel	キャンセル	actions	manual	
+Follow	ついていく	actions	player	
+Trade with	とりひきする	actions	player	
+Lookup	さがす	actions	player	
+Equipment	そうび	actions	player	
+Report	ほうこく	actions	player	
+Adjust Music Volume	おんがくのおおきさをちょうせいする	actions	menu	settingsTab
+Adjust Area Sound Volume	ちいきのおとのおおきさをちょうせいする	actions	menu	settingsTab
+Adjust Sound Effect Volume	こうかおんのおおきさをちょうせいする	actions	menu	settingsTab
+Toggle unlock message	ロックかいじょメッセージをきりかえる	actions	menu	settingsTab
+Play	さいせい	actions	menu	
+Open Activity Adviser	かつどうアドバイザーをひらく	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	チャットモード（グループ）をセットする	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	チャットモード（ゲストきょぎょう）をセットする	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	チャットモード（きょぎょう）をセットする	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	チャットモード（チャネル）をセットする	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	チャットモード（こうきょう）をセットする	actions	menu	
+Clear history	れきしをけす	actions	menu	
+Switch tab	タブをきりかえる	actions	menu	
+Configure filter	フィルターをていぎする	actions	menu	
+<colNum0>Game:</col> Clear history	ゲームのれきしをけす	actions	menu	
+<colNum0>Game:</col> Filter	ゲームをふぃるたーする	actions	menu	
+Setup your autochat	オートチャットをていぎする	actions	menu	
+Filter public chat	こうきょうチャットをふぃるたーする	actions	menu	
+<colNum0>Public:</col> Clear history	こうきょうのれきしをけす	actions	menu	
+<colNum0>Public:</col> Hide	かくす	actions	menu	
+<colNum0>Public:</col> Show none	ナシをあらわす	actions	menu	
+<colNum0>Public:</col> Show friends	ともだちをあらわす	actions	menu	
+<colNum0>Public:</col> Show standard	せんえんをあらわす	actions	menu	
+<colNum0>Public:</col> Show autochat	オートチャットをあらわす	actions	menu	
+<colNum0>Private:</col> Clear history	プライベートのれきしをけす	actions	menu	
+<colNum0>Private:</col> Show none	ナシをあらわす	actions	menu	
+<colNum0>Private:</col> Show friends	ともだちをあらわす	actions	menu	
+<colNum0>Private:</col> Show all	すべてをあらわす	actions	menu	
+<colNum0>Channel:</col> Clear history	チャネルのれきしをけす	actions	menu	
+<colNum0>Channel:</col> Show none	ナシをあらわす	actions	menu	
+<colNum0>Channel:</col> Show friends	ともだちをあらわす	actions	menu	
+<colNum0>Channel:</col> Show all	すべてをあらわす	actions	menu	
+<colNum0>Clan:</col> Clear history	きょぎょうのれきしをけす	actions	menu	
+<colNum0>Clan:</col> Show none	ナシをあらわす	actions	menu	
+<colNum0>Clan:</col> Show friends	ともだちをあらわす	actions	menu	
+<colNum0>Clan:</col> Show all	すべてをあらわす	actions	menu	
+<colNum0>Group:</col> Clear history	グループのれきしをけす	actions	menu	
+<colNum0>Group:</col> Show none	ナシをあらわす	actions	menu	
+<colNum0>Group:</col> Show friends	ともだちをあらわす	actions	menu	
+<colNum0>Group:</col> Show all	すべてをあらわす	actions	menu	
+Report game bug	ゲームのバグをほうこくする	actions	menu	
+Report abuse	あくせきをほうこくする	actions	menu	
+Combat Options	せんとうのオプション	actions	menu	
+Skills	スキル	actions	menu	
+Achievement Diaries	たっせいりょく	actions	menu	
+Inventory	ほたんばこ	actions	menu	
+Worn Equipment	つけているそうび	actions	menu	
+Enable prayer reordering	いのりのならびかえをオンにする	actions	menu	
+Disable prayer filtering	いのりのふぃるたーをオフにする	actions	menu	
+Prayer	いのり	actions	menu	
+Enable spell reordering	しゅっぱつのならびかえをオンにする	actions	menu	
+Disable spell filtering	しゅっぱつのふぃるたーをオフにする	actions	menu	
+Magic	ちゅうがく	actions	menu	
+Friends List	ともだちリスト	actions	menu	
+Account Management	あかうんとかんり	actions	menu	
+Ironman Group	あいあんぐるーぷ	actions	menu	
+Settings	せっていい	actions	menu	
+Emotes	エモート	actions	menu	
+Music Player	おんがくさいせいき	actions	menu	
+Logout	ろぐあうと	actions	menu	
+Look West	にしをみる	actions	menu	
+Look South	みなみをみる	actions	menu	
+Look East	ひがしをみる	actions	menu	
+Look North	きたをみる	actions	menu	
+Setup	ていぎする	actions	menu	
+Hide	かくす	actions	menu	
+Show	あらわす	actions	menu	
+Activate	はじめる	actions	menu	
+Toggle Run	はしるをきりかえる	actions	menu	
+Use	つかう	actions	menu	
+Bond Pouch	つなぎぶくろ	actions	menu	
+Open Store	てんぽをひらく	actions	menu	
+Clear	けす	actions	menu	
+Import	いにゅぽーとする	actions	menu	
+Export	えくすぽーとする	actions	menu	
+Fullscreen <colNum0>World Map</col>	フルスクリーンでせかいずをひらく	actions	menu	
+Floating <colNum0>World Map</col>	ういたせかいずをひらく	actions	menu	
+DPS	でぃーぴーえす	actions	menu	
+Search	さがす	actions	menu	
+Lookup	さがす	actions	menu	
+Auto retaliate	じどうはんげきする	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	とくべつなこうげきをつかう	actions	menu	combatOptionsTab
+Wiki	ウィキ	actions	menu	
+Add to canvas	キャンバスへあてはめる	actions	menu	
+View <colNum0>Attack</col> guide	こうげきガイドをみる	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	けんこうガイドをみる	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	さいくつガイドをみる	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	ちからガイドをみる	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	かるやかさガイドをみる	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	たんじょうガイドをみる	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	ぼうえきガイドをみる	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	やくそうガイドをみる	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	つりガイドをみる	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	とうげきガイドをみる	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	ぬすみガイドをみる	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	りょうりガイドをみる	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	いのりガイドをみる	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	ていさくガイドをみる	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	ひたてガイドをみる	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	ちゅうがくガイドをみる	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	やじろぎガイドをみる	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	もくたいガイドをみる	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	ほんぞうガイドをみる	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	さつじんがいどをみる	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	のうぎょうガイドをみる	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	けんせつガイドをみる	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	ハンターガイドをみる	actions	menu	skillsTab
+Character Summary	キャラクターよう	actions	menu	characterSummaryTab
+Achievement Diaries	たっせいりょく	actions	menu	characterSummaryTab
+Quest List	えりむしリスト	actions	menu	characterSummaryTab
+Character Summary	キャラクターよう	actions	menu	
+Quest List	えりむしリスト	actions	menu	
+Rewards	ほうしゅう	actions	menu	characterSummaryTab
+Tasks	タスク	actions	menu	characterSummaryTab
+Bosses	ボス	actions	menu	characterSummaryTab
+Overview	がいよう	actions	menu	characterSummaryTab
+Collection Log	しゅうしゅくログ	actions	menu	characterSummaryTab
+Reveal	あばく	actions	menu	characterSummaryTab
+Hide	かくす	actions	menu	characterSummaryTab
+Open	ひらく	actions	menu	questListTab
+Close	とじる	actions	menu	questListTab
+Start Quest Helper	えりむしヘルパーをはじめる	actions	menu	questListTab
+Open wiki quick guide:	ウィキのはやいガイドをひらく	actions	menu	questListTab
+Open wiki guide:	ウィキのガイドをひらく	actions	menu	questListTab
+Show on map:	ちずでみせる	actions	menu	questListTab
+Read journal:	にっきをよむ	actions	menu	questListTab
+Start Helper	ヘルパーをはじめる	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	ウィキ Ardougne のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	Ardougne のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	ウィキ さばくのにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	さばくのにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	ウィキ Falador のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	Falador のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	ウィキ フレメニックのにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	フレメニックのにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	ウィキ Kandarin のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	Kandarin のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	ウィキ Karamja のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	Karamja のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	ウィキ Kourend & Kebos のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	Kourend & Kebos のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	ウィキ Lumbridge & Draynor のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	Lumbridge & Draynor のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	ウィキ Morytania のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	Morytania のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	ウィキ Varrock のにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	Varrock のにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	ウィキ にしほうけんのにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	にしほうけんのにっきをひらく	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	ウィキ やせちのにっき	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	やせちのにっきをひらく	actions	menu	achievementDiaryTab
+View equipment stats	そうびのかずをみる	actions	menu	wornEquipmentTab
+View guide prices	ガイドのねだんをみる	actions	menu	wornEquipmentTab
+View items kept on death	しぬときにのこるアイテムをみる	actions	menu	wornEquipmentTab
+Call follower	したがうもりをよぶ	actions	menu	wornEquipmentTab
+Disable prayer reordering	いのりのならびかえをオフにする	actions	menu	
+Enable prayer filtering	いのりのふぃるたーをオンにする	actions	menu	
+Disable spell reordering	しゅっぱつのならびかえをオフにする	actions	menu	
+Enable spell filtering	しゅっぱつのふぃるたーをオンにする	actions	menu	
+Show notifications	つうちをあらわす	actions	menu	
+Add Note	めもをつける	actions	menu	
+Delete	さくじょする	actions	menu	friendsTab
+Message	メッセージをおくる	actions	menu	friendsTab
+View Ignore List	むしするリストをみる	actions	menu	friendsTab
+Add Friend	ともだちをつける	actions	menu	friendsTab
+Delete Friend	ともだちをさくじょする	actions	menu	friendsTab
+View Friends List	ともだちリストをみる	actions	menu	ignoreTab
+Delete	さくじょする	actions	menu	ignoreTab
+Add Name	なまえをつける	actions	menu	ignoreTab
+Delete Name	なまえをさくじょする	actions	menu	ignoreTab
+Account	あかうんと	actions	menu	accountManagementTab
+Community	こむゅにてぃ	actions	menu	accountManagementTab
+Useful Links	べんりなリンク	actions	menu	accountManagementTab
+Open Store	てんぽをひらく	actions	menu	accountManagementTab
+Bond Pouch	つなぎぶくろ	actions	menu	accountManagementTab
+View Inbox	ていきばこをみる	actions	menu	accountManagementTab
+Name Changer	なまえこうかんき	actions	menu	accountManagementTab
+View History	れきしをみる	actions	menu	accountManagementTab
+View Newspost	にゅーすをみる	actions	menu	accountManagementTab
+View Archive	あーかいぶをみる	actions	menu	accountManagementTab
+Open	ひらく	actions	menu	accountManagementTab
+Settings	せっていい	actions	menu	groupTab
+Refresh	さいせっしする	actions	menu	groupTab
+Join	さんかする	actions	menu	groupTab
+Setup	ていぎする	actions	menu	groupTab
+Find	さがす	actions	menu	groupTab
+Open	ひらく	actions	menu	groupTab
+Teleport	テレポートする	actions	menu	groupTab
+Select	えらぶ	actions	menu	groupTab
+Toggle skull prevention	どくろぼうしをふせぐをきりかえる	actions	menu	settingsTab
+Toggle Accept Aid	えんじょをうけいれるをきりかえる	actions	menu	settingsTab
+Toggle Run	はしるをきりかえる	actions	menu	settingsTab
+View House Options	いえのおぷしょんをみる	actions	menu	settingsTab
+Open Bond Pouch	つなぎぶくろをひらく	actions	menu	settingsTab
+All Settings	すべてのせっていい	actions	menu	settingsTab
+Controls	おぺれーしょん	actions	menu	settingsTab
+Display	ひょうじ	actions	menu	settingsTab
+Audio	おと	actions	menu	settingsTab
+Unmute	ボリュームをもどす	actions	menu	settingsTab
+Adjust Brightness	あかるさをちょうせいする	actions	menu	settingsTab
+Restore Default Zoom	ズームをもとにもどす	actions	menu	settingsTab
+Disable	オフにする	actions	menu	settingsTab
+Select	えらぶ	actions	menu	settingsTab
+Perform	えんじする	actions	menu	emotesTab
+Area	ちいき	actions	menu	musicTab
+Manual	しゅどう	actions	menu	musicTab
+Random	らんだむ	actions	menu	musicTab
+Unlock hint	カギあきてきをあけくれ	actions	menu	musicTab
+Play	さいせい	actions	menu	musicTab
+Thumbs Up	うえをおやゆびでむく	actions	menu	logoutTab
+Thumbs Down	したをおやゆびでむく	actions	menu	logoutTab
+World Switcher	せかいをかえる	actions	menu	logoutTab
+Logout	ろぐあうと	actions	menu	logoutTab
+Favourite	ふぁぼりっと	actions	menu	worldSwitcherTab
+Switch	きりかえる	actions	menu	worldSwitcherTab
+Logout	ろぐあうと	actions	menu	worldSwitcherTab
+Clear	けす	actions	menu	worldSwitcherTab
+Close	とじる	actions	menu	worldSwitcherTab
+Configure	ていぎする	actions	menu	worldSwitcherTab
+Character Summary	キャラクターよう	actions	menu	achievementDiaryTab
+Achievement Diaries	たっせいりょく	actions	menu	achievementDiaryTab
+Quest List	えりむしリスト	actions	menu	achievementDiaryTab
+Character Summary	キャラクターよう	actions	menu	questListTab
+Achievement Diaries	たっせいりょく	actions	menu	questListTab
+Quest List	えりむしリスト	actions	menu	questListTab
+Grouping	グループていぎ	actions	menu	groupTab
+Ironman Group	あいあんぐるーぷ	actions	menu	groupTab
+Chat-channel	チャットチャネル	actions	menu	groupTab
+Your Clan	あなたのきょぎょう	actions	menu	groupTab
+View another clan	べつのきょぎょうをみる	actions	menu	groupTab
+Message	メッセージをおくる	actions	menu	groupTab
+Remove friend	ともだちをはずす	actions	menu	groupTab
+Switch world	せかいをかえる	actions	menu	groupTab
+View Poll	とうひょうをみる	actions	menu	accountManagementTab
+Hide	かくす	actions	menu	prayerTab
+Activate	はじめる	actions	menu	prayerTab
+Unhide	あらわす	actions	menu	prayerTab
+Deactivate	おわる	actions	menu	prayerTab
+Animation	アニメーション	actions	menu	spellBookTab
+Hide	かくす	actions	menu	spellBookTab
+Cast	となえる	actions	menu	spellBookTab
+Unhide	あらわす	actions	menu	spellBookTab
+View	みる	actions	menu	spellBookTab
+Warnings	けいこく	actions	menu	spellBookTab
+Configure	ていぎする	actions	menu	spellBookTab
+Grand Exchange	グランドえくすちぇんじ	actions	menu	spellBookTab
+Seers'	しーあーず	actions	menu	spellBookTab
+Group: Previous	グループ：ぜんかい	actions	menu	spellBookTab
+Group: Choose	グループ：えらぶ	actions	menu	spellBookTab
+Outside	そと	actions	menu	spellBookTab
+Yanille	ヤニール	actions	menu	spellBookTab
+Enable warning	けいこくをオンにする	actions	menu	spellBookTab
+Disable warning	けいこくをオフにする	actions	menu	spellBookTab
+Turael	トゥーラエル	actions	menu	spellBookTab
+Target	ねらう	actions	menu	spellBookTab
+Setup	ていぎする	actions	menu	spellBookTab
+Arceuus	アーキーウス	actions	menu	spellBookTab
+Ancient	こだい	actions	menu	spellBookTab
+Standard	ひょうじゅん	actions	menu	spellBookTab
+Reanimate	よみがえらせる	actions	menu	spellBookTab
+Resurrect	ふっかつさせる	actions	menu	spellBookTab
+Study	べんきょうする	actions	item	Fire
+Remove	はずす	actions	item	Oak lectern
+Lay	しく	actions	item	Bird snare
+Activate	はじめる	actions	item	Magic box
+Crush	つぶす	actions	item	Smouldering heart
+Eat-from	たべる	actions	item	Smouldering pile of flesh
+Accurate	せいかく	actions	menu	combatOptionsTab
+Aggressive	きょうぼう	actions	menu	combatOptionsTab
+Defensive	ぼうえき	actions	menu	combatOptionsTab
+Controlled	ていぎ	actions	menu	combatOptionsTab
+Chop	きる	actions	menu	combatOptionsTab
+Slash	ぎゃくばきり	actions	menu	combatOptionsTab
+Stab	さすもじゃ	actions	menu	combatOptionsTab
+Block	ふせぐ	actions	menu	combatOptionsTab
+Pound	たたく	actions	menu	combatOptionsTab
+Pummel	ぼくぼくたたく	actions	menu	combatOptionsTab
+Spike	するどいさき	actions	menu	combatOptionsTab
+Impale	さすもじゃ	actions	menu	combatOptionsTab
+Smash	つぶす	actions	menu	combatOptionsTab
+Lunge	とびかかる	actions	menu	combatOptionsTab
+Swipe	そよがす	actions	menu	combatOptionsTab
+Hack	きりさく	actions	menu	combatOptionsTab
+Reap	かる	actions	menu	combatOptionsTab
+Rapid	きょくはや	actions	menu	combatOptionsTab
+Longrange	ながきょり	actions	menu	combatOptionsTab
+Flick	ぱちっとする	actions	menu	combatOptionsTab
+Lash	きりさく	actions	menu	combatOptionsTab
+Deflect	そらす	actions	menu	combatOptionsTab
+Fend	ふせぐ	actions	menu	combatOptionsTab
+Bash	たたく	actions	menu	combatOptionsTab
+Blaze	ほのお	actions	menu	combatOptionsTab
+Scorch	あぶる	actions	menu	combatOptionsTab
+Flare	ぴかっとひかる	actions	menu	combatOptionsTab
+Last-tier contract	さいごのでんせつをもらう	actions	npc	Amy
+Metamorph	へんしんする	actions	npc	Nid
+Choose	えらぶ	actions	npc	Tenoch
+Check-on	かくにんする	actions	npc	Man
+Stats	すうじ	actions	npc	Worm Tongue
+Take-5 concoctions	5つのやくをもらう	actions	object	Crate
+Take-10 concoctions	10つのやくをもらう	actions	object	Crate
+Take-many	たくさんもらう	actions	object	Medical box
+Slide-along	すべりすすむ	actions	object	Icy ledge
+Take-uniform	ユニフォームをもらう	actions	object	Wardrobe
+Concentrate-potion	こうのうをあげる	actions	object	Retort
+Homogenise-potion	むらをなくす	actions	object	Agitator
+Crystalise-potion	しょうすいかする	actions	object	Alembic
+Fulfil-order	ちゅういてんをかなえる	actions	object	Conveyor belt
+Fight-privately	きゅうげきする	actions	object	Meeting flag
+Leave-group	グループをでる	actions	object	Meeting flag (private)
+Quick-slide	ばやくすべりおりる	actions	object	Slope
+Change	かえる	actions	object	Scarecrow
+Plant	うえる	actions	object	Pumpkin patch
+Carve-pumpkin	かぼちゃをきざむ	actions	object	Pumpkin carving table
+Setup	ていぎする	actions	npc	Ironman tutor
+Drink-from	のむ	actions	object	Cauldron
+Big-search	おおきくさがす	actions	object	Reward pool
+Take-chisel	のみをもらう	actions	object	Weak cells
+Channel (Varlamore)	チャネル（ウェイストーン）	actions	object	Waystone
+Punch	パンチする	actions	menu	combatOptionsTab
+Kick	キックする	actions	menu	combatOptionsTab
+Unarmed	ぶそう	actions	menu	combatOptionsTab
+(Members)	（メンバーズ）	actions	item	
+Collection Overview	しゅうしゅくがいよう	actions	menu	characterSummaryTab
+Hide notifications	つうちをかくす	actions	menu	
+Add friend	ともだちをつける	actions	menu	groupTab
+Add ignore	むしするをつける	actions	menu	groupTab
+Hop-to	ピョンピョンのぼる	actions	menu	friendsTab
+Perform <colNum0>Relic unlock</col>	レリックあけをえんじする	actions	menu	emotesTab
+Loop	ループさせる	actions	menu	emotesTab
+Toggle	きりかえる	actions	menu	musicTab
+Open	ひらく	actions	menu	musicTab
+Choose spell	しゅっぱつをえらぶ	actions	menu	combatOptionsTab
+Focus	しゅうちゅうする	actions	menu	combatOptionsTab
+Join <colNum0><!ANY_TRANSLATED0></col> channel	チャネルにさんかする	actions	menu	groupTab
+Teleport to <colNum0><!ANY_TRANSLATED0></col>	テレポートする	actions	menu	groupTab
+Viewer	びょういんしゃ	actions	menu	
+On	おん	actions	menu	
+Off	おふ	actions	menu	
+Expel Guests	きゃくをおいだす	actions	menu	
+Call Servant	しもべをよぶ	actions	menu	
+Leave House	いえをでる	actions	menu	
+Open subsection	さぶせくしょんをひらく	actions	menu	
+Move	うごかす	actions	menu	
+<colNum0>Trade:</col> Clear history	とりひきのれきしをけす	actions	menu	
+<colNum0>Trade:</col> Show none	ナシをあらわす	actions	menu	
+<colNum0>Trade:</col> Show friends	ともだちをあらわす	actions	menu	
+<colNum0>Trade:</col> Show all	すべてをあらわす	actions	menu	
+Leave <colNum0><!ANY_TRANSLATED0></col> channel	チャネルをでる	actions	menu	groupTab
+Add friend <!PLAYER_NAME0>	ともだちをつける	actions	menu	groupTab
+Add ignore <!PLAYER_NAME0>	むしするをつける	actions	menu	groupTab
+Remove friend <!PLAYER_NAME0>	ともだちをはずす	actions	menu	groupTab
+Remove ignore <!PLAYER_NAME0>	むしするをはずす	actions	menu	groupTab
+View Channel	チャネルをみる	actions	menu	groupTab
+Learn More	もっとまなぶ	actions	menu	
+Dyes	いろをぬる	actions	npc	Aggie
+Challenge	ちょうせんする	actions	npc	Yama
+Claim-log-rewards	ろぐほうしゅうをもらう	actions	npc	The Collector
+Metamorph	へんしんする	actions	npc	Bran
+Sacrifice	おさげする	actions	npc	Branda the Fire Queen
+Take pages	ぺーじをとる	actions	npc	Branda the Fire Queen
+Top-Floor	いちばんうえのゆかへいく	actions	object	Ladder
+Top-floor	いちばんうえのゆかへいく	actions	object	Staircase
+Bottom-floor	いちばんしたのゆかへいく	actions	object	Staircase
+Weiss	ワイス	actions	object	Boat
+Fishing Guild	つりギルド	actions	object	Fancy Jewellery Box
+Take manta ray	まんたれいをもらう	actions	object	Bounty supply crate
+Take anglerfish	あんぐらーふぃっしゅをもらう	actions	object	Bounty supply crate
+Reinvigorate	げんきをよみがえらせる	actions	object	Book of Eternal Flame
+Trophies	とろふぃー	actions	object	Teak display
+Bottom-Floor	いちばんしたのゆかへいく	actions	object	Ladder
+Quench	ほぼらく	actions	object	Pool of ichor
+Hang-over	ぶらさがる	actions	object	Platform edge

@@ -1,0 +1,332 @@
+english	translation	category	sub_category	source
+XP drops	XPドロップ	name	menu	
+Quick-prayers	そくいきのいのり	name	menu	
+Special Attack	ひっさつわざ	name	menu	
+Instance Map	インスタンスのちず	name	menu	
+Ground Markers	じめんマーカー	name	menu	
+Wiki	ウィキけんさく	name	menu	
+Attack	こうげき	name	menu	
+Hitpoints	たいりょく	name	menu	
+Mining	さいくつ	name	menu	
+Strength	わんりょく	name	menu	
+Agility	うんどうしんけい	name	menu	
+Smithing	かじ	name	menu	
+Defence	しゅびりょく	name	menu	
+Herblore	ちょうごう	name	menu	
+Fishing	つり	name	menu	
+Ranged	えんしゃ	name	menu	
+Thieving	ぬすみ	name	menu	
+Cooking	りょうり	name	menu	
+Prayer	いのり	name	menu	
+Crafting	こうさく	name	menu	
+Firemaking	ひおこし	name	menu	
+Magic	まほう	name	menu	
+Fletching	もくざいかこう	name	menu	
+Woodcutting	きこり	name	menu	
+Runecraft	ルーンさくり	name	menu	
+Slayer	とうばつ	name	menu	
+Farming	のうぎょう	name	menu	
+Construction	けんちく	name	menu	
+Hunter	かりゅうど	name	menu	
+Search	さがしす	name	menu	
+Ardougne Elite Diary	アルドインのちょうきゅうにっき	name	menu	achievementDiaryTab
+Ardougne Hard Diary	アルドインのじょうきゅうにっき	name	menu	achievementDiaryTab
+Ardougne Medium Diary	アルドインのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Ardougne Easy Diary	アルドインのしょきゅうにっき	name	menu	achievementDiaryTab
+Desert Elite Diary	さばくのちょうきゅうにっき	name	menu	achievementDiaryTab
+Desert Hard Diary	さばくのじょうきゅうにっき	name	menu	achievementDiaryTab
+Desert Medium Diary	さばくのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Desert Easy Diary	さばくのしょきゅうにっき	name	menu	achievementDiaryTab
+Falador Elite Diary	ファラドーのちょうきゅうにっき	name	menu	achievementDiaryTab
+Falador Hard Diary	ファラドーのじょうきゅうにっき	name	menu	achievementDiaryTab
+Falador Medium Diary	ファラドーのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Falador Easy Diary	ファラドーのしょきゅうにっき	name	menu	achievementDiaryTab
+Fremennik Elite Diary	フレメニックのちょうきゅうにっき	name	menu	achievementDiaryTab
+Fremennik Hard Diary	フレメニックのじょうきゅうにっき	name	menu	achievementDiaryTab
+Fremennik Medium Diary	フレメニックのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Fremennik Easy Diary	フレメニックのしょきゅうにっき	name	menu	achievementDiaryTab
+Kandarin Elite Diary	カンダリンのちょうきゅうにっき	name	menu	achievementDiaryTab
+Kandarin Hard Diary	カンダリンのじょうきゅうにっき	name	menu	achievementDiaryTab
+Kandarin Medium Diary	カンダリンのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Kandarin Easy Diary	カンダリンのしょきゅうにっき	name	menu	achievementDiaryTab
+Karamja Elite Diary	カラムジャのちょうきゅうにっき	name	menu	achievementDiaryTab
+Karamja Hard Diary	カラムジャのじょうきゅうにっき	name	menu	achievementDiaryTab
+Karamja Medium Diary	カラムジャのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Karamja Easy Diary	カラムジャのしょきゅうにっき	name	menu	achievementDiaryTab
+Kourend & Kebos Elite Diary	クーレンドとケボスのちょうきゅうにっき	name	menu	achievementDiaryTab
+Kourend & Kebos Hard Diary	クーレンドとケボスのじょうきゅうにっき	name	menu	achievementDiaryTab
+Kourend & Kebos Medium Diary	クーレンドとケボスのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Kourend & Kebos Easy Diary	クーレンドとケボスのしょきゅうにっき	name	menu	achievementDiaryTab
+Lumbridge & Draynor Elite Diary	ランブリッジとドレイナーのちょうきゅうにっき	name	menu	achievementDiaryTab
+Lumbridge & Draynor Hard Diary	ランブリッジとドレイナーのじょうきゅうにっき	name	menu	achievementDiaryTab
+Lumbridge & Draynor Medium Diary	ランブリッジとドレイナーのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Lumbridge & Draynor Easy Diary	ランブリッジとドレイナーのしょきゅうにっき	name	menu	achievementDiaryTab
+Morytania Elite Diary	モリタニアのちょうきゅうにっき	name	menu	achievementDiaryTab
+Morytania Hard Diary	モリタニアのじょうきゅうにっき	name	menu	achievementDiaryTab
+Morytania Medium Diary	モリタニアのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Morytania Easy Diary	モリタニアのしょきゅうにっき	name	menu	achievementDiaryTab
+Varrock Elite Diary	ヴァロックのちょうきゅうにっき	name	menu	achievementDiaryTab
+Varrock Hard Diary	ヴァロックのじょうきゅうにっき	name	menu	achievementDiaryTab
+Varrock Medium Diary	ヴァロックのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Varrock Easy Diary	ヴァロックのしょきゅうにっき	name	menu	achievementDiaryTab
+Western Provinces Elite Diary	にしぶちほうのちょうきゅうにっき	name	menu	achievementDiaryTab
+Western Provinces Hard Diary	にしぶちほうのじょうきゅうにっき	name	menu	achievementDiaryTab
+Western Provinces Medium Diary	にしぶちほうのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Western Provinces Easy Diary	にしぶちほうのしょきゅうにっき	name	menu	achievementDiaryTab
+Wilderness Elite Diary	ウィルダネスのちょうきゅうにっき	name	menu	achievementDiaryTab
+Wilderness Hard Diary	ウィルダネスのじょうきゅうにっき	name	menu	achievementDiaryTab
+Wilderness Medium Diary	ウィルダネスのちゅうきゅうにっき	name	menu	achievementDiaryTab
+Wilderness Easy Diary	ウィルダネスのしょきゅうにっき	name	menu	achievementDiaryTab
+Old School Website	ホームページ	name	menu	accountManagementTab
+Customer Support	サポート	name	menu	accountManagementTab
+GrandﾂExchange	グランド・エクスチェンジ	name	menu	accountManagementTab
+Hiscores	ハイスコア	name	menu	accountManagementTab
+Old School Wiki	ウィキサイト	name	menu	accountManagementTab
+Merchandise	しょうひんサイト	name	menu	accountManagementTab
+<colNum0>PvP Arena</col> options	<colNum0>PvPアリーナ</col> のオプション	name	menu	groupTab
+Redemption	しょくつみ	name	menu	prayerTab
+Protect Item	アイテムほご	name	menu	prayerTab
+Incredible Reflexes	とてつもないはんしゃしんけい	name	menu	prayerTab
+Sharp Eye	するどいめ	name	menu	prayerTab
+Mystic Will	しんぴてきないおもい	name	menu	prayerTab
+Rock Skin	いわのはだ	name	menu	prayerTab
+Protect from Magic	まほうぼうぎょ	name	menu	prayerTab
+Protect from Missiles	はつしゃからだぼうぎょ	name	menu	prayerTab
+Protect from Melee	きんせつのくわえご	name	menu	prayerTab
+Thick Skin	あついはだ	name	menu	prayerTab
+Retribution	てんばつ	name	menu	prayerTab
+Mystic Might	しんぴのいりょく	name	menu	prayerTab
+Eagle Eye	ワシのめ	name	menu	prayerTab
+Piety	けいかみ	name	menu	prayerTab
+Ultimate Strength	きゅうきょくのちから	name	menu	prayerTab
+Improved Reflexes	むかいじょうしたはんしゃしんけい	name	menu	prayerTab
+Burst of Strength	ちからのばくはつ	name	menu	prayerTab
+Mystic Lore	しんぴてきなでんしょう	name	menu	prayerTab
+Augury	まえちょう	name	menu	prayerTab
+Hawk Eye	タカのめ	name	menu	prayerTab
+Chivalry	きしみち	name	menu	prayerTab
+Superhuman Strength	ちょうひとてきなちから	name	menu	prayerTab
+Rigour	こまりにがい	name	menu	prayerTab
+Smite	ちょうばつ	name	menu	prayerTab
+Preserve	あたたそん	name	menu	prayerTab
+Clarity of Thought	あかりたしかなおもいかんがえ	name	menu	prayerTab
+Rapid Restore	きゅうげきなさいせい	name	menu	prayerTab
+Rapid Heal	きゅうげきなかいふく	name	menu	prayerTab
+Steel Skin	はがねのはだ	name	menu	prayerTab
+Lumbridge Home Teleport	ランブリッジきかんワープ	name	menu	spellBookTab
+Wind Strike	ウィンド・ストライク	name	menu	spellBookTab
+Confuse	こみみだ	name	menu	spellBookTab
+Crossbow Bolt Enchantments	ボルトにまほうふよ	name	menu	spellBookTab
+Water Strike	ウォーター・ストライク	name	menu	spellBookTab
+Jewellery Enchantments	ほうしょくひんにまほうふよ	name	menu	spellBookTab
+Earth Strike	アース・ストライク	name	menu	spellBookTab
+Telekinetic Grab	しょうあく	name	menu	spellBookTab
+Bind	バインド	name	menu	spellBookTab
+Curse	のろい	name	menu	spellBookTab
+Wind Bolt	ウィンド・ボルト	name	menu	spellBookTab
+Bones to Bananas	ほねをバナナに	name	menu	spellBookTab
+Fire Strike	ファイヤー・ストライク	name	menu	spellBookTab
+Weaken	じゃくからだか	name	menu	spellBookTab
+Low Level Alchemy	しょきゅうれんきんじゅつ	name	menu	spellBookTab
+Water Bolt	ウォーター・ボルト	name	menu	spellBookTab
+Varrock Teleport	ヴァロック・ワープ	name	menu	spellBookTab
+Earth Bolt	アース・ボルト	name	menu	spellBookTab
+Lumbridge Teleport	ランブリッジ・ワープ	name	menu	spellBookTab
+Fire Bolt	ファイヤー・ボルト	name	menu	spellBookTab
+Falador Teleport	ファラドー・ワープ	name	menu	spellBookTab
+Kourend Castle Teleport	クーレンドしろワープ	name	menu	spellBookTab
+Water Blast	ウォーター・ブラスト	name	menu	spellBookTab
+Camelot Teleport	カメロット・ワープ	name	menu	spellBookTab
+Superheat Item	ちょうくわえねつ	name	menu	spellBookTab
+Wind Blast	ウィンド・ブラスト	name	menu	spellBookTab
+Teleport to House	いえワープ	name	menu	spellBookTab
+Crumble Undead	アンデッドくずれし	name	menu	spellBookTab
+Iban Blast	アイバン・ブラスト	name	menu	spellBookTab
+Snare	スネア	name	menu	spellBookTab
+Magic Dart	まほうのダーツ	name	menu	spellBookTab
+Ardougne Teleport	アルドイン・ワープ	name	menu	spellBookTab
+Earth Blast	アース・ブラスト	name	menu	spellBookTab
+Civitas illa Fortis Teleport	シビリタス・イラ・フォーチス・ワープ	name	menu	spellBookTab
+High Level Alchemy	じょうきゅうれんきんじゅつ	name	menu	spellBookTab
+Charge Water Orb	みずのオーブれんなり	name	menu	spellBookTab
+Watchtower Teleport	かんしとうワープ	name	menu	spellBookTab
+Fire Blast	ファイヤー・ブラスト	name	menu	spellBookTab
+Charge Earth Orb	つちのオーブれんなり	name	menu	spellBookTab
+Bones to Peaches	ほねをモモに	name	menu	spellBookTab
+Saradomin Strike	サラドミン・ストライク	name	menu	spellBookTab
+Claws of Guthix	ガシックスのかぎづめ	name	menu	spellBookTab
+Flames of Zamorak	ザモラックのほのお	name	menu	spellBookTab
+Trollheim Teleport	トロールハイム・ワープ	name	menu	spellBookTab
+Wind Wave	ウィンド・ウェーブ	name	menu	spellBookTab
+Charge Fire Orb	ひのオーブれんなり	name	menu	spellBookTab
+Ape Atoll Teleport	エイプ・アトール・ワープ	name	menu	spellBookTab
+Water Wave	ウォーター・ウェーブ	name	menu	spellBookTab
+Charge Air Orb	たいきのオーブれんなり	name	menu	spellBookTab
+Vulnerability	ぜいじゃくせい	name	menu	spellBookTab
+Earth Wave	アース・ウェーブ	name	menu	spellBookTab
+Enfeeble	すいじゃく	name	menu	spellBookTab
+Teleother Lumbridge	ランブリッジ・ほかワープ	name	menu	spellBookTab
+Fire Wave	ファイヤー・ウェーブ	name	menu	spellBookTab
+Entangle	そくばく	name	menu	spellBookTab
+Stun	スタン	name	menu	spellBookTab
+Teleother Camelot	カメロット・ほかワープ	name	menu	spellBookTab
+Teleport to Target	ひょうてきにワープ	name	menu	spellBookTab
+Tele Block	ワープそとめ	name	menu	spellBookTab
+Water Surge	ウォーター・サージ	name	menu	spellBookTab
+Teleother Falador	ファラドー・ほかワープ	name	menu	spellBookTab
+Wind Surge	ウィンド・サージ	name	menu	spellBookTab
+Charge	チャージ	name	menu	spellBookTab
+Earth Surge	アース・サージ	name	menu	spellBookTab
+Fire Surge	ファイヤー・サージ	name	menu	spellBookTab
+Edgeville Home Teleport	エッジビルきかんワープ	name	menu	spellBookTab
+Smoke Rush	スモーク・ラッシュ	name	menu	spellBookTab
+Shadow Rush	シャドウ・ラッシュ	name	menu	spellBookTab
+PaddewwaﾂTeleport	パデワ・ワープ	name	menu	spellBookTab
+Smoke Burst	スモーク・バースト	name	menu	spellBookTab
+SenntistenﾂTeleport	センチステン・ワープ	name	menu	spellBookTab
+Ice Rush	アイス・ラッシュ	name	menu	spellBookTab
+Blood Rush	ブラッド・ラッシュ	name	menu	spellBookTab
+ShadowﾂBurst	シャドウ・バースト	name	menu	spellBookTab
+KharyrllﾂTeleport	カリール・ワープ	name	menu	spellBookTab
+Blood Burst	ブラッド・バースト	name	menu	spellBookTab
+Ice Burst	アイス・バースト	name	menu	spellBookTab
+DareeyakﾂTeleport	ダリーヤク・ワープ	name	menu	spellBookTab
+ShadowﾂBlitz	シャドウ・ブリッツ	name	menu	spellBookTab
+Smoke Blitz	スモーク・ブリッツ	name	menu	spellBookTab
+LassarﾂTeleport	ラサー・ワープ	name	menu	spellBookTab
+Blood Blitz	ブラッド・ブリッツ	name	menu	spellBookTab
+Ice Blitz	アイス・ブリッツ	name	menu	spellBookTab
+Carrallanger Teleport	カラランガー・ワープ	name	menu	spellBookTab
+Blood Barrage	ブラッド・バラージ	name	menu	spellBookTab
+Annakarl Teleport	アナカール・ワープ	name	menu	spellBookTab
+ShadowﾂBarrage	シャドウ・バラージ	name	menu	spellBookTab
+Smoke Barrage	スモーク・バラージ	name	menu	spellBookTab
+Ice Barrage	アイス・バラージ	name	menu	spellBookTab
+Ghorrock Teleport	ゴロック・ワープ	name	menu	spellBookTab
+Lunar Home Teleport	ルーナきかんワープ	name	menu	spellBookTab
+Bake Pie	パイをやきく	name	menu	spellBookTab
+Geomancy	ジェオマンシー	name	menu	spellBookTab
+Cure Plant	しょくぶつちゆ	name	menu	spellBookTab
+Monster Examine	まけものときせき	name	menu	spellBookTab
+NPC Contact	NPCつうしん	name	menu	spellBookTab
+Cure Other	なかまをちゆ	name	menu	spellBookTab
+Humidify	くわえしめり	name	menu	spellBookTab
+Moonclan Teleport	ムーンクラン・ワープ	name	menu	spellBookTab
+Tele Group Moonclan	ムーンクラン・あつめだんワープ	name	menu	spellBookTab
+Cure Me	じこちゆ	name	menu	spellBookTab
+Ourania Teleport	ウラニア・ワープ	name	menu	spellBookTab
+Hunter Kit	かりどうぐ	name	menu	spellBookTab
+Waterbirth Teleport	ウォーターバース・ワープ	name	menu	spellBookTab
+Tele Group Waterbirth	ウォーターバース・あつめだんワープ	name	menu	spellBookTab
+Cure Group	あつめだんちゆ	name	menu	spellBookTab
+Stat Spy	ステータスのぞき	name	menu	spellBookTab
+Barbarian Teleport	ばんぞくきちワープ	name	menu	spellBookTab
+Tele Group Barbarian	ばんぞくきち・あつめだんワープ	name	menu	spellBookTab
+Spin Flax	あまくわえこう	name	menu	spellBookTab
+Superglass Make	ちょうガラスくわえこう	name	menu	spellBookTab
+Tan Leather	かわをかわに	name	menu	spellBookTab
+Khazard Teleport	カザード・ワープ	name	menu	spellBookTab
+Tele Group Khazard	カザード・あつめだんワープ	name	menu	spellBookTab
+Dream	ゆめちゅう	name	menu	spellBookTab
+String Jewellery	ほうしょくひんにひも	name	menu	spellBookTab
+Stat Restore Pot Share	ステかいふくやくきょうゆう	name	menu	spellBookTab
+Magic Imbue	まりょくをこみめる	name	menu	spellBookTab
+Fertile Soil	ひよくか	name	menu	spellBookTab
+Boost Potion Share	きょうかくすりきょうゆう	name	menu	spellBookTab
+Fishing Guild Teleport	つりギルド・ワープ	name	menu	spellBookTab
+Tele Group Fishing Guild	つりギルド・あつめだんワープ	name	menu	spellBookTab
+Plank Make	いたざいくわえこう	name	menu	spellBookTab
+Catherby Teleport	カサビー・ワープ	name	menu	spellBookTab
+Tele Group Catherby	カサビー・あつめだんワープ	name	menu	spellBookTab
+Recharge Dragonstone	りゅうせきチャージ	name	menu	spellBookTab
+Ice Plateau Teleport	アイス・プラトー・ワープ	name	menu	spellBookTab
+Tele Group Ice Plateau	アイス・プラトー・あつめだんワープ	name	menu	spellBookTab
+Energy Transfer	ちからのゆずりわたし	name	menu	spellBookTab
+Heal Other	なかまをかいふく	name	menu	spellBookTab
+Vengeance Other	ふくしゅう・なかま	name	menu	spellBookTab
+Vengeance	ふくしゅう	name	menu	spellBookTab
+Heal Group	あつめだんかいふく	name	menu	spellBookTab
+Spellbook Swap	まみちびきしょのきりかえ	name	menu	spellBookTab
+Arceuus Home Teleport	アルセウスきかんワープ	name	menu	spellBookTab
+Arceuus Library Teleport	アルセウスとしょかんワープ	name	menu	spellBookTab
+Basic Reanimation	きほんよみがえなまじゅつ	name	menu	spellBookTab
+Draynor Manor Teleport	ドレイナーていたくワープ	name	menu	spellBookTab
+Battlefront Teleport	せんせんワープ	name	menu	spellBookTab
+Mind Altar Teleport	こころのさいだんワープ	name	menu	spellBookTab
+Respawn Teleport	ふっかつちてんワープ	name	menu	spellBookTab
+Ghostly Grasp	れいてきしょうあく	name	menu	spellBookTab
+Resurrect Lesser Ghost	したきゅうゴーストふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Lesser Skeleton	したきゅうスケルトンふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Lesser Zombie	したきゅうゾンビふっかつじゅつしき	name	menu	spellBookTab
+Salve Graveyard Teleport	サルヴきちワープ	name	menu	spellBookTab
+Adept Reanimation	おうようよみがえなまじゅつ	name	menu	spellBookTab
+Inferior Demonbane	おとせい・あくまとくこう	name	menu	spellBookTab
+Shadow Veil	かげのベール	name	menu	spellBookTab
+Fenkenstrain's Castle Teleport	フェンケンストレインしろ・ワープ	name	menu	spellBookTab
+Dark Lure	やみのさそい	name	menu	spellBookTab
+Skeletal Grasp	ほねのしょうあく	name	menu	spellBookTab
+Resurrect Superior Ghost	ちゅうきゅうゴーストふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Superior Skeleton	ちゅうきゅうスケルトンふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Superior Zombie	ちゅうきゅうゾンビふっかつじゅつしき	name	menu	spellBookTab
+Mark of Darkness	やみのこくしるし	name	menu	spellBookTab
+West Ardougne Teleport	にしアルドイン・ワープ	name	menu	spellBookTab
+Superior Demonbane	じょうきゅうあくまとくこう	name	menu	spellBookTab
+Lesser Corruption	かいのふはい	name	menu	spellBookTab
+Harmony Island Teleport	ハーモニーしま・ワープ	name	menu	spellBookTab
+Vile Vigour	ひれつなかつりょく	name	menu	spellBookTab
+Degrime	よごれおちとし	name	menu	spellBookTab
+Cemetery Teleport	セメトリー・ワープ	name	menu	spellBookTab
+Expert Reanimation	せんもんよみがえなまじゅつ	name	menu	spellBookTab
+Ward of Arceuus	アルセウス・ワード	name	menu	spellBookTab
+Resurrect Greater Ghost	じょうきゅうゴーストふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Greater Skeleton	じょうきゅうスケルトンふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Greater Zombie	じょうきゅうゾンビふっかつじゅつしき	name	menu	spellBookTab
+Resurrect Crops	さくものよみがえなま	name	menu	spellBookTab
+Undead Grasp	ふしのしょうあく	name	menu	spellBookTab
+Death Charge	しによるかいふく	name	menu	spellBookTab
+Dark Demonbane	あんこくのあくまとくこう	name	menu	spellBookTab
+Barrows Teleport	バロウズ・ワープ	name	menu	spellBookTab
+Demonic Offering	あくまてきそなえもの	name	menu	spellBookTab
+Greater Corruption	じょういのふはい	name	menu	spellBookTab
+Master Reanimation	ちょうきゅうよみがえなまじゅつ	name	menu	spellBookTab
+Sinister Offering	ふきつなそなえもの	name	menu	spellBookTab
+Accurate	せいかくに	name	menu	combatOptionsTab
+Aggressive	せっきょくてきに	name	menu	combatOptionsTab
+Defensive	まもりそな	name	menu	combatOptionsTab
+Controlled	バランスよく	name	menu	combatOptionsTab
+Chop	チョップ	name	menu	combatOptionsTab
+Slash	スラッシュ	name	menu	combatOptionsTab
+Stab	さす	name	menu	combatOptionsTab
+Block	ブロック	name	menu	combatOptionsTab
+Pound	うつ	name	menu	combatOptionsTab
+Pummel	なぐりう	name	menu	combatOptionsTab
+Spike	とつきさす	name	menu	combatOptionsTab
+Impale	つらぬく	name	menu	combatOptionsTab
+Smash	きょうう	name	menu	combatOptionsTab
+Lunge	とつすすみ	name	menu	combatOptionsTab
+Swipe	なぎはらいう	name	menu	combatOptionsTab
+Hack	たたききりる	name	menu	combatOptionsTab
+Reap	かりとりる	name	menu	combatOptionsTab
+Rapid	つしゃ	name	menu	combatOptionsTab
+Longrange	とおいきょり	name	menu	combatOptionsTab
+Flick	フリック	name	menu	combatOptionsTab
+Lash	むちうつ	name	menu	combatOptionsTab
+Deflect	そらす	name	menu	combatOptionsTab
+Fend	ぼうぐ	name	menu	combatOptionsTab
+Bash	げきとつ	name	menu	combatOptionsTab
+Blaze	ブレイズ	name	menu	combatOptionsTab
+Scorch	こげがす	name	menu	combatOptionsTab
+Flare	フレア	name	menu	combatOptionsTab
+Senntisten Teleport	センチステン・ワープ	name	menu	spellBookTab
+Paddewwa Teleport	パデワ・ワープ	name	menu	spellBookTab
+Shadow Burst	シャドウ・バースト	name	menu	spellBookTab
+Kharyrll Teleport	カリール・ワープ	name	menu	spellBookTab
+Dareeyak Teleport	ダリーヤク・ワープ	name	menu	spellBookTab
+Shadow Blitz	シャドウ・ブリッツ	name	menu	spellBookTab
+Lassar Teleport	ラサー・ワープ	name	menu	spellBookTab
+Shadow Barrage	シャドウ・バラージ	name	menu	spellBookTab
+Grand Exchange	グランド・エクスチェンジ	name	menu	accountManagementTab
+<col=ff9040>PvP Arena</col> options	<col=ff9040>ぴーぶいぴー ありーな</col> おぷしょん	name	menu	groupTab
+Music	おんがく	name	menu	settingsTab
+Sound Effects	こうかおと	name	menu	settingsTab
+Area Sounds	まわりかこのおと	name	menu	settingsTab
