@@ -11,7 +11,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112585">
         <xliff:source>Quick-prayers</xliff:source>
-        <xliff:target state="translated">即行の祈り</xliff:target>
+        <xliff:target state="translated">そくいきのいのり</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -19,7 +19,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112586">
         <xliff:source>Special Attack</xliff:source>
-        <xliff:target state="translated">必殺技</xliff:target>
+        <xliff:target state="translated">ひっさつわざ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -27,7 +27,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112587">
         <xliff:source>Instance Map</xliff:source>
-        <xliff:target state="translated">インスタンスの地図</xliff:target>
+        <xliff:target state="translated">インスタンスのちず</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -35,7 +35,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112588">
         <xliff:source>Ground Markers</xliff:source>
-        <xliff:target state="translated">地面マーカー</xliff:target>
+        <xliff:target state="translated">じめんマーカー</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -43,7 +43,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112589">
         <xliff:source>Wiki</xliff:source>
-        <xliff:target state="translated">ウィキ検索</xliff:target>
+        <xliff:target state="translated">ウィキけんさく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -51,7 +51,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112590">
         <xliff:source>Attack</xliff:source>
-        <xliff:target state="translated">攻撃</xliff:target>
+        <xliff:target state="translated">こうげき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -59,7 +59,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112591">
         <xliff:source>Hitpoints</xliff:source>
-        <xliff:target state="translated">体力</xliff:target>
+        <xliff:target state="translated">たいりょく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -67,7 +67,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112592">
         <xliff:source>Mining</xliff:source>
-        <xliff:target state="translated">採掘</xliff:target>
+        <xliff:target state="translated">さいくつ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -75,7 +75,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112593">
         <xliff:source>Strength</xliff:source>
-        <xliff:target state="translated">腕力</xliff:target>
+        <xliff:target state="translated">わんりょく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -83,7 +83,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112594">
         <xliff:source>Agility</xliff:source>
-        <xliff:target state="translated">運動神経</xliff:target>
+        <xliff:target state="translated">うんどうしんけい</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -91,7 +91,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112595">
         <xliff:source>Smithing</xliff:source>
-        <xliff:target state="translated">鍛冶</xliff:target>
+        <xliff:target state="translated">かじ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -99,7 +99,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112596">
         <xliff:source>Defence</xliff:source>
-        <xliff:target state="translated">守備力</xliff:target>
+        <xliff:target state="translated">しゅびりょく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -107,7 +107,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112597">
         <xliff:source>Herblore</xliff:source>
-        <xliff:target state="translated">調合</xliff:target>
+        <xliff:target state="translated">ちょうごう</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -115,7 +115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112598">
         <xliff:source>Fishing</xliff:source>
-        <xliff:target state="translated">釣り</xliff:target>
+        <xliff:target state="translated">つり</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -123,7 +123,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112599">
         <xliff:source>Ranged</xliff:source>
-        <xliff:target state="translated">遠射</xliff:target>
+        <xliff:target state="translated">えんしゃ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -131,7 +131,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112600">
         <xliff:source>Thieving</xliff:source>
-        <xliff:target state="translated">盗み</xliff:target>
+        <xliff:target state="translated">ぬすみ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -139,7 +139,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112601">
         <xliff:source>Cooking</xliff:source>
-        <xliff:target state="translated">料理</xliff:target>
+        <xliff:target state="translated">りょうり</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -147,7 +147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112602">
         <xliff:source>Prayer</xliff:source>
-        <xliff:target state="translated">祈り</xliff:target>
+        <xliff:target state="translated">いのり</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -155,7 +155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112603">
         <xliff:source>Crafting</xliff:source>
-        <xliff:target state="translated">工作</xliff:target>
+        <xliff:target state="translated">こうさく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -163,7 +163,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112604">
         <xliff:source>Firemaking</xliff:source>
-        <xliff:target state="translated">火起こし</xliff:target>
+        <xliff:target state="translated">ひおこし</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -171,7 +171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112605">
         <xliff:source>Magic</xliff:source>
-        <xliff:target state="translated">魔法</xliff:target>
+        <xliff:target state="translated">まほう</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -179,7 +179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112606">
         <xliff:source>Fletching</xliff:source>
-        <xliff:target state="translated">木材加工</xliff:target>
+        <xliff:target state="translated">もくざいかこう</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -187,7 +187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112607">
         <xliff:source>Woodcutting</xliff:source>
-        <xliff:target state="translated">木こり</xliff:target>
+        <xliff:target state="translated">きこり</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -195,7 +195,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112608">
         <xliff:source>Runecraft</xliff:source>
-        <xliff:target state="translated">ルーン作り</xliff:target>
+        <xliff:target state="translated">ルーンさくり</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -203,7 +203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112609">
         <xliff:source>Slayer</xliff:source>
-        <xliff:target state="translated">討伐</xliff:target>
+        <xliff:target state="translated">とうばつ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -211,7 +211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112610">
         <xliff:source>Farming</xliff:source>
-        <xliff:target state="translated">農業</xliff:target>
+        <xliff:target state="translated">のうぎょう</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -219,7 +219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112611">
         <xliff:source>Construction</xliff:source>
-        <xliff:target state="translated">建築</xliff:target>
+        <xliff:target state="translated">けんちく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -227,7 +227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112612">
         <xliff:source>Hunter</xliff:source>
-        <xliff:target state="translated">狩人</xliff:target>
+        <xliff:target state="translated">かりゅうど</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -235,7 +235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112613">
         <xliff:source>Search</xliff:source>
-        <xliff:target state="translated">探す</xliff:target>
+        <xliff:target state="translated">さがしす</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -243,7 +243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112614">
         <xliff:source>Ardougne Elite Diary</xliff:source>
-        <xliff:target state="translated">アルドインの超級日記</xliff:target>
+        <xliff:target state="translated">アルドインのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -251,7 +251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112615">
         <xliff:source>Ardougne Hard Diary</xliff:source>
-        <xliff:target state="translated">アルドインの上級日記</xliff:target>
+        <xliff:target state="translated">アルドインのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -259,7 +259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112616">
         <xliff:source>Ardougne Medium Diary</xliff:source>
-        <xliff:target state="translated">アルドインの中級日記</xliff:target>
+        <xliff:target state="translated">アルドインのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -267,7 +267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112617">
         <xliff:source>Ardougne Easy Diary</xliff:source>
-        <xliff:target state="translated">アルドインの初級日記</xliff:target>
+        <xliff:target state="translated">アルドインのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -275,7 +275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112618">
         <xliff:source>Desert Elite Diary</xliff:source>
-        <xliff:target state="translated">砂漠の超級日記</xliff:target>
+        <xliff:target state="translated">さばくのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -283,7 +283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112619">
         <xliff:source>Desert Hard Diary</xliff:source>
-        <xliff:target state="translated">砂漠の上級日記</xliff:target>
+        <xliff:target state="translated">さばくのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -291,7 +291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112620">
         <xliff:source>Desert Medium Diary</xliff:source>
-        <xliff:target state="translated">砂漠の中級日記</xliff:target>
+        <xliff:target state="translated">さばくのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -299,7 +299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112621">
         <xliff:source>Desert Easy Diary</xliff:source>
-        <xliff:target state="translated">砂漠の初級日記</xliff:target>
+        <xliff:target state="translated">さばくのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -307,7 +307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112622">
         <xliff:source>Falador Elite Diary</xliff:source>
-        <xliff:target state="translated">ファラドーの超級日記</xliff:target>
+        <xliff:target state="translated">ファラドーのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -315,7 +315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112623">
         <xliff:source>Falador Hard Diary</xliff:source>
-        <xliff:target state="translated">ファラドーの上級日記</xliff:target>
+        <xliff:target state="translated">ファラドーのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -323,7 +323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112624">
         <xliff:source>Falador Medium Diary</xliff:source>
-        <xliff:target state="translated">ファラドーの中級日記</xliff:target>
+        <xliff:target state="translated">ファラドーのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -331,7 +331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112625">
         <xliff:source>Falador Easy Diary</xliff:source>
-        <xliff:target state="translated">ファラドーの初級日記</xliff:target>
+        <xliff:target state="translated">ファラドーのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -339,7 +339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112626">
         <xliff:source>Fremennik Elite Diary</xliff:source>
-        <xliff:target state="translated">フレメニックの超級日記</xliff:target>
+        <xliff:target state="translated">フレメニックのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -347,7 +347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112627">
         <xliff:source>Fremennik Hard Diary</xliff:source>
-        <xliff:target state="translated">フレメニックの上級日記</xliff:target>
+        <xliff:target state="translated">フレメニックのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -355,7 +355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112628">
         <xliff:source>Fremennik Medium Diary</xliff:source>
-        <xliff:target state="translated">フレメニックの中級日記</xliff:target>
+        <xliff:target state="translated">フレメニックのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -363,7 +363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112629">
         <xliff:source>Fremennik Easy Diary</xliff:source>
-        <xliff:target state="translated">フレメニックの初級日記</xliff:target>
+        <xliff:target state="translated">フレメニックのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -371,7 +371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112630">
         <xliff:source>Kandarin Elite Diary</xliff:source>
-        <xliff:target state="translated">カンダリンの超級日記</xliff:target>
+        <xliff:target state="translated">カンダリンのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -379,7 +379,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112631">
         <xliff:source>Kandarin Hard Diary</xliff:source>
-        <xliff:target state="translated">カンダリンの上級日記</xliff:target>
+        <xliff:target state="translated">カンダリンのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -387,7 +387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112632">
         <xliff:source>Kandarin Medium Diary</xliff:source>
-        <xliff:target state="translated">カンダリンの中級日記</xliff:target>
+        <xliff:target state="translated">カンダリンのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -395,7 +395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112633">
         <xliff:source>Kandarin Easy Diary</xliff:source>
-        <xliff:target state="translated">カンダリンの初級日記</xliff:target>
+        <xliff:target state="translated">カンダリンのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -403,7 +403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112634">
         <xliff:source>Karamja Elite Diary</xliff:source>
-        <xliff:target state="translated">カラムジャの超級日記</xliff:target>
+        <xliff:target state="translated">カラムジャのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -411,7 +411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112635">
         <xliff:source>Karamja Hard Diary</xliff:source>
-        <xliff:target state="translated">カラムジャの上級日記</xliff:target>
+        <xliff:target state="translated">カラムジャのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -419,7 +419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112636">
         <xliff:source>Karamja Medium Diary</xliff:source>
-        <xliff:target state="translated">カラムジャの中級日記</xliff:target>
+        <xliff:target state="translated">カラムジャのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -427,7 +427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112637">
         <xliff:source>Karamja Easy Diary</xliff:source>
-        <xliff:target state="translated">カラムジャの初級日記</xliff:target>
+        <xliff:target state="translated">カラムジャのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -435,7 +435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112638">
         <xliff:source>Kourend &amp; Kebos Elite Diary</xliff:source>
-        <xliff:target state="translated">クーレンドとケボスの超級日記</xliff:target>
+        <xliff:target state="translated">クーレンドとケボスのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -443,7 +443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112639">
         <xliff:source>Kourend &amp; Kebos Hard Diary</xliff:source>
-        <xliff:target state="translated">クーレンドとケボスの上級日記</xliff:target>
+        <xliff:target state="translated">クーレンドとケボスのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -451,7 +451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112640">
         <xliff:source>Kourend &amp; Kebos Medium Diary</xliff:source>
-        <xliff:target state="translated">クーレンドとケボスの中級日記</xliff:target>
+        <xliff:target state="translated">クーレンドとケボスのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -459,7 +459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112641">
         <xliff:source>Kourend &amp; Kebos Easy Diary</xliff:source>
-        <xliff:target state="translated">クーレンドとケボスの初級日記</xliff:target>
+        <xliff:target state="translated">クーレンドとケボスのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -467,7 +467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112642">
         <xliff:source>Lumbridge &amp; Draynor Elite Diary</xliff:source>
-        <xliff:target state="translated">ランブリッジとドレイナーの超級日記</xliff:target>
+        <xliff:target state="translated">ランブリッジとドレイナーのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -475,7 +475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112643">
         <xliff:source>Lumbridge &amp; Draynor Hard Diary</xliff:source>
-        <xliff:target state="translated">ランブリッジとドレイナーの上級日記</xliff:target>
+        <xliff:target state="translated">ランブリッジとドレイナーのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -483,7 +483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112644">
         <xliff:source>Lumbridge &amp; Draynor Medium Diary</xliff:source>
-        <xliff:target state="translated">ランブリッジとドレイナーの中級日記</xliff:target>
+        <xliff:target state="translated">ランブリッジとドレイナーのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -491,7 +491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112645">
         <xliff:source>Lumbridge &amp; Draynor Easy Diary</xliff:source>
-        <xliff:target state="translated">ランブリッジとドレイナーの初級日記</xliff:target>
+        <xliff:target state="translated">ランブリッジとドレイナーのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -499,7 +499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112646">
         <xliff:source>Morytania Elite Diary</xliff:source>
-        <xliff:target state="translated">モリタニアの超級日記</xliff:target>
+        <xliff:target state="translated">モリタニアのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -507,7 +507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112647">
         <xliff:source>Morytania Hard Diary</xliff:source>
-        <xliff:target state="translated">モリタニアの上級日記</xliff:target>
+        <xliff:target state="translated">モリタニアのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -515,7 +515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112648">
         <xliff:source>Morytania Medium Diary</xliff:source>
-        <xliff:target state="translated">モリタニアの中級日記</xliff:target>
+        <xliff:target state="translated">モリタニアのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -523,7 +523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112649">
         <xliff:source>Morytania Easy Diary</xliff:source>
-        <xliff:target state="translated">モリタニアの初級日記</xliff:target>
+        <xliff:target state="translated">モリタニアのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -531,7 +531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112650">
         <xliff:source>Varrock Elite Diary</xliff:source>
-        <xliff:target state="translated">ヴァロックの超級日記</xliff:target>
+        <xliff:target state="translated">ヴァロックのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -539,7 +539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112651">
         <xliff:source>Varrock Hard Diary</xliff:source>
-        <xliff:target state="translated">ヴァロックの上級日記</xliff:target>
+        <xliff:target state="translated">ヴァロックのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -547,7 +547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112652">
         <xliff:source>Varrock Medium Diary</xliff:source>
-        <xliff:target state="translated">ヴァロックの中級日記</xliff:target>
+        <xliff:target state="translated">ヴァロックのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -555,7 +555,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112653">
         <xliff:source>Varrock Easy Diary</xliff:source>
-        <xliff:target state="translated">ヴァロックの初級日記</xliff:target>
+        <xliff:target state="translated">ヴァロックのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -563,7 +563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112654">
         <xliff:source>Western Provinces Elite Diary</xliff:source>
-        <xliff:target state="translated">西部地方の超級日記</xliff:target>
+        <xliff:target state="translated">にしぶちほうのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -571,7 +571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112655">
         <xliff:source>Western Provinces Hard Diary</xliff:source>
-        <xliff:target state="translated">西部地方の上級日記</xliff:target>
+        <xliff:target state="translated">にしぶちほうのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -579,7 +579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112656">
         <xliff:source>Western Provinces Medium Diary</xliff:source>
-        <xliff:target state="translated">西部地方の中級日記</xliff:target>
+        <xliff:target state="translated">にしぶちほうのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -587,7 +587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112657">
         <xliff:source>Western Provinces Easy Diary</xliff:source>
-        <xliff:target state="translated">西部地方の初級日記</xliff:target>
+        <xliff:target state="translated">にしぶちほうのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -595,7 +595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112658">
         <xliff:source>Wilderness Elite Diary</xliff:source>
-        <xliff:target state="translated">ウィルダネスの超級日記</xliff:target>
+        <xliff:target state="translated">ウィルダネスのちょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -603,7 +603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112659">
         <xliff:source>Wilderness Hard Diary</xliff:source>
-        <xliff:target state="translated">ウィルダネスの上級日記</xliff:target>
+        <xliff:target state="translated">ウィルダネスのじょうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -611,7 +611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112660">
         <xliff:source>Wilderness Medium Diary</xliff:source>
-        <xliff:target state="translated">ウィルダネスの中級日記</xliff:target>
+        <xliff:target state="translated">ウィルダネスのちゅうきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -619,7 +619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112661">
         <xliff:source>Wilderness Easy Diary</xliff:source>
-        <xliff:target state="translated">ウィルダネスの初級日記</xliff:target>
+        <xliff:target state="translated">ウィルダネスのしょきゅうにっき</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: achievementDiaryTab
@@ -667,7 +667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112667">
         <xliff:source>Merchandise</xliff:source>
-        <xliff:target state="translated">商品サイト</xliff:target>
+        <xliff:target state="translated">しょうひんサイト</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
@@ -681,136 +681,136 @@ sub_category: menu
 source: groupTab
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    <xliff:trans-unit id="112669"><xliff:source>Redemption</xliff:source><xliff:target state="translated">贖罪</xliff:target><xliff:note>category: name
+    <xliff:trans-unit id="112669"><xliff:source>Redemption</xliff:source><xliff:target state="translated">しょくつみ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112670"><xliff:source>Protect Item</xliff:source><xliff:target state="translated">アイテム保護</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112670"><xliff:source>Protect Item</xliff:source><xliff:target state="translated">アイテムほご</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112671"><xliff:source>Incredible Reflexes</xliff:source><xliff:target state="translated">とてつもない反射神経</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112671"><xliff:source>Incredible Reflexes</xliff:source><xliff:target state="translated">とてつもないはんしゃしんけい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112672"><xliff:source>Sharp Eye</xliff:source><xliff:target state="translated">鋭い目</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112672"><xliff:source>Sharp Eye</xliff:source><xliff:target state="translated">するどいめ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112673"><xliff:source>Mystic Will</xliff:source><xliff:target state="translated">神秘的な意思</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112673"><xliff:source>Mystic Will</xliff:source><xliff:target state="translated">しんぴてきないおもい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112674"><xliff:source>Rock Skin</xliff:source><xliff:target state="translated">岩の肌</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112674"><xliff:source>Rock Skin</xliff:source><xliff:target state="translated">いわのはだ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112675"><xliff:source>Protect from Magic</xliff:source><xliff:target state="translated">魔法防御</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112675"><xliff:source>Protect from Magic</xliff:source><xliff:target state="translated">まほうぼうぎょ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112676"><xliff:source>Protect from Missiles</xliff:source><xliff:target state="translated">発射体防御</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112676"><xliff:source>Protect from Missiles</xliff:source><xliff:target state="translated">はつしゃからだぼうぎょ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112677"><xliff:source>Protect from Melee</xliff:source><xliff:target state="translated">近接の加護</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112677"><xliff:source>Protect from Melee</xliff:source><xliff:target state="translated">きんせつのくわえご</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112678"><xliff:source>Thick Skin</xliff:source><xliff:target state="translated">厚い肌</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112678"><xliff:source>Thick Skin</xliff:source><xliff:target state="translated">あついはだ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112679"><xliff:source>Retribution</xliff:source><xliff:target state="translated">天罰</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112679"><xliff:source>Retribution</xliff:source><xliff:target state="translated">てんばつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112680"><xliff:source>Mystic Might</xliff:source><xliff:target state="translated">神秘の威力</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112680"><xliff:source>Mystic Might</xliff:source><xliff:target state="translated">しんぴのいりょく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112681"><xliff:source>Eagle Eye</xliff:source><xliff:target state="translated">ワシの目</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112681"><xliff:source>Eagle Eye</xliff:source><xliff:target state="translated">ワシのめ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112682"><xliff:source>Piety</xliff:source><xliff:target state="translated">敬神</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112682"><xliff:source>Piety</xliff:source><xliff:target state="translated">けいかみ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112683"><xliff:source>Ultimate Strength</xliff:source><xliff:target state="translated">究極の力</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112683"><xliff:source>Ultimate Strength</xliff:source><xliff:target state="translated">きゅうきょくのちから</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112684"><xliff:source>Improved Reflexes</xliff:source><xliff:target state="translated">向上した反射神経</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112684"><xliff:source>Improved Reflexes</xliff:source><xliff:target state="translated">むかいじょうしたはんしゃしんけい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112685"><xliff:source>Burst of Strength</xliff:source><xliff:target state="translated">力の爆発</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112685"><xliff:source>Burst of Strength</xliff:source><xliff:target state="translated">ちからのばくはつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112686"><xliff:source>Mystic Lore</xliff:source><xliff:target state="translated">神秘的な伝承</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112686"><xliff:source>Mystic Lore</xliff:source><xliff:target state="translated">しんぴてきなでんしょう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112687"><xliff:source>Augury</xliff:source><xliff:target state="translated">前兆</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112687"><xliff:source>Augury</xliff:source><xliff:target state="translated">まえちょう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112688"><xliff:source>Hawk Eye</xliff:source><xliff:target state="translated">タカの目</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112688"><xliff:source>Hawk Eye</xliff:source><xliff:target state="translated">タカのめ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112689"><xliff:source>Chivalry</xliff:source><xliff:target state="translated">騎士道</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112689"><xliff:source>Chivalry</xliff:source><xliff:target state="translated">きしみち</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112690"><xliff:source>Superhuman Strength</xliff:source><xliff:target state="translated">超人的な力</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112690"><xliff:source>Superhuman Strength</xliff:source><xliff:target state="translated">ちょうひとてきなちから</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112691"><xliff:source>Rigour</xliff:source><xliff:target state="translated">困苦</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112691"><xliff:source>Rigour</xliff:source><xliff:target state="translated">こまりにがい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112692"><xliff:source>Smite</xliff:source><xliff:target state="translated">懲罰</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112692"><xliff:source>Smite</xliff:source><xliff:target state="translated">ちょうばつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112693"><xliff:source>Preserve</xliff:source><xliff:target state="translated">温存</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112693"><xliff:source>Preserve</xliff:source><xliff:target state="translated">あたたそん</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112694"><xliff:source>Clarity of Thought</xliff:source><xliff:target state="translated">明確な思考</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112694"><xliff:source>Clarity of Thought</xliff:source><xliff:target state="translated">あかりたしかなおもいかんがえ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112695"><xliff:source>Rapid Restore</xliff:source><xliff:target state="translated">急激な再生</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112695"><xliff:source>Rapid Restore</xliff:source><xliff:target state="translated">きゅうげきなさいせい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112696"><xliff:source>Rapid Heal</xliff:source><xliff:target state="translated">急激な回復</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112696"><xliff:source>Rapid Heal</xliff:source><xliff:target state="translated">きゅうげきなかいふく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112697"><xliff:source>Steel Skin</xliff:source><xliff:target state="translated">鋼の肌</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112697"><xliff:source>Steel Skin</xliff:source><xliff:target state="translated">はがねのはだ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112698"><xliff:source>Lumbridge Home Teleport</xliff:source><xliff:target state="translated">ランブリッジ帰還ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112698"><xliff:source>Lumbridge Home Teleport</xliff:source><xliff:target state="translated">ランブリッジきかんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112699"><xliff:source>Wind Strike</xliff:source><xliff:target state="translated">ウィンド・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112700"><xliff:source>Confuse</xliff:source><xliff:target state="translated">混乱</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112700"><xliff:source>Confuse</xliff:source><xliff:target state="translated">こみみだ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112701"><xliff:source>Crossbow Bolt Enchantments</xliff:source><xliff:target state="translated">ボルトに魔法付与</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112701"><xliff:source>Crossbow Bolt Enchantments</xliff:source><xliff:target state="translated">ボルトにまほうふよ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112702"><xliff:source>Water Strike</xliff:source><xliff:target state="translated">ウォーター・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112703"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target state="translated">宝飾品に魔法付与</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112703"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target state="translated">ほうしょくひんにまほうふよ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112704"><xliff:source>Earth Strike</xliff:source><xliff:target state="translated">アース・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112705"><xliff:source>Telekinetic Grab</xliff:source><xliff:target state="translated">掌握</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112705"><xliff:source>Telekinetic Grab</xliff:source><xliff:target state="translated">しょうあく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112706"><xliff:source>Bind</xliff:source><xliff:target state="translated">バインド</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112707"><xliff:source>Curse</xliff:source><xliff:target state="translated">呪い</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112707"><xliff:source>Curse</xliff:source><xliff:target state="translated">のろい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112708"><xliff:source>Wind Bolt</xliff:source><xliff:target state="translated">ウィンド・ボルト</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112709"><xliff:source>Bones to Bananas</xliff:source><xliff:target state="translated">骨をバナナに</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112709"><xliff:source>Bones to Bananas</xliff:source><xliff:target state="translated">ほねをバナナに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112710"><xliff:source>Fire Strike</xliff:source><xliff:target state="translated">ファイヤー・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112711"><xliff:source>Weaken</xliff:source><xliff:target state="translated">弱体化</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112711"><xliff:source>Weaken</xliff:source><xliff:target state="translated">じゃくからだか</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112712"><xliff:source>Low Level Alchemy</xliff:source><xliff:target state="translated">初級錬金術</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112712"><xliff:source>Low Level Alchemy</xliff:source><xliff:target state="translated">しょきゅうれんきんじゅつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112713"><xliff:source>Water Bolt</xliff:source><xliff:target state="translated">ウォーター・ボルト</xliff:target><xliff:note>category: name
@@ -831,7 +831,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112718"><xliff:source>Falador Teleport</xliff:source><xliff:target state="translated">ファラドー・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112719"><xliff:source>Kourend Castle Teleport</xliff:source><xliff:target state="translated">クーレンド城ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112719"><xliff:source>Kourend Castle Teleport</xliff:source><xliff:target state="translated">クーレンドしろワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112720"><xliff:source>Water Blast</xliff:source><xliff:target state="translated">ウォーター・ブラスト</xliff:target><xliff:note>category: name
@@ -840,16 +840,16 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112721"><xliff:source>Camelot Teleport</xliff:source><xliff:target state="translated">カメロット・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112722"><xliff:source>Superheat Item</xliff:source><xliff:target state="translated">超加熱</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112722"><xliff:source>Superheat Item</xliff:source><xliff:target state="translated">ちょうくわえねつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112723"><xliff:source>Wind Blast</xliff:source><xliff:target state="translated">ウィンド・ブラスト</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112724"><xliff:source>Teleport to House</xliff:source><xliff:target state="translated">家ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112724"><xliff:source>Teleport to House</xliff:source><xliff:target state="translated">いえワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112725"><xliff:source>Crumble Undead</xliff:source><xliff:target state="translated">アンデッド崩し</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112725"><xliff:source>Crumble Undead</xliff:source><xliff:target state="translated">アンデッドくずれし</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112726"><xliff:source>Iban Blast</xliff:source><xliff:target state="translated">アイバン・ブラスト</xliff:target><xliff:note>category: name
@@ -858,7 +858,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112727"><xliff:source>Snare</xliff:source><xliff:target state="translated">スネア</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112728"><xliff:source>Magic Dart</xliff:source><xliff:target state="translated">魔法のダーツ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112728"><xliff:source>Magic Dart</xliff:source><xliff:target state="translated">まほうのダーツ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112729"><xliff:source>Ardougne Teleport</xliff:source><xliff:target state="translated">アルドイン・ワープ</xliff:target><xliff:note>category: name
@@ -870,31 +870,31 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112731"><xliff:source>Civitas illa Fortis Teleport</xliff:source><xliff:target state="translated">シビリタス・イラ・フォーチス・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112732"><xliff:source>High Level Alchemy</xliff:source><xliff:target state="translated">上級錬金術</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112732"><xliff:source>High Level Alchemy</xliff:source><xliff:target state="translated">じょうきゅうれんきんじゅつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112733"><xliff:source>Charge Water Orb</xliff:source><xliff:target state="translated">水のオーブ錬成</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112733"><xliff:source>Charge Water Orb</xliff:source><xliff:target state="translated">みずのオーブれんなり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112734"><xliff:source>Watchtower Teleport</xliff:source><xliff:target state="translated">監視塔ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112734"><xliff:source>Watchtower Teleport</xliff:source><xliff:target state="translated">かんしとうワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112735"><xliff:source>Fire Blast</xliff:source><xliff:target state="translated">ファイヤー・ブラスト</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112736"><xliff:source>Charge Earth Orb</xliff:source><xliff:target state="translated">土のオーブ錬成</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112736"><xliff:source>Charge Earth Orb</xliff:source><xliff:target state="translated">つちのオーブれんなり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112737"><xliff:source>Bones to Peaches</xliff:source><xliff:target state="translated">骨をモモに</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112737"><xliff:source>Bones to Peaches</xliff:source><xliff:target state="translated">ほねをモモに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112738"><xliff:source>Saradomin Strike</xliff:source><xliff:target state="translated">サラドミン・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112739"><xliff:source>Claws of Guthix</xliff:source><xliff:target state="translated">ガシックスの鉤爪</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112739"><xliff:source>Claws of Guthix</xliff:source><xliff:target state="translated">ガシックスのかぎづめ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112740"><xliff:source>Flames of Zamorak</xliff:source><xliff:target state="translated">ザモラックの炎</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112740"><xliff:source>Flames of Zamorak</xliff:source><xliff:target state="translated">ザモラックのほのお</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112741"><xliff:source>Trollheim Teleport</xliff:source><xliff:target state="translated">トロールハイム・ワープ</xliff:target><xliff:note>category: name
@@ -903,7 +903,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112742"><xliff:source>Wind Wave</xliff:source><xliff:target state="translated">ウィンド・ウェーブ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112743"><xliff:source>Charge Fire Orb</xliff:source><xliff:target state="translated">火のオーブ錬成</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112743"><xliff:source>Charge Fire Orb</xliff:source><xliff:target state="translated">ひのオーブれんなり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112744"><xliff:source>Ape Atoll Teleport</xliff:source><xliff:target state="translated">エイプ・アトール・ワープ</xliff:target><xliff:note>category: name
@@ -912,43 +912,43 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112745"><xliff:source>Water Wave</xliff:source><xliff:target state="translated">ウォーター・ウェーブ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112746"><xliff:source>Charge Air Orb</xliff:source><xliff:target state="translated">大気のオーブ錬成</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112746"><xliff:source>Charge Air Orb</xliff:source><xliff:target state="translated">たいきのオーブれんなり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112747"><xliff:source>Vulnerability</xliff:source><xliff:target state="translated">脆弱性</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112747"><xliff:source>Vulnerability</xliff:source><xliff:target state="translated">ぜいじゃくせい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112748"><xliff:source>Earth Wave</xliff:source><xliff:target state="translated">アース・ウェーブ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112749"><xliff:source>Enfeeble</xliff:source><xliff:target state="translated">衰弱</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112749"><xliff:source>Enfeeble</xliff:source><xliff:target state="translated">すいじゃく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112750"><xliff:source>Teleother Lumbridge</xliff:source><xliff:target state="translated">ランブリッジ・他ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112750"><xliff:source>Teleother Lumbridge</xliff:source><xliff:target state="translated">ランブリッジ・ほかワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112751"><xliff:source>Fire Wave</xliff:source><xliff:target state="translated">ファイヤー・ウェーブ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112752"><xliff:source>Entangle</xliff:source><xliff:target state="translated">束縛</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112752"><xliff:source>Entangle</xliff:source><xliff:target state="translated">そくばく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112753"><xliff:source>Stun</xliff:source><xliff:target state="translated">スタン</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112754"><xliff:source>Teleother Camelot</xliff:source><xliff:target state="translated">カメロット・他ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112754"><xliff:source>Teleother Camelot</xliff:source><xliff:target state="translated">カメロット・ほかワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112755"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">標的にワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112755"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">ひょうてきにワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112756"><xliff:source>Tele Block</xliff:source><xliff:target state="translated">ワープ阻止</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112756"><xliff:source>Tele Block</xliff:source><xliff:target state="translated">ワープそとめ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112757"><xliff:source>Water Surge</xliff:source><xliff:target state="translated">ウォーター・サージ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112758"><xliff:source>Teleother Falador</xliff:source><xliff:target state="translated">ファラドー・他ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112758"><xliff:source>Teleother Falador</xliff:source><xliff:target state="translated">ファラドー・ほかワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112759"><xliff:source>Wind Surge</xliff:source><xliff:target state="translated">ウィンド・サージ</xliff:target><xliff:note>category: name
@@ -963,7 +963,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112762"><xliff:source>Fire Surge</xliff:source><xliff:target state="translated">ファイヤー・サージ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112763"><xliff:source>Edgeville Home Teleport</xliff:source><xliff:target state="translated">エッジビル帰還ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112763"><xliff:source>Edgeville Home Teleport</xliff:source><xliff:target state="translated">エッジビルきかんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112764"><xliff:source>Smoke Rush</xliff:source><xliff:target state="translated">スモーク・ラッシュ</xliff:target><xliff:note>category: name
@@ -1038,274 +1038,274 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112787"><xliff:source>Ghorrock Teleport</xliff:source><xliff:target state="translated">ゴロック・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112788"><xliff:source>Lunar Home Teleport</xliff:source><xliff:target state="translated">ルーナ帰還ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112788"><xliff:source>Lunar Home Teleport</xliff:source><xliff:target state="translated">ルーナきかんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112789"><xliff:source>Bake Pie</xliff:source><xliff:target state="translated">パイを焼く</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112789"><xliff:source>Bake Pie</xliff:source><xliff:target state="translated">パイをやきく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112790"><xliff:source>Geomancy</xliff:source><xliff:target state="translated">ジェオマンシー</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112791"><xliff:source>Cure Plant</xliff:source><xliff:target state="translated">植物治癒</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112791"><xliff:source>Cure Plant</xliff:source><xliff:target state="translated">しょくぶつちゆ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112792"><xliff:source>Monster Examine</xliff:source><xliff:target state="translated">魔獣解析</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112792"><xliff:source>Monster Examine</xliff:source><xliff:target state="translated">まけものときせき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112793"><xliff:source>NPC Contact</xliff:source><xliff:target state="translated">NPC通信</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112793"><xliff:source>NPC Contact</xliff:source><xliff:target state="translated">NPCつうしん</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112794"><xliff:source>Cure Other</xliff:source><xliff:target state="translated">仲間を治癒</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112794"><xliff:source>Cure Other</xliff:source><xliff:target state="translated">なかまをちゆ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112795"><xliff:source>Humidify</xliff:source><xliff:target state="translated">加湿</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112795"><xliff:source>Humidify</xliff:source><xliff:target state="translated">くわえしめり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112796"><xliff:source>Moonclan Teleport</xliff:source><xliff:target state="translated">ムーンクラン・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112797"><xliff:source>Tele Group Moonclan</xliff:source><xliff:target state="translated">ムーンクラン・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112797"><xliff:source>Tele Group Moonclan</xliff:source><xliff:target state="translated">ムーンクラン・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112798"><xliff:source>Cure Me</xliff:source><xliff:target state="translated">自己治癒</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112798"><xliff:source>Cure Me</xliff:source><xliff:target state="translated">じこちゆ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112799"><xliff:source>Ourania Teleport</xliff:source><xliff:target state="translated">ウラニア・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112800"><xliff:source>Hunter Kit</xliff:source><xliff:target state="translated">狩り道具</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112800"><xliff:source>Hunter Kit</xliff:source><xliff:target state="translated">かりどうぐ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112801"><xliff:source>Waterbirth Teleport</xliff:source><xliff:target state="translated">ウォーターバース・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112802"><xliff:source>Tele Group Waterbirth</xliff:source><xliff:target state="translated">ウォーターバース・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112802"><xliff:source>Tele Group Waterbirth</xliff:source><xliff:target state="translated">ウォーターバース・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112803"><xliff:source>Cure Group</xliff:source><xliff:target state="translated">集団治癒</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112803"><xliff:source>Cure Group</xliff:source><xliff:target state="translated">あつめだんちゆ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112804"><xliff:source>Stat Spy</xliff:source><xliff:target state="translated">ステータス覗き</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112804"><xliff:source>Stat Spy</xliff:source><xliff:target state="translated">ステータスのぞき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112805"><xliff:source>Barbarian Teleport</xliff:source><xliff:target state="translated">蛮族基地ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112805"><xliff:source>Barbarian Teleport</xliff:source><xliff:target state="translated">ばんぞくきちワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112806"><xliff:source>Tele Group Barbarian</xliff:source><xliff:target state="translated">蛮族基地・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112806"><xliff:source>Tele Group Barbarian</xliff:source><xliff:target state="translated">ばんぞくきち・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112807"><xliff:source>Spin Flax</xliff:source><xliff:target state="translated">亜麻加工</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112807"><xliff:source>Spin Flax</xliff:source><xliff:target state="translated">あまくわえこう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112808"><xliff:source>Superglass Make</xliff:source><xliff:target state="translated">超ガラス加工</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112808"><xliff:source>Superglass Make</xliff:source><xliff:target state="translated">ちょうガラスくわえこう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112809"><xliff:source>Tan Leather</xliff:source><xliff:target state="translated">皮を革に</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112809"><xliff:source>Tan Leather</xliff:source><xliff:target state="translated">かわをかわに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112810"><xliff:source>Khazard Teleport</xliff:source><xliff:target state="translated">カザード・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112811"><xliff:source>Tele Group Khazard</xliff:source><xliff:target state="translated">カザード・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112811"><xliff:source>Tele Group Khazard</xliff:source><xliff:target state="translated">カザード・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112812"><xliff:source>Dream</xliff:source><xliff:target state="translated">夢中</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112812"><xliff:source>Dream</xliff:source><xliff:target state="translated">ゆめちゅう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112813"><xliff:source>String Jewellery</xliff:source><xliff:target state="translated">宝飾品に紐</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112813"><xliff:source>String Jewellery</xliff:source><xliff:target state="translated">ほうしょくひんにひも</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112814"><xliff:source>Stat Restore Pot Share</xliff:source><xliff:target state="translated">ステ回復薬共有</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112814"><xliff:source>Stat Restore Pot Share</xliff:source><xliff:target state="translated">ステかいふくやくきょうゆう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112815"><xliff:source>Magic Imbue</xliff:source><xliff:target state="translated">魔力を込める</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112815"><xliff:source>Magic Imbue</xliff:source><xliff:target state="translated">まりょくをこみめる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112816"><xliff:source>Fertile Soil</xliff:source><xliff:target state="translated">肥沃化</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112816"><xliff:source>Fertile Soil</xliff:source><xliff:target state="translated">ひよくか</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112817"><xliff:source>Boost Potion Share</xliff:source><xliff:target state="translated">強化薬共有</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112817"><xliff:source>Boost Potion Share</xliff:source><xliff:target state="translated">きょうかくすりきょうゆう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112818"><xliff:source>Fishing Guild Teleport</xliff:source><xliff:target state="translated">釣りギルド・ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112818"><xliff:source>Fishing Guild Teleport</xliff:source><xliff:target state="translated">つりギルド・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112819"><xliff:source>Tele Group Fishing Guild</xliff:source><xliff:target state="translated">釣りギルド・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112819"><xliff:source>Tele Group Fishing Guild</xliff:source><xliff:target state="translated">つりギルド・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112820"><xliff:source>Plank Make</xliff:source><xliff:target state="translated">板材加工</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112820"><xliff:source>Plank Make</xliff:source><xliff:target state="translated">いたざいくわえこう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112821"><xliff:source>Catherby Teleport</xliff:source><xliff:target state="translated">カサビー・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112822"><xliff:source>Tele Group Catherby</xliff:source><xliff:target state="translated">カサビー・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112822"><xliff:source>Tele Group Catherby</xliff:source><xliff:target state="translated">カサビー・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112823"><xliff:source>Recharge Dragonstone</xliff:source><xliff:target state="translated">竜石チャージ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112823"><xliff:source>Recharge Dragonstone</xliff:source><xliff:target state="translated">りゅうせきチャージ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112824"><xliff:source>Ice Plateau Teleport</xliff:source><xliff:target state="translated">アイス・プラトー・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112825"><xliff:source>Tele Group Ice Plateau</xliff:source><xliff:target state="translated">アイス・プラトー・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112825"><xliff:source>Tele Group Ice Plateau</xliff:source><xliff:target state="translated">アイス・プラトー・あつめだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112826"><xliff:source>Energy Transfer</xliff:source><xliff:target state="translated">力の譲渡</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112826"><xliff:source>Energy Transfer</xliff:source><xliff:target state="translated">ちからのゆずりわたし</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112827"><xliff:source>Heal Other</xliff:source><xliff:target state="translated">仲間を回復</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112827"><xliff:source>Heal Other</xliff:source><xliff:target state="translated">なかまをかいふく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112828"><xliff:source>Vengeance Other</xliff:source><xliff:target state="translated">復讐・仲間</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112828"><xliff:source>Vengeance Other</xliff:source><xliff:target state="translated">ふくしゅう・なかま</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112829"><xliff:source>Vengeance</xliff:source><xliff:target state="translated">復讐</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112829"><xliff:source>Vengeance</xliff:source><xliff:target state="translated">ふくしゅう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112830"><xliff:source>Heal Group</xliff:source><xliff:target state="translated">集団回復</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112830"><xliff:source>Heal Group</xliff:source><xliff:target state="translated">あつめだんかいふく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112831"><xliff:source>Spellbook Swap</xliff:source><xliff:target state="translated">魔導書の切替</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112831"><xliff:source>Spellbook Swap</xliff:source><xliff:target state="translated">まみちびきしょのきりかえ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112832"><xliff:source>Arceuus Home Teleport</xliff:source><xliff:target state="translated">アルセウス帰還ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112832"><xliff:source>Arceuus Home Teleport</xliff:source><xliff:target state="translated">アルセウスきかんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112833"><xliff:source>Arceuus Library Teleport</xliff:source><xliff:target state="translated">アルセウス図書館ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112833"><xliff:source>Arceuus Library Teleport</xliff:source><xliff:target state="translated">アルセウスとしょかんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112834"><xliff:source>Basic Reanimation</xliff:source><xliff:target state="translated">基本蘇生術</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112834"><xliff:source>Basic Reanimation</xliff:source><xliff:target state="translated">きほんよみがえなまじゅつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112835"><xliff:source>Draynor Manor Teleport</xliff:source><xliff:target state="translated">ドレイナー邸宅ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112835"><xliff:source>Draynor Manor Teleport</xliff:source><xliff:target state="translated">ドレイナーていたくワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112836"><xliff:source>Battlefront Teleport</xliff:source><xliff:target state="translated">戦線ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112836"><xliff:source>Battlefront Teleport</xliff:source><xliff:target state="translated">せんせんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112837"><xliff:source>Mind Altar Teleport</xliff:source><xliff:target state="translated">心の祭壇ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112837"><xliff:source>Mind Altar Teleport</xliff:source><xliff:target state="translated">こころのさいだんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112838"><xliff:source>Respawn Teleport</xliff:source><xliff:target state="translated">復活地点ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112838"><xliff:source>Respawn Teleport</xliff:source><xliff:target state="translated">ふっかつちてんワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112839"><xliff:source>Ghostly Grasp</xliff:source><xliff:target state="translated">霊的掌握</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112839"><xliff:source>Ghostly Grasp</xliff:source><xliff:target state="translated">れいてきしょうあく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112840"><xliff:source>Resurrect Lesser Ghost</xliff:source><xliff:target state="translated">下級ゴースト復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112840"><xliff:source>Resurrect Lesser Ghost</xliff:source><xliff:target state="translated">したきゅうゴーストふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112841"><xliff:source>Resurrect Lesser Skeleton</xliff:source><xliff:target state="translated">下級スケルトン復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112841"><xliff:source>Resurrect Lesser Skeleton</xliff:source><xliff:target state="translated">したきゅうスケルトンふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112842"><xliff:source>Resurrect Lesser Zombie</xliff:source><xliff:target state="translated">下級ゾンビ復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112842"><xliff:source>Resurrect Lesser Zombie</xliff:source><xliff:target state="translated">したきゅうゾンビふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112843"><xliff:source>Salve Graveyard Teleport</xliff:source><xliff:target state="translated">サルヴ基地ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112843"><xliff:source>Salve Graveyard Teleport</xliff:source><xliff:target state="translated">サルヴきちワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112844"><xliff:source>Adept Reanimation</xliff:source><xliff:target state="translated">応用蘇生術</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112844"><xliff:source>Adept Reanimation</xliff:source><xliff:target state="translated">おうようよみがえなまじゅつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112845"><xliff:source>Inferior Demonbane</xliff:source><xliff:target state="translated">劣勢・悪魔特攻</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112845"><xliff:source>Inferior Demonbane</xliff:source><xliff:target state="translated">おとせい・あくまとくこう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112846"><xliff:source>Shadow Veil</xliff:source><xliff:target state="translated">影のベール</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112846"><xliff:source>Shadow Veil</xliff:source><xliff:target state="translated">かげのベール</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112847"><xliff:source>Fenkenstrain's Castle Teleport</xliff:source><xliff:target state="translated">フェンケンストレイン城・ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112847"><xliff:source>Fenkenstrain's Castle Teleport</xliff:source><xliff:target state="translated">フェンケンストレインしろ・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112848"><xliff:source>Dark Lure</xliff:source><xliff:target state="translated">闇の誘い</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112848"><xliff:source>Dark Lure</xliff:source><xliff:target state="translated">やみのさそい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112849"><xliff:source>Skeletal Grasp</xliff:source><xliff:target state="translated">骨の掌握</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112849"><xliff:source>Skeletal Grasp</xliff:source><xliff:target state="translated">ほねのしょうあく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112850"><xliff:source>Resurrect Superior Ghost</xliff:source><xliff:target state="translated">中級ゴースト復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112850"><xliff:source>Resurrect Superior Ghost</xliff:source><xliff:target state="translated">ちゅうきゅうゴーストふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112851"><xliff:source>Resurrect Superior Skeleton</xliff:source><xliff:target state="translated">中級スケルトン復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112851"><xliff:source>Resurrect Superior Skeleton</xliff:source><xliff:target state="translated">ちゅうきゅうスケルトンふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112852"><xliff:source>Resurrect Superior Zombie</xliff:source><xliff:target state="translated">中級ゾンビ復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112852"><xliff:source>Resurrect Superior Zombie</xliff:source><xliff:target state="translated">ちゅうきゅうゾンビふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112853"><xliff:source>Mark of Darkness</xliff:source><xliff:target state="translated">闇の刻印</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112853"><xliff:source>Mark of Darkness</xliff:source><xliff:target state="translated">やみのこくしるし</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112854"><xliff:source>West Ardougne Teleport</xliff:source><xliff:target state="translated">西アルドイン・ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112854"><xliff:source>West Ardougne Teleport</xliff:source><xliff:target state="translated">にしアルドイン・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112855"><xliff:source>Superior Demonbane</xliff:source><xliff:target state="translated">上級悪魔特攻</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112855"><xliff:source>Superior Demonbane</xliff:source><xliff:target state="translated">じょうきゅうあくまとくこう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112856"><xliff:source>Lesser Corruption</xliff:source><xliff:target state="translated">下位の腐敗</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112856"><xliff:source>Lesser Corruption</xliff:source><xliff:target state="translated">かいのふはい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112857"><xliff:source>Harmony Island Teleport</xliff:source><xliff:target state="translated">ハーモニー島・ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112857"><xliff:source>Harmony Island Teleport</xliff:source><xliff:target state="translated">ハーモニーしま・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112858"><xliff:source>Vile Vigour</xliff:source><xliff:target state="translated">卑劣な活力</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112858"><xliff:source>Vile Vigour</xliff:source><xliff:target state="translated">ひれつなかつりょく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112859"><xliff:source>Degrime</xliff:source><xliff:target state="translated">汚れ落とし</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112859"><xliff:source>Degrime</xliff:source><xliff:target state="translated">よごれおちとし</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112860"><xliff:source>Cemetery Teleport</xliff:source><xliff:target state="translated">セメトリー・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112861"><xliff:source>Expert Reanimation</xliff:source><xliff:target state="translated">専門蘇生術</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112861"><xliff:source>Expert Reanimation</xliff:source><xliff:target state="translated">せんもんよみがえなまじゅつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112862"><xliff:source>Ward of Arceuus</xliff:source><xliff:target state="translated">アルセウス・ワード</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112863"><xliff:source>Resurrect Greater Ghost</xliff:source><xliff:target state="translated">上級ゴースト復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112863"><xliff:source>Resurrect Greater Ghost</xliff:source><xliff:target state="translated">じょうきゅうゴーストふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112864"><xliff:source>Resurrect Greater Skeleton</xliff:source><xliff:target state="translated">上級スケルトン復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112864"><xliff:source>Resurrect Greater Skeleton</xliff:source><xliff:target state="translated">じょうきゅうスケルトンふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112865"><xliff:source>Resurrect Greater Zombie</xliff:source><xliff:target state="translated">上級ゾンビ復活術式</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112865"><xliff:source>Resurrect Greater Zombie</xliff:source><xliff:target state="translated">じょうきゅうゾンビふっかつじゅつしき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112866"><xliff:source>Resurrect Crops</xliff:source><xliff:target state="translated">作物蘇生</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112866"><xliff:source>Resurrect Crops</xliff:source><xliff:target state="translated">さくものよみがえなま</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112867"><xliff:source>Undead Grasp</xliff:source><xliff:target state="translated">不死の掌握</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112867"><xliff:source>Undead Grasp</xliff:source><xliff:target state="translated">ふしのしょうあく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112868"><xliff:source>Death Charge</xliff:source><xliff:target state="translated">死による回復</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112868"><xliff:source>Death Charge</xliff:source><xliff:target state="translated">しによるかいふく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112869"><xliff:source>Dark Demonbane</xliff:source><xliff:target state="translated">暗黒の悪魔特攻</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112869"><xliff:source>Dark Demonbane</xliff:source><xliff:target state="translated">あんこくのあくまとくこう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112870"><xliff:source>Barrows Teleport</xliff:source><xliff:target state="translated">バロウズ・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112871"><xliff:source>Demonic Offering</xliff:source><xliff:target state="translated">悪魔的供物</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112871"><xliff:source>Demonic Offering</xliff:source><xliff:target state="translated">あくまてきそなえもの</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112872"><xliff:source>Greater Corruption</xliff:source><xliff:target state="translated">上位の腐敗</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112872"><xliff:source>Greater Corruption</xliff:source><xliff:target state="translated">じょういのふはい</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112873"><xliff:source>Master Reanimation</xliff:source><xliff:target state="translated">超級蘇生術</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112873"><xliff:source>Master Reanimation</xliff:source><xliff:target state="translated">ちょうきゅうよみがえなまじゅつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112874"><xliff:source>Sinister Offering</xliff:source><xliff:target state="translated">不吉な供物</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112874"><xliff:source>Sinister Offering</xliff:source><xliff:target state="translated">ふきつなそなえもの</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112875"><xliff:source>Accurate</xliff:source><xliff:target state="translated">正確に</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112875"><xliff:source>Accurate</xliff:source><xliff:target state="translated">せいかくに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112876"><xliff:source>Aggressive</xliff:source><xliff:target state="translated">積極的に</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112876"><xliff:source>Aggressive</xliff:source><xliff:target state="translated">せっきょくてきに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112877"><xliff:source>Defensive</xliff:source><xliff:target state="translated">守備</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112877"><xliff:source>Defensive</xliff:source><xliff:target state="translated">まもりそな</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112878"><xliff:source>Controlled</xliff:source><xliff:target state="translated">バランスよく</xliff:target><xliff:note>category: name
@@ -1317,64 +1317,64 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112880"><xliff:source>Slash</xliff:source><xliff:target state="translated">スラッシュ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112881"><xliff:source>Stab</xliff:source><xliff:target state="translated">刺す</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112881"><xliff:source>Stab</xliff:source><xliff:target state="translated">さす</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112882"><xliff:source>Block</xliff:source><xliff:target state="translated">ブロック</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112883"><xliff:source>Pound</xliff:source><xliff:target state="translated">打つ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112883"><xliff:source>Pound</xliff:source><xliff:target state="translated">うつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112884"><xliff:source>Pummel</xliff:source><xliff:target state="translated">殴打</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112884"><xliff:source>Pummel</xliff:source><xliff:target state="translated">なぐりう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112885"><xliff:source>Spike</xliff:source><xliff:target state="translated">突き刺す</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112885"><xliff:source>Spike</xliff:source><xliff:target state="translated">とつきさす</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112886"><xliff:source>Impale</xliff:source><xliff:target state="translated">貫く</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112886"><xliff:source>Impale</xliff:source><xliff:target state="translated">つらぬく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112887"><xliff:source>Smash</xliff:source><xliff:target state="translated">強打</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112887"><xliff:source>Smash</xliff:source><xliff:target state="translated">きょうう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112888"><xliff:source>Lunge</xliff:source><xliff:target state="translated">突進</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112888"><xliff:source>Lunge</xliff:source><xliff:target state="translated">とつすすみ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112889"><xliff:source>Swipe</xliff:source><xliff:target state="translated">なぎ払う</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112889"><xliff:source>Swipe</xliff:source><xliff:target state="translated">なぎはらいう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112890"><xliff:source>Hack</xliff:source><xliff:target state="translated">叩き切る</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112890"><xliff:source>Hack</xliff:source><xliff:target state="translated">たたききりる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112891"><xliff:source>Reap</xliff:source><xliff:target state="translated">刈り取る</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112891"><xliff:source>Reap</xliff:source><xliff:target state="translated">かりとりる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112892"><xliff:source>Rapid</xliff:source><xliff:target state="translated">連射</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112892"><xliff:source>Rapid</xliff:source><xliff:target state="translated">つしゃ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112893"><xliff:source>Longrange</xliff:source><xliff:target state="translated">遠距離</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112893"><xliff:source>Longrange</xliff:source><xliff:target state="translated">とおいきょり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112894"><xliff:source>Flick</xliff:source><xliff:target state="translated">フリック</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112895"><xliff:source>Lash</xliff:source><xliff:target state="translated">鞭打つ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112895"><xliff:source>Lash</xliff:source><xliff:target state="translated">むちうつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112896"><xliff:source>Deflect</xliff:source><xliff:target state="translated">そらす</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112897"><xliff:source>Fend</xliff:source><xliff:target state="translated">防ぐ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112897"><xliff:source>Fend</xliff:source><xliff:target state="translated">ぼうぐ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112898"><xliff:source>Bash</xliff:source><xliff:target state="translated">激突</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112898"><xliff:source>Bash</xliff:source><xliff:target state="translated">げきとつ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112899"><xliff:source>Blaze</xliff:source><xliff:target state="translated">ブレイズ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112900"><xliff:source>Scorch</xliff:source><xliff:target state="translated">焦がす</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112900"><xliff:source>Scorch</xliff:source><xliff:target state="translated">こげがす</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112901"><xliff:source>Flare</xliff:source><xliff:target state="translated">フレア</xliff:target><xliff:note>category: name
@@ -1407,16 +1407,16 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112910"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112911"><xliff:source>&lt;col=ff9040&gt;PvP Arena&lt;/col&gt; options</xliff:source><xliff:target state="translated">&lt;col=ff9040&gt;PvPアリーナ&lt;/col&gt; のオプション</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112911"><xliff:source>&lt;col=ff9040&gt;PvP Arena&lt;/col&gt; options</xliff:source><xliff:target state="translated">&lt;col=ff9040&gt;ぴーぶいぴー ありーな&lt;/col&gt; おぷしょん</xliff:target><xliff:note>category: name
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112912"><xliff:source>Music</xliff:source><xliff:target state="translated">音楽</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112912"><xliff:source>Music</xliff:source><xliff:target state="translated">おんがく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112913"><xliff:source>Sound Effects</xliff:source><xliff:target state="translated">効果音</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112913"><xliff:source>Sound Effects</xliff:source><xliff:target state="translated">こうかおと</xliff:target><xliff:note>category: name
 sub_category: menu
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112914"><xliff:source>Area Sounds</xliff:source><xliff:target state="translated">周囲の音</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112914"><xliff:source>Area Sounds</xliff:source><xliff:target state="translated">まわりかこのおと</xliff:target><xliff:note>category: name
 sub_category: menu
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
