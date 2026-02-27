@@ -1,0 +1,541 @@
+english	translation	category	sub_category	source
+Destroy	はかい	inventoryActions	item	Dwarf remains
+Drop	をおちとす	inventoryActions	item	Cannonball
+Read	よむ	inventoryActions	item	Nulodion's notes
+Set-up	せっおき	inventoryActions	item	Cannon base
+Blow	ふきく	inventoryActions	item	Magic whistle
+Ring	なきらす	inventoryActions	item	Grail bell
+Blow-on	ふきく	inventoryActions	item	Magic gold feather
+Extinguish	きえひ	inventoryActions	item	Lit black candle
+Wield	そうび	inventoryActions	item	Excalibur
+Wear	きる	inventoryActions	item	Khazard helmet
+Empty	をくうにする	inventoryActions	item	Guam potion (unf)
+Drink	のみむ	inventoryActions	item	Strength potion(4)
+Clean	きれいにする	inventoryActions	item	Grimy guam leaf
+Eat	しょくべる	inventoryActions	item	Jangerberries
+Equip	そうび	inventoryActions	item	Cattleprod
+Plant	うえる	inventoryActions	item	Mithril seeds
+Open	ひらきく	inventoryActions	item	Casket
+Throw	なげる	inventoryActions	item	Bird feed
+Bury	うめる	inventoryActions	item	Bones
+Inspect	しらべる	inventoryActions	item	Ghost's skull
+Bail-with	ではいすい	inventoryActions	item	Bailing bucket
+Activate	はつうごき	inventoryActions	item	Locating crystal
+Search	さがしす	inventoryActions	item	Panning tray
+Polish	みがきく	inventoryActions	item	Buttons
+Look-at	みる	inventoryActions	item	Level 1 certificate
+Complete	たっせい	inventoryActions	item	Radimus notes
+Swing	ふりわたしる	inventoryActions	item	Bullroarer
+Look	みる	inventoryActions	item	Sketch
+Enchant-Vials	しやくびんにまほうをふよ	inventoryActions	item	Binding book
+Investigate	ちょうさする	inventoryActions	item	Dark dagger
+Cast Spell	まほうをかける	inventoryActions	item	Holy force
+Hold	つかむ	inventoryActions	item	Gnomeball
+Dig	ほる	inventoryActions	item	Spade
+Blackout	ブラックアウト	inventoryActions	item	Disk of returning
+Check	かくにん	inventoryActions	item	Iban's staff
+Locate	ほうむかいかくにん	inventoryActions	item	Air talisman
+Rub-together	こすりあわせう	inventoryActions	item	Dry sticks
+Study	しらべる	inventoryActions	item	Map part
+Rub	こする	inventoryActions	item	Amulet of glory
+Empty Bowl	ボールをくうにする	inventoryActions	item	Burnt stew
+Mix-cocktail	カクテルをこみぜる	inventoryActions	item	Cocktail shaker
+Remove-legs	あしをとりる	inventoryActions	item	Swamp toad
+Prepare	じゅんび	inventoryActions	item	Half baked bowl
+Empty Tray	トレーをくうにする	inventoryActions	item	Burnt crunchies
+Empty Tin	かん	inventoryActions	item	Burnt batta
+Empty Dish	さらをキレイにする	inventoryActions	item	Burnt pie
+Guzzle	がつがつしょくべる	inventoryActions	item	Rock cake
+Play-with	であそぶ	inventoryActions	item	Brown toy horsey
+Break	こわしす	inventoryActions	item	Ring of recoil
+Toggle-respawn	リスポーンきりかえ	inventoryActions	item	Ring of life
+Features	きのう	inventoryActions	item	Ring of wealth
+Look through	こえしにみる	inventoryActions	item	Sextant
+Check steps	のステップをかくにん	inventoryActions	item	Clue scroll (easy)
+Release All	をぜんてひらきはなし	inventoryActions	item	Bloated toad
+Release	ひらきはなし	inventoryActions	item	Bloated toad
+Check kills	キルかずかくにん	inventoryActions	item	Ogre bow
+Fill	まんたす	inventoryActions	item	Druid pouch
+Cast Bloom	さくまほう	inventoryActions	item	Silver sickle (b)
+Cast	なげる	inventoryActions	item	Druidic spell
+Debug	デバッグ	inventoryActions	item	Boss helper tool
+Play	プレイ	inventoryActions	item	Lyre
+Interact	やりとりをする	inventoryActions	item	Pet rock
+Shake	ゆらす	inventoryActions	item	Vase
+Remove-lid	フタをとりる	inventoryActions	item	Sealed vase
+Preach	せつおしえ	inventoryActions	item	Holy book
+View	みる	inventoryActions	item	Spare controls
+Listen	きく	inventoryActions	item	Monkey dentures
+Poke	とつく	inventoryActions	item	Monkey
+Heal	かいふく	inventoryActions	item	Bandages
+Loop	ループ	inventoryActions	item	Yo-yo
+Walk	ウォーク	inventoryActions	item	Yo-yo
+Crazy	クレイジー	inventoryActions	item	Yo-yo
+Ride	のりる	inventoryActions	item	Sled
+Partner	ペア	inventoryActions	item	Enchanted gem
+Log	ログ	inventoryActions	item	Enchanted gem
+Repair	しゅうふく	inventoryActions	item	Model ship
+Follow	おう	inventoryActions	item	Treasure map
+Count	かずえる	inventoryActions	item	Petition form
+Check-keys	カギをかくにん	inventoryActions	item	Steel key ring
+Dance	おどる	inventoryActions	item	Rubber chicken
+Assemble	くみたてる	inventoryActions	item	Base schematics
+Spin	かいす	inventoryActions	item	Spinning plate
+Remove-one	からいちつとりる	inventoryActions	item	Apples(2)
+Build	くみたてる	inventoryActions	item	Rogue kit
+Use	つかいう	inventoryActions	item	Null
+Slice	スライス	inventoryActions	item	Rotten potato
+Peel	むく	inventoryActions	item	Rotten potato
+Mash	をつぶしす	inventoryActions	item	Rotten potato
+Lletya	レティア	inventoryActions	item	Teleport crystal (4)
+Prifddinas	プリフディナス	inventoryActions	item	Teleport crystal (4)
+Toggle	きりかえる	inventoryActions	item	Teleport crystal (4)
+Uncharge	チャージかいじょ	inventoryActions	item	Broodoo shield (10)
+Scan	スキャン	inventoryActions	item	Commorb
+Contact	でれんらく	inventoryActions	item	Commorb
+Playback	でさいせい	inventoryActions	item	Commorb
+Talk-At	にはなしかける	inventoryActions	item	Fishbowl
+Play-With	であそぶ	inventoryActions	item	Fishbowl
+Feed	エサをあたえる	inventoryActions	item	Fishbowl
+Untangle	ほどく	inventoryActions	item	Fishbowl and net
+Check-charge	チャージかくにん	inventoryActions	item	Camulet
+Display	しめしす	inventoryActions	item	Zombie head
+Question	しつもんする	inventoryActions	item	Zombie head
+Chant	となえる	inventoryActions	item	Demonic sigil
+Feel	をてでかんじる	inventoryActions	item	Enchanted key
+Remove-rat	ネズミをとりる	inventoryActions	item	Rat pole
+Jump	ジャンプ	inventoryActions	item	Blue marionette
+Bow	おじぎする	inventoryActions	item	Blue marionette
+Talk-to	はなしかける	inventoryActions	item	Progress hat
+Return	もどりる	inventoryActions	item	Prison key
+Smell	のにおいをかぐ	inventoryActions	item	Spicy stew
+Release-all	をぜんてひらきはなし	inventoryActions	item	Balloon toad
+Wind	まきく	inventoryActions	item	Toy soldier
+Separate	をべつける	inventoryActions	item	Kbd heads
+Unstuff	のちゅうみをとりる	inventoryActions	item	Stuffed crawling hand
+Varrock	ヴァロック	inventoryActions	item	Varrock teleport
+Grand Exchange	グランド・エクスチェンジ	inventoryActions	item	Varrock teleport
+Camelot	カメロット	inventoryActions	item	Camelot teleport
+Seers' Village	シアーズむら	inventoryActions	item	Camelot teleport
+Watchtower	かんしとう	inventoryActions	item	Watchtower teleport
+Yanille	ヤニル	inventoryActions	item	Watchtower teleport
+Inside	ちゅう	inventoryActions	item	Teleport to house
+Outside	そと	inventoryActions	item	Teleport to house
+Group	グループ	inventoryActions	item	Teleport to house
+Info	じょうほう	inventoryActions	item	Enchant sapphire or opal
+Dust-hands	こなをてにつきける	inventoryActions	item	Ground ashes
+Talk-To	はなしかける	inventoryActions	item	Monkey
+Invoke	をはつうごき	inventoryActions	item	Skull sceptre
+Divine	ののこりりょうかくにん	inventoryActions	item	Skull sceptre
+Convert	へんかん	inventoryActions	item	Pharaoh's sceptre
+Launch	はなしつ	inventoryActions	item	Grand seed pod
+Squash	つぶしす	inventoryActions	item	Grand seed pod
+Pour	そそぐ	inventoryActions	item	Mixed blizzard
+Add-ingreds	にざいりょうをついか	inventoryActions	item	Mixed saturday
+Unpack	とりです	inventoryActions	item	Proselyte harness m
+Shape-Earth	つちのかたち	inventoryActions	item	Page 1
+Shape-Air	たいきのかたち	inventoryActions	item	Page 1
+Shape-Fire	ひのかたち	inventoryActions	item	Page 2
+Shape-Water	みずのかたち	inventoryActions	item	Page 2
+Shape-Mind	こころのかたち	inventoryActions	item	Page 3
+Teleport	ワープ	inventoryActions	item	Strength cape
+Toggle Effect	のこうかをきりかえる	inventoryActions	item	Defence cape
+Toggle Respawn	リスポーンちてんをきりかえる	inventoryActions	item	Defence cape
+Commune	まじしんする	inventoryActions	item	Ranging cape
+Spellbook	まみちびきしょをへんこう	inventoryActions	item	Magic cape
+Stamina Boost	スタミナをブースト	inventoryActions	item	Agility cape
+Tele to POH	いえにワープ	inventoryActions	item	Construct. cape
+Fishing Guild	つりギルド	inventoryActions	item	Fishing cape
+Otto's Grotto	オットーのどうけつ	inventoryActions	item	Fishing cape
+Trim	ふちどりる	inventoryActions	item	Quest point cape
+Load	そうてん	inventoryActions	item	White destabiliser
+Split	べつける	inventoryActions	item	Cap and goggles
+Lay	そなえる	inventoryActions	item	Bird snare
+Check totals	あわせけいねをかくにん	inventoryActions	item	Butterfly net
+Bank	ぎんこう	inventoryActions	item	Imp-in-a-box(2)
+Translate	ほんやく	inventoryActions	item	Research notes
+Write-Role	やくわりをしょく	inventoryActions	item	Scroll
+Clear	キレイにする	inventoryActions	item	Scroll
+Tell-red	あかといいう	inventoryActions	item	Attacker horn
+Tell-green	みどりといいう	inventoryActions	item	Attacker horn
+Tell-blue	あおといいう	inventoryActions	item	Attacker horn
+Medic	えいなまへい	inventoryActions	item	Attacker horn
+Look-in	ちゅうをみる	inventoryActions	item	Collection bag
+Tell-tofu	とうふといいう	inventoryActions	item	Healer horn
+Tell-crackers	クラッカーといいう	inventoryActions	item	Healer horn
+Tell-worms	むしといいう	inventoryActions	item	Healer horn
+Tell-meat	にくといいう	inventoryActions	item	Defender horn
+Tell-controlled	バランスといいう	inventoryActions	item	Collector horn
+Tell-accurate	せいかくといいう	inventoryActions	item	Collector horn
+Tell-aggressive	きょうひきといいう	inventoryActions	item	Collector horn
+Tell-defensive	まもりせいといいう	inventoryActions	item	Collector horn
+Check tax	ぜいきんをかくにん	inventoryActions	item	Empty tax bag
+Check taxes	ぜいきんをかくにん	inventoryActions	item	Bulging taxbag
+Pray-over	にいのりる	inventoryActions	item	Blessed lamp
+Recite-prayer	いのりをとなえる	inventoryActions	item	Prayer book
+Operate	そうさ	inventoryActions	item	Beacon ring
+Gem Mine	ほうせきさいくつところ	inventoryActions	item	Karamja gloves 3
+Loot	アイテムをかいしゅう	inventoryActions	item	Baby impling jar
+Impling-jar	こあくまのびん	inventoryActions	item	Jar generator
+Butterfly-jar	チョウのびん	inventoryActions	item	Jar generator
+Toggle-view	みためのきりかえ	inventoryActions	item	Impling scroll
+Copy to log	ログにえいす	inventoryActions	item	Ancient page
+Discard	はき	inventoryActions	item	Anti-dragon shield (nz)
+Take-one	１つとる	inventoryActions	item	Herb box
+Bank-all	ぜんてぎんこうへ	inventoryActions	item	Herb box
+Refund	かえしきん	inventoryActions	item	Scroll of redirection
+Revert	もどりす	inventoryActions	item	Rimmington teleport
+Dismantle	のぞきさりする	inventoryActions	item	Armadyl godsword
+Disassemble	をぶんかい	inventoryActions	item	Slayer helmet
+Deposit	あずける	inventoryActions	item	Looting bag
+Settings	せってい	inventoryActions	item	Looting bag
+Spawn Item	よみがえなまアイテム	inventoryActions	item	Holiday tool
+Dissolve	とけかす	inventoryActions	item	Abyssal tentacle
+Check completion	かんせいどをかくにん	inventoryActions	item	Challenge scroll (elite)
+Check rank	ランクをかくにん	inventoryActions	item	Druidic wreath
+Configure	せってい	inventoryActions	item	Annakarl teleport
+Extract	ちゅうで	inventoryActions	item	Nest box (empty)
+Unload	とりです	inventoryActions	item	Toxic blowpipe
+Untrim	えんをとりる	inventoryActions	item	Quest point cape (t)
+Duradel	ヅラデル	inventoryActions	item	Karamja gloves 4
+Ecto Teleport	でエクトーヘワープ	inventoryActions	item	Morytania legs 1
+Burgh Teleport	でバーグにワープ	inventoryActions	item	Morytania legs 3
+Activity	かつどう	inventoryActions	item	Bonecrusher
+Recharge-prayer	いのりりょくをかいふく	inventoryActions	item	Falador shield 1
+Monastery Teleport	でしゅうどういんにワープ	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	でのうじょうにワープ	inventoryActions	item	Ardougne cloak 2
+Energy	エネルギー	inventoryActions	item	Explorer's ring 1
+Alchemy	れんきんじゅつ	inventoryActions	item	Explorer's ring 1
+Functions	きのう	inventoryActions	item	Explorer's ring 2
+Nardah	ナーダ	inventoryActions	item	Desert amulet 4
+Kalphite cave	カルファイトのどうくつ	inventoryActions	item	Desert amulet 4
+Emote	エモート	inventoryActions	item	Diango's claws
+Redeem	ひきかえる	inventoryActions	item	Old school bond
+Restore	かいふく	inventoryActions	item	Tanzanite helm (uncharged)
+Scramble	スクランブル	inventoryActions	item	Rotten egg
+Poach	ポーチ	inventoryActions	item	Rotten egg
+Fry	あげる	inventoryActions	item	Rotten egg
+Pickle	つけもの	inventoryActions	item	Rotten egg
+Consume	きえひ	inventoryActions	item	Saradomin's light
+Teleports	ワープ	inventoryActions	item	Max cape
+Metamorphosis	へんしん	inventoryActions	item	Beaver
+Chew	かむ	inventoryActions	item	Rotten onion
+Take-grubs	しょくべものをとりる	inventoryActions	item	Bucket of sandworms
+Pack	つめる	inventoryActions	item	Shayzien supply crate
+Check charges	チャージかくにん	inventoryActions	item	Chronicle
+Transform	へんしん	inventoryActions	item	Monkey
+Lap-count	まわりかいかず	inventoryActions	item	Monkey
+Combine	くみあわせる	inventoryActions	item	Torn clue scroll (part 1)
+Recoil settings	はんしゃのせってい	inventoryActions	item	Ring of suffering (r)
+Pages	ページ	inventoryActions	item	Tome of fire
+Invigorate	かっせいか	inventoryActions	item	Imbued heart
+Look at	みる	inventoryActions	item	Snow globe
+Snow	ゆき	inventoryActions	item	Snow globe
+Options	せってい	inventoryActions	item	Amulet of chemistry
+Change-style	みためをへんこう	inventoryActions	item	Rainbow scarf
+Chill	チル	inventoryActions	item	Hand fan
+Remove default	そくねをのぞきく	inventoryActions	item	Master scroll book
+Throw-water	みずをなげる	inventoryActions	item	Heat-proof vessel
+Throw-water direction	みずをなげるほうむかい	inventoryActions	item	Heat-proof vessel
+Check-level	レベルをかくにん	inventoryActions	item	Heat-proof vessel
+Roll	ころがりがす	inventoryActions	item	Hoop snake
+Channel	ころがりかえ	inventoryActions	item	Merfolk trident
+Puff	くうきをぬきく	inventoryActions	item	Pufferfish
+Take fish	さかなをとりる	inventoryActions	item	Bowl of fish
+Reminisce	おもいでにふける	inventoryActions	item	Kharedst's memoirs
+Toggle-absorption	きゅうしゅうのきりかえ	inventoryActions	item	Bracelet of ethereum
+Elite	ちょうきゅう	inventoryActions	item	Useful rock
+Master	たつじん	inventoryActions	item	Useful rock
+Assessment	アセスメント	inventoryActions	item	Useful rock
+Control	そうさ	inventoryActions	item	Rotten cabbage
+Spectate	かんせん	inventoryActions	item	Rotten cabbage
+Charge	チャージする	inventoryActions	item	Sanguinesti staff
+Scry	とうし	inventoryActions	item	Oculus orb
+Bloom	さかせる	inventoryActions	item	Ivandis flail
+Ver Sinhaza	ベー・シンハザ	inventoryActions	item	Drakan's medallion
+Darkmeyer	ダークメヤー	inventoryActions	item	Drakan's medallion
+Slepe	スレペ	inventoryActions	item	Drakan's medallion
+Tele	ワープ	inventoryActions	item	Rotten carrot
+Kill Bot	ボットまっころし	inventoryActions	item	Rotten carrot
+Kill Area	はんいまっころし	inventoryActions	item	Rotten carrot
+Change	へんこう	inventoryActions	item	Sinhaza shroud tier 1
+Auto-afk	おーと あふく	inventoryActions	item	Escape crystal
+Open-all	ぜんてひらきく	inventoryActions	item	Coin pouch
+Swap	いりれかえる	inventoryActions	item	Thammaron's sceptre (u)
+Close	とじる	inventoryActions	item	Looting bag
+Weiss	ウェイス	inventoryActions	item	Icy basalt
+Troll Stronghold	トロールようさい	inventoryActions	item	Stony basalt
+Fletch	くわえこう	inventoryActions	item	Celastrus bark
+Kourend Woodland	クーレンドはやしち	inventoryActions	item	Rada's blessing 1
+Mount Karuulm	カルールムやま	inventoryActions	item	Rada's blessing 3
+Check/Uncharge	かくにん・チャージかいじょ	inventoryActions	item	Bonecrusher necklace
+Take	とりる	inventoryActions	item	Seed pack
+Take-all	ぜんてとりる	inventoryActions	item	Seed pack
+Fill/Check	まんたす・かくにん	inventoryActions	item	Bottomless compost bucket
+Easter dance	イースター・ダンス	inventoryActions	item	Giant easter egg
+Cut-open	きりひらきく	inventoryActions	item	Giant egg sac(full)
+Check-eggs	たまごをかくにん	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	たまごをとりる	inventoryActions	item	Giant egg sac
+Scrutinise	よくしらべる	inventoryActions	item	Guthixian icon
+Chase	おいかける	inventoryActions	item	Cat ears
+Last-destination	まえのめてきちへ	inventoryActions	item	Fairy mushroom
+Teleport-back	ワープでもどりる	inventoryActions	item	Crystal of memories
+Check-memories	しるしおくをかくにん	inventoryActions	item	Crystal of memories
+Withdraw	ひきです	inventoryActions	item	Extradimensional bag
+Settings/Destroy	せってい・はかい	inventoryActions	item	Extradimensional bag
+League Setup	リーグのセットアップ	inventoryActions	item	League tomato
+League 2 Debug	リーグ２デバッグ	inventoryActions	item	League tomato
+League 3 Debug	リーグ３デバッグ	inventoryActions	item	League tomato
+Toggle-colour	いろのきりかえ	inventoryActions	item	Soul cape
+Scatter	さんらす	inventoryActions	item	Fiendish ashes
+Trollheim	トロールハイム	inventoryActions	item	Ghommal's hilt 1
+Mor Ul Rek	モー・ウル・レク	inventoryActions	item	Ghommal's hilt 4
+Unattune	ふちょうわ	inventoryActions	item	Sigil of resilience
+Attune	ちょうわ	inventoryActions	item	Sigil of resilience
+Make scary noise	こわいおとをたてる	inventoryActions	item	Jered's empty wine bottle
+Reverse	をぎゃくにする	inventoryActions	item	Ugly halloween jumper (orange)
+Wake-ghost	れいをよびおぼえます	inventoryActions	item	Haunted wine bottle
+Read-tag	タグをよむ	inventoryActions	item	Secret santa present (red)
+Change-colour	いろをへんえる	inventoryActions	item	Secret santa present (red)
+Dismantle kit	キットをそとす	inventoryActions	item	Abyssal whip (or)
+Change Spellbook	まみちびきしょをへんえる	inventoryActions	item	Arcane grimoire
+Previous Spellbook	まえのまみちびきしょ	inventoryActions	item	Arcane grimoire
+Check Previous	いぜんのをかくにん	inventoryActions	item	Arcane grimoire
+Unimbue	まほうかいじょ	inventoryActions	item	Wristbands of the arena (i)
+Last Destination	でまえのめてきちへ	inventoryActions	item	Ring of the elements
+Last-Teleport	いぜんのワープ	inventoryActions	item	Pharaoh's sceptre
+Attach	つなげる	inventoryActions	item	Cursed phalanx
+Place	おきく	inventoryActions	item	Mirror
+Withdraw 1	１こひきです	inventoryActions	item	Supplies
+Withdraw All	ぜんてひきです	inventoryActions	item	Supplies
+Resupply	ふたたきょうきゅう	inventoryActions	item	Supplies
+Apply	てきよう	inventoryActions	item	Silk dressing (2)
+Crack	ひび	inventoryActions	item	Blessed crystal scarab (2)
+Crush	つぶしす	inventoryActions	item	Smelling salts (2)
+Take-from	とりる	inventoryActions	item	Infinite money bag
+Help	てつだいう	inventoryActions	item	Fresh start helper
+Sniff	においをかぐ	inventoryActions	item	Smelly sock
+Destinations	めてきち	inventoryActions	item	Ghommal's avernic defender 5
+Craft	さくる	inventoryActions	item	Secateurs blade
+History	れきし	inventoryActions	item	Mulch
+Recall	よびもどりす	inventoryActions	item	Blackstone fragment
+Squeeze	ちからをいりれる	inventoryActions	item	Detonator
+Set-off	ばくは	inventoryActions	item	Stink bomb
+Fairy-ring	ようせいのわ	inventoryActions	item	Trinket of fairies
+Spirit-tree	せいれいじゅ	inventoryActions	item	Trinket of fairies
+Summon	しょうかん	inventoryActions	item	Trinket of undead
+Nexus	ネクサス	inventoryActions	item	Globetrotter pendant
+Jewellery	ほうしょくひん	inventoryActions	item	Globetrotter pendant
+Note-Quantity	していかずをかみか	inventoryActions	item	Banker's note
+Un-note-Quantity	していかずをみからだか	inventoryActions	item	Banker's note
+Dismiss	ときにんする	inventoryActions	item	Guardian horn
+Toggle-modes	モードきりかえ	inventoryActions	item	Guardian horn
+Change-outfit	いしょうをへんこう	inventoryActions	item	Guardian horn
+Change Prayerbook	いのりのしょをへんこう	inventoryActions	item	Ruinous powers
+Toggle-activity	はつうごきをきりかえる	inventoryActions	item	Echo boots
+Signal	あわせず	inventoryActions	item	Basic quetzal whistle
+Rumour	ルーマー	inventoryActions	item	Basic quetzal whistle
+Break-down	とりくずれす	inventoryActions	item	Blessed bone statuette
+Examine	しらべる	inventoryActions	item	
+Slayer Master	とうばつのたつじん	inventoryActions	item	Karamja gloves 4
+Swap	いりれかえる	inventoryActions	item	Bruma torch
+Remove	とりそとす	inventoryActions	item	
+Add	くわえる	inventoryActions	item	
+Add-5	５コくわえる	inventoryActions	item	
+Add-10	10コくわえる	inventoryActions	item	
+Add-All	ぜんてくわえる	inventoryActions	item	
+Add-X	Xコくわえる	inventoryActions	item	
+Examine	しらべる	inventoryActions	item	
+Remove	とりそとす	inventoryActions	item	
+Add	くわえる	inventoryActions	item	
+Add-5	５コくわえる	inventoryActions	item	
+Add-10	10コくわえる	inventoryActions	item	
+Add-All	ぜんてくわえる	inventoryActions	item	
+Add-X	Xコくわえる	inventoryActions	item	
+Edgeville	エッジビル	inventoryActions	item	Amulet of glory(1)
+Karamja	カラムジャ	inventoryActions	item	Amulet of glory(1)
+Draynor Village	ドレイナーむら	inventoryActions	item	Amulet of glory(1)
+Al Kharid	アル・カリッド	inventoryActions	item	Amulet of glory(1)
+Tan Leather	かわをかわに	inventoryActions	item	Leather
+Recharge Dragonstone	りゅうせきチャージ	inventoryActions	item	Dead orb
+Emir's Arena	エミアのアリーナ	inventoryActions	item	Ring of dueling(8)
+Castle Wars	キャッスル・ウォーズ	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	フェロックス・オンクレーブ	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	フォーティスとうぎじょう	inventoryActions	item	Ring of dueling(8)
+Bloom	さかせる	inventoryActions	item	Silver sickle (b)
+Rellekka	レレカ	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	ウォーターバースしま	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	ネイチズノット	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	ジャティスゾ	inventoryActions	item	Enchanted lyre(1)
+Burthorpe	バーソープ	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	ばんぞくのまえしょうきち	inventoryActions	item	Games necklace(8)
+Corporeal Beast	コーポリアル・ビースト	inventoryActions	item	Games necklace(8)
+Tears of Guthix	ガシックスのなみだ	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	ウィンタートッド・キャンプ	inventoryActions	item	Games necklace(8)
+Surrender	ふふ	inventoryActions	item	Hooded cloak
+Fling	なげる	inventoryActions	item	Easter basket
+Teleport	ワープ	inventoryActions	item	Camulet
+Geomancy	ジェオマンシー	inventoryActions	item	Watering can
+Boost	ブースト	inventoryActions	item	Attack cape
+Warriors' Guild	せんしギルド	inventoryActions	item	Strength cape
+Check Totals	あわせけいねをかくにん	inventoryActions	item	Butterfly net
+Prance	とねる	inventoryActions	item	Reindeer hat
+Farming Guild	のうぎょうギルド	inventoryActions	item	Skills necklace(4)
+Mining Guild	さいくつギルド	inventoryActions	item	Skills necklace(4)
+Crafting Guild	こうさくギルド	inventoryActions	item	Skills necklace(4)
+Cooking Guild	りょうりギルド	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	きこりギルド	inventoryActions	item	Skills necklace(4)
+Champions' Guild	チャンピオン・ギルド	inventoryActions	item	Combat bracelet(4)
+Monastery	しゅうどういん	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	えんしゃギルド	inventoryActions	item	Combat bracelet(4)
+Fossil Island	かせきじま	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	リスクレン・ダンジョン	inventoryActions	item	Digsite pendant (1)
+Digsite	はっくつげんば	inventoryActions	item	Digsite pendant (1)
+Master	たつじん	inventoryActions	item	Slayer ring (8)
+Miscellania	ミセラニア	inventoryActions	item	Ring of wealth (5)
+Falador	ファラドー	inventoryActions	item	Ring of wealth (5)
+Dondakan	ドンダカン	inventoryActions	item	Ring of wealth (5)
+Boss Log	ボスログ	inventoryActions	item	Ring of wealth (5)
+Coin Collection	コインかいしゅう	inventoryActions	item	Ring of wealth (5)
+Tip	かたむける	inventoryActions	item	Fedora
+Basic Reanimation	きほんよみがえなまじゅつ	inventoryActions	item	Easter
+Check Rank	ランクをかくにん	inventoryActions	item	Druidic wreath
+Ectofuntus Pit	エクトファンタスのピット	inventoryActions	item	Morytania legs 1
+Burgh de Rott	バーグ・ドゥ・ロット	inventoryActions	item	Morytania legs 3
+Recharge Prayer	いのりりょくをかいふく	inventoryActions	item	Falador shield 1
+Kandarin Monastery	カンダリンしゅうどういん	inventoryActions	item	Ardougne cloak 1
+Ardougne Farm	アルドインのうじょう	inventoryActions	item	Ardougne cloak 2
+Fishing Teleports	つりばワープちてん	inventoryActions	item	Max cape
+POH Portals	いえポータル	inventoryActions	item	Max cape
+Other Teleports	そのほかのワープ	inventoryActions	item	Max cape
+Xeric's Lookout	ゼリックのみはり	inventoryActions	item	Xeric's talisman
+Xeric's Glade	ゼリックのくうち	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	ゼリックのもうひ	inventoryActions	item	Xeric's talisman
+Xeric's Heart	ゼリックのちゅうこころ	inventoryActions	item	Xeric's talisman
+Xeric's Honour	ゼリックのめいよ	inventoryActions	item	Xeric's talisman
+Check Charges	チャージかくにん	inventoryActions	item	Chronicle
+Teleport to Target	ひょうてきにワープ	inventoryActions	item	Dead orb
+Recoil Settings	はんしゃのせってい	inventoryActions	item	Ring of suffering (r)
+The Outpost	まえしょうきち	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	ワシのす	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	まほうつかいのとう	inventoryActions	item	Necklace of passage(5)
+Bandit Camp	とうぞくのキャンプち	inventoryActions	item	Burning amulet(5)
+Lava Maze	ようがんめいろ	inventoryActions	item	Burning amulet(5)
+Chaos Temple	こんとんのじいん	inventoryActions	item	Burning amulet(5)
+Throw-water north	きたにみずをなげる	inventoryActions	item	Heat-proof vessel
+Throw-water east	ひがしにみずをなげる	inventoryActions	item	Heat-proof vessel
+Throw-water south	みなみにみずをなげる	inventoryActions	item	Heat-proof vessel
+Throw-water west	にしにみずをなげる	inventoryActions	item	Heat-proof vessel
+Recharge	チャージ	inventoryActions	item	Ancient wyvern shield
+Lunch by the Lancalliums	ランカリウムのとなりでちゅうしょく	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	つりひとのフルート	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	れきしとでんぶん	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	かんきのほうしょくひん	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	あんこくのきしつ	inventoryActions	item	Kharedst's memoirs
+Toggle absorption	きゅうしゅうのきりかえ	inventoryActions	item	Bracelet of ethereum
+Slash	きりさけく	inventoryActions	item	Prop sword
+Trophy Emote	トロフィーのエモート	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	ツイステッド・リーグのエモート	inventoryActions	item	Twisted cane
+Use	つかいう	inventoryActions	item	Plank sack
+Open-All	ぜんてひらきく	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	トレールブレイザー・リーグのエモート	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	トレールブレイザーくいきのエモート	inventoryActions	item	Trailblazer cane
+Fairy-Ring	ようせいのわ	inventoryActions	item	Fairy mushroom
+Spirit-tree	せいれいじゅ	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	のうぐのレプラコーン	inventoryActions	item	Fairy mushroom
+Skill Emote	スキルのエモート	inventoryActions	item	Shattered cane
+Boss Emote	ボスのエモート	inventoryActions	item	Shattered cane
+Quest Emote	クエストのエモート	inventoryActions	item	Shattered cane
+Fragment Emote	はへんのエモート	inventoryActions	item	Shattered cane
+Air Altar	たいきのさいだん	inventoryActions	item	Ring of the elements
+Water Altar	みずのさいだん	inventoryActions	item	Ring of the elements
+Earth Altar	つちのさいだん	inventoryActions	item	Ring of the elements
+Fire Altar	ひのさいだん	inventoryActions	item	Ring of the elements
+Jalsavrah	ジャルサヴラ	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	ジャルストロフォス	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	ジャルドラオッチ	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	ジャルテヴァス	inventoryActions	item	Pharaoh's sceptre
+Accept trick-or-treat	トリック・オア・トリートをうけとりる	inventoryActions	item	Treat cauldron
+Ancient Vault	こだいのきんこ	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	ゴロック・ダンジョン	inventoryActions	item	Ring of shadows
+The Scar	ザ・スカー	inventoryActions	item	Ring of shadows
+Lassar Undercity	ラサーのちかとし	inventoryActions	item	Ring of shadows
+The Stranglewood	ストラングルウッド	inventoryActions	item	Ring of shadows
+The Darkfrost	ダークフロスト	inventoryActions	item	Pendant of ates
+Twilight Temple	たそがれのじいん	inventoryActions	item	Pendant of ates
+Ralos' Rise	ラロスのこうまり	inventoryActions	item	Pendant of ates
+North Aldarin	アルダリンきたぶ	inventoryActions	item	Pendant of ates
+Colour	いろ	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	ちょうこく	inventoryActions	item	Beige pumpkin (disgusted)
+Change-Style	みためをへんこう	inventoryActions	item	Infernal harpoon (or)
+Teleport-back	ワープでもどりる	inventoryActions	item	Crystal of echoes
+Check-memories	しるしおくをかくにん	inventoryActions	item	Crystal of echoes
+Save-memory	しるしおくをほぞん	inventoryActions	item	Crystal of echoes
+League Debug	リーグのデバッグ	inventoryActions	item	League tomato
+Setups	せってい	inventoryActions	item	League tomato
+Withdraw-all	ぜんてひきです	inventoryActions	item	Forager's pouch
+Withdraw-last	まえかいどうようにひきです	inventoryActions	item	Forager's pouch
+Current-step	げんざいのステップ	inventoryActions	item	Clue compass
+Collect	アイテムをかいしゅう	inventoryActions	item	Pocket kingdom
+Manage-kingdom	おうこくをかんり	inventoryActions	item	Pocket kingdom
+Relic Emote	いぶつエモート	inventoryActions	item	Raging echoes cane
+Detatch	とりそとす	inventoryActions	item	Echo venator bow
+Detach	とりそとす	inventoryActions	item	Echo venator bow (uncharged)
+Read-address	アドレスをよむ	inventoryActions	item	Invitations
+Surrender	ふふ	inventoryActions	item	Saradomin cloak
+Lunar	ルーナ	inventoryActions	item	Magic cape
+Arceuus	アルセウス	inventoryActions	item	Magic cape
+Standard	いちはん	inventoryActions	item	Magic cape
+Ancient	こだい	inventoryActions	item	Magic cape
+Brimhaven	ブリムヘブン	inventoryActions	item	Construct. cape
+Home	いえへ	inventoryActions	item	Construct. cape
+Rimmington	リミングトン	inventoryActions	item	Construct. cape
+Taverley	タベリー	inventoryActions	item	Construct. cape
+Pollnivneach	ポルニヴネッチ	inventoryActions	item	Construct. cape
+Hosidius	ホシディアス	inventoryActions	item	Construct. cape
+Aldarin	アルダリン	inventoryActions	item	Construct. cape
+Hunter Guild	かりゅうどギルド	inventoryActions	item	Hunter cape
+Carnivorous Chinchompas	にくしょくチンチョンパ	inventoryActions	item	Hunter cape
+Black Chinchompas	くろチンチョンパ	inventoryActions	item	Hunter cape
+Fremennik Dungeon	フレメニック・ダンジョン	inventoryActions	item	Slayer ring (8)
+Dark Beasts	あんこくじゅう	inventoryActions	item	Slayer ring (8)
+Stronghold	ようさい	inventoryActions	item	Slayer ring (8)
+Slayer Tower	とうばつのとう	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	ターンのすくつ	inventoryActions	item	Slayer ring (8)
+Karamja (Shilo)	カラムジャ（シャイロ）	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	にしぶちほう	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	カラムジャ（ジャングル）	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	ツイギー・オコーン	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	カラムジャ（モー・ウル・レク）	inventoryActions	item	Achievement diary cape (t)
+Ardougne	アルドイン	inventoryActions	item	Achievement diary cape (t)
+Desert	さばく	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	クーレンドとケボス	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	ランブ…ドレイナー	inventoryActions	item	Achievement diary cape (t)
+Fremennik	フレメニック	inventoryActions	item	Achievement diary cape (t)
+Morytania	モリタニア	inventoryActions	item	Achievement diary cape (t)
+Kandarin	カンダリン	inventoryActions	item	Achievement diary cape (t)
+Wilderness	ウィルダネス	inventoryActions	item	Achievement diary cape (t)
+Carnivorous chinchompas	にくしょくチンチョンパ	inventoryActions	item	Max cape
+Ring of Life	いのちのゆびわ	inventoryActions	item	Max cape
+Black chinchompas	くろチンチョンパ	inventoryActions	item	Max cape
+Warrior's Guild	せんしギルド	inventoryActions	item	Max cape
+Guild Teleports	ギルドワープ	inventoryActions	item	Max cape
+Skilling Areas	レベルじょうげ・エリア	inventoryActions	item	Max cape
+Collections overview	しゅとくアイテムがいよう	inventoryActions	item	Collection log
+Collections Overview	しゅとくアイテムがいよう	inventoryActions	item	Collection log
+Collection Log	しゅとくアイテムいちらん	inventoryActions	item	Collection log
+Area Emote	エリア・エモート	inventoryActions	item	Raging echoes cane
+Detach	とりそとす	inventoryActions	item	Echo venator bow
+Detatch	とりそとす	inventoryActions	item	Echo ahrim's robeskirt 75
+Create-book	ほんをさくる	inventoryActions	item	Bronze staff of collection
+Bryophyta	ブリオフィタ	inventoryActions	item	Giantsoul amulet
+Obor	オーボー	inventoryActions	item	Giantsoul amulet
+Branda and Eldric	ブランダとエルドリック	inventoryActions	item	Giantsoul amulet
+Radius	ラジウス	inventoryActions	item	Soulflame horn
+Max Players	マックスのプレイヤー	inventoryActions	item	Soulflame horn
+Wipe	ワイプ	inventoryActions	item	Jim's wet cloth
+Gl. Attenuation	げんすいするグリフ	inventoryActions	item	Contract of glyphic attenuation
+Se. Clouding	こんだくするかんかく	inventoryActions	item	Contract of sensory clouding
+Bl. Blows	ちみどろのだげき	inventoryActions	item	Contract of bloodied blows
+Di. Severance	しんせいなことわたえ	inventoryActions	item	Contract of divine severance
+Fo. Breath	たえるいき	inventoryActions	item	Contract of forfeit breath
