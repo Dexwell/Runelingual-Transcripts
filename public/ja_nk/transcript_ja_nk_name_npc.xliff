@@ -443,7 +443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10238">
         <xliff:source>Cook</xliff:source>
-        <xliff:target state="translated">りょうりひと</xliff:target>
+        <xliff:target state="translated">やく</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cook
@@ -739,7 +739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10275">
         <xliff:source>Frog</xliff:source>
-        <xliff:target state="translated">カエル</xliff:target>
+        <xliff:target state="translated">かえる</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Frog
@@ -987,7 +987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10306">
         <xliff:source>Cat</xliff:source>
-        <xliff:target state="translated">ネコ</xliff:target>
+        <xliff:target state="translated">ねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cat
@@ -1011,7 +1011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10309">
         <xliff:source>Turael</xliff:source>
-        <xliff:target state="translated">ツラエル</xliff:target>
+        <xliff:target state="translated">トゥーラエル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Turael
@@ -1203,7 +1203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10333">
         <xliff:source>Giant frog</xliff:source>
-        <xliff:target state="translated">きょだいなカエル</xliff:target>
+        <xliff:target state="translated">きょだいなかえる</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Giant frog
@@ -1211,7 +1211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10334">
         <xliff:source>Big frog</xliff:source>
-        <xliff:target state="translated">だいきなカエル</xliff:target>
+        <xliff:target state="translated">だいきなかえる</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Big frog
@@ -1507,7 +1507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10371">
         <xliff:source>Elfinlocks</xliff:source>
-        <xliff:target state="translated">えるふぃんろっくす</xliff:target>
+        <xliff:target state="translated">エルフぃんろっくす</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Elfinlocks
@@ -1515,7 +1515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10372">
         <xliff:source>Clockwork cat</xliff:source>
-        <xliff:target state="translated">とけいじかけのネコ</xliff:target>
+        <xliff:target state="translated">とけいじかけのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Clockwork cat
@@ -1851,7 +1851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10414">
         <xliff:source>Ice block</xliff:source>
-        <xliff:target state="translated">こおりブロック</xliff:target>
+        <xliff:target state="translated">こおりブロック </xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ice block
@@ -2915,7 +2915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10547">
         <xliff:source>Gertrude's cat</xliff:source>
-        <xliff:target state="translated">ゲートルードのネコ</xliff:target>
+        <xliff:target state="translated">ゲートルードのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Gertrude's cat
@@ -2979,7 +2979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10555">
         <xliff:source>Snake</xliff:source>
-        <xliff:target state="translated">ヘビ</xliff:target>
+        <xliff:target state="translated">へび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Snake
@@ -2995,7 +2995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10557">
         <xliff:source>Crab</xliff:source>
-        <xliff:target state="translated">カニ</xliff:target>
+        <xliff:target state="translated">かに</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Crab
@@ -3067,7 +3067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10566">
         <xliff:source>Angry bear</xliff:source>
-        <xliff:target state="translated">いかりったクマ</xliff:target>
+        <xliff:target state="translated">いかりったくま</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Angry bear
@@ -3275,7 +3275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10592">
         <xliff:source>Sea Snake Young</xliff:source>
-        <xliff:target state="translated">わかいウミヘビ</xliff:target>
+        <xliff:target state="translated">わかいウミへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sea Snake Young
@@ -3283,7 +3283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10593">
         <xliff:source>Sea Snake Hatchling</xliff:source>
-        <xliff:target state="translated">なまれたてのウミヘビ</xliff:target>
+        <xliff:target state="translated">なまれたてのウミへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sea Snake Hatchling
@@ -3291,7 +3291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10594">
         <xliff:source>Giant Sea Snake</xliff:source>
-        <xliff:target state="translated">きょだいなウミヘビ</xliff:target>
+        <xliff:target state="translated">きょだいなウミへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Giant Sea Snake
@@ -3523,7 +3523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10623">
         <xliff:source>Chicken</xliff:source>
-        <xliff:target state="translated">ニワトリ</xliff:target>
+        <xliff:target state="translated">にわとり</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chicken
@@ -5163,7 +5163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10828">
         <xliff:source>Lazy cat</xliff:source>
-        <xliff:target state="translated">たいだなネコ</xliff:target>
+        <xliff:target state="translated">たいだなねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lazy cat
@@ -5899,7 +5899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10920">
         <xliff:source>Rabbit</xliff:source>
-        <xliff:target state="translated">ウサギ</xliff:target>
+        <xliff:target state="translated">うさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Rabbit
@@ -5923,7 +5923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10923">
         <xliff:source>Evil Chicken</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリ</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとり</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Evil Chicken
@@ -6443,7 +6443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10988">
         <xliff:source>Sacrifice</xliff:source>
-        <xliff:target state="translated">なまにえ</xliff:target>
+        <xliff:target state="translated">おさげする</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sacrifice
@@ -6491,7 +6491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10994">
         <xliff:source>Snakeling</xliff:source>
-        <xliff:target state="translated">こヘビ</xliff:target>
+        <xliff:target state="translated">こへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Snakeling
@@ -7083,7 +7083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11068">
         <xliff:source>Red Axe Cat</xliff:source>
-        <xliff:target state="translated">レッド・アックスのネコ</xliff:target>
+        <xliff:target state="translated">レッド・アックスのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Red Axe Cat
@@ -7443,7 +7443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11113">
         <xliff:source>Dromund's cat</xliff:source>
-        <xliff:target state="translated">ドロマンドのネコ</xliff:target>
+        <xliff:target state="translated">ドロマンドのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Dromund's cat
@@ -8995,7 +8995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11307">
         <xliff:source>Reach</xliff:source>
-        <xliff:target state="translated">つかむ</xliff:target>
+        <xliff:target state="translated">てをのばす</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Reach
@@ -9043,7 +9043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11313">
         <xliff:source>Pig</xliff:source>
-        <xliff:target state="translated">ブタ</xliff:target>
+        <xliff:target state="translated">ぶた</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Pig
@@ -9051,7 +9051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11314">
         <xliff:source>Piglet</xliff:source>
-        <xliff:target state="translated">こブタ</xliff:target>
+        <xliff:target state="translated">こぶた</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Piglet
@@ -9171,7 +9171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11329">
         <xliff:source>Black bear</xliff:source>
-        <xliff:target state="translated">くろいクマ</xliff:target>
+        <xliff:target state="translated">くろいくま</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black bear
@@ -9739,7 +9739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11400">
         <xliff:source>Big Snake</xliff:source>
-        <xliff:target state="translated">だいきなヘビ</xliff:target>
+        <xliff:target state="translated">だいきなへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Big Snake
@@ -9795,7 +9795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11407">
         <xliff:source>Undead chicken</xliff:source>
-        <xliff:target state="translated">アンデッドのニワトリ</xliff:target>
+        <xliff:target state="translated">アンデッドのにわとり</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Undead chicken
@@ -11483,7 +11483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11618">
         <xliff:source>Kitten</xliff:source>
-        <xliff:target state="translated">こねこ</xliff:target>
+        <xliff:target state="translated">こねこをかう</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kitten
@@ -11763,7 +11763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11653">
         <xliff:source>Ali the Snake Charmer</xliff:source>
-        <xliff:target state="translated">ヘビつかいのアリ</xliff:target>
+        <xliff:target state="translated">へびつかいのアリ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ali the Snake Charmer
@@ -11971,7 +11971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11679">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">カゴでつりる</xliff:target>
+        <xliff:target state="translated">おりをしかける</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cage
@@ -12947,7 +12947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11801">
         <xliff:source>Bunny</xliff:source>
-        <xliff:target state="translated">こウサギ</xliff:target>
+        <xliff:target state="translated">こうさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bunny
@@ -13395,7 +13395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11857">
         <xliff:source>Smith</xliff:source>
-        <xliff:target state="translated">きたえる</xliff:target>
+        <xliff:target state="translated">たんすする</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Smith
@@ -14499,7 +14499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11995">
         <xliff:source> Sneaky undead fowl</xliff:source>
-        <xliff:target state="translated">こそこそしたアンデッドのとり</xliff:target>
+        <xliff:target state="translated"> こそこそしたアンデッドのとり</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source:  Sneaky undead fowl
@@ -15387,7 +15387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12106">
         <xliff:source>Ms. Hynn Terprett</xliff:source>
-        <xliff:target state="translated">ミズ・ヒン・テープレット</xliff:target>
+        <xliff:target state="translated">みず・ヒン・テープレット</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ms. Hynn Terprett
@@ -15603,7 +15603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12133">
         <xliff:source>Usi</xliff:source>
-        <xliff:target state="translated">ウシ</xliff:target>
+        <xliff:target state="translated">うし</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Usi
@@ -15723,7 +15723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12148">
         <xliff:source>Target</xliff:source>
-        <xliff:target state="translated">てき</xliff:target>
+        <xliff:target state="translated">ねらう</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Target
@@ -15795,7 +15795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12157">
         <xliff:source>Black Cat</xliff:source>
-        <xliff:target state="translated">くろいネコ</xliff:target>
+        <xliff:target state="translated">くろいねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black Cat
@@ -15867,7 +15867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12166">
         <xliff:source>Sea slug</xliff:source>
-        <xliff:target state="translated">ウミウシ</xliff:target>
+        <xliff:target state="translated">ウミうし</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sea slug
@@ -15939,7 +15939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12175">
         <xliff:source>Fish</xliff:source>
-        <xliff:target state="translated">さかな</xliff:target>
+        <xliff:target state="translated">つる</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fish
@@ -18043,7 +18043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12438">
         <xliff:source>Wily cat</xliff:source>
-        <xliff:target state="translated">ずるけんいネコ</xliff:target>
+        <xliff:target state="translated">ずるけんいねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wily cat
@@ -18059,7 +18059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12440">
         <xliff:source>Hell-kitten</xliff:source>
-        <xliff:target state="translated">ヘル・コネコ</xliff:target>
+        <xliff:target state="translated">ヘル・コねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hell-kitten
@@ -18067,7 +18067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12441">
         <xliff:source>Overgrown cat</xliff:source>
-        <xliff:target state="translated">ろういたネコ</xliff:target>
+        <xliff:target state="translated">ろういたねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Overgrown cat
@@ -18107,7 +18107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12446">
         <xliff:source>Swamp snake</xliff:source>
-        <xliff:target state="translated">ぬまヘビ</xliff:target>
+        <xliff:target state="translated">ぬまへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Swamp snake
@@ -18115,7 +18115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12447">
         <xliff:source>Dead swamp snake</xliff:source>
-        <xliff:target state="translated">しんだぬまヘビ</xliff:target>
+        <xliff:target state="translated">しんだぬまへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Dead swamp snake
@@ -18371,7 +18371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12479">
         <xliff:source>Iceberg</xliff:source>
-        <xliff:target state="translated">こおりやま</xliff:target>
+        <xliff:target state="translated">ひょうざんへいく</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Iceberg
@@ -18611,7 +18611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12509">
         <xliff:source>Vent</xliff:source>
-        <xliff:target state="translated">はいきくち</xliff:target>
+        <xliff:target state="translated">あなをあける</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Vent
@@ -18643,7 +18643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12513">
         <xliff:source>Mark</xliff:source>
-        <xliff:target state="translated">マーク</xliff:target>
+        <xliff:target state="translated">しるしをつける</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mark
@@ -19027,7 +19027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12561">
         <xliff:source>Sea slugs display</xliff:source>
-        <xliff:target state="translated">ウミウシのてんじ</xliff:target>
+        <xliff:target state="translated">ウミうしのてんじ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sea slugs display
@@ -19339,7 +19339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12600">
         <xliff:source>Bush snake</xliff:source>
-        <xliff:target state="translated">やぶヘビ</xliff:target>
+        <xliff:target state="translated">やぶへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bush snake
@@ -19491,7 +19491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12619">
         <xliff:source>Evil Chicken (hard)</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリ（じょうきゅう）</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとり（じょうきゅう）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Evil Chicken (hard)
@@ -20787,7 +20787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12781">
         <xliff:source>Dockmaster</xliff:source>
-        <xliff:target state="translated">ドックマスター</xliff:target>
+        <xliff:target state="translated">ドッくまスター</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Dockmaster
@@ -20987,7 +20987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12806">
         <xliff:source>Reanimated bear</xliff:source>
-        <xliff:target state="translated">ふっかつしたクマ</xliff:target>
+        <xliff:target state="translated">ふっかつしたくま</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Reanimated bear
@@ -21235,7 +21235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12837">
         <xliff:source>Novice</xliff:source>
-        <xliff:target state="translated">ノヴァイス</xliff:target>
+        <xliff:target state="translated">しょきゅう</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Novice
@@ -21539,7 +21539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12875">
         <xliff:source>Loinur</xliff:source>
-        <xliff:target state="translated">ロイヌー</xliff:target>
+        <xliff:target state="translated">ロいぬー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Loinur
@@ -22451,7 +22451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12989">
         <xliff:source>Fire</xliff:source>
-        <xliff:target state="translated">ひ</xliff:target>
+        <xliff:target state="translated">ひをつける</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fire
@@ -22643,7 +22643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13013">
         <xliff:source>Cave snake</xliff:source>
-        <xliff:target state="translated">どうくつヘビ</xliff:target>
+        <xliff:target state="translated">どうくつへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cave snake
@@ -23155,7 +23155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13077">
         <xliff:source>Wizard Mizgog</xliff:source>
-        <xliff:target state="translated">まほうつかいのミズゴグ</xliff:target>
+        <xliff:target state="translated">まほうつかいのみずゴグ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wizard Mizgog
@@ -23411,7 +23411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13109">
         <xliff:source>Hoop Snake</xliff:source>
-        <xliff:target state="translated">わのヘビ</xliff:target>
+        <xliff:target state="translated">わのへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hoop Snake
@@ -23419,7 +23419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13110">
         <xliff:source>Stunned Hoop Snake</xliff:source>
-        <xliff:target state="translated">うごきころがりしたわのヘビ</xliff:target>
+        <xliff:target state="translated">うごきころがりしたわのへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Stunned Hoop Snake
@@ -23531,7 +23531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13124">
         <xliff:source>Sand Snake (hard)</xliff:source>
-        <xliff:target state="translated">すなヘビ（じょうきゅう）</xliff:target>
+        <xliff:target state="translated">すなへび（じょうきゅう）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sand Snake (hard)
@@ -23539,7 +23539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13125">
         <xliff:source>Sand Snake</xliff:source>
-        <xliff:target state="translated">すなヘビ</xliff:target>
+        <xliff:target state="translated">すなへび</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sand Snake
@@ -24379,7 +24379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13230">
         <xliff:source>Kael Forshaw</xliff:source>
-        <xliff:target state="translated">カエル・フォーシャウ</xliff:target>
+        <xliff:target state="translated">かえる・フォーシャウ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kael Forshaw
@@ -25899,7 +25899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13420">
         <xliff:source>Witch's cat</xliff:source>
-        <xliff:target state="translated">まじょのネコ</xliff:target>
+        <xliff:target state="translated">まじょのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Witch's cat
@@ -27163,7 +27163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13578">
         <xliff:source>Oathbreaker M'als</xliff:source>
-        <xliff:target state="translated">オースブレイカー・マルズ</xliff:target>
+        <xliff:target state="translated">オースブレいかー・マルズ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Oathbreaker M'als
@@ -27171,7 +27171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13579">
         <xliff:source>Oathbreaker E'piws</xliff:source>
-        <xliff:target state="translated">オースブレイカー・エピウス</xliff:target>
+        <xliff:target state="translated">オースブレいかー・エピウス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Oathbreaker E'piws
@@ -27179,7 +27179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13580">
         <xliff:source>Oathbreaker B'ats</xliff:source>
-        <xliff:target state="translated">オースブレイカー・バッツ</xliff:target>
+        <xliff:target state="translated">オースブレいかー・バッツ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Oathbreaker B'ats
@@ -27731,7 +27731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13649">
         <xliff:source>Remus Kaninus</xliff:source>
-        <xliff:target state="translated">レマス・カニナス</xliff:target>
+        <xliff:target state="translated">レマス・かにナス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Remus Kaninus
@@ -27819,7 +27819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13660">
         <xliff:source>Caninelle Draynar</xliff:source>
-        <xliff:target state="translated">カニネル・ドライナー</xliff:target>
+        <xliff:target state="translated">かにネル・ドライナー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Caninelle Draynar
@@ -28211,7 +28211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13709">
         <xliff:source>Pig Thing</xliff:source>
-        <xliff:target state="translated">ブタみたいなヤツ</xliff:target>
+        <xliff:target state="translated">ぶたみたいなヤツ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Pig Thing
@@ -29203,7 +29203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13833">
         <xliff:source>Lynx</xliff:source>
-        <xliff:target state="translated">オオヤマネコ</xliff:target>
+        <xliff:target state="translated">オオヤマねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lynx
@@ -29211,7 +29211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13834">
         <xliff:source>Lynx Tamer</xliff:source>
-        <xliff:target state="translated">オオヤマネコしらべおしえし</xliff:target>
+        <xliff:target state="translated">オオヤマねこしらべおしえし</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lynx Tamer
@@ -30523,7 +30523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13998">
         <xliff:source>Badir the Snake Charmer</xliff:source>
-        <xliff:target state="translated">ヘビつかいのバーディー</xliff:target>
+        <xliff:target state="translated">へびつかいのバーディー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Badir the Snake Charmer
@@ -31187,7 +31187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14081">
         <xliff:source>Strangled Bear</xliff:source>
-        <xliff:target state="translated">こうさつされたクマ</xliff:target>
+        <xliff:target state="translated">こうさつされたくま</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strangled Bear
@@ -31203,7 +31203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14083">
         <xliff:source>Strangled Lynx</xliff:source>
-        <xliff:target state="translated">こうさつされたオオヤマネコ</xliff:target>
+        <xliff:target state="translated">こうさつされたオオヤマねこ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strangled Lynx
@@ -31555,7 +31555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14127">
         <xliff:source>Spidey dog</xliff:source>
-        <xliff:target state="translated">クモイヌ</xliff:target>
+        <xliff:target state="translated">クモいぬ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Spidey dog
@@ -32203,7 +32203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14208">
         <xliff:source>Serpent shaman</xliff:source>
-        <xliff:target state="translated">ヘビのシャーマン</xliff:target>
+        <xliff:target state="translated">へびのシャーマン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Serpent shaman
@@ -32827,7 +32827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14286">
         <xliff:source>Cuica</xliff:source>
-        <xliff:target state="translated">クイカ</xliff:target>
+        <xliff:target state="translated">クいか</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cuica
@@ -33203,7 +33203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14333">
         <xliff:source>Spike</xliff:source>
-        <xliff:target state="translated">とつく</xliff:target>
+        <xliff:target state="translated">するどいさき</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Spike
@@ -33355,7 +33355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14352">
         <xliff:source>Frog Prin</xliff:source>
-        <xliff:target state="translated">カエルのプリン</xliff:target>
+        <xliff:target state="translated">かえるのプリン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Frog Prin
@@ -33363,7 +33363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14353">
         <xliff:source>Frog Prince</xliff:source>
-        <xliff:target state="translated">カエルのおうじ</xliff:target>
+        <xliff:target state="translated">かえるのおうじ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Frog Prince
@@ -33371,7 +33371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14354">
         <xliff:source>Frog Princess</xliff:source>
-        <xliff:target state="translated">カエルのひめ</xliff:target>
+        <xliff:target state="translated">かえるのひめ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Frog Princess
@@ -33610,7 +33610,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Acidic Araxyte
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13675</xliff:note></xliff:trans-unit><xliff:trans-unit id="14410"><xliff:source>Weave</xliff:source>
-        <xliff:target state="translated">おりもの</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">おる</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Weave
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13677</xliff:note></xliff:trans-unit><xliff:trans-unit id="14411"><xliff:source>Arancini</xliff:source>
@@ -33658,7 +33658,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Emissary Ascended
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13706</xliff:note></xliff:trans-unit><xliff:trans-unit id="14422"><xliff:source>Forebearer Janus</xliff:source>
-        <xliff:target state="translated">そせんヤマネコ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">そせんヤマねこ</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Forebearer Janus
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13714</xliff:note></xliff:trans-unit><xliff:trans-unit id="14423"><xliff:source>Forebearer Fides</xliff:source>
@@ -33734,7 +33734,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Eleuia
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13783</xliff:note></xliff:trans-unit><xliff:trans-unit id="14441"><xliff:source>Frost Crab</xliff:source>
-        <xliff:target state="translated">こおりのカニ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">こおりのかに</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Frost Crab
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13789</xliff:note></xliff:trans-unit><xliff:trans-unit id="14442"><xliff:source>Brew'ma</xliff:source>
@@ -33946,7 +33946,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Salvager
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13971</xliff:note></xliff:trans-unit><xliff:trans-unit id="14494"><xliff:source>Chosen Aluinus</xliff:source>
-        <xliff:target state="translated">えらびばれたアルイヌス</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">えらびばれたアルいぬス</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Chosen Aluinus
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13978</xliff:note></xliff:trans-unit><xliff:trans-unit id="14495"><xliff:source>Hugh</xliff:source>
@@ -34038,7 +34038,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Moxi
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14034</xliff:note></xliff:trans-unit><xliff:trans-unit id="14517"><xliff:source>Ghost Cat</xliff:source>
-        <xliff:target state="translated">ネコのおかけ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ねこのおかけ</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Ghost Cat
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14109</xliff:note></xliff:trans-unit><xliff:trans-unit id="14518"><xliff:source>Shepherd Dog</xliff:source>
@@ -34098,7 +34098,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Unidentified festive object
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14186</xliff:note></xliff:trans-unit><xliff:trans-unit id="14532"><xliff:source>Barrows</xliff:source>
-        <xliff:target state="translated">バロウズ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">しおただしのた</xliff:target><xliff:note>category: name
 sub_category: npc
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="14533"><xliff:source>Chambers of Xeric</xliff:source>

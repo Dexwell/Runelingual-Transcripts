@@ -43,7 +43,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112589">
         <xliff:source>Wiki</xliff:source>
-        <xliff:target state="translated">ウィキけんさく</xliff:target>
+        <xliff:target state="translated">ウィキ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -51,7 +51,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112590">
         <xliff:source>Attack</xliff:source>
-        <xliff:target state="translated">こうげき</xliff:target>
+        <xliff:target state="translated">こうげきする</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -171,7 +171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112605">
         <xliff:source>Magic</xliff:source>
-        <xliff:target state="translated">まほう</xliff:target>
+        <xliff:target state="translated">ちゅうがく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -203,7 +203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112609">
         <xliff:source>Slayer</xliff:source>
-        <xliff:target state="translated">とうばつ</xliff:target>
+        <xliff:target state="translated">ころしやのしょくぎょうへいく</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -830,7 +830,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112705"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112706"><xliff:source>Bind</xliff:source>
-        <xliff:target state="translated">バインド</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">むすぶ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112707"><xliff:source>Curse</xliff:source>
@@ -1010,7 +1010,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112750"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112751"><xliff:source>Fire Wave</xliff:source>
-        <xliff:target state="translated">ファイヤー・ウェーブ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ひのなみ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112752"><xliff:source>Entangle</xliff:source>
@@ -1018,7 +1018,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112752"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112753"><xliff:source>Stun</xliff:source>
-        <xliff:target state="translated">スタン</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きぜつさせる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112754"><xliff:source>Teleother Camelot</xliff:source>
@@ -1046,7 +1046,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112759"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112760"><xliff:source>Charge</xliff:source>
-        <xliff:target state="translated">チャージ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">チャージする</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112761"><xliff:source>Earth Surge</xliff:source>
@@ -1254,7 +1254,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112811"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112812"><xliff:source>Dream</xliff:source>
-        <xliff:target state="translated">ゆめちゅう</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ゆめをみる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112813"><xliff:source>String Jewellery</xliff:source>
@@ -1270,7 +1270,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112815"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112816"><xliff:source>Fertile Soil</xliff:source>
-        <xliff:target state="translated">ひよくか</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ひえたとち</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112817"><xliff:source>Boost Potion Share</xliff:source>
@@ -1506,87 +1506,87 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112874"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112875"><xliff:source>Accurate</xliff:source>
-        <xliff:target state="translated">せいかくに</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">せいかく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112876"><xliff:source>Aggressive</xliff:source>
-        <xliff:target state="translated">せっきょくてきに</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きょうぼう</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112877"><xliff:source>Defensive</xliff:source>
-        <xliff:target state="translated">まもりそな</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ぼうえき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112878"><xliff:source>Controlled</xliff:source>
-        <xliff:target state="translated">バランスよく</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ていぎ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112879"><xliff:source>Chop</xliff:source>
-        <xliff:target state="translated">チョップ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112880"><xliff:source>Slash</xliff:source>
-        <xliff:target state="translated">スラッシュ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きりさけく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112881"><xliff:source>Stab</xliff:source>
-        <xliff:target state="translated">さす</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">さすもじゃ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112882"><xliff:source>Block</xliff:source>
-        <xliff:target state="translated">ブロック</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ふせぐ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112883"><xliff:source>Pound</xliff:source>
-        <xliff:target state="translated">うつ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">たたく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112884"><xliff:source>Pummel</xliff:source>
-        <xliff:target state="translated">なぐりう</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ぼくぼくたたく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112885"><xliff:source>Spike</xliff:source>
-        <xliff:target state="translated">とつきさす</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">するどいさき</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112886"><xliff:source>Impale</xliff:source>
-        <xliff:target state="translated">つらぬく</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">さすもじゃ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112887"><xliff:source>Smash</xliff:source>
-        <xliff:target state="translated">きょうう</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">つぶす</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112888"><xliff:source>Lunge</xliff:source>
-        <xliff:target state="translated">とつすすみ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">とびかかる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112889"><xliff:source>Swipe</xliff:source>
-        <xliff:target state="translated">なぎはらいう</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">そよがす</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112890"><xliff:source>Hack</xliff:source>
-        <xliff:target state="translated">たたききりる</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きりさく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112891"><xliff:source>Reap</xliff:source>
-        <xliff:target state="translated">かりとりる</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">かる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112892"><xliff:source>Rapid</xliff:source>
-        <xliff:target state="translated">つしゃ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きょくはや</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112893"><xliff:source>Longrange</xliff:source>
-        <xliff:target state="translated">とおいきょり</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ながきょり</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112894"><xliff:source>Flick</xliff:source>
-        <xliff:target state="translated">フリック</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ぱちっとする</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112895"><xliff:source>Lash</xliff:source>
-        <xliff:target state="translated">むちうつ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">きりさく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112896"><xliff:source>Deflect</xliff:source>
@@ -1594,23 +1594,23 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112896"><xli
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112897"><xliff:source>Fend</xliff:source>
-        <xliff:target state="translated">ぼうぐ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ふせぐ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112898"><xliff:source>Bash</xliff:source>
-        <xliff:target state="translated">げきとつ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">たたく</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112899"><xliff:source>Blaze</xliff:source>
-        <xliff:target state="translated">ブレイズ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ほのお</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112900"><xliff:source>Scorch</xliff:source>
-        <xliff:target state="translated">こげがす</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">あぶる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112901"><xliff:source>Flare</xliff:source>
-        <xliff:target state="translated">フレア</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ぴかっとひかる</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112902"><xliff:source>Senntisten Teleport</xliff:source>

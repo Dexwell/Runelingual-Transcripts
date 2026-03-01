@@ -91,7 +91,7 @@ Emblem Trader	エンブレムしょうにん	name	npc	Emblem Trader
 Reacher	リーチャー	name	npc	Reacher
 Ayesha	アイェシャ	name	npc	Ayesha
 Ironman tutor	てつじんのしどうしゃ	name	npc	Ironman tutor
-Frog	カエル	name	npc	Frog
+Frog	かえる	name	npc	Frog
 Leagues Tutor	リーグのしどうしゃ	name	npc	Leagues Tutor
 Dark core	あんこくのかく	name	npc	Dark core
 Corporeal Beast	コーポリアル・ビースト	name	npc	Corporeal Beast
@@ -122,7 +122,7 @@ Evil Bob	じゃあくなボブ	name	npc	Evil Bob
 Trotters	トロッターズ	name	npc	Trotters
 Servant	めしつかい	name	npc	Servant
 Rod Fishing spot	さおのつりば	name	npc	Rod Fishing spot
-Cat	ネコ	name	npc	Cat
+Cat	ねこ	name	npc	Cat
 Jon	ジョン	name	npc	Jon
 Guard	えいへい	name	npc	Guard
 Turael	ツラエル	name	npc	Turael
@@ -149,8 +149,8 @@ Skeletal Wyvern	ほねワイバーン	name	npc	Skeletal Wyvern
 Killerwatt	キラーワット	name	npc	Killerwatt
 Hole in the wall	かべのあな	name	npc	Hole in the wall
 Wall beast	かべのけもの	name	npc	Wall beast
-Giant frog	きょだいなカエル	name	npc	Giant frog
-Big frog	だいきなカエル	name	npc	Big frog
+Giant frog	きょだいなかえる	name	npc	Giant frog
+Big frog	だいきなかえる	name	npc	Big frog
 Cave slime	どうくつスライム	name	npc	Cave slime
 Cave bug	ドウクツムシ	name	npc	Cave bug
 Cave bug larva	ドウクツムシのようちゅう	name	npc	Cave bug larva
@@ -187,8 +187,8 @@ Dark warrior	あんこくのせんし	name	npc	Dark warrior
 Chaos druid warrior	こんとんドルイドのせんし	name	npc	Chaos druid warrior
 Fungi	きんるい	name	npc	Fungi
 Zygomite	ジゴマイト	name	npc	Zygomite
-Elfinlocks	えるふぃんろっくす	name	npc	Elfinlocks
-Clockwork cat	とけいじかけのネコ	name	npc	Clockwork cat
+Elfinlocks	エルフぃんろっくす	name	npc	Elfinlocks
+Clockwork cat	とけいじかけのねこ	name	npc	Clockwork cat
 Monk	そうりょ	name	npc	Monk
 Rufus	ルーファス	name	npc	Rufus
 Mi-Gor	ミゴー	name	npc	Mi-Gor
@@ -363,7 +363,7 @@ Veliaf Hurtz	ベリアフ・フーツ	name	npc	Veliaf Hurtz
 Sigmund	シグムンド	name	npc	Sigmund
 Nardok	ナードク	name	npc	Nardok
 Dartog	ダートグ	name	npc	Dartog
-Gertrude's cat	ゲートルードのネコ	name	npc	Gertrude's cat
+Gertrude's cat	ゲートルードのねこ	name	npc	Gertrude's cat
 Gamer	ゲーマー	name	npc	Gamer
 Barman	バーテンダー	name	npc	Barman
 Rat	ネズミ	name	npc	Rat
@@ -371,9 +371,9 @@ Necromancer	ネクロマンサー	name	npc	Necromancer
 Guard Bandit	とうぞくのえいへい	name	npc	Guard Bandit
 Barbarian guard	ばんぞくのえいへい	name	npc	Barbarian guard
 Sleepwalker	スリープウォーカー	name	npc	Sleepwalker
-Snake	ヘビ	name	npc	Snake
+Snake	へび	name	npc	Snake
 Albino bat	アルビノのコウモリ	name	npc	Albino bat
-Crab	カニ	name	npc	Crab
+Crab	かに	name	npc	Crab
 Giant mosquito	きょだいなか	name	npc	Giant mosquito
 Jungle horror	ジャングルのかいぶつ	name	npc	Jungle horror
 Cave horror	どうくつのかいぶつ	name	npc	Cave horror
@@ -382,7 +382,7 @@ Patchy	パッチー	name	npc	Patchy
 Launa	ローナ	name	npc	Launa
 Brana	ブラナ	name	npc	Brana
 Tolna	トルナ	name	npc	Tolna
-Angry bear	いかりったクマ	name	npc	Angry bear
+Angry bear	いかりったくま	name	npc	Angry bear
 Angry unicorn	いかりったユニコーン	name	npc	Angry unicorn
 Angry giant rat	いかりったきょだいなネズミ	name	npc	Angry giant rat
 Angry goblin	いかりったゴブリン	name	npc	Angry goblin
@@ -408,9 +408,9 @@ Jari	ジャリ	name	npc	Jari
 Thorodin	ソロジン	name	npc	Thorodin
 Ferd	フェード	name	npc	Ferd
 Donal	ドナル	name	npc	Donal
-Sea Snake Young	わかいウミヘビ	name	npc	Sea Snake Young
-Sea Snake Hatchling	なまれたてのウミヘビ	name	npc	Sea Snake Hatchling
-Giant Sea Snake	きょだいなウミヘビ	name	npc	Giant Sea Snake
+Sea Snake Young	わかいウミへび	name	npc	Sea Snake Young
+Sea Snake Hatchling	なまれたてのウミへび	name	npc	Sea Snake Hatchling
+Giant Sea Snake	きょだいなウミへび	name	npc	Giant Sea Snake
 Elena	エレナ	name	npc	Elena
 Da Vinci	ダ・ビンチ	name	npc	Da Vinci
 Chancy	チャンシー	name	npc	Chancy
@@ -439,7 +439,7 @@ Shamus	シャムス	name	npc	Shamus
 Tree spirit	きのせいれい	name	npc	Tree spirit
 Cave monk	どうくつのそうりょ	name	npc	Cave monk
 Monk of Entrana	エントラナのそうりょ	name	npc	Monk of Entrana
-Chicken	ニワトリ	name	npc	Chicken
+Chicken	にわとり	name	npc	Chicken
 Rooster	おすにわとり	name	npc	Rooster
 Li'l lamb	しょうさなこひつじ	name	npc	Li'l lamb
 Lamb	こひつじ	name	npc	Lamb
@@ -644,7 +644,7 @@ Banknote Exchange Merchant	ぎんこうけんのしょうにん	name	npc	Banknot
 High Priestess Zul-Harcinqa	ズル・ハルシンカおんなおしえこう	name	npc	High Priestess Zul-Harcinqa
 Priestess Zul-Gwenwynig	ズル・グェウィニグみおんな	name	npc	Priestess Zul-Gwenwynig
 Hellcat	ヘルキャット	name	npc	Hellcat
-Lazy cat	たいだなネコ	name	npc	Lazy cat
+Lazy cat	たいだなねこ	name	npc	Lazy cat
 Lazy hellcat	たいだななヘルキャット	name	npc	Lazy hellcat
 Baby impling	よういこあくま	name	npc	Baby impling
 Young impling	わかいこあくま	name	npc	Young impling
@@ -736,10 +736,10 @@ Stag	おすしか	name	npc	Stag
 Wood Dryad	もりのドライアド	name	npc	Wood Dryad
 Fairy Very Wise	たいへんけんいようせい	name	npc	Fairy Very Wise
 Fairy	ようせい	name	npc	Fairy
-Rabbit	ウサギ	name	npc	Rabbit
+Rabbit	うさぎ	name	npc	Rabbit
 Starflower	スターフラワー	name	npc	Starflower
 Sir Amik Varze	サー・アミック・バーズ	name	npc	Sir Amik Varze
-Evil Chicken	じゃあくなニワトリ	name	npc	Evil Chicken
+Evil Chicken	じゃあくなにわとり	name	npc	Evil Chicken
 Baby black dragon	よういくろりゅう	name	npc	Baby black dragon
 K'klik	ククリク	name	npc	K'klik
 Ice troll runt	こおりトロールのこども	name	npc	Ice troll runt
@@ -810,7 +810,7 @@ Zul-Aniel	ズル・アニエル	name	npc	Zul-Aniel
 Zul-Areth	ズル・アレス	name	npc	Zul-Areth
 Broken Handz	ぶろーくん はんず	name	npc	Broken Handz
 Zulrah	ズルラ	name	npc	Zulrah
-Snakeling	こヘビ	name	npc	Snakeling
+Snakeling	こへび	name	npc	Snakeling
 Fritz the Glassblower	ガラスふきのフリッツ	name	npc	Fritz the Glassblower
 Chaos Elemental	こんとんエレメンタル	name	npc	Chaos Elemental
 Chaos Elemental Jr.	かおす えれめんたる じゅにあ	name	npc	Chaos Elemental Jr.
@@ -884,7 +884,7 @@ Silver Cog Director	シルバー・コグのかんとく	name	npc	Silver Cog Dir
 Brown Engine Director	ブラウン・エンジンのかんとく	name	npc	Brown Engine Director
 Red Axe Director	レッド・アックスのかんとく	name	npc	Red Axe Director
 Commander Veldaban	ベルダバンしれいかん	name	npc	Commander Veldaban
-Red Axe Cat	レッド・アックスのネコ	name	npc	Red Axe Cat
+Red Axe Cat	レッド・アックスのねこ	name	npc	Red Axe Cat
 Black Guard Berserker	くろいえいへいバーザーカー	name	npc	Black Guard Berserker
 Door-support	ドアのしえ	name	npc	Door-support
 Door	ドア	name	npc	Door
@@ -929,7 +929,7 @@ Darve	ダーブ	name	npc	Darve
 Moths	ガ	name	npc	Moths
 Barlak	バーラク	name	npc	Barlak
 Saniboch	サニボッチュ	name	npc	Saniboch
-Dromund's cat	ドロマンドのネコ	name	npc	Dromund's cat
+Dromund's cat	ドロマンドのねこ	name	npc	Dromund's cat
 Blasidar the sculptor	ブラシダーちょうこくいえ	name	npc	Blasidar the sculptor
 Riki the sculptor's model	リキちょうこくいえのモデル	name	npc	Riki the sculptor's model
 Vigr	ビギル	name	npc	Vigr
@@ -1129,8 +1129,8 @@ Holoy	ホロイ	name	npc	Holoy
 Hura	フラ	name	npc	Hura
 Cow	うし	name	npc	Cow
 Cow calf	こうし	name	npc	Cow calf
-Pig	ブタ	name	npc	Pig
-Piglet	こブタ	name	npc	Piglet
+Pig	ぶた	name	npc	Pig
+Piglet	こぶた	name	npc	Piglet
 Sheepdog	ぼくひつじいぬ	name	npc	Sheepdog
 Father Aereck	アエレックしんぷ	name	npc	Father Aereck
 Shop keeper	みせぬし	name	npc	Shop keeper
@@ -1145,7 +1145,7 @@ Camel	ラクダ	name	npc	Camel
 Golem	ゴーレム	name	npc	Golem
 Unicorn	ユニコーン	name	npc	Unicorn
 Grizzly bear	グリズリー	name	npc	Grizzly bear
-Black bear	くろいクマ	name	npc	Black bear
+Black bear	くろいくま	name	npc	Black bear
 Earth warrior	つちのせんし	name	npc	Earth warrior
 Ice warrior	こおりのせんし	name	npc	Ice warrior
 Otherworldly being	ことせかいのなまいのちからだ	name	npc	Otherworldly being
@@ -1216,14 +1216,14 @@ King Awowogei	アウォウォゲイおう	name	npc	King Awowogei
 Mizaru	ミザル	name	npc	Mizaru
 Kikazaru	キカザル	name	npc	Kikazaru
 Iwazaru	イワザル	name	npc	Iwazaru
-Big Snake	だいきなヘビ	name	npc	Big Snake
+Big Snake	だいきなへび	name	npc	Big Snake
 Velorina	ヴェロリナ	name	npc	Velorina
 Necrovarus	ネクロヴァルス	name	npc	Necrovarus
 Gravingas	グラヴィナス	name	npc	Gravingas
 Ghost disciple	ゆうれいのでし	name	npc	Ghost disciple
 Ak-Haranu	アク・ハラヌ	name	npc	Ak-Haranu
 Undead cow	アンデッドのうし	name	npc	Undead cow
-Undead chicken	アンデッドのニワトリ	name	npc	Undead chicken
+Undead chicken	アンデッドのにわとり	name	npc	Undead chicken
 Giant lobster	きょだいロブスター	name	npc	Giant lobster
 Robin	ロビン	name	npc	Robin
 Old crone	シワクチャなおばあちゃん	name	npc	Old crone
@@ -1469,7 +1469,7 @@ Ali the Camel Man	ラクダしょうにんのアリ	name	npc	Ali the Camel Man
 Street urchin	うろうじ	name	npc	Street urchin
 Ali the Mayor	しながのアリ	name	npc	Ali the Mayor
 Ali the Hag	ろうばのアリ	name	npc	Ali the Hag
-Ali the Snake Charmer	ヘビつかいのアリ	name	npc	Ali the Snake Charmer
+Ali the Snake Charmer	へびつかいのアリ	name	npc	Ali the Snake Charmer
 Ali the Camel	ラクダのアリ	name	npc	Ali the Camel
 Blackjack seller	ブラックジャックのはんばいひと	name	npc	Blackjack seller
 Menaphite Leader	メナファイトのなが	name	npc	Menaphite Leader
@@ -1617,7 +1617,7 @@ Peer the Seer	よけんしゃのピア	name	npc	Peer the Seer
 Thorvald the Warrior	せんしのソーヴァルド	name	npc	Thorvald the Warrior
 Koschei the deathless	ふしのコスチェイ	name	npc	Koschei the deathless
 Fox	キツネ	name	npc	Fox
-Bunny	こウサギ	name	npc	Bunny
+Bunny	こうさぎ	name	npc	Bunny
 Bear Cub	こグマ	name	npc	Bear Cub
 Unicorn Foal	こどものユニコーン	name	npc	Unicorn Foal
 Black unicorn Foal	こどものくろユニコーン	name	npc	Black unicorn Foal
@@ -1922,7 +1922,7 @@ Sir Leye	サー・レイエ	name	npc	Sir Leye
 Sir Tinley	サー・ティンリー	name	npc	Sir Tinley
 Sir Ren Itchood	サー・レン・イッチフッド	name	npc	Sir Ren Itchood
 Miss Cheevers	ミス・チーヴァーズ	name	npc	Miss Cheevers
-Ms. Hynn Terprett	ミズ・ヒン・テープレット	name	npc	Ms. Hynn Terprett
+Ms. Hynn Terprett	みず・ヒン・テープレット	name	npc	Ms. Hynn Terprett
 Sir Tiffy Cashien	サー・ティフィー・キャシエン	name	npc	Sir Tiffy Cashien
 Hopeless beast	たえのぞみのけもの	name	npc	Hopeless beast
 Timfraku	チムフラク	name	npc	Timfraku
@@ -1949,7 +1949,7 @@ White golem	しろいゴーレム	name	npc	White golem
 Grey golem	はいいろのゴーレム	name	npc	Grey golem
 Ghaslor the Elder	ちょうろうのガスロー	name	npc	Ghaslor the Elder
 Ali the Carter	おものアリ	name	npc	Ali the Carter
-Usi	ウシ	name	npc	Usi
+Usi	うし	name	npc	Usi
 Nkuku	ンクク	name	npc	Nkuku
 Garai	ガライ	name	npc	Garai
 Habibah	ハビバ	name	npc	Habibah
@@ -1973,7 +1973,7 @@ Fake Man	にせのにんげん	name	npc	Fake Man
 Fortress Guard	もりのけいびいん	name	npc	Fortress Guard
 Black Knight Captain	くろきしのたいなが	name	npc	Black Knight Captain
 Greldo	グレルド	name	npc	Greldo
-Black Cat	くろいネコ	name	npc	Black Cat
+Black Cat	くろいねこ	name	npc	Black Cat
 Col. O'Niall	だいさオーニアル	name	npc	Col. O'Niall
 Mayor Hobb	ホッブしなが	name	npc	Mayor Hobb
 Brother Maledict	マレディクトしゅうどうし	name	npc	Brother Maledict
@@ -1982,7 +1982,7 @@ Witchaven villager	ウィッチヘブンのむらびと	name	npc	Witchaven villa
 Mother Mallum	ははマルム	name	npc	Mother Mallum
 Slug Prince	おうじナメクジ	name	npc	Slug Prince
 Giant Lobster	きょだいロブスター	name	npc	Giant Lobster
-Sea slug	ウミウシ	name	npc	Sea slug
+Sea slug	ウミうし	name	npc	Sea slug
 Jeb	ジェブ	name	npc	Jeb
 Doris	ドリス	name	npc	Doris
 Hell-Rat	ヘル・ネズミ	name	npc	Hell-Rat
@@ -2254,16 +2254,16 @@ Most of a Zombie	ゾンビのだいぶぶん	name	npc	Most of a Zombie
 Zombie Head	ゾンビのとうぶ	name	npc	Zombie Head
 Half-Zombie	ゾンビのはんぶん	name	npc	Half-Zombie
 Other Half-Zombie	ゾンビのもうはんぶん	name	npc	Other Half-Zombie
-Wily cat	ずるけんいネコ	name	npc	Wily cat
+Wily cat	ずるけんいねこ	name	npc	Wily cat
 Wily hellcat	ずるけんいヘルキャット	name	npc	Wily hellcat
-Hell-kitten	ヘル・コネコ	name	npc	Hell-kitten
-Overgrown cat	ろういたネコ	name	npc	Overgrown cat
+Hell-kitten	ヘル・コねこ	name	npc	Hell-kitten
+Overgrown cat	ろういたねこ	name	npc	Overgrown cat
 Overgrown hellcat	ろういたヘルキャット	name	npc	Overgrown hellcat
 Peaceful barbarian spirit	やすらかなばんぞくのせいれい	name	npc	Peaceful barbarian spirit
 Murphy	マーフィー	name	npc	Murphy
 Rachael	ラチャエル	name	npc	Rachael
-Swamp snake	ぬまヘビ	name	npc	Swamp snake
-Dead swamp snake	しんだぬまヘビ	name	npc	Dead swamp snake
+Swamp snake	ぬまへび	name	npc	Swamp snake
+Dead swamp snake	しんだぬまへび	name	npc	Dead swamp snake
 Giant snail	きょだいなカタツムリ	name	npc	Giant snail
 Riyl shadow	リールのかげ	name	npc	Riyl shadow
 Asyn shadow	アシンのかげ	name	npc	Asyn shadow
@@ -2377,7 +2377,7 @@ Red Axe Secretary	レッド・アックスのひしょ	name	npc	Red Axe Secretar
 Orlando Smith	オルランド・スミス	name	npc	Orlando Smith
 Natural historian	しぜんしか	name	npc	Natural historian
 Leech display	ヒルのてんじ	name	npc	Leech display
-Sea slugs display	ウミウシのてんじ	name	npc	Sea slugs display
+Sea slugs display	ウミうしのてんじ	name	npc	Sea slugs display
 Snail display	カタツムリのてんじ	name	npc	Snail display
 Monkey display	サルのてんじ	name	npc	Monkey display
 Lizard display	トカゲのてんじ	name	npc	Lizard display
@@ -2416,7 +2416,7 @@ Gnome Driver	ノームのはこびころがりて	name	npc	Gnome Driver
 Gnome Mage	ノームまじゅつし	name	npc	Gnome Mage
 Lieutenant Schepbur	スケプバーちゅうい	name	npc	Lieutenant Schepbur
 Trainer Nacklepen	トレーナーのナックルペン	name	npc	Trainer Nacklepen
-Bush snake	やぶヘビ	name	npc	Bush snake
+Bush snake	やぶへび	name	npc	Bush snake
 Elvarg (hard)	エルバーグ（じょうきゅう）	name	npc	Elvarg (hard)
 The Inadequacy (hard)	ふかんぜんなモノ（じょうきゅう）	name	npc	The Inadequacy (hard)
 The Everlasting (hard)	ふめつのモノ（じょうきゅう）	name	npc	The Everlasting (hard)
@@ -2435,7 +2435,7 @@ Glod (hard)	グロッド（じょうきゅう）	name	npc	Glod (hard)
 Treus Dayth (hard)	トレウス・ダイス（じょうきゅう）	name	npc	Treus Dayth (hard)
 Black Knight Titan (hard)	くろきしのきょじん（じょうきゅう）	name	npc	Black Knight Titan (hard)
 Dagannoth mother (hard)	ははダガノス（じょうきゅう）	name	npc	Dagannoth mother (hard)
-Evil Chicken (hard)	じゃあくなニワトリ（じょうきゅう）	name	npc	Evil Chicken (hard)
+Evil Chicken (hard)	じゃあくなにわとり（じょうきゅう）	name	npc	Evil Chicken (hard)
 Culinaromancer (hard)	りょうりのまじゅつし（じょうきゅう）	name	npc	Culinaromancer (hard)
 Agrith-Na-Na (hard)	アグリス・ナナ（じょうきゅう）	name	npc	Agrith-Na-Na (hard)
 Flambeed (hard)	フラムビード（じょうきゅう）	name	npc	Flambeed (hard)
@@ -2597,7 +2597,7 @@ Farmer Hayfield	のうみんのヘイフィールド	name	npc	Farmer Hayfield
 Frankie	フランキー	name	npc	Frankie
 Tynan	ティアン	name	npc	Tynan
 Nicholas	ニコラス	name	npc	Nicholas
-Dockmaster	ドックマスター	name	npc	Dockmaster
+Dockmaster	ドッくまスター	name	npc	Dockmaster
 Dock worker	みなとわんのろうどうしゃ	name	npc	Dock worker
 Captain Khaled	クハレドせんちょう	name	npc	Captain Khaled
 Patrolman	だんせいのじゅんさ	name	npc	Patrolman
@@ -2622,7 +2622,7 @@ Reanimated monkey	ふっかつしたサル	name	npc	Reanimated monkey
 Reanimated imp	ふっかつしたこあくま	name	npc	Reanimated imp
 Reanimated minotaur	ふっかつしたミノタウロス	name	npc	Reanimated minotaur
 Reanimated scorpion	ふっかつしたサソリ	name	npc	Reanimated scorpion
-Reanimated bear	ふっかつしたクマ	name	npc	Reanimated bear
+Reanimated bear	ふっかつしたくま	name	npc	Reanimated bear
 Reanimated unicorn	ふっかつしたユニコーン	name	npc	Reanimated unicorn
 Reanimated dog	ふっかつしたいぬ	name	npc	Reanimated dog
 Reanimated chaos druid	ふっかつしたこんとんドルイド	name	npc	Reanimated chaos druid
@@ -2691,7 +2691,7 @@ Miriam	ミリアム	name	npc	Miriam
 Traxi	トラクシ	name	npc	Traxi
 Raeli	ラエリ	name	npc	Raeli
 Mogrim	モグリム	name	npc	Mogrim
-Loinur	ロイヌー	name	npc	Loinur
+Loinur	ロいぬー	name	npc	Loinur
 Lucky impling	こううんのこあくま	name	npc	Lucky impling
 Guildmaster Lars	ギルドマスターのラーズ	name	npc	Guildmaster Lars
 Murfet	マーフェット	name	npc	Murfet
@@ -2829,7 +2829,7 @@ Phluxia bat	フラクシア・バット	name	npc	Phluxia bat
 Kryket bat	クリケット・バット	name	npc	Kryket bat
 Murng bat	ムーング・バット	name	npc	Murng bat
 Psykk bat	プシック・バット	name	npc	Psykk bat
-Cave snake	どうくつヘビ	name	npc	Cave snake
+Cave snake	どうくつへび	name	npc	Cave snake
 Captain Rimor	リモールたいなが	name	npc	Captain Rimor
 Strange Device	ふしぎなきかい	name	npc	Strange Device
 Mountain Guide	やまのあんないにん	name	npc	Mountain Guide
@@ -2893,7 +2893,7 @@ Utrec	ウトレック	name	npc	Utrec
 Kylie Minnow	カイル・ミノウ	name	npc	Kylie Minnow
 Recruiter	さいようになうあたり	name	npc	Recruiter
 Captain Cleive	クリーヴたいなが	name	npc	Captain Cleive
-Wizard Mizgog	まほうつかいのミズゴグ	name	npc	Wizard Mizgog
+Wizard Mizgog	まほうつかいのみずゴグ	name	npc	Wizard Mizgog
 Armoured Foe	ぶそうしたてき	name	npc	Armoured Foe
 Well-armed Foe	きょういぶそうのてき	name	npc	Well-armed Foe
 Mernia	メーニア	name	npc	Mernia
@@ -2925,8 +2925,8 @@ Gaius	ガイウス	name	npc	Gaius
 Ammonite Crab	アモナイトガニ	name	npc	Ammonite Crab
 Fossil Rock	かせきのいし	name	npc	Fossil Rock
 Tar Bubbles	タールのあわ	name	npc	Tar Bubbles
-Hoop Snake	わのヘビ	name	npc	Hoop Snake
-Stunned Hoop Snake	うごきころがりしたわのヘビ	name	npc	Stunned Hoop Snake
+Hoop Snake	わのへび	name	npc	Hoop Snake
+Stunned Hoop Snake	うごきころがりしたわのへび	name	npc	Stunned Hoop Snake
 Tar Monster	タールのかけもの	name	npc	Tar Monster
 Passive Tar Monster	きえきょくてきなタールのかけもの	name	npc	Passive Tar Monster
 Deranged archaeologist	さくみだしたこうこがくしゃ	name	npc	Deranged archaeologist
@@ -2940,8 +2940,8 @@ Dawn	ドーン	name	npc	Dawn
 Revenant imp	ゆうきのこあくま	name	npc	Revenant imp
 Midnight	ミッドナイト	name	npc	Midnight
 Noon	ヌーン	name	npc	Noon
-Sand Snake (hard)	すなヘビ（じょうきゅう）	name	npc	Sand Snake (hard)
-Sand Snake	すなヘビ	name	npc	Sand Snake
+Sand Snake (hard)	すなへび（じょうきゅう）	name	npc	Sand Snake (hard)
+Sand Snake	すなへび	name	npc	Sand Snake
 Artur Hosidius	アルテゥル・ホシディアス	name	npc	Artur Hosidius
 Butler Jarvis	しつじのジャーヴィス	name	npc	Butler Jarvis
 Chef Olivia	シェフのエリヴィア	name	npc	Chef Olivia
@@ -3046,7 +3046,7 @@ Vertida Sefalatis	ヴェーティダ・セファラチス	name	npc	Vertida Sefal
 Flaygian Screwte	フレイギアン・スクリューテ	name	npc	Flaygian Screwte
 Mekritus A'hara	メクリタス・アハラ	name	npc	Mekritus A'hara
 Andiess Juip	アンジエス・ジュイップ	name	npc	Andiess Juip
-Kael Forshaw	カエル・フォーシャウ	name	npc	Kael Forshaw
+Kael Forshaw	かえる・フォーシャウ	name	npc	Kael Forshaw
 Verzik Vitur	ヴァージック・ヴァーチャー	name	npc	Verzik Vitur
 Abomination	イマワシキモノ	name	npc	Abomination
 Nylocas Ischyros	ニロカス・イスキロス	name	npc	Nylocas Ischyros
@@ -3236,7 +3236,7 @@ Sir Carl	サー・カール	name	npc	Sir Carl
 Sir Harry	サー・ハリー	name	npc	Sir Harry
 Half-soulless	はんむたましい	name	npc	Half-soulless
 Kardia	カージア	name	npc	Kardia
-Witch's cat	まじょのネコ	name	npc	Witch's cat
+Witch's cat	まじょのねこ	name	npc	Witch's cat
 Kalrag	カルラグ	name	npc	Kalrag
 Othainian	オサイニアン	name	npc	Othainian
 Doomion	ドゥーミオン	name	npc	Doomion
@@ -3394,9 +3394,9 @@ Trader Stan	しょうにんのスタン	name	npc	Trader Stan
 Trader Crewmember	しょうにんのとうのりいん	name	npc	Trader Crewmember
 Little Nightmare	しょうさなナイトメア	name	npc	Little Nightmare
 Oath Lord D'rows	オース・ロード・ドローズ	name	npc	Oath Lord D'rows
-Oathbreaker M'als	オースブレイカー・マルズ	name	npc	Oathbreaker M'als
-Oathbreaker E'piws	オースブレイカー・エピウス	name	npc	Oathbreaker E'piws
-Oathbreaker B'ats	オースブレイカー・バッツ	name	npc	Oathbreaker B'ats
+Oathbreaker M'als	オースブレいかー・マルズ	name	npc	Oathbreaker M'als
+Oathbreaker E'piws	オースブレいかー・エピウス	name	npc	Oathbreaker E'piws
+Oathbreaker B'ats	オースブレいかー・バッツ	name	npc	Oathbreaker B'ats
 Lithil	リシル	name	npc	Lithil
 Sister Aseret	アセレトしゅうみちおんな	name	npc	Sister Aseret
 Sister Naoj	ナオジしゅうみちおんな	name	npc	Sister Naoj
@@ -3465,7 +3465,7 @@ Noctillion Lugosi	ノクチフロン・ルゴシ	name	npc	Noctillion Lugosi
 Alek Constantine	アレク・コンスタンチン	name	npc	Alek Constantine
 Grigor Rasputin	グリゴー・ラスプチン	name	npc	Grigor Rasputin
 Haemas Lamescus	ハエマス・ラメスカス	name	npc	Haemas Lamescus
-Remus Kaninus	レマス・カニナス	name	npc	Remus Kaninus
+Remus Kaninus	レマス・かにナス	name	npc	Remus Kaninus
 Vallessia Dracyula	ヴァレシア・ドラキウラ	name	npc	Vallessia Dracyula
 Violetta Sanguine	ヴァイオレッタ・サングイン	name	npc	Violetta Sanguine
 Diphylla Bechstein	ジフィラ・ベチステイン	name	npc	Diphylla Bechstein
@@ -3476,7 +3476,7 @@ Vonnetta Varnis	ヴォンネッタ・ヴァーニス	name	npc	Vonnetta Varnis
 Natalidae Shadum	ナタリダエ・シャダム	name	npc	Natalidae Shadum
 Mortina Daubenton	モーチナ・ドベントン	name	npc	Mortina Daubenton
 Lasenna Rasputin	ラセンナ・ラスプチン	name	npc	Lasenna Rasputin
-Caninelle Draynar	カニネル・ドライナー	name	npc	Caninelle Draynar
+Caninelle Draynar	かにネル・ドライナー	name	npc	Caninelle Draynar
 Valentina Diaemus	ヴァレンチナ・ヂアエマス	name	npc	Valentina Diaemus
 Nakasa Jovkai	ナカサ・ジョヴカイ	name	npc	Nakasa Jovkai
 Crimsonette van Marr	クリムゾネテ・ヴァン・マー	name	npc	Crimsonette van Marr
@@ -3525,7 +3525,7 @@ Barbara	バーバラ	name	npc	Barbara
 Old Man Yarlo	ヤーロじいさん	name	npc	Old Man Yarlo
 Spria	スプリア	name	npc	Spria
 Sourhog	ソーホッグ	name	npc	Sourhog
-Pig Thing	ブタみたいなヤツ	name	npc	Pig Thing
+Pig Thing	ぶたみたいなヤツ	name	npc	Pig Thing
 Bees!	ハチ！	name	npc	Bees!
 Captain Dalbur	ダルバーきなが	name	npc	Captain Dalbur
 Captain Bleemadge	ブリーマッジきなが	name	npc	Captain Bleemadge
@@ -3649,8 +3649,8 @@ Captain Bruce	ブルースたいなが	name	npc	Captain Bruce
 Sergeant Ricardo	リカードぐんそう	name	npc	Sergeant Ricardo
 Jessie	ジェシー	name	npc	Jessie
 Boar	イノシシ	name	npc	Boar
-Lynx	オオヤマネコ	name	npc	Lynx
-Lynx Tamer	オオヤマネコしらべおしえし	name	npc	Lynx Tamer
+Lynx	オオヤマねこ	name	npc	Lynx
+Lynx Tamer	オオヤマねこしらべおしえし	name	npc	Lynx Tamer
 Farolt	ファーロルト	name	npc	Farolt
 Istoria	イストリア	name	npc	Istoria
 Dusty Aliv	ダスティー・アリヴ	name	npc	Dusty Aliv
@@ -3814,7 +3814,7 @@ Isma'il The Kebab Seller	ケバブはんばいひとのイズマイル	name	npc	
 Sami the Camel Man	ラクダしょうにんのサミ	name	npc	Sami the Camel Man
 Hakeem the Mayor	しながのハキーム	name	npc	Hakeem the Mayor
 Alisha the Hag	ろうばのアリシャ	name	npc	Alisha the Hag
-Badir the Snake Charmer	ヘビつかいのバーディー	name	npc	Badir the Snake Charmer
+Badir the Snake Charmer	へびつかいのバーディー	name	npc	Badir the Snake Charmer
 Jasim the Camel	ラクダのジャジム	name	npc	Jasim the Camel
 Ibil the Camel	ラクダのイビル	name	npc	Ibil the Camel
 Rashid the Operator	オペレーターのラシド	name	npc	Rashid the Operator
@@ -3897,9 +3897,9 @@ Shadow Keeper	かげのしゅごしゃ	name	npc	Shadow Keeper
 Barus	バルス	name	npc	Barus
 Kasonde	カソンデ	name	npc	Kasonde
 Strangled	こうさつされたもの	name	npc	Strangled
-Strangled Bear	こうさつされたクマ	name	npc	Strangled Bear
+Strangled Bear	こうさつされたくま	name	npc	Strangled Bear
 Strangled Boar	こうさつされたイノシシ	name	npc	Strangled Boar
-Strangled Lynx	こうさつされたオオヤマネコ	name	npc	Strangled Lynx
+Strangled Lynx	こうさつされたオオヤマねこ	name	npc	Strangled Lynx
 Dr Banikan	バニカンせんせい	name	npc	Dr Banikan
 Sliske	スレスケー	name	npc	Sliske
 The Forsaken Assassin	みすてられたあんころしもの	name	npc	The Forsaken Assassin
@@ -3943,7 +3943,7 @@ Small Monolith	しょうさなモノリス	name	npc	Small Monolith
 Warped Tortoise	ゆがみんだカメ	name	npc	Warped Tortoise
 Warped Terrorbird	ゆがみんだテラーバード	name	npc	Warped Terrorbird
 Hagus	ハグス	name	npc	Hagus
-Spidey dog	クモイヌ	name	npc	Spidey dog
+Spidey dog	クモいぬ	name	npc	Spidey dog
 Unfinished Beehive	みかんせいなハチのす	name	npc	Unfinished Beehive
 Complete Beehive	かんせいしたハチのす	name	npc	Complete Beehive
 Wild Beehive	やせいのハチのす	name	npc	Wild Beehive
@@ -4024,7 +4024,7 @@ Moonlight moth	げっこうガ	name	npc	Moonlight moth
 Minimus	ミニマス	name	npc	Minimus
 Gloria	グローリア	name	npc	Gloria
 Jaguar warrior	ジャガーのせんし	name	npc	Jaguar warrior
-Serpent shaman	ヘビのシャーマン	name	npc	Serpent shaman
+Serpent shaman	へびのシャーマン	name	npc	Serpent shaman
 Fremennik warband archer	フレメニックへいだんのアーチャー	name	npc	Fremennik warband archer
 Fremennik warband seer	フレメニックへいだんのよけんしゃ	name	npc	Fremennik warband seer
 Fremennik warband berserker	フレメニックへいだんのバーザーカー	name	npc	Fremennik warband berserker
@@ -4102,7 +4102,7 @@ Huito	フイト	name	npc	Huito
 Sonalo	ソナロ	name	npc	Sonalo
 Funbo	フンボ	name	npc	Funbo
 Kalko	カルコ	name	npc	Kalko
-Cuica	クイカ	name	npc	Cuica
+Cuica	クいか	name	npc	Cuica
 Callio	カリオ	name	npc	Callio
 Guildmaster Apatura	ギルドマスターのアパチュラ	name	npc	Guildmaster Apatura
 Huntmaster Gilman (Novice)	りょうしょうギルマン（しんまい）	name	npc	Huntmaster Gilman (Novice)
@@ -4168,9 +4168,9 @@ Red skink	あかいスキンク	name	npc	Red skink
 Gilbert	ギルバート	name	npc	Gilbert
 Kit Breaker	キット・ブレーカー	name	npc	Kit Breaker
 Sir Kit Breaker	サー・キット・ブレーカー	name	npc	Sir Kit Breaker
-Frog Prin	カエルのプリン	name	npc	Frog Prin
-Frog Prince	カエルのおうじ	name	npc	Frog Prince
-Frog Princess	カエルのひめ	name	npc	Frog Princess
+Frog Prin	かえるのプリン	name	npc	Frog Prin
+Frog Prince	かえるのおうじ	name	npc	Frog Prince
+Frog Princess	かえるのひめ	name	npc	Frog Princess
 Enraged Blood Moon	げきどしたブラッド・ムーン	name	npc	Enraged Blood Moon
 Enraged Blue Moon	げきどしたブルームーン	name	npc	Enraged Blue Moon
 Enraged Eclipse Moon	げきどしたエクリプス・ムーン	name	npc	Enraged Eclipse Moon
@@ -4238,7 +4238,7 @@ Caritta	カリッタ	name	npc	Caritta
 Sergius	セーギウス	name	npc	Sergius
 Nova	ノヴァ	name	npc	Nova
 Emissary Ascended	のぼりかくしたてんし	name	npc	Emissary Ascended
-Forebearer Janus	そせんヤマネコ	name	npc	Forebearer Janus
+Forebearer Janus	そせんヤマねこ	name	npc	Forebearer Janus
 Forebearer Fides	そせんヒーデス	name	npc	Forebearer Fides
 Augur Metzli	オーグー・メッジリ	name	npc	Augur Metzli
 Emissary Acolyte	さむらいまつのししゃ	name	npc	Emissary Acolyte
@@ -4257,7 +4257,7 @@ Tenoch	テノック	name	npc	Tenoch
 Silia	シリア	name	npc	Silia
 Adrius	アドリウス	name	npc	Adrius
 Eleuia	エルイア	name	npc	Eleuia
-Frost Crab	こおりのカニ	name	npc	Frost Crab
+Frost Crab	こおりのかに	name	npc	Frost Crab
 Brew'ma	ブリューマ	name	npc	Brew'ma
 Marika	マリカ	name	npc	Marika
 Chilled jelly	つめたいえたゼリー	name	npc	Chilled jelly
@@ -4310,7 +4310,7 @@ Woofson	ウーフソン	name	npc	Woofson
 Porcupine	ヤマアラシ	name	npc	Porcupine
 Salius	サリウス	name	npc	Salius
 Salvager	サルヴァジャー	name	npc	Salvager
-Chosen Aluinus	えらびばれたアルイヌス	name	npc	Chosen Aluinus
+Chosen Aluinus	えらびばれたアルいぬス	name	npc	Chosen Aluinus
 Hugh	ヒュー	name	npc	Hugh
 Izel	イゼル	name	npc	Izel
 Worm Tongue	ワーム・タング	name	npc	Worm Tongue
@@ -4333,7 +4333,7 @@ Ercos	エーコス	name	npc	Ercos
 Bone Squirrel	ほねのリス	name	npc	Bone Squirrel
 Huberte	フベルテ	name	npc	Huberte
 Moxi	モキシー	name	npc	Moxi
-Ghost Cat	ネコのおかけ	name	npc	Ghost Cat
+Ghost Cat	ねこのおかけ	name	npc	Ghost Cat
 Shepherd Dog	ぼくひつじいぬ	name	npc	Shepherd Dog
 Corgi	コーギー	name	npc	Corgi
 Yorkie	ヨーキー	name	npc	Yorkie

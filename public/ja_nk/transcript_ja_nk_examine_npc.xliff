@@ -171,7 +171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27035">
         <xliff:source>A rocky outcrop.</xliff:source>
-        <xliff:target state="translated">いわばかりのとっぱ。</xliff:target>
+        <xliff:target state="translated">いわの つきでた ところだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rocks
@@ -187,7 +187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27037">
         <xliff:source>Not man's best friend.</xliff:source>
-        <xliff:target state="translated">おとこのもっともいいともだちではない。</xliff:target>
+        <xliff:target state="translated">ないもっともいいともだち。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wolf
@@ -219,7 +219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27041">
         <xliff:source>Bow wow.</xliff:source>
-        <xliff:target state="translated">ワンワン。</xliff:target>
+        <xliff:target state="translated">ゆみ.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dog
@@ -283,7 +283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27049">
         <xliff:source>Beware of the dog!</xliff:source>
-        <xliff:target state="translated">いぬにきをつけろ！</xliff:target>
+        <xliff:target state="translated">のいぬ!!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Guard dog
@@ -291,7 +291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27050">
         <xliff:source>He doesn't look very welcoming.</xliff:source>
-        <xliff:target state="translated">あまりかんげいしてくれないみたいだ。</xliff:target>
+        <xliff:target state="translated">かれないみえるとても。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Hobgoblin
@@ -323,7 +323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27054">
         <xliff:source>He's full of pent-up aggression.</xliff:source>
-        <xliff:target state="translated">ぞうあつされたきょうぼうであふれている。</xliff:target>
+        <xliff:target state="translated">いっぱいのの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ogre
@@ -339,7 +339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27056">
         <xliff:source>I don't think insect repellent will work...</xliff:source>
-        <xliff:target state="translated">むしよけはきかないとおもう...</xliff:target>
+        <xliff:target state="translated">わたしないむしはたらく...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kalphite Soldier
@@ -363,7 +363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27059">
         <xliff:source>I don't like the look of those spines...</xliff:source>
-        <xliff:target state="translated">あのとげはいやだな...</xliff:target>
+        <xliff:target state="translated">わたしないのようなみえるの...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tok-Xil
@@ -571,7 +571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27085">
         <xliff:source>Young but still dangerous.</xliff:source>
-        <xliff:target state="translated">わかいけど、やはりきけんだ。</xliff:target>
+        <xliff:target state="translated">わかいしかしまだあぶない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Baby blue dragon
@@ -819,7 +819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27116">
         <xliff:source>Isn't so annoying when in pet form.</xliff:source>
-        <xliff:target state="translated">ペットのすがたのときはあんなにうるさくない。</xliff:target>
+        <xliff:target state="translated">Isn't so annoying when in pet form。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dark core
@@ -939,7 +939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27131">
         <xliff:source>A brightly coloured game bird.</xliff:source>
-        <xliff:target state="translated">あざやかないろのゲームのとり。</xliff:target>
+        <xliff:target state="translated">いろどった とり.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Pheasant
@@ -1011,7 +1011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27140">
         <xliff:source>I can see fish swimming in the water.</xliff:source>
-        <xliff:target state="translated">みずのなかをおよいでいるさかながみえる。</xliff:target>
+        <xliff:target state="translated">さかなが、みずのなかをおよいでいるのがみえる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rod Fishing spot
@@ -1139,7 +1139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27156">
         <xliff:source>Spawn of Darkness.</xliff:source>
-        <xliff:target state="translated">くらやみのこ。</xliff:target>
+        <xliff:target state="translated">やみ の うまれたこ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Skotos
@@ -1459,7 +1459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27196">
         <xliff:source>Vacuum proof.</xliff:source>
-        <xliff:target state="translated">そうじきの、すきます。</xliff:target>
+        <xliff:target state="translated">Vacuum proof。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Venenatis spiderling
@@ -1643,7 +1643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27219">
         <xliff:source>Rogueish.</xliff:source>
-        <xliff:target state="translated">いたずらっぽい。</xliff:target>
+        <xliff:target state="translated">ならずもの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rogue
@@ -2027,7 +2027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27267">
         <xliff:source>A tough-looking criminal.</xliff:source>
-        <xliff:target state="translated">つよそうな、ほうはん。</xliff:target>
+        <xliff:target state="translated">ごつごつしたのろむ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bandit
@@ -2499,7 +2499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27326">
         <xliff:source>Doesn't look like the musical type.</xliff:source>
-        <xliff:target state="translated">おんがくのたいプではないみたいだ。</xliff:target>
+        <xliff:target state="translated">おんがくのたいぷではないみたいだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Styrmir
@@ -2787,7 +2787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27362">
         <xliff:source>A sick, frail old man.</xliff:source>
-        <xliff:target state="translated">びょうきで、よわい、ふるいおとこ。</xliff:target>
+        <xliff:target state="translated">びょうきの,ふるいおとこ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sithik Ints
@@ -3083,7 +3083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27399">
         <xliff:source>A fiery little pup!</xliff:source>
-        <xliff:target state="translated">ふぁいあー、ちいさい、こいぬ。</xliff:target>
+        <xliff:target state="translated">fiery little pup!だ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Hellpuppy
@@ -3587,7 +3587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27462">
         <xliff:source>One of Gielinor's many citizens.</xliff:source>
-        <xliff:target state="translated">ギエリノールのたくさんのしみんのひとり。</xliff:target>
+        <xliff:target state="translated">のおおく。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Man
@@ -4251,7 +4251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27545">
         <xliff:source>Curls up into a ball to protect itself from attack.</xliff:source>
-        <xliff:target state="translated">こうげきからじぶんをまもりるために、まるくなる。</xliff:target>
+        <xliff:target state="translated">Curls up into a ball to protect itself from attack。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Prickly kebbit
@@ -4259,7 +4259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27546">
         <xliff:source>Now that's a big overbite.</xliff:source>
-        <xliff:target state="translated">これはおおきいでっはだ。</xliff:target>
+        <xliff:target state="translated">Now that's a big overbite。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sabre-toothed kebbit
@@ -4267,7 +4267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27547">
         <xliff:source>It uses its tail to hunt and skewer fish.</xliff:source>
-        <xliff:target state="translated">そのおをつかいって、さかなをかりって、くしさしする。</xliff:target>
+        <xliff:target state="translated">それ それ へ かり と さかな.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Barb-tailed kebbit
@@ -4275,7 +4275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27548">
         <xliff:source>That's a mean looking set of claws.</xliff:source>
-        <xliff:target state="translated">あれはいやそうなツメのセットだ。</xliff:target>
+        <xliff:target state="translated">That's a mean looking set of claws。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wild kebbit
@@ -4603,7 +4603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27589">
         <xliff:source>He's wandering around aimlessly with a box of spare parts.</xliff:source>
-        <xliff:target state="translated">あいつははんぷへんなはこをもちって、さまよっている。</xliff:target>
+        <xliff:target state="translated">あいつははんぷへんなはこをもって、さまよっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Engineering assistant
@@ -4899,7 +4899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27626">
         <xliff:source>Looks like he knows his way around a kitchen.</xliff:source>
-        <xliff:target state="translated">かれはだいどころをよくしりっているみたいだ。</xliff:target>
+        <xliff:target state="translated">かれはだいどころをよくしっているみたいだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Gethin
@@ -4979,7 +4979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27636">
         <xliff:source>He acts as if he owns the place.</xliff:source>
-        <xliff:target state="translated">あいつはここをもちっているようにふるまっている。</xliff:target>
+        <xliff:target state="translated">あいつはここをもっているようにふるまっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Aleck
@@ -5003,7 +5003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27639">
         <xliff:source>With all the furs, I almost mistook her for a wild animal.</xliff:source>
-        <xliff:target state="translated">すべてのけがわで、かのじょをほぼやせいどうぶつだとおもいった。</xliff:target>
+        <xliff:target state="translated">すべてのけがわで、かのじょをほぼやせいどうぶつだとおもった。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Hunting expert
@@ -5011,7 +5011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27640">
         <xliff:source>Wild.</xliff:source>
-        <xliff:target state="translated">あばれもの。</xliff:target>
+        <xliff:target state="translated">あらび。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ferret
@@ -5363,7 +5363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27684">
         <xliff:source>A fully grown feline.</xliff:source>
-        <xliff:target state="translated">せいすい、ねこどうぶつ。</xliff:target>
+        <xliff:target state="translated">おとなまでおおきくなったねこだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cat
@@ -5371,7 +5371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27685">
         <xliff:source>A hellish pet cat!</xliff:source>
-        <xliff:target state="translated">じごくのようなペットのねこ！</xliff:target>
+        <xliff:target state="translated">ねこ!!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Hellcat
@@ -5379,7 +5379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27686">
         <xliff:source>A friendly not so little pet.</xliff:source>
-        <xliff:target state="translated">ともすきてきな、そこまでしょうさくないペット。</xliff:target>
+        <xliff:target state="translated">ないちいさい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lazy cat
@@ -5387,7 +5387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27687">
         <xliff:source>A hellish not-so-little pet.</xliff:source>
-        <xliff:target state="translated">じごく、まあまあ、おおきい、ペット。</xliff:target>
+        <xliff:target state="translated">じごくのちょっとおおきいペットだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lazy hellcat
@@ -5539,7 +5539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27706">
         <xliff:source>What on Gielinor is that?</xliff:source>
-        <xliff:target state="translated">ギエリノールでこれはなんだ？</xliff:target>
+        <xliff:target state="translated">のじょうにあれ??</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Penance Fighter
@@ -5587,7 +5587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27712">
         <xliff:source>I think I should keep my distance...</xliff:source>
-        <xliff:target state="translated">わたしはきょりをほつべきだとおもいう...</xliff:target>
+        <xliff:target state="translated">わたしはきょりをほつべきだとおもう...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bloodworm
@@ -5755,7 +5755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27733">
         <xliff:source>I think they're some kind of beetle.</xliff:source>
-        <xliff:target state="translated">かれらはなにしゅるいかのこうむしだとおもいう。</xliff:target>
+        <xliff:target state="translated">かれらはなにしゅるいかのこうむしだとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Scarab Swarm
@@ -5827,7 +5827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27742">
         <xliff:source>They'll eat anything!</xliff:source>
-        <xliff:target state="translated">かれらはなんでもしょくべる！</xliff:target>
+        <xliff:target state="translated">かれらはなんでもたべる！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Goat
@@ -5891,7 +5891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27750">
         <xliff:source>Loves living in an orchard.</xliff:source>
-        <xliff:target state="translated">はじゅえんにすみむのがだいすき。</xliff:target>
+        <xliff:target state="translated">はじゅえんにすむのがだいすき。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Del-Monty
@@ -6451,7 +6451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27820">
         <xliff:source>Looks kind of familiar.</xliff:source>
-        <xliff:target state="translated">なにとなくしりっているみたいにみえる。</xliff:target>
+        <xliff:target state="translated">なにとなくしっているみたいにみえる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Schoolboy
@@ -6611,7 +6611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27840">
         <xliff:source>Stands around and insults stuff all day.</xliff:source>
-        <xliff:target state="translated">いちにちちゅう、たてって、ものにぶじょくをいいう。</xliff:target>
+        <xliff:target state="translated">いちにちちゅう、たてって、ものにぶじょくをいう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Guard
@@ -6779,7 +6779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27861">
         <xliff:source>The green hooded serpent of the poison waste.</xliff:source>
-        <xliff:target state="translated">どくのゴミのみどりのフードのヘビ。</xliff:target>
+        <xliff:target state="translated">どくのゴミのみどりのフードのへび。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zulrah
@@ -6787,7 +6787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27862">
         <xliff:source>The crimson hooded serpent of the poison waste.</xliff:source>
-        <xliff:target state="translated">どくのゴミのしんくのフードのヘビ。</xliff:target>
+        <xliff:target state="translated">どくのゴミのしんくのフードのへび。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zulrah
@@ -6795,7 +6795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27863">
         <xliff:source>The turquoise hooded serpent of the poison waste.</xliff:source>
-        <xliff:target state="translated">どくのゴミのターコイズのフードのヘビ。</xliff:target>
+        <xliff:target state="translated">どくのゴミのターコイズのフードのへび。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zulrah
@@ -6827,7 +6827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27867">
         <xliff:source>D'aw look at the liddle...</xliff:source>
-        <xliff:target state="translated">かわいいしょうさい...</xliff:target>
+        <xliff:target state="translated">D'aw look at the liddle。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Chaos Elemental Jr.
@@ -6859,7 +6859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27871">
         <xliff:source>These gnomes know how to get around!</xliff:source>
-        <xliff:target state="translated">これらのノームは、どのようにうごきかいるかをしりっている！</xliff:target>
+        <xliff:target state="translated">これらのノームは、どのようにうごきかいるかをしっている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Mounted terrorbird gnome
@@ -6891,7 +6891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27875">
         <xliff:source>His beard seems to have a life of its own.</xliff:source>
-        <xliff:target state="translated">かれのひげはどくりつしたじんせいをもちっているようだ。</xliff:target>
+        <xliff:target state="translated">かれのひげはどくりつしたじんせいをもっているようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Moss giant
@@ -6907,7 +6907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27877">
         <xliff:source>A one-eyed man eater.</xliff:source>
-        <xliff:target state="translated">かためのにんげんをしょくべるもの。</xliff:target>
+        <xliff:target state="translated">かためのにんげんをたべるもの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cyclops
@@ -6995,7 +6995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27888">
         <xliff:source>A slithering serpent spawn of Zulrah.</xliff:source>
-        <xliff:target state="translated">するするしたヘビ、ズルラのこども。</xliff:target>
+        <xliff:target state="translated">へび の.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Snakeling
@@ -7019,7 +7019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27891">
         <xliff:source>A one-eyed woman eater.</xliff:source>
-        <xliff:target state="translated">かためのじょせいをしょくべるもの。</xliff:target>
+        <xliff:target state="translated">かためのじょせいをたべるもの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cyclops
@@ -7027,7 +7027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27892">
         <xliff:source>Good thing there's no such thing as Sarachnophobia.</xliff:source>
-        <xliff:target state="translated">クモきょうこわいしょうなんて、ないからいいことだ。</xliff:target>
+        <xliff:target state="translated">ほうほう いい こと は あらくも きょうはくしょう など というもの は ない ことだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sraracha
@@ -7115,7 +7115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27903">
         <xliff:source>Found somewhere between a rock and a hard place.</xliff:source>
-        <xliff:target state="translated">いしとかたいばしょのあいだのどこかでみつかった。</xliff:target>
+        <xliff:target state="translated">Found somewhere between a rock and a hard place。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rock Golem
@@ -7131,7 +7131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27905">
         <xliff:source>Stoney!</xliff:source>
-        <xliff:target state="translated">いしいし。</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rocks
@@ -7411,7 +7411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27940">
         <xliff:source>No one likes crabs... especially really big ones!</xliff:source>
-        <xliff:target state="translated">だれもカニがすきではない... とくにほんとうにだいきいやつ！</xliff:target>
+        <xliff:target state="translated">だれもかにがすきではない... とくにほんとうにだいきいやつ！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Giant Rock Crab
@@ -7507,7 +7507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27952">
         <xliff:source>Sells leather goods made of frog!</xliff:source>
-        <xliff:target state="translated">カエルでさくったかわせいしなをうりっている！</xliff:target>
+        <xliff:target state="translated">かえるでさくったかわせいしなをうりっている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Reldak
@@ -7627,7 +7627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27967">
         <xliff:source>He knows a thousand arcane secrets, every one of which would drive you mad.</xliff:source>
-        <xliff:target state="translated">かれはせんのひみつのひみつをしりっていて、どれもあなたをきょうわせるだろう。</xliff:target>
+        <xliff:target state="translated">かれはせんのひみつのひみつをしっていて、どれもあなたをきょうわせるだろう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Movario
@@ -7755,7 +7755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27983">
         <xliff:source>He has lots of silver on display. And only silver.</xliff:source>
-        <xliff:target state="translated">かれはひょうじにたくさんのぎんをもちっている。そしてぎんだけだ。</xliff:target>
+        <xliff:target state="translated">かれはひょうじにたくさんのぎんをもっている。そしてぎんだけだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Gulldamar
@@ -7939,7 +7939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28006">
         <xliff:source>A sad old dwarf living in a sad old home.</xliff:source>
-        <xliff:target state="translated">ひしいふるいいえにすみむ、ひしいふるいこびと。</xliff:target>
+        <xliff:target state="translated">ひしいふるいいえにすむ、ひしいふるいこびと。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Runvastr
@@ -8267,7 +8267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28047">
         <xliff:source>Big... Cow-like... But cows don't have serpent tails!</xliff:source>
-        <xliff:target state="translated">だいきい... うしみたいな... でも、うしはヘビのおをもちっていない！</xliff:target>
+        <xliff:target state="translated">だいきい... うしみたいな... でも、うしはへびのおをもっていない！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Catablepon
@@ -8275,7 +8275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28048">
         <xliff:source>I think this spider has been genetically modified.</xliff:source>
-        <xliff:target state="translated">このクモはいつたえこをそうされたとおもいう。</xliff:target>
+        <xliff:target state="translated">このクモはいつたえこをそうされたとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Giant spider
@@ -8571,7 +8571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28085">
         <xliff:source>She tends the toads and worms in the swamp.</xliff:source>
-        <xliff:target state="translated">かのじょはぬまのヒキガエルとミミズをせわしている。</xliff:target>
+        <xliff:target state="translated">かのじょはぬまのヒキガエルとミみずをせわしている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sarble
@@ -9211,7 +9211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28165">
         <xliff:source>If he doesn't have it, he can't sell it!</xliff:source>
-        <xliff:target state="translated">かれがそれをもちっていなかったら、うりることができない！</xliff:target>
+        <xliff:target state="translated">かれがそれをもっていなかったら、うりることができない！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Shop keeper
@@ -9243,7 +9243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28169">
         <xliff:source>Clearly takes pride in his appearance.</xliff:source>
-        <xliff:target state="translated">かれのみためにあかりらかにほこりをもちっている。</xliff:target>
+        <xliff:target state="translated">かれのみためにあかりらかにほこりをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Shop keeper
@@ -9299,7 +9299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28176">
         <xliff:source>A pint-sized bringer of existence.</xliff:source>
-        <xliff:target state="translated">パイントサイズのそんざいのもたらして。</xliff:target>
+        <xliff:target state="translated">パイント サイズ の そんざい の かもしだし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Creator
@@ -9419,7 +9419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28191">
         <xliff:source>No flies on me.</xliff:source>
-        <xliff:target state="translated">ハエがいちつもない。</xliff:target>
+        <xliff:target state="translated">いいえのじょうにわたし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fly trap
@@ -9651,7 +9651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28220">
         <xliff:source>Slightly slimy but kind of cute.</xliff:source>
-        <xliff:target state="translated">ちょっとぬめぬめだけど、かわいい。</xliff:target>
+        <xliff:target state="translated">Slightly slimy but kind of cute。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Orange salamander
@@ -9659,7 +9659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28221">
         <xliff:source>Slightly slimy but certainly striking.</xliff:source>
-        <xliff:target state="translated">ちょっとぬめぬめだけど、たしかみにいんしょうてき。</xliff:target>
+        <xliff:target state="translated">Slightly slimy but certainly striking。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Red salamander
@@ -9667,7 +9667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28222">
         <xliff:source>Slightly slimy and somewhat menacing.</xliff:source>
-        <xliff:target state="translated">ちょっとぬめぬめで、ややおどせまてき。</xliff:target>
+        <xliff:target state="translated">Slightly slimy and somewhat menacing。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Black salamander
@@ -9931,7 +9931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28255">
         <xliff:source>Yep, definitely a chicken... an undead chicken.</xliff:source>
-        <xliff:target state="translated">ああ、まちがいなく、ニワトリ、ゾンビ。</xliff:target>
+        <xliff:target state="translated">ああ、まちがいなく、にわとり、ゾンビ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Undead chicken
@@ -10091,7 +10091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28275">
         <xliff:source>It has a very vicious looking tail.</xliff:source>
-        <xliff:target state="translated">とてもあくいのあるおをもちっている。</xliff:target>
+        <xliff:target state="translated">とてもあくいのあるおをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Poison Scorpion
@@ -10267,7 +10267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28297">
         <xliff:source>The essence of fire.</xliff:source>
-        <xliff:target state="translated">ひのエッセンス。</xliff:target>
+        <xliff:target state="translated">ひ の ほんしつ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Phoenix
@@ -10275,7 +10275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28298">
         <xliff:source>A portal from this mystical place.</xliff:source>
-        <xliff:target state="translated">このしんぴてきなばしょからのいりぐち。</xliff:target>
+        <xliff:target state="translated">ぽーたるからこればしょ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Portal
@@ -10355,7 +10355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28308">
         <xliff:source>She has green fingers. (Not literally.)</xliff:source>
-        <xliff:target state="translated">かのじょはみどりのゆびをもちっている。（じっさいではなく。）</xliff:target>
+        <xliff:target state="translated">かのじょはみどりのゆびをもっている。（じっさいではなく。）</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Garden supplier
@@ -10627,7 +10627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28342">
         <xliff:source>A darkened horror from the ocean depths...</xliff:source>
-        <xliff:target state="translated">うみのふかいさからのくらいおそろしさ...</xliff:target>
+        <xliff:target state="translated">からおおうみ...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dagannoth
@@ -10659,7 +10659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28346">
         <xliff:source>A rich banker man... Some say too rich.</xliff:source>
-        <xliff:target state="translated">ゆたかなぎんこういえ... なにひとかはきんもちすぎるといいう。</xliff:target>
+        <xliff:target state="translated">ゆたかなぎんこういえ... なにひとかはきんもちすぎるという。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Emerald Benedict
@@ -10667,7 +10667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28347">
         <xliff:source>I don't think I want to get too close to that!</xliff:source>
-        <xliff:target state="translated">あれにちかくづきたくないとおもいう！</xliff:target>
+        <xliff:target state="translated">あれにちかくづきたくないとおもう！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Spin Blades
@@ -10731,7 +10731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28355">
         <xliff:source>Has a very exotic aroma about him.</xliff:source>
-        <xliff:target state="translated">かれはひじょうにことくにてきなかおりをもちっている。</xliff:target>
+        <xliff:target state="translated">かれはひじょうにことくにてきなかおりをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Spice seller
@@ -10739,7 +10739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28356">
         <xliff:source>Knows how to keep warm in the winter.</xliff:source>
-        <xliff:target state="translated">ふゆにあたたかくほつほうほうをしりっている。</xliff:target>
+        <xliff:target state="translated">ふゆにあたたかくほつほうほうをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fur trader
@@ -11003,7 +11003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28389">
         <xliff:source>Not very fashion conscious.</xliff:source>
-        <xliff:target state="translated">ファッションいしきがこうくない。</xliff:target>
+        <xliff:target state="translated">ファッションにそれほどいしきてきでない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Warrior
@@ -11171,7 +11171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28410">
         <xliff:source>A holy warrior.</xliff:source>
-        <xliff:target state="translated">せいひとせんし。</xliff:target>
+        <xliff:target state="translated">せいなるせんし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Paladin
@@ -11179,7 +11179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28411">
         <xliff:source>Heroic!</xliff:source>
-        <xliff:target state="translated">えいゆうてき。</xliff:target>
+        <xliff:target state="translated">えいゆうてき！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Hero
@@ -11195,7 +11195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28413">
         <xliff:source>A member of Ardougne's militia.</xliff:source>
-        <xliff:target state="translated">アルドウグンのたみへいのメンバー。</xliff:target>
+        <xliff:target state="translated">Ardougne's militiaの memberだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Knight of Ardougne
@@ -11531,7 +11531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28455">
         <xliff:source>You can practice your magic here.</xliff:source>
-        <xliff:target state="translated">あなたはここであなたのまほうをれんしゅうできます。</xliff:target>
+        <xliff:target state="translated">あなたことができるあなたのここ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elemental balance
@@ -11579,7 +11579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28461">
         <xliff:source>It's glowing bright red!</xliff:source>
-        <xliff:target state="translated">それはあかりるいあかにかがやきいている！</xliff:target>
+        <xliff:target state="translated">それはあかりるいあかにかがやいている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elemental balance
@@ -11627,7 +11627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28467">
         <xliff:source>It's glowing bright blue!</xliff:source>
-        <xliff:target state="translated">それはあかりるいあおにかがやきいている！</xliff:target>
+        <xliff:target state="translated">それはあかりるいあおにかがやいている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elemental balance
@@ -11699,7 +11699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28476">
         <xliff:source>It's glowing bright green!</xliff:source>
-        <xliff:target state="translated">それはあかりるいみどりにかがやきいている！</xliff:target>
+        <xliff:target state="translated">それはあかりるいみどりにかがやいている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elemental balance
@@ -11747,7 +11747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28482">
         <xliff:source>It's glowing bright cyan!</xliff:source>
-        <xliff:target state="translated">それはあかりるいシアンにかがやきいている！</xliff:target>
+        <xliff:target state="translated">それはあかりるいシアンにかがやいている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elemental balance
@@ -11779,7 +11779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28486">
         <xliff:source>A cute bunny rabbit.</xliff:source>
-        <xliff:target state="translated">かわいい、うさぎ。</xliff:target>
+        <xliff:target state="translated">cute bunny rabbitだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rabbit
@@ -11803,7 +11803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28489">
         <xliff:source>What big teeth you have.</xliff:source>
-        <xliff:target state="translated">あなたはだいきいはをもちっている。</xliff:target>
+        <xliff:target state="translated">あなたはだいきいはをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dire Wolf
@@ -11899,7 +11899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28501">
         <xliff:source>Intimidating!</xliff:source>
-        <xliff:target state="translated">おどす。</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fire Warrior of Lesarkus
@@ -12195,7 +12195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28538">
         <xliff:source>One of the Knights of the Round Table.</xliff:source>
-        <xliff:target state="translated">えんたくのきしのひとり。</xliff:target>
+        <xliff:target state="translated">ののまるいテーブル。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sir Lancelot
@@ -12339,7 +12339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28556">
         <xliff:source>A toothless old Snake.</xliff:source>
-        <xliff:target state="translated">はのないふるいヘビ。</xliff:target>
+        <xliff:target state="translated">はのないふるいへび。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Snake
@@ -12419,7 +12419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28566">
         <xliff:source>A former chicken.</xliff:source>
-        <xliff:target state="translated">もとの、ニワトリ。</xliff:target>
+        <xliff:target state="translated">もとの、にわとり。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ernest
@@ -12427,7 +12427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28567">
         <xliff:source>Harbinger of light surface scratches and minor dents.</xliff:source>
-        <xliff:target state="translated">ひかりのおもてめんのひっかききずとかるいへこみのさきふれ。</xliff:target>
+        <xliff:target state="translated">ひかり ひょうめん きず と ちいさい へこみ の さきぶれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Destructor
@@ -12539,7 +12539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28581">
         <xliff:source>He knows anything is possible.</xliff:source>
-        <xliff:target state="translated">かれはなんでもかのうであることをしりっている。</xliff:target>
+        <xliff:target state="translated">かれはなんでもかのうであることをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Effigy
@@ -12547,7 +12547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28582">
         <xliff:source>He knows everything has a reason.</xliff:source>
-        <xliff:target state="translated">かれはすべてがりゆうをもちつことをしりっている。</xliff:target>
+        <xliff:target state="translated">かれはすべてがりゆうをもちつことをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bonafido
@@ -12611,7 +12611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28590">
         <xliff:source>He wishes he had teeth.</xliff:source>
-        <xliff:target state="translated">かれははをもちっていたらいいとおもいっている。</xliff:target>
+        <xliff:target state="translated">かれははをもっていたらいいとおもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: 'Gummy'
@@ -12627,7 +12627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28592">
         <xliff:source>Is it a frog, or is it an eel?</xliff:source>
-        <xliff:target state="translated">それはカエルですか、それともうなぎですか？</xliff:target>
+        <xliff:target state="translated">それはかえるですか、それともうなぎですか？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Frogeel
@@ -12651,7 +12651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28595">
         <xliff:source>Definitely not a chicken or a swordfish.</xliff:source>
-        <xliff:target state="translated">たしかみに、ニワトリまたはフグではない。</xliff:target>
+        <xliff:target state="translated">たしかみに、にわとりまたはフグではない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Swordchick
@@ -12731,7 +12731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28605">
         <xliff:source>I don't think the pickaxe is for hitting rocks.</xliff:source>
-        <xliff:target state="translated">つるはしはいわをたたくためではないとおもいう。</xliff:target>
+        <xliff:target state="translated">つるはしはいわをたたくためではないとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Skeletal miner
@@ -12755,7 +12755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28608">
         <xliff:source>A shiny key sitting quietly on a crate.</xliff:source>
-        <xliff:target state="translated">クレートのじょうにしずかにざっている、かがやきいているかぎ。</xliff:target>
+        <xliff:target state="translated">クレートのじょうにしずかにざっている、かがやいているかぎ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Innocent-looking key
@@ -12995,7 +12995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28638">
         <xliff:source>He's strong to the finish, because he eats cabbage.</xliff:source>
-        <xliff:target state="translated">かれはおわりまできょうい、キャベツをしょくべるから。</xliff:target>
+        <xliff:target state="translated">かれはおわりまできょうい、キャベツをたべるから。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sailor
@@ -13107,7 +13107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28652">
         <xliff:source>A flea-infested, pale-looking excuse for a man.</xliff:source>
-        <xliff:target state="translated">ノミがつきいた、あわいみための、おとことしてのいいわけ。</xliff:target>
+        <xliff:target state="translated">おとこ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Old Man Ral
@@ -13227,7 +13227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28667">
         <xliff:source>An old woman who lives in a very strange house.</xliff:source>
-        <xliff:target state="translated">とてもきみょうないえにすみむふるいじょせい。</xliff:target>
+        <xliff:target state="translated">とてもきみょうないえにすむふるいじょせい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Baba Yaga
@@ -13235,7 +13235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28668">
         <xliff:source>She has a certain twinkle in her eye.</xliff:source>
-        <xliff:target state="translated">かのじょはかれのめにあるていどのきらめきをもちっている。</xliff:target>
+        <xliff:target state="translated">かのじょはかれのめにあるていどのきらめきをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Pauline Polaris
@@ -13411,7 +13411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28690">
         <xliff:source>Don't look him straight in the eyes. He'll eat you alive!</xliff:source>
-        <xliff:target state="translated">かれをめをみてはいけない。かれはあなたをなまきたまましょくべるでしょう！</xliff:target>
+        <xliff:target state="translated">かれをめをみてはいけない。かれはあなたをなまきたままたべるでしょう！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Murky Pat
@@ -13563,7 +13563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28709">
         <xliff:source>Foxy.</xliff:source>
-        <xliff:target state="translated">きつねのようだ。</xliff:target>
+        <xliff:target state="translated">.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fox
@@ -13611,7 +13611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28715">
         <xliff:source>He's only as think as you drunk he is!</xliff:source>
-        <xliff:target state="translated">かれはあなたがよいっているのとおなじくらいおもいっている！</xliff:target>
+        <xliff:target state="translated">かれはあなたがよいっているのとおなじくらいおもっている！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Eldgrim
@@ -13691,7 +13691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28725">
         <xliff:source>Who's going to steal a whole town anyway?</xliff:source>
-        <xliff:target state="translated">そもそも、だれがまちぜんからだをぬすみむのか？</xliff:target>
+        <xliff:target state="translated">そもそも、だれがまちぜんからだをぬすむのか？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Town Guard
@@ -13771,7 +13771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28735">
         <xliff:source>A hardened Fremennik warrior.</xliff:source>
-        <xliff:target state="translated">きびしいフレメニクせんし。</xliff:target>
+        <xliff:target state="translated">せんし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Warrior
@@ -13987,7 +13987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28762">
         <xliff:source>A small boisterous bird, a delicacy for ogres.</xliff:source>
-        <xliff:target state="translated">しょうさく、やかましいとり、オーガーのごちそう。</xliff:target>
+        <xliff:target state="translated">ちいさいとり,。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Chompy chick
@@ -14347,7 +14347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28807">
         <xliff:source>This beast doesn't need climbing boots.</xliff:source>
-        <xliff:target state="translated">このけもの、のぼり、ブーツ、ひつよう、ない。</xliff:target>
+        <xliff:target state="translated">これけものないひつよう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Mountain goat
@@ -14371,7 +14371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28810">
         <xliff:source>One of the troll generals.</xliff:source>
-        <xliff:target state="translated">とろるしょうぐん。</xliff:target>
+        <xliff:target state="translated">トロルしょうぐん。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Troll general
@@ -14403,7 +14403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28814">
         <xliff:source>Small for a troll, but it's mean, ugly and throws rocks.</xliff:source>
-        <xliff:target state="translated">とろるにしてはちいさいけど、わるくてみにくくていしをなげる。</xliff:target>
+        <xliff:target state="translated">トロルにしてはちいさいけど、わるくてみにくくていしをなげる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Thrower troll
@@ -14411,7 +14411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28815">
         <xliff:source>Small for a troll, but mean and ugly.</xliff:source>
-        <xliff:target state="translated">とろるにしてはちいさいけど、わるくてみにくい。</xliff:target>
+        <xliff:target state="translated">トロルにしてはちいさいけど、わるくてみにくい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Mountain troll
@@ -14475,7 +14475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28823">
         <xliff:source>Varrock's resident monarch. He looks strangely evil!</xliff:source>
-        <xliff:target state="translated">ばろっくのおうさま。かれはへんにわるそうだ！</xliff:target>
+        <xliff:target state="translated">バロックのおうさま。かれはへんにわるそうだ！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: King Roald
@@ -14499,7 +14499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28826">
         <xliff:source>For sitting on.</xliff:source>
-        <xliff:target state="translated">すわるためのもの。</xliff:target>
+        <xliff:target state="translated">のじょうに。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bench
@@ -14539,7 +14539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28831">
         <xliff:source>Never smile at a...</xliff:source>
-        <xliff:target state="translated">けっしてわらうな...</xliff:target>
+        <xliff:target state="translated">けしてで...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Crocodile
@@ -14555,7 +14555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28833">
         <xliff:source>Ball taken!</xliff:source>
-        <xliff:target state="translated">ボール、とられた。</xliff:target>
+        <xliff:target state="translated">Ball taken!。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Oddskull
@@ -14915,7 +14915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28878">
         <xliff:source>She comes from Al Kharid.</xliff:source>
-        <xliff:target state="translated">かのじょはあるかりどからきた。</xliff:target>
+        <xliff:target state="translated">かのじょはアルカリドからきた。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Leela
@@ -15019,7 +15019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28891">
         <xliff:source>The mother of all sea trolls!</xliff:source>
-        <xliff:target state="translated">うみのとろるのおかあさん！</xliff:target>
+        <xliff:target state="translated">うみのトロルのおかあさん！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sea Troll Queen
@@ -15083,7 +15083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28899">
         <xliff:source>Don't fancy your chances.</xliff:source>
-        <xliff:target state="translated">あなたのてじゅんがきらい。</xliff:target>
+        <xliff:target state="translated">ないあなたの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Court judge
@@ -15443,7 +15443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28944">
         <xliff:source>Eww, a bald rat!</xliff:source>
-        <xliff:target state="translated">うげ、つるつる、ねずみ。</xliff:target>
+        <xliff:target state="translated">Eww, a bald rat!。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Brine rat
@@ -15483,7 +15483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28949">
         <xliff:source>An eager cave goblin on her first trip to the surface.</xliff:source>
-        <xliff:target state="translated">しょうかいしゃのもくろみ。そのまんいんごぶりんはまずめがすうほど。</xliff:target>
+        <xliff:target state="translated">しょうかいしゃのもくろみ。そのまんいんゴブリンはまずめがすうほど。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zanik
@@ -15491,7 +15491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28950">
         <xliff:source>A goblin fighting for her city.</xliff:source>
-        <xliff:target state="translated">まちのためにたたかうごぶりん。</xliff:target>
+        <xliff:target state="translated">まちのためにたたかうゴブリン。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zanik
@@ -15515,7 +15515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28953">
         <xliff:source>A nasty spider, blessed by Zamorak.</xliff:source>
-        <xliff:target state="translated">ざもらくにあしなわれたいやなくも。</xliff:target>
+        <xliff:target state="translated">ザモラクにあしなわれたいやなくも。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Blessed spider
@@ -15539,7 +15539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28956">
         <xliff:source>A strong and hardy dwarf.</xliff:source>
-        <xliff:target state="translated">つよくてたくましい どわーふ。</xliff:target>
+        <xliff:target state="translated">つよくてたくましい ドワーフ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Niloof
@@ -15547,7 +15547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28957">
         <xliff:source>A dwarven maker of gauntlets.</xliff:source>
-        <xliff:target state="translated">どわーふのてぶくろさいせいしゃ。</xliff:target>
+        <xliff:target state="translated">ドワーフのてぶくろさいせいしゃ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Klank
@@ -15555,7 +15555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28958">
         <xliff:source>This dwarf looks intoxicated.</xliff:source>
-        <xliff:target state="translated">このどわーふはよっぱらっているみたいだ。</xliff:target>
+        <xliff:target state="translated">このドワーフはよっぱらっているみたいだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kamen
@@ -15579,7 +15579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28961">
         <xliff:source>A recently deceased follower of Saradomin.</xliff:source>
-        <xliff:target state="translated">さらどみんのしたがいで さいきんなくなった。</xliff:target>
+        <xliff:target state="translated">サラドミンのしたがいで さいきんなくなった。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dead Monk
@@ -15595,7 +15595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28963">
         <xliff:source>A short, but extremely tough looking dwarf...</xliff:source>
-        <xliff:target state="translated">みじかいけど、すごくかたそうなどわーふ...</xliff:target>
+        <xliff:target state="translated">みじかいけど、すごくかたそうなドワーフ...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Red Axe Henchman
@@ -15955,7 +15955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29008">
         <xliff:source>A resident of Al Kharid.</xliff:source>
-        <xliff:target state="translated">あるかりどのじゅうみん。</xliff:target>
+        <xliff:target state="translated">アルカリドのじゅうみん。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Irena
@@ -16051,7 +16051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29020">
         <xliff:source>A big strong camel, used for pulling carts full of minerals.</xliff:source>
-        <xliff:target state="translated">おおきくてつよい、こうぶつでいっぱいなかーとをひくのに つかわれるらくだ。</xliff:target>
+        <xliff:target state="translated">おおきいつよいつかったいっぱいのの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cart Camel
@@ -16395,7 +16395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29063">
         <xliff:source>It's good enough to fool a troll.</xliff:source>
-        <xliff:target state="translated">とろるをだますのに じゅうぶんだ。</xliff:target>
+        <xliff:target state="translated">トロールをだますのにじゅうぶんだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fake Man
@@ -16507,7 +16507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29077">
         <xliff:source>A rather nasty looking crustacean.</xliff:source>
-        <xliff:target state="translated">すこし、いやそうな、こうかく。</xliff:target>
+        <xliff:target state="translated">rather nasty looking crustaceanだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sea slug
@@ -16659,7 +16659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29096">
         <xliff:source>More like a goblin cooked.</xliff:source>
-        <xliff:target state="translated">ごぶりんりょうりのようだ。</xliff:target>
+        <xliff:target state="translated">ゴブリンりょうりのようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Goblin Cook
@@ -16667,7 +16667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29097">
         <xliff:source>Half way up the wall is maybe not a naturally tenable position for a goblin.</xliff:source>
-        <xliff:target state="translated">かべのなかばはたぶんごぶりんのしぜんないち じゃない。</xliff:target>
+        <xliff:target state="translated">かべのなかばはたぶんゴブリンのしぜんないち じゃない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Goblin Cook
@@ -17035,7 +17035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29143">
         <xliff:source>A young sentient tree.</xliff:source>
-        <xliff:target state="translated">わかいちのきのようなものあったほん。</xliff:target>
+        <xliff:target state="translated">わかいき。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Spirit tree
@@ -17043,7 +17043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29144">
         <xliff:source>An ancient sentient tree.</xliff:source>
-        <xliff:target state="translated">こだいなちのきのようなものあったほん。</xliff:target>
+        <xliff:target state="translated">ancient sentient きだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Spirit tree
@@ -17075,7 +17075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29148">
         <xliff:source>A cheeky little imp.</xliff:source>
-        <xliff:target state="translated">いたずら、ちいさい、あくま。</xliff:target>
+        <xliff:target state="translated">cheeky little impだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Imp
@@ -17331,7 +17331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29180">
         <xliff:source>An evil looking griffin.</xliff:source>
-        <xliff:target state="translated">あくそうなぐりふぃん。</xliff:target>
+        <xliff:target state="translated">みえている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Grimgnash
@@ -17395,7 +17395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29188">
         <xliff:source>An empty cage.</xliff:source>
-        <xliff:target state="translated">あき、かご。</xliff:target>
+        <xliff:target state="translated">からのかご。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cage
@@ -17443,7 +17443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29194">
         <xliff:source>A heroic cave goblin joining you for another adventure!</xliff:source>
-        <xliff:target state="translated">ゆしゃのどうくつごぶりんがあなたとまたぼうけんしよう！</xliff:target>
+        <xliff:target state="translated">ゆしゃのどうくつゴブリンがあなたとまたぼうけんしよう！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zanik
@@ -17499,7 +17499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29201">
         <xliff:source>A goblin with big, bulging eyes.</xliff:source>
-        <xliff:target state="translated">おおきくてふくらんだめのごぶりん。</xliff:target>
+        <xliff:target state="translated">おおきくてふくらんだめのゴブリン。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cave goblin
@@ -17515,7 +17515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29203">
         <xliff:source>A dwarf from Keldagrim.</xliff:source>
-        <xliff:target state="translated">けるだぐりむからきたどわーふ。</xliff:target>
+        <xliff:target state="translated">けるだぐりむからきたドワーフ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dwarf
@@ -17531,7 +17531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29205">
         <xliff:source>The dwarf ambassador to Dorgesh-Kaan.</xliff:source>
-        <xliff:target state="translated">どるげっしゅかーんへのどわーふたいしおう。</xliff:target>
+        <xliff:target state="translated">どるげっしゅかーんへのドワーフたいしおう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ambassador Alvijar
@@ -17563,7 +17563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29209">
         <xliff:source>A dwarven guard.</xliff:source>
-        <xliff:target state="translated">どわーふのえいご。</xliff:target>
+        <xliff:target state="translated">ドワーフのえいご。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Guard
@@ -17571,7 +17571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29210">
         <xliff:source>A young Dwarf lad.</xliff:source>
-        <xliff:target state="translated">わかいどわーふのおとこのこ。</xliff:target>
+        <xliff:target state="translated">わかいドワーフのおとこのこ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lollk
@@ -18283,7 +18283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29299">
         <xliff:source>Spooky.</xliff:source>
-        <xliff:target state="translated">こわい。</xliff:target>
+        <xliff:target state="translated">ぶきみなぼちだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ghost
@@ -18315,7 +18315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29303">
         <xliff:source>An old goblin hag.</xliff:source>
-        <xliff:target state="translated">ふるいごぶりんのおんなしゃくし。</xliff:target>
+        <xliff:target state="translated">ふるいゴブリンのおんなしゃくし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Naghead
@@ -18323,7 +18323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29304">
         <xliff:source>A young goblin 'beauty'.</xliff:source>
-        <xliff:target state="translated">わかいごぶりんの「びじん」。</xliff:target>
+        <xliff:target state="translated">わかいゴブリンの「びじん」。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wagchin
@@ -18539,7 +18539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29331">
         <xliff:source>Would you buy a used nature rune from this guy?</xliff:source>
-        <xliff:target state="translated">あなたはこのやつから つかったしぜん・るーんを かいます？</xliff:target>
+        <xliff:target state="translated">あなたはこのやつから つかったしぜん・ルーンを かいます？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Murky Matt (runes)
@@ -18699,7 +18699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29351">
         <xliff:source>Whatever you do, don't attack her goblins!</xliff:source>
-        <xliff:target state="translated">あなたがなにをしても、かのじょのごぶりんをこうげきするな！</xliff:target>
+        <xliff:target state="translated">あなたがなにをしても、かのじょのゴブリンをこうげきするな！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Two-pints
@@ -18763,7 +18763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29359">
         <xliff:source>It seems to be on a permanent sugar rush.</xliff:source>
-        <xliff:target state="translated">それはずっとさとうのはやきのようだ。</xliff:target>
+        <xliff:target state="translated">It seems to be on a permanent sugar rush。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Spotted kebbit
@@ -18827,7 +18827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29367">
         <xliff:source>A scuttling little scorpion with an incredibly vicious tail.</xliff:source>
-        <xliff:target state="translated">ちょこちょこあるくちいさいさそりで、かなり ずるいおしり。</xliff:target>
+        <xliff:target state="translated">an incredibly vicious tailつきの scuttling little scorpionだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Scorpia's offspring
@@ -18875,7 +18875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29373">
         <xliff:source>A black warlock. The air seems to distort wherever it passes.</xliff:source>
-        <xliff:target state="translated">くろいまじょ。くうきはどこをとおっても そらぶるみたいだ。</xliff:target>
+        <xliff:target state="translated">くろい まじゃく. みえる へ それ.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Black warlock
@@ -18883,7 +18883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29374">
         <xliff:source>It's a snowy knight butterfly.</xliff:source>
-        <xliff:target state="translated">ゆきのるきいろチョウチョ。</xliff:target>
+        <xliff:target state="translated">a snowy knight butterflyだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Snowy knight
@@ -18891,7 +18891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29375">
         <xliff:source>A sapphire glacialis. It doesn't look as pretentious as its name sounds.</xliff:source>
-        <xliff:target state="translated">サファイア、ぐれーしゃりす。なまえの、ようなぎょういんらしくない。</xliff:target>
+        <xliff:target state="translated">sapphire glacialis. It doesn't look as pretentious as its name soundsだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Sapphire glacialis
@@ -18899,7 +18899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29376">
         <xliff:source>It's a ruby harvest butterfly.</xliff:source>
-        <xliff:target state="translated">ルビー、しゅうかく、ちょうだ。</xliff:target>
+        <xliff:target state="translated">a ruby harvest butterflyだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ruby harvest
@@ -19003,7 +19003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29389">
         <xliff:source>A friendly little pet.</xliff:source>
-        <xliff:target state="translated">やさしい、ちいさい、ペット。</xliff:target>
+        <xliff:target state="translated">ちいさい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wily cat
@@ -19011,7 +19011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29390">
         <xliff:source>Wild and hellish.</xliff:source>
-        <xliff:target state="translated">やまのようで、じごくのよう。</xliff:target>
+        <xliff:target state="translated">と。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wily hellcat
@@ -19027,7 +19027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29392">
         <xliff:source>A friendly not-so little pet.</xliff:source>
-        <xliff:target state="translated">やさしい、あまり、ちいさくない、ペット。</xliff:target>
+        <xliff:target state="translated">ちいさい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Overgrown cat
@@ -19035,7 +19035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29393">
         <xliff:source>A hellish not-so little pet.</xliff:source>
-        <xliff:target state="translated">じごく、あまり、ちいさくない、ペット。</xliff:target>
+        <xliff:target state="translated">ちいさい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Overgrown hellcat
@@ -19131,7 +19131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29405">
         <xliff:source>A spiky barricade.</xliff:source>
-        <xliff:target state="translated">とげとげ、せんりゅう。</xliff:target>
+        <xliff:target state="translated">とげのある。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Barricade
@@ -19195,7 +19195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29413">
         <xliff:source>Run away! Run away!</xliff:source>
-        <xliff:target state="translated">にげて！にげて！</xliff:target>
+        <xliff:target state="translated">はしるさって!はしるさって!!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Penance Queen
@@ -19211,7 +19211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29415">
         <xliff:source>An egg launcher!</xliff:source>
-        <xliff:target state="translated">たまご、はっしゃき。</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Egg launcher
@@ -19259,7 +19259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29421">
         <xliff:source>An ancient giant serpent.</xliff:source>
-        <xliff:target state="translated">ふるい、きょだい、へび。</xliff:target>
+        <xliff:target state="translated">いにしえのでっかいへびだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Juna
@@ -19419,7 +19419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29441">
         <xliff:source>An ice troll youngling. All brawn and no loot.</xliff:source>
-        <xliff:target state="translated">あいすとろるのおさなご。すべてのちから。</xliff:target>
+        <xliff:target state="translated">あいすトロルのおさなご。すべてのちから。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Frenzied ice troll runt
@@ -19427,7 +19427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29442">
         <xliff:source>A male troll wielding a large club. All brawn and no loot.</xliff:source>
-        <xliff:target state="translated">おおきなこんぼうをもったおとこのとろる。すべてのちから。</xliff:target>
+        <xliff:target state="translated">おおきなこんぼうをもったおとこのトロル。すべてのちから。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Frenzied ice troll male
@@ -19435,7 +19435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29443">
         <xliff:source>An ice troll with a bag of rocks. All brawn and no loot.</xliff:source>
-        <xliff:target state="translated">いしのぶくろをもったあいすとろる。すべてのちから。</xliff:target>
+        <xliff:target state="translated">いしのぶくろをもったあいすトロル。すべてのちから。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Frenzied ice troll female
@@ -19443,7 +19443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29444">
         <xliff:source>A large ice troll. All brawn and no loot.</xliff:source>
-        <xliff:target state="translated">おおきなあいすとろる。すべてのちから。</xliff:target>
+        <xliff:target state="translated">おおきなあいすトロル。すべてのちから。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Frenzied ice troll grunt
@@ -19595,7 +19595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29463">
         <xliff:source>He has been turned to stone.</xliff:source>
-        <xliff:target state="translated">かれは いしにかえられた。</xliff:target>
+        <xliff:target state="translated">かれあるいたまわしたへいし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: King Arthur
@@ -19603,7 +19603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29464">
         <xliff:source>Born in the death throes of an Abyssal Sire.</xliff:source>
-        <xliff:target state="translated">あびすおうぎんのしのうしごちゅうにうまれた。</xliff:target>
+        <xliff:target state="translated">Born in the death throes of an Abyssal Sire。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Abyssal orphan
@@ -19643,7 +19643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29469">
         <xliff:source>This is not going to hurt... but it might tickle.</xliff:source>
-        <xliff:target state="translated">これはいたくない...けど、くすぐったいかもしれない。</xliff:target>
+        <xliff:target state="translated">This is not going to hurt... but it might tickle。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: TzRek-Jad
@@ -19899,7 +19899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29501">
         <xliff:source>A Rock.</xliff:source>
-        <xliff:target state="translated">いし。</xliff:target>
+        <xliff:target state="translated">いわ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rock
@@ -20619,7 +20619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29591">
         <xliff:source>Damages nearby monsters.</xliff:source>
-        <xliff:target state="translated">ちかく、バケモノ、そんがい。</xliff:target>
+        <xliff:target state="translated">こわす。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zapper
@@ -20659,7 +20659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29596">
         <xliff:source>A goblin with big bulging eyes.</xliff:source>
-        <xliff:target state="translated">おおきくてふくらんだめのごぶりん。</xliff:target>
+        <xliff:target state="translated">おおきくてふくらんだめのゴブリン。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cave goblin
@@ -20987,7 +20987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29637">
         <xliff:source>I wouldn't want to eat his Porridge.</xliff:source>
-        <xliff:target state="translated">ぼくはかれのおかゆをたべたくない。</xliff:target>
+        <xliff:target state="translated">I wouldn't want to eat his Porridge。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Callisto
@@ -21203,7 +21203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29664">
         <xliff:source>A follower of Bandos.</xliff:source>
-        <xliff:target state="translated">ばんどすのしたがいて。</xliff:target>
+        <xliff:target state="translated">バンドスのしたがいて。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bandosian guard
@@ -21363,7 +21363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29684">
         <xliff:source>Wouldn't want that sleeping at the end of my bed.</xliff:source>
-        <xliff:target state="translated">ぼくのベッドのおわりでねむっているそれはほしくない。</xliff:target>
+        <xliff:target state="translated">だろうあれでのわたしのベッド。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dagannoth Supreme Jr.
@@ -21371,7 +21371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29685">
         <xliff:source>Has the same temper as its father.</xliff:source>
-        <xliff:target state="translated">ちち、とおなじ、きけんな、きもち、もつ。</xliff:target>
+        <xliff:target state="translated">Has the same temper as its father。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dagannoth Prime Jr.
@@ -21387,7 +21387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29687">
         <xliff:source>They do say if you like it you should put a ring on it.</xliff:source>
-        <xliff:target state="translated">かれらがいうには、あなたがそれがすきなら、わにくをつけるべき。</xliff:target>
+        <xliff:target state="translated">かれら する もし それ べき ならす に それ.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dagannoth Rex Jr.
@@ -21395,7 +21395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29688">
         <xliff:source>Is it a bird, is it... no it's a bird.</xliff:source>
-        <xliff:target state="translated">とり かな、それとも... いいえ、とり だ。</xliff:target>
+        <xliff:target state="translated">Is it a bird, is it... no it's a bird。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kree'arra Jr.
@@ -21403,7 +21403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29689">
         <xliff:source>Totally unintelligible.</xliff:source>
-        <xliff:target state="translated">ぜんぜん、りかいできない。</xliff:target>
+        <xliff:target state="translated">ぜんぜんわからない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: General Graardor Jr.
@@ -21411,7 +21411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29690">
         <xliff:source>Somehow a junior even though she's named after her spawn mother!</xliff:source>
-        <xliff:target state="translated">どういうわけか、じゅにあ、だが、ははおや、なまえ、つけられた。</xliff:target>
+        <xliff:target state="translated">Somehow a junior even though she's named after her spawn mother!。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zilyana Jr.
@@ -21419,7 +21419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29691">
         <xliff:source>Where did he even come from?</xliff:source>
-        <xliff:target state="translated">かれはいったいどこからきた？</xliff:target>
+        <xliff:target state="translated">Where did he even come from?。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: K'ril Tsutsaroth Jr.
@@ -21427,7 +21427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29692">
         <xliff:source>Keep Molin', molin' molin' molin'!</xliff:source>
-        <xliff:target state="translated">モーリン、もーりん、もーりん、もーりん。</xliff:target>
+        <xliff:target state="translated">たもつ!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Baby Mole
@@ -21435,7 +21435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29693">
         <xliff:source>Not quite the full royalty yet.</xliff:source>
-        <xliff:target state="translated">まだ ぜんぶのおうぞくじゃない。</xliff:target>
+        <xliff:target state="translated">Not quite the full royalty yet。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Prince Black Dragon
@@ -21443,7 +21443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29694">
         <xliff:source>Suggests there's a king nearby.</xliff:source>
-        <xliff:target state="translated">そばにおうがいるとあんじる。</xliff:target>
+        <xliff:target state="translated">ていあんするおう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kalphite Princess
@@ -21451,7 +21451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29695">
         <xliff:source>*cough*</xliff:source>
-        <xliff:target state="translated">ごホン。</xliff:target>
+        <xliff:target state="translated">ゴホン。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Smoke Devil
@@ -21459,7 +21459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29696">
         <xliff:source>How.... is it walking?</xliff:source>
-        <xliff:target state="translated">どうやって...あるいている？</xliff:target>
+        <xliff:target state="translated">How.... is it walking?。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kraken
@@ -21475,7 +21475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29698">
         <xliff:source>He applied to be the Drunken Dwarf, but failed the intelligence test.</xliff:source>
-        <xliff:target state="translated">かれはよっぱらったどわーふになるていしゅつしたけど、ちのうてすとにおちた。</xliff:target>
+        <xliff:target state="translated">かれはよっぱらったドワーフになるていしゅつしたけど、ちのうてすとにおちた。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Miner
@@ -21499,7 +21499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29701">
         <xliff:source>The lowest maintenance pet you will ever have.</xliff:source>
-        <xliff:target state="translated">あなたがかつていたもっともてりょうがひくいペット。</xliff:target>
+        <xliff:target state="translated">あなたがもちつもっともていメンテナンスペット。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Pet rock
@@ -21507,7 +21507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29702">
         <xliff:source>A fishbowl with a Tiny Bluefish in it.</xliff:source>
-        <xliff:target state="translated">ちいさいあおいぎょがはいっているぎょばち。</xliff:target>
+        <xliff:target state="translated">ちいさいあおざかながはいったぎょうはち。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fishbowl
@@ -21515,7 +21515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29703">
         <xliff:source>A fishbowl with a Tiny Greenfish in it.</xliff:source>
-        <xliff:target state="translated">ちいさいみどりのぎょがはいっているぎょばち。</xliff:target>
+        <xliff:target state="translated">ちいさいみどりしょくさかながはいったぎょうはち。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fishbowl
@@ -21523,7 +21523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29704">
         <xliff:source>A fishbowl with a Tiny Spinefish in it.</xliff:source>
-        <xliff:target state="translated">ちいさいとげぎょがはいっているぎょばち。</xliff:target>
+        <xliff:target state="translated">ちいさいとげさかながはいったぎょうはち。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fishbowl
@@ -21571,7 +21571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29710">
         <xliff:source>Fluffy and cute, keep away from fire!</xliff:source>
-        <xliff:target state="translated">ふわふわでかわいい。ひから とおちてください！</xliff:target>
+        <xliff:target state="translated">Fluffy and cute, keep away from fire!。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Baby Chinchompa
@@ -22699,7 +22699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29851">
         <xliff:source>One of the highest ranking trolls.</xliff:source>
-        <xliff:target state="translated">さいもこういのとろるのひとり。</xliff:target>
+        <xliff:target state="translated">さいもこういのトロルのひとり。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kob
@@ -22803,7 +22803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29864">
         <xliff:source>Trades in runes.</xliff:source>
-        <xliff:target state="translated">るーんであきんど。</xliff:target>
+        <xliff:target state="translated">ルーンであきんど。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Thyria
@@ -22851,7 +22851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29870">
         <xliff:source>I wonder if it sits.</xliff:source>
-        <xliff:target state="translated">それが、すわる、かな、ぎもん。</xliff:target>
+        <xliff:target state="translated">もし それ.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Scurry
@@ -22899,7 +22899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29876">
         <xliff:source>Tracking down clues all over the world.</xliff:source>
-        <xliff:target state="translated">せかい、しょうこ、おい、つめる。</xliff:target>
+        <xliff:target state="translated">Tracking down clues all over the world。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bloodhound
@@ -23003,7 +23003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29889">
         <xliff:source>A power emanates from this structure.</xliff:source>
-        <xliff:target state="translated">ちからはこのこうぞうから でている。</xliff:target>
+        <xliff:target state="translated">からこれこうぞう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Awakened Altar
@@ -23011,7 +23011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29890">
         <xliff:source>Power no longer emanates from this structure.</xliff:source>
-        <xliff:target state="translated">ちからはこのこうぞうから もう でていない。</xliff:target>
+        <xliff:target state="translated">いいえからこれこうぞう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Altar
@@ -23091,7 +23091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29900">
         <xliff:source>A giant squirrel with beautiful markings.</xliff:source>
-        <xliff:target state="translated">うつくしいもようのおおきなりす。</xliff:target>
+        <xliff:target state="translated">とうつくしい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Giant Squirrel
@@ -23099,7 +23099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29901">
         <xliff:source>Don't be hasty.</xliff:source>
-        <xliff:target state="translated">いそぐな。</xliff:target>
+        <xliff:target state="translated">ないである。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tangleroot
@@ -23107,7 +23107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29902">
         <xliff:source>Raccoons, like pandas but worse.</xliff:source>
-        <xliff:target state="translated">あらいぐまで、ぱんだのようだけど、もっとひどい。</xliff:target>
+        <xliff:target state="translated">あらいぐま。 パンダ のよう だが, もっと わるい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rocky
@@ -23115,7 +23115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29903">
         <xliff:source>An abyssal rift guardian.</xliff:source>
-        <xliff:target state="translated">ふしぎな、くうかん、さけめ、しゅご。</xliff:target>
+        <xliff:target state="translated">しょくえん の さけめ ぼうえいしゃ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rift guardian
@@ -23435,7 +23435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29943">
         <xliff:source>A warrior of Zamorak.</xliff:source>
-        <xliff:target state="translated">ざもらくのせんし。</xliff:target>
+        <xliff:target state="translated">ザモラクのせんし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zamorak warrior
@@ -23443,7 +23443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29944">
         <xliff:source>A ranger of Zamorak.</xliff:source>
-        <xliff:target state="translated">ざもらくのれんじゃあ。</xliff:target>
+        <xliff:target state="translated">ザモラクのれんじゃあ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zamorak ranger
@@ -23451,7 +23451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29945">
         <xliff:source>A mage of Zamorak.</xliff:source>
-        <xliff:target state="translated">ざもらくのまじょ。</xliff:target>
+        <xliff:target state="translated">ザモラクのまじょ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zamorak mage
@@ -23579,7 +23579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29961">
         <xliff:source>A dwarven researcher and former boatman.</xliff:source>
-        <xliff:target state="translated">どわーふのけんきゅうしゃでふるいふねのり。</xliff:target>
+        <xliff:target state="translated">ドワーフのけんきゅうしゃでふるいふねのり。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Jardric
@@ -23587,7 +23587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29962">
         <xliff:source>Need a net? Here's Annette.</xliff:source>
-        <xliff:target state="translated">あみ、ひつよう？　アネット、ここ。</xliff:target>
+        <xliff:target state="translated">ひつようあみ?。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Annette
@@ -23627,7 +23627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29967">
         <xliff:source>A rage-filled Zamorakian Demon.</xliff:source>
-        <xliff:target state="translated">ざもらくてきあくでいっぱいになった。</xliff:target>
+        <xliff:target state="translated">ザモラクてきあくでいっぱいになった。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Porazdir
@@ -23643,7 +23643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29969">
         <xliff:source>A big, scary-looking troll.</xliff:source>
-        <xliff:target state="translated">おおきくて、こわそうなとろる。</xliff:target>
+        <xliff:target state="translated">おおきくて、こわそうなトロル。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Jelly
@@ -23795,7 +23795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29988">
         <xliff:source>Some rocks.</xliff:source>
-        <xliff:target state="translated">いしだけ。</xliff:target>
+        <xliff:target state="translated">いくつか。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rocks
@@ -23835,7 +23835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="29993">
         <xliff:source>It's blocking the passage.</xliff:source>
-        <xliff:target state="translated">それが、つうろ、ふさいでいる。</xliff:target>
+        <xliff:target state="translated">つうろ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Spawn
@@ -24211,7 +24211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30040">
         <xliff:source>It loves to nibble.</xliff:source>
-        <xliff:target state="translated">それはかじるのがすき。</xliff:target>
+        <xliff:target state="translated">かじられることが だいすき だ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Jal-Nib-Rek
@@ -24251,7 +24251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30045">
         <xliff:source>Looks like an expert craftsman of some kind.</xliff:source>
-        <xliff:target state="translated">なんかしゅるいのなんもんこうげいしゃみたいだ。</xliff:target>
+        <xliff:target state="translated">なんてのか, そうじゅつしゃ のように みえる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: TzHaar-Hur
@@ -24331,7 +24331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30055">
         <xliff:source>A strange glyph.</xliff:source>
-        <xliff:target state="translated">へんなもじ。</xliff:target>
+        <xliff:target state="translated">へんな。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ancestral Glyph
@@ -24347,7 +24347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30057">
         <xliff:source>A large rocky column. It looks to be holding up well.</xliff:source>
-        <xliff:target state="translated">おおきないしのはしらで、かなりもちこたえているみたいだ。</xliff:target>
+        <xliff:target state="translated">おおきいはしら。これみえるへであるうえいど。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rocky support
@@ -24363,7 +24363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30059">
         <xliff:source>A dwarf who looks after the mining guild.</xliff:source>
-        <xliff:target state="translated">こうざんぎるどをせわしているどわーふ。</xliff:target>
+        <xliff:target state="translated">こうざんぎるどをせわしているドワーフ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dwarf
@@ -24491,7 +24491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30075">
         <xliff:source>A boar with an impressive mane of dried herbs.</xliff:source>
-        <xliff:target state="translated">こんろうなかんそうしたやさいのたてがみのいのしし。</xliff:target>
+        <xliff:target state="translated">かんそう された やくそう の あっぱれ な たてがみ を つけた いのしし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Herbi
@@ -24795,7 +24795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30113">
         <xliff:source>Giant, but it still floats.</xliff:source>
-        <xliff:target state="translated">おおきなけれど、それでもういている。</xliff:target>
+        <xliff:target state="translated">しかしこれまだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Giant boulder
@@ -24811,7 +24811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30115">
         <xliff:source>Not such a giant boulder anymore.</xliff:source>
-        <xliff:target state="translated">もうそんなにおおきないしじゃない。</xliff:target>
+        <xliff:target state="translated">ないそのような。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Large boulder
@@ -24819,7 +24819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30116">
         <xliff:source>It's getting smaller, maybe there are goodies in the middle, like a piñata.</xliff:source>
-        <xliff:target state="translated">それはちいさくなっている。ぴにゃたみたいに、なかにいいものがあるかもしれない。</xliff:target>
+        <xliff:target state="translated">かもしれないそこにのような。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Medium boulder
@@ -24827,7 +24827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30117">
         <xliff:source>Rich with minerals.</xliff:source>
-        <xliff:target state="translated">こうぶつでみちている。</xliff:target>
+        <xliff:target state="translated">ゆたかなと。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Small boulder
@@ -24899,7 +24899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30126">
         <xliff:source>The mini Guardian of Dusk!</xliff:source>
-        <xliff:target state="translated">ちびゆうぐれあばるもん！</xliff:target>
+        <xliff:target state="translated">たそがれ なるい の ミニ ぼうえいしゃ！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Midnight
@@ -24907,7 +24907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30127">
         <xliff:source>The mini Guardian of Dawn!</xliff:source>
-        <xliff:target state="translated">ちびよあけあばるもん！</xliff:target>
+        <xliff:target state="translated">てんで なるい の ミニ ぼうえいしゃ！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Noon
@@ -25035,7 +25035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30143">
         <xliff:source>The ghost of a goblin slain long ago.</xliff:source>
-        <xliff:target state="translated">ながあいだまえにころされたごぶりんのおばけ。</xliff:target>
+        <xliff:target state="translated">ながあいだまえにころされたゴブリンのおばけ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Revenant goblin
@@ -25051,7 +25051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30145">
         <xliff:source>The ghost of a hobgoblin slain long ago.</xliff:source>
-        <xliff:target state="translated">ながあいだまえにころされたほぶごぶりんのおばけ。</xliff:target>
+        <xliff:target state="translated">ながあいだまえにころされたほぶゴブリンのおばけ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Revenant hobgoblin
@@ -25235,7 +25235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30168">
         <xliff:source>Oh great, it's a casket that's come to life.</xliff:source>
-        <xliff:target state="translated">ああ、いいぜ。いのちにきた ひつぎだ。</xliff:target>
+        <xliff:target state="translated">あ すばらしい。 それは い だ はこ だ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: The Mimic
@@ -25307,7 +25307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30177">
         <xliff:source>A follower of Zamorak.</xliff:source>
-        <xliff:target state="translated">ざもらくのしたがいて。</xliff:target>
+        <xliff:target state="translated">ザモラクのしたがいて。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elder Chaos druid
@@ -25379,7 +25379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30186">
         <xliff:source>A critter from the spirit realm.</xliff:source>
-        <xliff:target state="translated">れい。の はんいからのこざとり。</xliff:target>
+        <xliff:target state="translated">せいれい のしろい から の こおいき。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Corporeal Critter
@@ -25387,7 +25387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30187">
         <xliff:source>Not quite so fearsome anymore.</xliff:source>
-        <xliff:target state="translated">もうそんなにおそろしくない。</xliff:target>
+        <xliff:target state="translated">もう そこまで おそろしく はない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: TzRek-Zuk
@@ -25411,7 +25411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30190">
         <xliff:source>Three legs on my dragon...</xliff:source>
-        <xliff:target state="translated">ぼくのりゅうに あしみつ...</xliff:target>
+        <xliff:target state="translated">わたし の ドラゴン の さんぼん の あし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Vorki
@@ -25419,7 +25419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30191">
         <xliff:source>Its scales seem to be made of runite.</xliff:source>
-        <xliff:target state="translated">そのうろこはるないとでできているみたいだ。</xliff:target>
+        <xliff:target state="translated">それのよじのぼるみえるへであるの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rune dragon
@@ -25571,7 +25571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30210">
         <xliff:source>A researcher from the Varrock Museum.</xliff:source>
-        <xliff:target state="translated">ばろっくぱくぶつかんからのけんきゅうしゃ。</xliff:target>
+        <xliff:target state="translated">バロックぱくぶつかんからのけんきゅうしゃ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dallas Jones
@@ -25651,7 +25651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30220">
         <xliff:source>Doesn't look very edible.</xliff:source>
-        <xliff:target state="translated">あんまりたべられるみたいじゃない。</xliff:target>
+        <xliff:target state="translated">ないみえるとても。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Strange Egg
@@ -25707,7 +25707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30227">
         <xliff:source>So cute!</xliff:source>
-        <xliff:target state="translated">とても、かわいい。</xliff:target>
+        <xliff:target state="translated">だから!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Little Parasite
@@ -25715,7 +25715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30228">
         <xliff:source>A huge lump of rock.</xliff:source>
-        <xliff:target state="translated">おおきないしのかたまり。</xliff:target>
+        <xliff:target state="translated">のいわ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Boulder
@@ -25755,7 +25755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30233">
         <xliff:source>A puppy of a mutated guardian of Xeric.</xliff:source>
-        <xliff:target state="translated">ぜりっくのへんいしたあばるもんのこいぬ。</xliff:target>
+        <xliff:target state="translated">ザリック の へんい された ぼうえいしゃ の パピー。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Puppadile
@@ -25763,7 +25763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30234">
         <xliff:source>Xeric's former artisan's former helper.</xliff:source>
-        <xliff:target state="translated">ゼリック、もと、しょくにん、もと、じゅつ。</xliff:target>
+        <xliff:target state="translated">ザリック の さきの しょくにん の さきの ヘルパー。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tektiny
@@ -25771,7 +25771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30235">
         <xliff:source>A very small member of Xeric's elite tactical unit.</xliff:source>
-        <xliff:target state="translated">ぜりっくのえりせんたれたとうたくたいのとてもちいさいいんいん。</xliff:target>
+        <xliff:target state="translated">ザリック の えりーと たくてぃかる ゆにっと の ひじょうに ちいさい メンバー。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Vanguard
@@ -25779,7 +25779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30236">
         <xliff:source>The son of a former High Priest, fused with the rock and bound to the dark crystals.</xliff:source>
-        <xliff:target state="translated">ふるいだいそうりょうのこで、いしとたっさされて、くらいすいしょうにしばられている。</xliff:target>
+        <xliff:target state="translated">むすこのもとのたかいといわとへくらい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Vasa Minirio
@@ -25787,7 +25787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30237">
         <xliff:source>Princess of the Abyssal Vespine.</xliff:source>
-        <xliff:target state="translated">あびすべすぴーなのおひめさま。</xliff:target>
+        <xliff:target state="translated">しょくえん の ベスピーネ の ひめ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Vespina
@@ -25875,7 +25875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30248">
         <xliff:source>A fighter for the Myreque.</xliff:source>
-        <xliff:target state="translated">マイレーク、たたかいて。</xliff:target>
+        <xliff:target state="translated">マイレークのたたかいてだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Andiess Juip
@@ -25891,7 +25891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30250">
         <xliff:source>A citizen of Meiyerditch.</xliff:source>
-        <xliff:target state="translated">めいあーでぃっちのしみん。</xliff:target>
+        <xliff:target state="translated">Meiyerditchの citizenだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Meiyerditch citizen
@@ -26003,7 +26003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30264">
         <xliff:source>They have a lot to say.</xliff:source>
-        <xliff:target state="translated">かれらはいろいろいうことがある。</xliff:target>
+        <xliff:target state="translated">かれらあるへ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Vyre Orator
@@ -26019,7 +26019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30266">
         <xliff:source>What has eight legs and runs a Vampyric Theatre?</xliff:source>
-        <xliff:target state="translated">なんがはっぽんあしで、あきうりゃあしあたあをえんにんしている？</xliff:target>
+        <xliff:target state="translated">8 ほん の あし を もち，バンパイア シアター を はしる ものは？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Zik
@@ -26051,7 +26051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30270">
         <xliff:source>This is the fate of those who cross the vampyres.</xliff:source>
-        <xliff:target state="translated">これはあきうりゃあをおかすひとたちのうんめいだ。</xliff:target>
+        <xliff:target state="translated">これのだれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: The Maiden of Sugadinti
@@ -26099,7 +26099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30276">
         <xliff:source>An immense pillar supporting the roof.</xliff:source>
-        <xliff:target state="translated">ぎょうだい、よこたてき。</xliff:target>
+        <xliff:target state="translated">immense pillar supporting the roofだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Supporting Pillar
@@ -26163,7 +26163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30284">
         <xliff:source>A tree-dweller of the icy lands.</xliff:source>
-        <xliff:target state="translated">こおりのくにのき。すみがいる。</xliff:target>
+        <xliff:target state="translated">the icy landsの tree-dwellerだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Squirrel
@@ -26179,7 +26179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30286">
         <xliff:source>He's the boss of the trolls of Weiss.</xliff:source>
-        <xliff:target state="translated">かれはわいすのとろるのあくむだ。</xliff:target>
+        <xliff:target state="translated">He's the boss of the trolls of Weiss。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Mother
@@ -26195,7 +26195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30288">
         <xliff:source>A young troll of Weiss.</xliff:source>
-        <xliff:target state="translated">わいすのわかいとろる。</xliff:target>
+        <xliff:target state="translated">わいすのわかいトロル。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Snowflake
@@ -26203,7 +26203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30289">
         <xliff:source>A troll with an unusual capacity for imagination and invention.</xliff:source>
-        <xliff:target state="translated">そうぞうおうりょくとはっめいのめずらしいようりょくのあるとろる。</xliff:target>
+        <xliff:target state="translated">そうぞうおうりょくとはっめいのめずらしいようりょくのあるトロル。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Odd Mushroom
@@ -26211,7 +26211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30290">
         <xliff:source>A troll of Weiss.</xliff:source>
-        <xliff:target state="translated">わいすのとろる。</xliff:target>
+        <xliff:target state="translated">の。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Don't Know What
@@ -26243,7 +26243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30294">
         <xliff:source>She's a keen spinner of webs.</xliff:source>
-        <xliff:target state="translated">かのじょはくものすをおっとめてい。</xliff:target>
+        <xliff:target state="translated">かのじょ は うでまえ の くも だ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Eek
@@ -26259,7 +26259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30296">
         <xliff:source>How does it not fall over?</xliff:source>
-        <xliff:target state="translated">どうしてそれはたおれない？</xliff:target>
+        <xliff:target state="translated">どうして ころばない のか？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ikkle Hydra
@@ -26371,7 +26371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30310">
         <xliff:source>arc_test_01</xliff:source>
-        <xliff:target state="translated">あるくてすとぜろいち</xliff:target>
+        <xliff:target state="translated">あーく てすと 01</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: arc_test_01
@@ -26379,7 +26379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30311">
         <xliff:source>arc_test_02</xliff:source>
-        <xliff:target state="translated">あるくてすとぜろに</xliff:target>
+        <xliff:target state="translated">あーく てすと 02</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: arc_test_02
@@ -26739,7 +26739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30356">
         <xliff:source>Rages fiercely.</xliff:source>
-        <xliff:target state="translated">ぎゃくぎゃく、おこる。</xliff:target>
+        <xliff:target state="translated">ぞうしあくいかりっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fire
@@ -26979,7 +26979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30386">
         <xliff:source>Looks like a bit of a nightmare.</xliff:source>
-        <xliff:target state="translated">ちょっぴりあくゆめのようにみえる。</xliff:target>
+        <xliff:target state="translated">ちょっと あくむ のようにみえる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Youngllef
@@ -26987,7 +26987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30387">
         <xliff:source>Not so threatening at this size.</xliff:source>
-        <xliff:target state="translated">このおおきさでは、そんなにおどさない。</xliff:target>
+        <xliff:target state="translated">ないでこれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Smolcano
@@ -27379,7 +27379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30436">
         <xliff:source>A tree native to Tirannwn.</xliff:source>
-        <xliff:target state="translated">ティラノンのネイティブなき。</xliff:target>
+        <xliff:target state="translated">tree native to Tirannwnだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tree
@@ -27443,7 +27443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30444">
         <xliff:source>The brightest light casts the darkest shadow.</xliff:source>
-        <xliff:target state="translated">もっともあかるいひかりはもっともくらいかげをおとす。</xliff:target>
+        <xliff:target state="translated">ひかりかげ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fragment of Seren
@@ -28595,7 +28595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30588">
         <xliff:source>The dead serpent king.</xliff:source>
-        <xliff:target state="translated">しんだへびのおうさま。</xliff:target>
+        <xliff:target state="translated">しんでいるおう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: The Jormungand
@@ -28675,7 +28675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30598">
         <xliff:source>Quite the little nightmare.</xliff:source>
-        <xliff:target state="translated">かなり、ちいさい、あくむ。</xliff:target>
+        <xliff:target state="translated">ひじょうに ちいさい あくむ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Little Nightmare
@@ -28763,7 +28763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30609">
         <xliff:source>An old totem of eastern origin.</xliff:source>
-        <xliff:target state="translated">ひがしげんしゅっぱりょくのふるいトーテム。</xliff:target>
+        <xliff:target state="translated">ふるいの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Totem
@@ -29147,7 +29147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30657">
         <xliff:source>Perhaps she should try dodging them instead of sticking to one row.</xliff:source>
-        <xliff:target state="translated">かのじょはおそらくいちれつにかたしつするだいわりに、それらをかいひしようとおもいうべきだ。</xliff:target>
+        <xliff:target state="translated">かのじょはおそらくいちれつにかたしつするだいわりに、それらをかいひしようとおもうべきだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: weast side49
@@ -29155,7 +29155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30658">
         <xliff:source>He seems to be struggling with that coffin. He must be having bad RNG.</xliff:source>
-        <xliff:target state="translated">かれはそのひつぎでかくとうしているようだ。かれはあくいアールえぬじーをもちっているにちがいない。</xliff:target>
+        <xliff:target state="translated">かれはそのひつぎでかくとうしているようだ。かれはあくいアールえぬじーをもっているにちがいない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: c0lect0r890
@@ -29179,7 +29179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30661">
         <xliff:source>She looks to be in charge here.</xliff:source>
-        <xliff:target state="translated">かのじょはここでせきにんをもちっているようだ。</xliff:target>
+        <xliff:target state="translated">かのじょはここでせきにんをもっているようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Noranna Tytanin
@@ -29203,7 +29203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30664">
         <xliff:source>What does he know about the queen?</xliff:source>
-        <xliff:target state="translated">かれはおうじょについてなにをしりっているのか？</xliff:target>
+        <xliff:target state="translated">かれはおうじょについてなにをしっているのか？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Valentin Rasputin
@@ -29219,7 +29219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30666">
         <xliff:source>I know he's certain we'll fail.</xliff:source>
-        <xliff:target state="translated">かれがわれ々がうしないやぶれすることをたしかしんしていることをしりっている。</xliff:target>
+        <xliff:target state="translated">かれがわれ々がうしないやぶれすることをたしかしんしていることをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Vlad Bechstein
@@ -29339,7 +29339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30681">
         <xliff:source>She's got a look in her eyes...</xliff:source>
-        <xliff:target state="translated">かのじょはそのめにみほうをもちっている。</xliff:target>
+        <xliff:target state="translated">かのじょはそのめにみほうをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Diphylla Bechstein
@@ -29387,7 +29387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30687">
         <xliff:source>The people of Darkmeyer really know how to dress.</xliff:source>
-        <xliff:target state="translated">ダークメイヤーのひと々はほんとうにふくのきほうをしりっている。</xliff:target>
+        <xliff:target state="translated">ダークメイヤーのひと々はほんとうにふくのきほうをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lasenna Rasputin
@@ -29491,7 +29491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30700">
         <xliff:source>They look pale, tired and old!</xliff:source>
-        <xliff:target state="translated">かれらはあおしろく、つかれて、ねんきりにみえる！</xliff:target>
+        <xliff:target state="translated">かれらみえるつかれているとふるい!!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Slave
@@ -29499,7 +29499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30701">
         <xliff:source>A werewolf visiting Darkmeyer.</xliff:source>
-        <xliff:target state="translated">おおかみおとこ、ダークマイアー、ほうもん。</xliff:target>
+        <xliff:target state="translated">おおかみおとこ、ダーくまイアー、ほうもん。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Werewolf
@@ -29515,7 +29515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30703">
         <xliff:source>Conducts the Darkmeyer slave auctions.</xliff:source>
-        <xliff:target state="translated">ダークマイアー、どれい、きゅうばい、しきしゃ。</xliff:target>
+        <xliff:target state="translated">ダーくまイアー、どれい、きゅうばい、しきしゃ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Auctioneer
@@ -29587,7 +29587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30712">
         <xliff:source>Red panda, like pandas but red.</xliff:source>
-        <xliff:target state="translated">あかいパンダ。パンダのようなあかいもの。</xliff:target>
+        <xliff:target state="translated">あかい ぱんだ。 ぱんだ のよう だが あかい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Red
@@ -29595,7 +29595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30713">
         <xliff:source>No relation to a regular raccoon.</xliff:source>
-        <xliff:target state="translated">ふつうのアライグマとのかんけいはない。</xliff:target>
+        <xliff:target state="translated">つうじょう の あらいぐま と の かんけい は ない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ziggy
@@ -29691,7 +29691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30725">
         <xliff:source>Let's hope she doesn't have arachnophobia.</xliff:source>
-        <xliff:target state="translated">かのじょがくもきょうこわいしょうをもちっていないことをねがいおう。</xliff:target>
+        <xliff:target state="translated">かのじょがくもきょうこわいしょうをもっていないことをねがいおう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Phabelle Bile
@@ -29867,7 +29867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30747">
         <xliff:source>Tally Ho!</xliff:source>
-        <xliff:target state="translated">ほーら、どんどん。</xliff:target>
+        <xliff:target state="translated">いくぞ！</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Captain Dalbur
@@ -30083,7 +30083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30774">
         <xliff:source>So smol, so anger.</xliff:source>
-        <xliff:target state="translated">とても、ちいさい、とても、おこった。</xliff:target>
+        <xliff:target state="translated">そんなに ちいさい，そんなに おこり。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tiny Tempor
@@ -30115,7 +30115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30778">
         <xliff:source>Wonder if he knows the way out?</xliff:source>
-        <xliff:target state="translated">かれがでぐちのみちをしりっているのかな？</xliff:target>
+        <xliff:target state="translated">かれがでぐちのみちをしっているのかな？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Goblin
@@ -30227,7 +30227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30792">
         <xliff:source>I'm not entirely sure what that monkey is trying to achieve.</xliff:source>
-        <xliff:target state="translated">あたしはそのさルがなにをたっせいしようとしているのかかんぜんにはかくにんされていない。</xliff:target>
+        <xliff:target state="translated">あたしはそのさるがなにをたっせいしようとしているのかかんぜんにはかくにんされていない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cow
@@ -30347,7 +30347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30807">
         <xliff:source>Small, troublesome, cute.</xliff:source>
-        <xliff:target state="translated">しょうさい、やっかい、かわいい。</xliff:target>
+        <xliff:target state="translated">ちいさい，くせもの，かわいい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: JalRek-Jad
@@ -30355,7 +30355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30808">
         <xliff:source>He has a challenge for you.</xliff:source>
-        <xliff:target state="translated">かれはあなたのためのチャレンジをもちっている。</xliff:target>
+        <xliff:target state="translated">かれはあなたのためのチャレンジをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: TzHaar-Ket-Rak
@@ -30371,7 +30371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30810">
         <xliff:source>He has a keen interest in stars.</xliff:source>
-        <xliff:target state="translated">かれはほしにするどいきょうみをもちっている。</xliff:target>
+        <xliff:target state="translated">かれはほしにするどいきょうみをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dusuri
@@ -30419,7 +30419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30816">
         <xliff:source>He has muscles on top of muscles.</xliff:source>
-        <xliff:target state="translated">かれはすじにくのじょうにすじにくをもちっている。</xliff:target>
+        <xliff:target state="translated">かれはすじにくのじょうにすじにくをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Checkal
@@ -30627,7 +30627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30842">
         <xliff:source>Freed from her torturous constraints.</xliff:source>
-        <xliff:target state="translated">かのじょのにがいしいせいやくからときはなし。</xliff:target>
+        <xliff:target state="translated">つらい せいばくから かいほうされた。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Maiden
@@ -30635,7 +30635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30843">
         <xliff:source>Smaller size, same smell.</xliff:source>
-        <xliff:target state="translated">ちいさい、さいず、おなじ、におい。</xliff:target>
+        <xliff:target state="translated">ちいさいサイズ、おなじにおい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Bloat
@@ -30643,7 +30643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30844">
         <xliff:source>Eight legs of unparalleled loyalty.</xliff:source>
-        <xliff:target state="translated">くらべるいのないなちゅうせいの8ほんのあし。</xliff:target>
+        <xliff:target state="translated">くらべものにならない ちゅうせつさの はっぽん。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Nylo
@@ -30651,7 +30651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30845">
         <xliff:source>Has a lot of anger for such a small monster.</xliff:source>
-        <xliff:target state="translated">そのようなしょうさいモンスターのためにおおいくのいかりをもちっている。</xliff:target>
+        <xliff:target state="translated">こんなちいさいモンスターなのに たくさんおこりがある。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil' Sot
@@ -30683,7 +30683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30849">
         <xliff:source>He seems to have a lot to say.</xliff:source>
-        <xliff:target state="translated">かれはいいうべきことがたくさんあるようだ。</xliff:target>
+        <xliff:target state="translated">かれはいうべきことがたくさんあるようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Martin Holt
@@ -30699,7 +30699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30851">
         <xliff:source>She seems to have a lot to say.</xliff:source>
-        <xliff:target state="translated">かのじょはいいうべきことがたくさんあるようだ。</xliff:target>
+        <xliff:target state="translated">かのじょはいうべきことがたくさんあるようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Protest Leader
@@ -30707,7 +30707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30852">
         <xliff:source>He looks angry.</xliff:source>
-        <xliff:target state="translated">かれみえるおこった。</xliff:target>
+        <xliff:target state="translated">かれみえるおこっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Protester
@@ -30715,7 +30715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30853">
         <xliff:source>She looks angry.</xliff:source>
-        <xliff:target state="translated">かのじょみえるおこった。</xliff:target>
+        <xliff:target state="translated">かのじょみえるおこっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Protester
@@ -30747,7 +30747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30857">
         <xliff:source>He has an air of authority about him.</xliff:source>
-        <xliff:target state="translated">かれはかれについてけんいのくうきをもちっている。</xliff:target>
+        <xliff:target state="translated">かれはかれについてけんいのくうきをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Councillor Andrews
@@ -30755,7 +30755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30858">
         <xliff:source>He has no authority here.</xliff:source>
-        <xliff:target state="translated">かれはここにけんいをもちっていない。</xliff:target>
+        <xliff:target state="translated">かれはここにけんいをもっていない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: David Andrews
@@ -30803,7 +30803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30864">
         <xliff:source>He has a look of concern to him.</xliff:source>
-        <xliff:target state="translated">かれはかれへのしんぱいなみほうをもちっている。</xliff:target>
+        <xliff:target state="translated">かれはかれへのしんぱいなみほうをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Councillor Orson
@@ -30819,7 +30819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30866">
         <xliff:source>If evil had a look, this would be it.</xliff:source>
-        <xliff:target state="translated">あくいことがみほうをもちっていれば、これはそれになるだろう。</xliff:target>
+        <xliff:target state="translated">あくいことがみほうをもっていれば、これはそれになるだろう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Xamphur
@@ -30963,7 +30963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30884">
         <xliff:source>Chunky pieces of ice.</xliff:source>
-        <xliff:target state="translated">かたまりのこおり。</xliff:target>
+        <xliff:target state="translated">のこおりの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ice chunks
@@ -31035,7 +31035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30893">
         <xliff:source>I think he's had one too many.</xliff:source>
-        <xliff:target state="translated">かれはあまりにもおおいくのものをもちっていたとおもう。</xliff:target>
+        <xliff:target state="translated">かれはあまりにもおおいくのものをもっていたとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Drunken soldier
@@ -31139,7 +31139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30906">
         <xliff:source>Master of the lynx.</xliff:source>
-        <xliff:target state="translated">オオヤマネコのマスター。</xliff:target>
+        <xliff:target state="translated">オオヤマねこのマスター。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lynx Tamer
@@ -31435,7 +31435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30943">
         <xliff:source>The gods don't quite fear this one.</xliff:source>
-        <xliff:target state="translated">かみはこのもっともおそれない。</xliff:target>
+        <xliff:target state="translated">.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Nexling
@@ -31643,7 +31643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30969">
         <xliff:source>Not quite as great as the Great Guardian, but pretty close.</xliff:source>
-        <xliff:target state="translated">グレートガーディアンほどすばらしいらしくはありませんが、かなりちかくいです。</xliff:target>
+        <xliff:target state="translated">ない, しかし とじる.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Greatish guardian
@@ -31651,7 +31651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30970">
         <xliff:source>Your own personal abyssal horror.</xliff:source>
-        <xliff:target state="translated">あなたじしんのこじんてきなあびすみたいなおそろしさ。</xliff:target>
+        <xliff:target state="translated">.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Abyssal protector
@@ -31771,7 +31771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="30985">
         <xliff:source>Archmage of the Order of Wizards.</xliff:source>
-        <xliff:target state="translated">ウィザードのちつじょのアルクマージ。</xliff:target>
+        <xliff:target state="translated">ウィザードのちつじょのアルくまージ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Archmage Sedridor
@@ -32075,7 +32075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31023">
         <xliff:source>A tiny automaton imbued with a trace of Tumeken's power.</xliff:source>
-        <xliff:target state="translated">つめけんのをちちからのあとをあたえられたちいさなオートマトン。</xliff:target>
+        <xliff:target state="translated">ちょうちゃん と の.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tumeken's Guardian
@@ -32083,7 +32083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31024">
         <xliff:source>A tiny automaton imbued with a trace of Elidinis' power.</xliff:source>
-        <xliff:target state="translated">エリディニスのをちちからのあとをあたえられたちいさなオートマトン。</xliff:target>
+        <xliff:target state="translated">ちょうちゃん と の.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elidinis' Guardian
@@ -32299,7 +32299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31051">
         <xliff:source>It looks to be glimmering slightly.</xliff:source>
-        <xliff:target state="translated">それはかすかにかがやきいているようだ。</xliff:target>
+        <xliff:target state="translated">それはかすかにかがやいているようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Het's Seal (protected)
@@ -32579,7 +32579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31086">
         <xliff:source>A big ol' monke.</xliff:source>
-        <xliff:target state="translated">だいきいさル。</xliff:target>
+        <xliff:target state="translated">だいきいさる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ba-Ba
@@ -32603,7 +32603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31089">
         <xliff:source>This place needs a clean...</xliff:source>
-        <xliff:target state="translated">このばしょはきれいなことがひつようだ。</xliff:target>
+        <xliff:target state="translated">こればしょひつようきれいな...</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Rubble
@@ -32627,7 +32627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31092">
         <xliff:source>A well equipped camel.</xliff:source>
-        <xliff:target state="translated">よく、みぶ、ラクダ。</xliff:target>
+        <xliff:target state="translated">well equipped camelだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Bank Camel
@@ -32643,7 +32643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31094">
         <xliff:source>Small, but still strong.</xliff:source>
-        <xliff:target state="translated">ちいさい、しかしまだつよい。</xliff:target>
+        <xliff:target state="translated">ちいさい, しかし つよい.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Akkhito
@@ -32651,7 +32651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31095">
         <xliff:source>Her mother's daughter. Fond of bananas.</xliff:source>
-        <xliff:target state="translated">かのじょのははのむすめ。バナナがすきだ。</xliff:target>
+        <xliff:target state="translated">. の バナナ.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Babi
@@ -32659,7 +32659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31096">
         <xliff:source>The tiniest bug can still make worlds fall over.</xliff:source>
-        <xliff:target state="translated">もっともちいさいみずむしはそれでもせかいがたおれるようにすることができる。</xliff:target>
+        <xliff:target state="translated">できる つくる うえ.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Kephriti
@@ -32667,7 +32667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31097">
         <xliff:source>Chomp.</xliff:source>
-        <xliff:target state="translated">かぶと。</xliff:target>
+        <xliff:target state="translated">.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Zebo
@@ -32691,7 +32691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31100">
         <xliff:source>Spooky!</xliff:source>
-        <xliff:target state="translated">こわい。</xliff:target>
+        <xliff:target state="translated">ぶきみだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Ghost
@@ -32803,7 +32803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31114">
         <xliff:source>An oversized grub with arms.</xliff:source>
-        <xliff:target state="translated">うでをもつおおきなまゆむし。</xliff:target>
+        <xliff:target state="translated">と.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Muphin
@@ -33059,7 +33059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31146">
         <xliff:source>Born in the shadows.</xliff:source>
-        <xliff:target state="translated">かげでなまれた。</xliff:target>
+        <xliff:target state="translated">に.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wisp
@@ -33067,7 +33067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31147">
         <xliff:source>A tiny headless executioner.</xliff:source>
-        <xliff:target state="translated">ちいさい、あたまなし、しおくにん。</xliff:target>
+        <xliff:target state="translated">ちょうちゃん.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Butch
@@ -33075,7 +33075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31148">
         <xliff:source>Better keep an eye on this one.</xliff:source>
-        <xliff:target state="translated">このもっともにめをさましておこう。</xliff:target>
+        <xliff:target state="translated">に.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Baron
@@ -33083,7 +33083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31149">
         <xliff:source>A small creature deformed by the Abyss.</xliff:source>
-        <xliff:target state="translated">あびすによってふかたちにされたしょうさいなまきもの。</xliff:target>
+        <xliff:target state="translated">ちいさい に.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lil'viathan
@@ -33123,7 +33123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31154">
         <xliff:source>Looks like it's gotten through a lot of wood.</xliff:source>
-        <xliff:target state="translated">それはおおいくのきをとおったようだ。</xliff:target>
+        <xliff:target state="translated">それ とおして の もく.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Beaver
@@ -33163,7 +33163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31159">
         <xliff:source>Looks slimy.</xliff:source>
-        <xliff:target state="translated">ぬめぬめくみえる。</xliff:target>
+        <xliff:target state="translated">みえるぬるぬるした。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Tentacle
@@ -33171,7 +33171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31160">
         <xliff:source>Looks... safe?</xliff:source>
-        <xliff:target state="translated">みえる...あんぜん？</xliff:target>
+        <xliff:target state="translated">みえる。あんぜんな??</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Floating Column
@@ -33203,7 +33203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31164">
         <xliff:source>Has an aura around it that seems to be safe.</xliff:source>
-        <xliff:target state="translated">あんぜんなようなオーラをそのまわりにもちっている。</xliff:target>
+        <xliff:target state="translated">あんぜんなようなオーラをそのまわりにもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Abyssal pathfinder
@@ -33259,7 +33259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31171">
         <xliff:source>Yuck!</xliff:source>
-        <xliff:target state="translated">うげ。</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Crawling Hand
@@ -33339,7 +33339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31181">
         <xliff:source>A mysterious archaeologist.</xliff:source>
-        <xliff:target state="translated">なぞ、こうこがくしゃ。</xliff:target>
+        <xliff:target state="translated">.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Dr Banikan
@@ -33403,7 +33403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31189">
         <xliff:source>Looks to have been heavily modified.</xliff:source>
-        <xliff:target state="translated">きょうくしゅうせいされたようだ。</xliff:target>
+        <xliff:target state="translated">みえるへあるいた。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Golem
@@ -33619,7 +33619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31216">
         <xliff:source>Ahhh, isn't it cute?</xliff:source>
-        <xliff:target state="translated">あああ、かわいいでしょ。</xliff:target>
+        <xliff:target state="translated">ではないこれ?</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Cute Creature
@@ -33859,7 +33859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31246">
         <xliff:source>A wise explorer.</xliff:source>
-        <xliff:target state="translated">かしこい、たんさくしゃ。</xliff:target>
+        <xliff:target state="translated">.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Elias White
@@ -33987,7 +33987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31262">
         <xliff:source>Still somewhat imposing, I suppose.</xliff:source>
-        <xliff:target state="translated">やはり、ある、ていど、りりしい、とおもう。</xliff:target>
+        <xliff:target state="translated">,.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Smol Heredit
@@ -33995,7 +33995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31263">
         <xliff:source>Is this bird tailing me?</xliff:source>
-        <xliff:target state="translated">このとりはあたしをつけているのか？</xliff:target>
+        <xliff:target state="translated">とり?</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Quetzin
@@ -34091,7 +34091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31275">
         <xliff:source>At least he brought a loincloth.</xliff:source>
-        <xliff:target state="translated">すこしなくともかれはふんどしをもちってきた。</xliff:target>
+        <xliff:target state="translated">すこしなくともかれはふんどしをもってきた。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Javelin Colossus
@@ -34107,7 +34107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31277">
         <xliff:source>If he had a theme song, it'd probably go with everything.</xliff:source>
-        <xliff:target state="translated">かれがテーマソングをもちっていたなら、それはおそらくすべてといっしょにいきくだろう。</xliff:target>
+        <xliff:target state="translated">かれがテーマソングをもっていたなら、それはおそらくすべてといっしょにいきくだろう。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Shockwave Colossus
@@ -34275,7 +34275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31298">
         <xliff:source>A knight in fancy armour.</xliff:source>
-        <xliff:target state="translated">しゃれたよろいのきし。</xliff:target>
+        <xliff:target state="translated">ごうかなアーマーのきし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Knight of Varlamore
@@ -34299,7 +34299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31301">
         <xliff:source>A pretty water feature.</xliff:source>
-        <xliff:target state="translated">きれいなみずのきのう。</xliff:target>
+        <xliff:target state="translated">きれいなみず。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Fountain
@@ -34323,7 +34323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31304">
         <xliff:source>She knows a thing or two about fabrics.</xliff:source>
-        <xliff:target state="translated">かのじょはきじについていくつかのことをしりっている。</xliff:target>
+        <xliff:target state="translated">かのじょはきじについていくつかのことをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Atza
@@ -34867,7 +34867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31372">
         <xliff:source>Knows a thing or two about rock.</xliff:source>
-        <xliff:target state="translated">いわについていくつかのことをしりっている。</xliff:target>
+        <xliff:target state="translated">いわについていくつかのことをしっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Metla
@@ -34875,7 +34875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31373">
         <xliff:source>She looks like she knows her way around a rock or two.</xliff:source>
-        <xliff:target state="translated">かのじょはかのじょがいわのまわりにかのじょのみちをしりっているようにみえる。</xliff:target>
+        <xliff:target state="translated">かのじょはかのじょがいわのまわりにかのじょのみちをしっているようにみえる。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Avinia
@@ -35211,7 +35211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31415">
         <xliff:source>Has everything you need to get your hands dirty.</xliff:source>
-        <xliff:target state="translated">あなたのてをよごれすためにひつようなすべてをもちっている。</xliff:target>
+        <xliff:target state="translated">あなたのてをよごれすためにひつようなすべてをもっている。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Agelus
@@ -35402,7 +35402,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Robert the Strong
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=2639</xliff:note></xliff:trans-unit><xliff:trans-unit id="31442"><xliff:source>The leader of the Dagon'hai, also known as the Dark Squall.</xliff:source>
-        <xliff:target state="translated">ダゴンハイのリーダー、ダークスコールとしてもしりられている。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">ダゴンハイのリーダー、ダークスコールとしてもしられている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Surok Magis
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=3205</xliff:note></xliff:trans-unit><xliff:trans-unit id="31443"><xliff:source>A warrior who has devoted their life to Armadyl.</xliff:source>
@@ -35418,7 +35418,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Jack Frost
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=6481</xliff:note></xliff:trans-unit><xliff:trans-unit id="31446"><xliff:source>An extremely dangerous, emaciated, ape-like creature with beady red eyes.</xliff:source>
-        <xliff:target state="translated">きょくめてきけんで、やせたさルのようななまきもの、こうたくのあるあかいめで。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">きょくめてきけんで、やせたさるのようななまきもの、こうたくのあるあかいめで。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Cave abomination
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12454</xliff:note></xliff:trans-unit><xliff:trans-unit id="31447"><xliff:source>Son of Santa, mildly bored.</xliff:source>
@@ -35514,7 +35514,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Wild broav
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13517</xliff:note></xliff:trans-unit><xliff:trans-unit id="31470"><xliff:source>A Mort Myre mushroom-muncher.</xliff:source>
-        <xliff:target state="translated">モート、マイア、きのこ、たべるやつ。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">きのこ-.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Broav
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13518</xliff:note></xliff:trans-unit><xliff:trans-unit id="31471"><xliff:source>A mysterious, sharply-dressed man.</xliff:source>
@@ -35522,7 +35522,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Silif
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13519</xliff:note></xliff:trans-unit><xliff:trans-unit id="31472"><xliff:source>The armour adds to his stealthiness.</xliff:source>
-        <xliff:target state="translated">よろいはかれのこそこそかんをくわえる。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">よろい へ.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Silif
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13521</xliff:note></xliff:trans-unit><xliff:trans-unit id="31473"><xliff:source>It looks like he wasn't quite stealthy enough.</xliff:source>
@@ -35602,7 +35602,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Tormented Demon
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13599</xliff:note></xliff:trans-unit><xliff:trans-unit id="31492"><xliff:source>For debug.</xliff:source>
-        <xliff:target state="translated">デバッグ、ため。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">でばっぐようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Debug Man
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13611</xliff:note></xliff:trans-unit><xliff:trans-unit id="31493"><xliff:source>A powerful warrior, guarding the Warriors' Guild.</xliff:source>
@@ -35662,7 +35662,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Weave
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13677</xliff:note></xliff:trans-unit><xliff:trans-unit id="31507"><xliff:source>Really hope she doesn't crawl into my mouth while I sleep.</xliff:source>
-        <xliff:target state="translated">あたしがねているあいだに、かのじょがあたしのくちにはいこみまないことをほんとうにねがいっている。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">へ.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Arancini
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13678</xliff:note></xliff:trans-unit><xliff:trans-unit id="31508"><xliff:source>Looks a tad disheveled</xliff:source>
@@ -35674,7 +35674,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Nid
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13681</xliff:note></xliff:trans-unit><xliff:trans-unit id="31510"><xliff:source>Looks like a respectable gentleman.</xliff:source>
-        <xliff:target state="translated">りっぱなしんしのようにみえる。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Nid
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13683</xliff:note></xliff:trans-unit><xliff:trans-unit id="31511"><xliff:source>A powerful frost nagua.</xliff:source>
@@ -35686,7 +35686,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Unstable ice
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13688</xliff:note></xliff:trans-unit><xliff:trans-unit id="31513"><xliff:source>The heir to the throne of Varlamore, going undercover.</xliff:source>
-        <xliff:target state="translated">ヴァーラモアのおうざのつぎしょうひと、わかりしていく。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">へ の,.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Prince Itzla Arkan
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13690</xliff:note></xliff:trans-unit><xliff:trans-unit id="31514"><xliff:source>A citizen of Varlamore, hoping to join the Twilight Emissaries.</xliff:source>
@@ -35778,7 +35778,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Lelia
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13806</xliff:note></xliff:trans-unit><xliff:trans-unit id="31536"><xliff:source>She knows a thing or two about being a farmer.</xliff:source>
-        <xliff:target state="translated">かのじょはのうふであることについていくつかのことをしりっている。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">かのじょはのうふであることについていくつかのことをしっている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Alba
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13807</xliff:note></xliff:trans-unit><xliff:trans-unit id="31537"><xliff:source>He's here to try Emelio's kebabs.</xliff:source>
@@ -36058,7 +36058,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Hueycoatl tail (broken)
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14015</xliff:note></xliff:trans-unit><xliff:trans-unit id="31606"><xliff:source>There's a monster in this mountain...</xliff:source>
-        <xliff:target state="translated">このやまにはモンスターがいます。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">バケモノにこれやま...</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hueycoatl body
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14017</xliff:note></xliff:trans-unit><xliff:trans-unit id="31607"><xliff:source>A pile of rock and broken scales.</xliff:source>
@@ -36078,15 +36078,15 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Lucrezia
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14029</xliff:note></xliff:trans-unit><xliff:trans-unit id="31611"><xliff:source>A giant squirrel with a skeletal aesthetic.</xliff:source>
-        <xliff:target state="translated">ほねのびまなびをもちつきょじんのリス。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">と.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Bone Squirrel
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14032</xliff:note></xliff:trans-unit><xliff:trans-unit id="31612"><xliff:source>Looks very polite.</xliff:source>
-        <xliff:target state="translated">ひじょうにていねいにみえる。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Huberte
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14033</xliff:note></xliff:trans-unit><xliff:trans-unit id="31613"><xliff:source>A tiny frost nagua.</xliff:source>
-        <xliff:target state="translated">ちいさい、しもや、ながうあ。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">ちょうちゃん.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Moxi
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14034</xliff:note></xliff:trans-unit><xliff:trans-unit id="31614"><xliff:source>A naughty sea bird.</xliff:source>
@@ -36138,11 +36138,11 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Left head
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=125</xliff:note></xliff:trans-unit><xliff:trans-unit id="31626"><xliff:source>Might have a short temper.</xliff:source>
-        <xliff:target state="translated">きっときたんきのしょうばいがあるだろう。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">かもしれない ある ひくい.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Bran
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=10476</xliff:note></xliff:trans-unit><xliff:trans-unit id="31627"><xliff:source>Looks like a chill guy.</xliff:source>
-        <xliff:target state="translated">すずしいやつにみえる。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">.</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ric
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12592</xliff:note></xliff:trans-unit><xliff:trans-unit id="31628"><xliff:source>Wields the primal force of fire. Majestic and fearsome.</xliff:source>
@@ -36170,7 +36170,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Fire
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14152</xliff:note></xliff:trans-unit><xliff:trans-unit id="31634"><xliff:source>Razor sharp.</xliff:source>
-        <xliff:target state="translated">かみそりのようにするどい。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">するどい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Icicles
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14153</xliff:note></xliff:trans-unit><xliff:trans-unit id="31635"><xliff:source>He seems to like deviled eggs.</xliff:source>

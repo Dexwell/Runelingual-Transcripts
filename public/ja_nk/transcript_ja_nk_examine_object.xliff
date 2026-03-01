@@ -1035,7 +1035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31565">
         <xliff:source>A small simple gravestone.</xliff:source>
-        <xliff:target state="translated">ちいさくて、しんぷルなぼせきだ。</xliff:target>
+        <xliff:target state="translated">ちいさくて、しんぷるなぼせきだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Small gravestone
@@ -1043,7 +1043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31566">
         <xliff:source>A simple marker for a forgotten person.</xliff:source>
-        <xliff:target state="translated">わすれられたひとのための、しんぷルなマーカーだ。</xliff:target>
+        <xliff:target state="translated">わすれられたひとのための、しんぷるなマーカーだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Grave marker
@@ -3395,7 +3395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31860">
         <xliff:source>A home for frogs.</xliff:source>
-        <xliff:target state="translated">カエルのすみかだ。</xliff:target>
+        <xliff:target state="translated">かえるのすみかだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Waterlily
@@ -8587,7 +8587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="32509">
         <xliff:source>Makes sliced human.</xliff:source>
-        <xliff:target state="translated">すらいスしたにんげんをつくる。</xliff:target>
+        <xliff:target state="translated">すらいすしたにんげんをつくる。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Spinning blades
@@ -13835,7 +13835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="33165">
         <xliff:source>They look old. Older than me anyway.</xliff:source>
-        <xliff:target state="translated">かれらみえるふるい。わたし。</xliff:target>
+        <xliff:target state="translated">かれらみエルフるい。わたし。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Skeleton
@@ -34275,7 +34275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="35720">
         <xliff:source>The fence looks old.</xliff:source>
-        <xliff:target state="translated">さくみえるふるい。</xliff:target>
+        <xliff:target state="translated">さくみエルフるい。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Fence mid
@@ -34299,7 +34299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="35723">
         <xliff:source>The fence looks old and is crumbling.</xliff:source>
-        <xliff:target state="translated">さくみえるふるいと。</xliff:target>
+        <xliff:target state="translated">さくみエルフるいと。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Fence mid
@@ -35083,7 +35083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="35821">
         <xliff:source>This looks old, but well used.</xliff:source>
-        <xliff:target state="translated">これみえるふるい,しかしいどつかった。</xliff:target>
+        <xliff:target state="translated">これみエルフるい,しかしいどつかった。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Dummy
@@ -58515,7 +58515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="38750">
         <xliff:source>Cat.</xliff:source>
-        <xliff:target state="translated">ネコだ。</xliff:target>
+        <xliff:target state="translated">ねこだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Cat
@@ -61315,7 +61315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="39100">
         <xliff:source>Blood-stained medical storage, looks old and dusty.</xliff:source>
-        <xliff:target state="translated">みえるふるいと。</xliff:target>
+        <xliff:target state="translated">みエルフるいと。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Equipment table
@@ -61323,7 +61323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="39101">
         <xliff:source>Blood-stained medical storage, looks old, dusty and broken.</xliff:source>
-        <xliff:target state="translated">みえるふるい,と。</xliff:target>
+        <xliff:target state="translated">みエルフるい,と。</xliff:target>
         <xliff:note>category: examine
 sub_category: object
 source: Broken equipment table

@@ -128,8 +128,8 @@ It smells funny in there.	あなかの、においが、へんだ。	examine	obj
 A fishing net full of fish.	さかなでいっぱいの、ぎょもうだ。	examine	object	Full fishing net
 Bamboo storage!	たけのしまいだ！	examine	object	Bookcase
 I hope no-one's home...	だれもいないといいなあ。	examine	object	Coffin
-A small simple gravestone.	ちいさくて、しんぷルなぼせきだ。	examine	object	Small gravestone
-A simple marker for a forgotten person.	わすれられたひとのための、しんぷルなマーカーだ。	examine	object	Grave marker
+A small simple gravestone.	ちいさくて、しんぷるなぼせきだ。	examine	object	Small gravestone
+A simple marker for a forgotten person.	わすれられたひとのための、しんぷるなマーカーだ。	examine	object	Grave marker
 The remains of someone lie inside.	だれかのなごりが、なかにある。	examine	object	Tombstone
 A monument to a special person.	とくべつなひとへの、きねんひだ。	examine	object	Large grave stone
 The inscription is worn away and unreadable.	きさくが、すりへって、よめない。	examine	object	Gravestone
@@ -423,7 +423,7 @@ Poisonous no doubt.	いいえ。	examine	object	Mushrooms
 I doubt that's edible.	あれはたべられるとおもいわないね。	examine	object	Fungus
 A commonly found fern.	さがした。	examine	object	Small fern
 Spiky!	とげのある!!	examine	object	Thistle
-A home for frogs.	カエルのすみかだ。	examine	object	Waterlily
+A home for frogs.	かえるのすみかだ。	examine	object	Waterlily
 Otherwise known as a lilypad.	として。	examine	object	Waterlily
 Smells lovely!	!	examine	object	Heather
 Who is this Heather girl?	だれこれおんなのこ??	examine	object	Heather
@@ -1072,7 +1072,7 @@ I might want to avoid this nasty blade.	わたしかもしれないへこれ。	
 Walk the plank! Ya land lubber!	あるく!	examine	object	Plank
 I see dead people.	わたしみるしんでいるひとびと。	examine	object	Coffin
 It's a small step for a player, a giant leap for player kind.	ちいさいだんしんせつな。	examine	object	Pillar
-Makes sliced human.	すらいスしたにんげんをつくる。	examine	object	Spinning blades
+Makes sliced human.	すらいすしたにんげんをつくる。	examine	object	Spinning blades
 Releases a ticket when the flashing arrow is above it.	いつやうえこれ。	examine	object	Ticket Dispenser
 Makes human colanders.	こらんだーのようなにんげんをつくる。	examine	object	Floor spikes
 I can use these to climb across to the other side.	use these to climb across to the other sideできそうだ。	examine	object	Hand holds
@@ -1728,7 +1728,7 @@ Weird looking pillar.	へんなみえている。	examine	object	Pillar
 A locked display case for valuable artefacts.	かぎがかかっている。	examine	object	Display case
 One of the sculptures is missing. Oh yes, that was me!	の。はい,あれだったわたし!!	examine	object	Display case
 It looks like the demon didn't survive after all.	the demon didn't survive after allのようだ。	examine	object	Skeleton
-They look old. Older than me anyway.	かれらみえるふるい。わたし。	examine	object	Skeleton
+They look old. Older than me anyway.	かれらみエルフるい。わたし。	examine	object	Skeleton
 I don't think he's going to make it.	わたしないへつくるこれ。	examine	object	Skeleton
 I don't understand, why didn't he go back to Lumby?	わたしないわかる,なぜなかったかれいくもどってへ?	examine	object	Skeleton
 A throne encrusted with sparkling gems.	throne encrusted with sparkling gemsだ。	examine	object	Throne
@@ -4283,10 +4283,10 @@ Fence mid.	フェンスのないがわだ。	examine	object	Fence mid
 Fence corner.	フェンスのつのだ。	examine	object	Fence corner
 Fence t-piece.	Tかたフェンスだ。	examine	object	Fence t-piece
 A part of the fence.	ぶひんのさく。	examine	object	Single pillar
-The fence looks old.	さくみえるふるい。	examine	object	Fence mid
+The fence looks old.	さくみエルフるい。	examine	object	Fence mid
 The fence looks very old.	さくみえるとてもふるい。	examine	object	Fence corner
 Looks like bits of the old fence.	bits of the old fenceのようだ。	examine	object	Fence bits
-The fence looks old and is crumbling.	さくみえるふるいと。	examine	object	Fence mid
+The fence looks old and is crumbling.	さくみエルフるいと。	examine	object	Fence mid
 A rocky wall.	かべ。	examine	object	Rock wall
 A dusty-looking bookshelf.	ほんだな。	examine	object	Bookshelf
 An old lab table.	ふるいテーブル。	examine	object	Lab table
@@ -4384,7 +4384,7 @@ Allows access to the level below.	ゆるすへした。	examine	object	Ladder
 A decorative teak bench.	そうしょくチークベンチだ。	examine	object	Bench
 A selection of Mayor Hobb's books.	のほん。	examine	object	Bookcase
 A clothing storage device.	ふくをしまうきかいだ。	examine	object	Wardrobe
-This looks old, but well used.	これみえるふるい,しかしいどつかった。	examine	object	Dummy
+This looks old, but well used.	これみエルフるい,しかしいどつかった。	examine	object	Dummy
 An old anchor.	ふるい。	examine	object	Anchor
 A holy book of Saradomin.	ほんのサラドミン。	examine	object	Lectern
 An altar with a symbol of Saradomin.	とのサラドミン。	examine	object	Altar
@@ -7313,7 +7313,7 @@ Sounds can be heard coming from inside! They will hatch soon!	ことができる
 Wonder what's inside?	ふしぎにおもうなか??	examine	object	Lizardman eggs
 It was a long drop to get in here...	これだったながいへなるにここ...	examine	object	Light
 Perhaps this leads out of here?	おそらくこれみちびくそとのここ??	examine	object	Strange hole
-Cat.	ネコだ。	examine	object	Cat
+Cat.	ねこだ。	examine	object	Cat
 An ancient stone chest.	いしたからばこ。	examine	object	Stone chest
 An ancient stone chest full of hammers.	いしたからばこいっぱいのの。	examine	object	Stone chest
 An old vase.	ふるい。	examine	object	Vase
@@ -7663,8 +7663,8 @@ It looks like it was part of some sort of beast experiment.	it was part of some 
 A tall empty cage.	せがたかいからのかご。	examine	object	Cage
 A blood-stained restraining table, used for restless victims.	テーブル,つかった。	examine	object	Restraining Table
 A blood-stained restraining table. The victim shows how effective it is.	テーブル。しめすどうこれ。	examine	object	Restraint Table
-Blood-stained medical storage, looks old and dusty.	みえるふるいと。	examine	object	Equipment table
-Blood-stained medical storage, looks old, dusty and broken.	みえるふるい,と。	examine	object	Broken equipment table
+Blood-stained medical storage, looks old and dusty.	みエルフるいと。	examine	object	Equipment table
+Blood-stained medical storage, looks old, dusty and broken.	みエルフるい,と。	examine	object	Broken equipment table
 A range which has fallen into disrepair.	range which has fallen into disrepairだ。	examine	object	Broken range
 An old coffin - spooky!	ふるい!	examine	object	Coffin
 An old coffin raised upon a stone plinth.	ふるいあげたいし。	examine	object	Raised coffin

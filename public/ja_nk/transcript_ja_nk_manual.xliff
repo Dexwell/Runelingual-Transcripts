@@ -491,7 +491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109324">
         <xliff:source>Rabbit Hop</xliff:source>
-        <xliff:target state="translated">ウサギだピョン</xliff:target>
+        <xliff:target state="translated">うさぎだピョン</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -643,7 +643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109343">
         <xliff:source>Crab dance</xliff:source>
-        <xliff:target state="translated">カニダンス</xliff:target>
+        <xliff:target state="translated">かにダンス</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -1075,7 +1075,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109397">
         <xliff:source>Elven</xliff:source>
-        <xliff:target state="translated">えるふのようなかみかた</xliff:target>
+        <xliff:target state="translated">エルフのようなかみかた</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -2507,7 +2507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109576">
         <xliff:source>during the Legends' Quest.</xliff:source>
-        <xliff:target state="translated">でんせつのくえすとちゅう</xliff:target>
+        <xliff:target state="translated">でんせつのクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2563,7 +2563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109583">
         <xliff:source>during the Lunar Diplomacy quest.</xliff:source>
-        <xliff:target state="translated">げつめんこうしょうくえすとちゅう</xliff:target>
+        <xliff:target state="translated">げつめんこうしょうクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2579,7 +2579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109585">
         <xliff:source>during the Demon Slayer quest.</xliff:source>
-        <xliff:target state="translated">あくまそらいくえすとちゅう</xliff:target>
+        <xliff:target state="translated">あくまそらいクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2611,7 +2611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109589">
         <xliff:source>during the Clan Wars minigame.</xliff:source>
-        <xliff:target state="translated">ぞくまさいくえすとちゅう</xliff:target>
+        <xliff:target state="translated">ぞくまさいクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2627,7 +2627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109591">
         <xliff:source>during the Song of the Elves quest.</xliff:source>
-        <xliff:target state="translated">えるぶのうたくえすとちゅう</xliff:target>
+        <xliff:target state="translated">えるぶのうたクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2659,7 +2659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109595">
         <xliff:source>during The Fremennik Trials quest.</xliff:source>
-        <xliff:target state="translated">ふれめんにくしけんくえすとちゅう</xliff:target>
+        <xliff:target state="translated">ふれめんにくしけんクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2795,7 +2795,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109612">
         <xliff:source>during the Fairytale II - Cure a Queen quest.</xliff:source>
-        <xliff:target state="translated">おうじょきゅうしゅいうかしくえすとちゅう</xliff:target>
+        <xliff:target state="translated">おうじょきゅうしゅいうかしクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2827,7 +2827,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109616">
         <xliff:source>during the Regicide quest.</xliff:source>
-        <xliff:target state="translated">おうじょぎゃくさつくえすとちゅう</xliff:target>
+        <xliff:target state="translated">おうじょぎゃくさつクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2843,7 +2843,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109618">
         <xliff:source>during the Darkness of Hallowvale quest.</xliff:source>
-        <xliff:target state="translated">あんくまとのくらやみくえすとちゅう</xliff:target>
+        <xliff:target state="translated">あんくまとのくらやみクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2859,7 +2859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109620">
         <xliff:source>during the Eagles' Peak quest.</xliff:source>
-        <xliff:target state="translated">わしのたかみねくえすとちゅう</xliff:target>
+        <xliff:target state="translated">わしのたかみねクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2915,7 +2915,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109627">
         <xliff:source>Wilderness </xliff:source>
-        <xliff:target state="translated">ウィルダネス</xliff:target>
+        <xliff:target state="translated">ウィルダネス </xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3067,7 +3067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109646">
         <xliff:source>during the Tower of Life quest.</xliff:source>
-        <xliff:target state="translated">いのちのたわーくえすとちゅう</xliff:target>
+        <xliff:target state="translated">いのちのたわークエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3083,7 +3083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109648">
         <xliff:source>in Falador.</xliff:source>
-        <xliff:target state="translated">ふぁらどーる で。</xliff:target>
+        <xliff:target state="translated">ファラドーる で。</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3123,7 +3123,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109653">
         <xliff:source>during the A Kingdom Divided quest.</xliff:source>
-        <xliff:target state="translated">おうこくぶんれつくえすとちゅう</xliff:target>
+        <xliff:target state="translated">おうこくぶんれつクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3251,7 +3251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109669">
         <xliff:source>during the Land of the Goblins quest.</xliff:source>
-        <xliff:target state="translated">ごぶりんのくにくえすとちゅう</xliff:target>
+        <xliff:target state="translated">ゴブリンのくにクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3307,7 +3307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109676">
         <xliff:source>during the Dragon Slayer II quest.</xliff:source>
-        <xliff:target state="translated">りゅうそらいにほんめくえすとちゅう</xliff:target>
+        <xliff:target state="translated">りゅうそらいにほんめクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3347,7 +3347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109681">
         <xliff:source>during The Garden of Death quest.</xliff:source>
-        <xliff:target state="translated">しのていえんくえすとちゅう</xliff:target>
+        <xliff:target state="translated">しのていえんクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3363,7 +3363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109683">
         <xliff:source>during the Secrets of the North quest.</xliff:source>
-        <xliff:target state="translated">ほっきょくのひみつくえすとちゅう</xliff:target>
+        <xliff:target state="translated">ほっきょくのひみつクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3403,7 +3403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109688">
         <xliff:source>during the Desert Treasure II - The Fallen Empire quest.</xliff:source>
-        <xliff:target state="translated">さばくたからにほんめおちてくえんぱいあくえすとちゅう</xliff:target>
+        <xliff:target state="translated">さばくたからにほんめおちてくえんぱいあクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3539,7 +3539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109705">
         <xliff:source>during The Path of Glouphrie quest.</xliff:source>
-        <xliff:target state="translated">ぐろうふりーのみちくえすとちゅう</xliff:target>
+        <xliff:target state="translated">ぐろうふりーのみちクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3611,7 +3611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109714">
         <xliff:source>during the Children of the Sun quest.</xliff:source>
-        <xliff:target state="translated">たいようのこどもくえすとちゅう</xliff:target>
+        <xliff:target state="translated">たいようのこどもクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3651,7 +3651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109719">
         <xliff:source>during the Defender of Varrock quest.</xliff:source>
-        <xliff:target state="translated">ばろっくぼうえいしゃくえすとちゅう</xliff:target>
+        <xliff:target state="translated">バロックぼうえいしゃクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3819,7 +3819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109740">
         <xliff:source>during the Perilous Moons quest.</xliff:source>
-        <xliff:target state="translated">きけんげつくえすとちゅう</xliff:target>
+        <xliff:target state="translated">きけんげつクエストちゅう</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3875,7 +3875,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109752">
         <xliff:source>Learn how to use the Goblin Village teleport spheres.</xliff:source>
-        <xliff:target state="translated">ごぶりんむらてれぽーときゅうのつかいかたをまなぶ</xliff:target>
+        <xliff:target state="translated">ゴブリンむらてれぽーときゅうのつかいかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4259,7 +4259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109800">
         <xliff:source>Face your destiny in Varrock.</xliff:source>
-        <xliff:target state="translated">ばろっくでじぶんのうんめいにむきあう</xliff:target>
+        <xliff:target state="translated">バロックでじぶんのうんめいにむきあう</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4331,7 +4331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109809">
         <xliff:source>Learn how to clean specimens in Varrock Museum.</xliff:source>
-        <xliff:target state="translated">ばろっくはくぶつかんでしせきをきれいにするかたをまなぶ</xliff:target>
+        <xliff:target state="translated">バロックはくぶつかんでしせきをきれいにするかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4363,7 +4363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109813">
         <xliff:source>Learn how to equip Rune and Dragon Platebodies.</xliff:source>
-        <xliff:target state="translated">るーんどらごんぷれーとよろいよそおいかたをまなぶ</xliff:target>
+        <xliff:target state="translated">ルーンドラゴンぷれーとよろいよそおいかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4571,7 +4571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109839">
         <xliff:source>Ernest the Chicken</xliff:source>
-        <xliff:target state="translated">ニワトリのアーネスト</xliff:target>
+        <xliff:target state="translated">にわとりのアーネスト</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4875,7 +4875,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109877">
         <xliff:source>Gertrude's Cat</xliff:source>
-        <xliff:target state="translated">ゲートルードのネコ</xliff:target>
+        <xliff:target state="translated">ゲートルードのねこ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4955,7 +4955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109887">
         <xliff:source>Investigate the disturbance in Goblin Village.</xliff:source>
-        <xliff:target state="translated">ごぶりんむらのそんがいをちょうさする</xliff:target>
+        <xliff:target state="translated">ゴブリンむらのそんがいをちょうさする</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5059,7 +5059,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109900">
         <xliff:source>Gain access to the Wizards' Guild Rune Shop.</xliff:source>
-        <xliff:target state="translated">ようしゃぎるどるーんてんあくせすをえる</xliff:target>
+        <xliff:target state="translated">ようしゃぎるどルーンてんあくせすをえる</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5571,7 +5571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109964">
         <xliff:source>Learn how to craft Death Runes.</xliff:source>
-        <xliff:target state="translated">しるーんづくりかたをまなぶ</xliff:target>
+        <xliff:target state="translated">しルーンづくりかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5931,7 +5931,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110009">
         <xliff:source>Gain Quest Points.</xliff:source>
-        <xliff:target state="translated">くえすとぽいんとをえる</xliff:target>
+        <xliff:target state="translated">クエストぽいんとをえる</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5995,7 +5995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110017">
         <xliff:source>Learn how to mine Rune Essence.</xliff:source>
-        <xliff:target state="translated">るーんほんしつのほりかたをまなぶ</xliff:target>
+        <xliff:target state="translated">ルーンほんしつのほりかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -6019,7 +6019,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110020">
         <xliff:source>Sea Slug</xliff:source>
-        <xliff:target state="translated">ウミウシ</xliff:target>
+        <xliff:target state="translated">ウミうし</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -6275,7 +6275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110052">
         <xliff:source>Tail of Two Cats, A</xliff:source>
-        <xliff:target state="translated">２ひきのネコのものがたり</xliff:target>
+        <xliff:target state="translated">２ひきのねこのものがたり</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -6283,7 +6283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110053">
         <xliff:source>A Tail of Two Cats</xliff:source>
-        <xliff:target state="translated">２ひきのネコのものがたり</xliff:target>
+        <xliff:target state="translated">２ひきのねこのものがたり</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -6491,7 +6491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110079">
         <xliff:source>Help the people of Draynor Village with a vampyre problem.</xliff:source>
-        <xliff:target state="translated">どれーのーむらのみんながばんぱいあもんだいをてつだう</xliff:target>
+        <xliff:target state="translated">どれーのーむらのみんながバンパイアもんだいをてつだう</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -6587,7 +6587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110091">
         <xliff:source>Learn about Clue Scrolls and Kourend.</xliff:source>
-        <xliff:target state="translated">あいきょうていくえすとくえすとぷしくおりようりいろくについてまなぶ</xliff:target>
+        <xliff:target state="translated">あいきょうていクエストクエストぷしくおりようりいろくについてまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -7051,7 +7051,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110149">
         <xliff:source>Defend Varrock from a zombie invasion.</xliff:source>
-        <xliff:target state="translated">ばろっくをそしせいしんぐんはしんどうからまもる</xliff:target>
+        <xliff:target state="translated">バロックをそしせいしんぐんはしんどうからまもる</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -7251,7 +7251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110174">
         <xliff:source>Bears</xliff:source>
-        <xliff:target state="translated">クマ</xliff:target>
+        <xliff:target state="translated">くま</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -7715,7 +7715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110232">
         <xliff:source>Sea Snakes</xliff:source>
-        <xliff:target state="translated">ウミヘビ</xliff:target>
+        <xliff:target state="translated">ウミへび</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -8459,7 +8459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110325">
         <xliff:source>Ada'mind Some More</xliff:source>
-        <xliff:target state="translated">あだまんとをもっともしたう</xliff:target>
+        <xliff:target state="translated">アダマントをもっともしたう</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8539,7 +8539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110335">
         <xliff:source>Actual Vampyre Slayer</xliff:source>
-        <xliff:target state="translated">ほんもののばんぱいあそらい</xliff:target>
+        <xliff:target state="translated">ほんもののバンパイアそらい</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8619,7 +8619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110345">
         <xliff:source>Learn to craft your own Slayer Rings, with level 75 Crafting.</xliff:source>
-        <xliff:target state="translated">くらふてぃんぐれべるななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ</xliff:target>
+        <xliff:target state="translated">くらふてぃんぐレベルななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8627,7 +8627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110346">
         <xliff:source>Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).</xliff:source>
-        <xliff:target state="translated">ふれっちんぐれべるごじゅうに　ひろいやじりふれっちんぐれべるごじゅうご　ひろいぐんぽうふれっちんぐれべるななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ</xliff:target>
+        <xliff:target state="translated">ふれっちんぐレベルごじゅうに　ひろいやじりふれっちんぐレベルごじゅうご　ひろいぐんぽうふれっちんぐレベルななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8715,7 +8715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110357">
         <xliff:source>Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.</xliff:source>
-        <xliff:target state="translated">こなるでゅらでるにえぶが みすりるりゅうたすくをあたえられるようになる</xliff:target>
+        <xliff:target state="translated">こなるでゅらでるにえぶが ミスリルりゅうたすくをあたえられるようになる</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8771,7 +8771,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110364">
         <xliff:source>Whenever you get a Mithril Dragon task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">みすりるりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target>
+        <xliff:target state="translated">ミスリルりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8883,7 +8883,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110378">
         <xliff:source>Mithril Dragons drop mithril bars in banknote form while killed on assignment.</xliff:source>
-        <xliff:target state="translated">みすりるりゅうはあたえられたたすくでこらすときみすりるぼうをかせんぎりょとしておとす</xliff:target>
+        <xliff:target state="translated">ミスリルりゅうはあたえられたたすくでこらすときミスリルぼうをかせんぎりょとしておとす</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8899,7 +8899,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110380">
         <xliff:source>Whenever you get an Adamant Dragon task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">あだまんとりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target>
+        <xliff:target state="translated">アダマントりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8907,7 +8907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110381">
         <xliff:source>Whenever you get a Rune Dragon task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">るーんりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target>
+        <xliff:target state="translated">ルーンりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8971,7 +8971,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110389">
         <xliff:source>Whenever you get a Vampyre task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">ばんぱいあたすくをもらうときはもっともおおきいたすくになる</xliff:target>
+        <xliff:target state="translated">バンパイアたすくをもらうときはもっともおおきいたすくになる</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -8979,7 +8979,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110390">
         <xliff:source>Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.</xliff:source>
-        <xliff:target state="translated">こなるでゅらでるにえぶかえるだーがばんぱいあたすくをあたえられるようになる</xliff:target>
+        <xliff:target state="translated">こなるでゅらでるにえぶかえるだーがバンパイアたすくをあたえられるようになる</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_reward
 source: None
@@ -9083,7 +9083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110403">
         <xliff:source>Falador easy</xliff:source>
-        <xliff:target state="translated">ふぁらどーるやさしい</xliff:target>
+        <xliff:target state="translated">ファラドーるやさしい</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9091,7 +9091,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110404">
         <xliff:source>Falador medium</xliff:source>
-        <xliff:target state="translated">ふぁらどーるふつう</xliff:target>
+        <xliff:target state="translated">ファラドーるふつう</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9099,7 +9099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110405">
         <xliff:source>Falador hard</xliff:source>
-        <xliff:target state="translated">ふぁらどーるむずかしい</xliff:target>
+        <xliff:target state="translated">ファラドーるむずかしい</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9107,7 +9107,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110406">
         <xliff:source>Falador elite</xliff:source>
-        <xliff:target state="translated">ふぁらどーるえりーと</xliff:target>
+        <xliff:target state="translated">ファラドーるえりーと</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9275,7 +9275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110427">
         <xliff:source>Varrock easy</xliff:source>
-        <xliff:target state="translated">ばろっくやさしい</xliff:target>
+        <xliff:target state="translated">バロックやさしい</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9283,7 +9283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110428">
         <xliff:source>Varrock medium</xliff:source>
-        <xliff:target state="translated">ばろっくふつう</xliff:target>
+        <xliff:target state="translated">バロックふつう</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9291,7 +9291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110429">
         <xliff:source>Varrock hard</xliff:source>
-        <xliff:target state="translated">ばろっくむずかしい</xliff:target>
+        <xliff:target state="translated">バロックむずかしい</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9299,7 +9299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110430">
         <xliff:source>Varrock elite</xliff:source>
-        <xliff:target state="translated">ばろっくえりーと</xliff:target>
+        <xliff:target state="translated">バロックえりーと</xliff:target>
         <xliff:note>category: manual
 sub_category: task
 source: None
@@ -9651,7 +9651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110474">
         <xliff:source>Find out about the cult of chaos mages near Varrock.</xliff:source>
-        <xliff:target state="translated">ばろっくちかくのかおすようしゃきょうかくについてわかる</xliff:target>
+        <xliff:target state="translated">バロックちかくのかおすようしゃきょうかくについてわかる</xliff:target>
         <xliff:note>category: manual
 sub_category: varrock_museum
 source: None
@@ -9659,7 +9659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110475">
         <xliff:source>Uncover the secrets of runecrafting.</xliff:source>
-        <xliff:target state="translated">るーんくらふてぃんぐのひみつをあきらかにする</xliff:target>
+        <xliff:target state="translated">ルーンくらふてぃんぐのひみつをあきらかにする</xliff:target>
         <xliff:note>category: manual
 sub_category: varrock_museum
 source: None
@@ -10027,7 +10027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110521">
         <xliff:source>Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.</xliff:source>
-        <xliff:target state="translated">くえすとやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう</xliff:target>
+        <xliff:target state="translated">クエストやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう</xliff:target>
         <xliff:note>category: manual
 sub_category: varrock_museum
 source: None
@@ -10294,7 +10294,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110584"><xli
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110585"><xliff:source>Rabbit Hop</xliff:source>
-        <xliff:target state="translated">ウサギだピョン</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">うさぎだピョン</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110586"><xliff:source>Skill Cape</xliff:source>
@@ -10370,7 +10370,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110603"><xli
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110604"><xliff:source>Crab dance</xliff:source>
-        <xliff:target state="translated">カニダンス</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">かにダンス</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110605"><xliff:source>Sit down</xliff:source>
@@ -10586,7 +10586,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110657"><xli
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110658"><xliff:source>Elven</xliff:source>
-        <xliff:target state="translated">えるふのようなかみかた</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">エルフのようなかみかた</xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110659"><xliff:source>Medium Coils</xliff:source>
@@ -11302,7 +11302,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110836"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110837"><xliff:source>during the Legends' Quest.</xliff:source>
-        <xliff:target state="translated">でんせつのくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">でんせつのクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110838"><xliff:source>Voyage</xliff:source>
@@ -11330,7 +11330,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110843"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110844"><xliff:source>during the Lunar Diplomacy quest.</xliff:source>
-        <xliff:target state="translated">げつめんこうしょうくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">げつめんこうしょうクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110845"><xliff:source>Wally the Hero</xliff:source>
@@ -11338,7 +11338,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110845"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110846"><xliff:source>during the Demon Slayer quest.</xliff:source>
-        <xliff:target state="translated">あくまそらいくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">あくまそらいクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110847"><xliff:source>Wander</xliff:source>
@@ -11354,7 +11354,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110849"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110850"><xliff:source>during the Clan Wars minigame.</xliff:source>
-        <xliff:target state="translated">ぞくまさいくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ぞくまさいクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110851"><xliff:source>Song of the Elves</xliff:source>
@@ -11362,7 +11362,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110851"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110852"><xliff:source>during the Song of the Elves quest.</xliff:source>
-        <xliff:target state="translated">えるぶのうたくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">えるぶのうたクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110853"><xliff:source>What Happens Below...</xliff:source>
@@ -11378,7 +11378,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110855"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110856"><xliff:source>during The Fremennik Trials quest.</xliff:source>
-        <xliff:target state="translated">ふれめんにくしけんくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ふれめんにくしけんクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110857"><xliff:source>Warriors' Guild</xliff:source>
@@ -11446,7 +11446,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110872"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110873"><xliff:source>during the Fairytale II - Cure a Queen quest.</xliff:source>
-        <xliff:target state="translated">おうじょきゅうしゅいうかしくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">おうじょきゅうしゅいうかしクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110874"><xliff:source>Lumbering</xliff:source>
@@ -11462,7 +11462,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110876"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110877"><xliff:source>during the Regicide quest.</xliff:source>
-        <xliff:target state="translated">おうじょぎゃくさつくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">おうじょぎゃくさつクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110878"><xliff:source>Morytanian Mystery</xliff:source>
@@ -11470,7 +11470,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110878"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110879"><xliff:source>during the Darkness of Hallowvale quest.</xliff:source>
-        <xliff:target state="translated">あんくまとのくらやみくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">あんくまとのくらやみクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110880"><xliff:source>Where Eagles Lair</xliff:source>
@@ -11478,7 +11478,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110880"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110881"><xliff:source>during the Eagles' Peak quest.</xliff:source>
-        <xliff:target state="translated">わしのたかみねくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">わしのたかみねクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110882"><xliff:source>Wild Isle</xliff:source>
@@ -11506,7 +11506,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110887"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110888"><xliff:source>Wilderness </xliff:source>
-        <xliff:target state="translated">ウィルダネス</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ウィルダネス </xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110889"><xliff:source>Wildwood</xliff:source>
@@ -11582,7 +11582,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110906"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110907"><xliff:source>during the Tower of Life quest.</xliff:source>
-        <xliff:target state="translated">いのちのたわーくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">いのちのたわークエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110908"><xliff:source>Workshop</xliff:source>
@@ -11590,7 +11590,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110908"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110909"><xliff:source>in Falador.</xliff:source>
-        <xliff:target state="translated">ふぁらどーる で。</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ファラドーる で。</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110910"><xliff:source>Wrath and Ruin</xliff:source>
@@ -11610,7 +11610,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110913"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110914"><xliff:source>during the A Kingdom Divided quest.</xliff:source>
-        <xliff:target state="translated">おうこくぶんれつくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">おうこくぶんれつクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110915"><xliff:source>Predator Xarpus</xliff:source>
@@ -11674,7 +11674,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110929"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110930"><xliff:source>during the Land of the Goblins quest.</xliff:source>
-        <xliff:target state="translated">ごぶりんのくにくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ゴブリンのくにクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110931"><xliff:source>Zaros Zeitgeist</xliff:source>
@@ -11702,7 +11702,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110936"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110937"><xliff:source>during the Dragon Slayer II quest.</xliff:source>
-        <xliff:target state="translated">りゅうそらいにほんめくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">りゅうそらいにほんめクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110938"><xliff:source>Zombiism</xliff:source>
@@ -11722,7 +11722,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110941"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110942"><xliff:source>during The Garden of Death quest.</xliff:source>
-        <xliff:target state="translated">しのていえんくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">しのていえんクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110943"><xliff:source>Secrets of the North</xliff:source>
@@ -11730,7 +11730,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110943"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110944"><xliff:source>during the Secrets of the North quest.</xliff:source>
-        <xliff:target state="translated">ほっきょくのひみつくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ほっきょくのひみつクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110945"><xliff:source>In the Shadows</xliff:source>
@@ -11750,7 +11750,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110948"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110949"><xliff:source>during the Desert Treasure II - The Fallen Empire quest.</xliff:source>
-        <xliff:target state="translated">さばくたからにほんめおちてくえんぱいあくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">さばくたからにほんめおちてくえんぱいあクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110950"><xliff:source>Fallen Empire, The</xliff:source>
@@ -11818,7 +11818,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110965"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110966"><xliff:source>during The Path of Glouphrie quest.</xliff:source>
-        <xliff:target state="translated">ぐろうふりーのみちくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ぐろうふりーのみちクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110967"><xliff:source>Healin' Feelin'</xliff:source>
@@ -11854,7 +11854,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110974"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110975"><xliff:source>during the Children of the Sun quest.</xliff:source>
-        <xliff:target state="translated">たいようのこどもくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">たいようのこどもクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110976"><xliff:source>Plots and Plans</xliff:source>
@@ -11874,7 +11874,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110979"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110980"><xliff:source>during the Defender of Varrock quest.</xliff:source>
-        <xliff:target state="translated">ばろっくぼうえいしゃくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックぼうえいしゃクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110981"><xliff:source>Dream Theatre, The</xliff:source>
@@ -11958,7 +11958,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111000"><xli
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111001"><xliff:source>during the Perilous Moons quest.</xliff:source>
-        <xliff:target state="translated">きけんげつくえすとちゅう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">きけんげつクエストちゅう</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111002"><xliff:source>Lost to Time</xliff:source>
@@ -11986,7 +11986,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111008"><xliff:source>Learn how to use the Goblin Village teleport spheres.</xliff:source>
-        <xliff:target state="translated">ごぶりんむらてれぽーときゅうのつかいかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ゴブリンむらてれぽーときゅうのつかいかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111009"><xliff:source>Ascent of Arceuus, The</xliff:source>
@@ -12178,7 +12178,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111055"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111056"><xliff:source>Face your destiny in Varrock.</xliff:source>
-        <xliff:target state="translated">ばろっくでじぶんのうんめいにむきあう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックでじぶんのうんめいにむきあう</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111057"><xliff:source>Depths of Despair, The</xliff:source>
@@ -12214,7 +12214,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111064"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111065"><xliff:source>Learn how to clean specimens in Varrock Museum.</xliff:source>
-        <xliff:target state="translated">ばろっくはくぶつかんでしせきをきれいにするかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックはくぶつかんでしせきをきれいにするかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111066"><xliff:source>Doric's Quest</xliff:source>
@@ -12230,7 +12230,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111068"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111069"><xliff:source>Learn how to equip Rune and Dragon Platebodies.</xliff:source>
-        <xliff:target state="translated">るーんどらごんぷれーとよろいよそおいかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ルーンドラゴンぷれーとよろいよそおいかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111070"><xliff:source>Dragon Slayer II</xliff:source>
@@ -12334,7 +12334,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111094"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111095"><xliff:source>Ernest the Chicken</xliff:source>
-        <xliff:target state="translated">ニワトリのアーネスト</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">にわとりのアーネスト</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111096"><xliff:source>Investigate the whereabouts of Ernest.</xliff:source>
@@ -12486,7 +12486,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111132"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111133"><xliff:source>Gertrude's Cat</xliff:source>
-        <xliff:target state="translated">ゲートルードのネコ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ゲートルードのねこ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111134"><xliff:source>Gain a pet Kitten.</xliff:source>
@@ -12526,7 +12526,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111142"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111143"><xliff:source>Investigate the disturbance in Goblin Village.</xliff:source>
-        <xliff:target state="translated">ごぶりんむらのそんがいをちょうさする</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ゴブリンむらのそんがいをちょうさする</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111144"><xliff:source>Golem, The</xliff:source>
@@ -12578,7 +12578,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111155"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111156"><xliff:source>Gain access to the Wizards' Guild Rune Shop.</xliff:source>
-        <xliff:target state="translated">ようしゃぎるどるーんてんあくせすをえる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ようしゃぎるどルーンてんあくせすをえる</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111157"><xliff:source>Haunted Mine</xliff:source>
@@ -12834,7 +12834,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111219"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111220"><xliff:source>Learn how to craft Death Runes.</xliff:source>
-        <xliff:target state="translated">しるーんづくりかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">しルーンづくりかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111221"><xliff:source>Murder Mystery</xliff:source>
@@ -13014,7 +13014,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111264"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111265"><xliff:source>Gain Quest Points.</xliff:source>
-        <xliff:target state="translated">くえすとぽいんとをえる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">クエストぽいんとをえる</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111266"><xliff:source>Roving Elves</xliff:source>
@@ -13046,7 +13046,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111272"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111273"><xliff:source>Learn how to mine Rune Essence.</xliff:source>
-        <xliff:target state="translated">るーんほんしつのほりかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ルーンほんしつのほりかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111274"><xliff:source>Scorpion Catcher</xliff:source>
@@ -13058,7 +13058,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111275"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111276"><xliff:source>Sea Slug</xliff:source>
-        <xliff:target state="translated">ウミウシ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ウミうし</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111277"><xliff:source>Gain access to the Fishing Platform.</xliff:source>
@@ -13186,11 +13186,11 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111307"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111308"><xliff:source>Tail of Two Cats, A</xliff:source>
-        <xliff:target state="translated">２ひきのネコのものがたり</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">２ひきのねこのものがたり</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111309"><xliff:source>A Tail of Two Cats</xliff:source>
-        <xliff:target state="translated">２ひきのネコのものがたり</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">２ひきのねこのものがたり</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111310"><xliff:source>Tale of the Righteous</xliff:source>
@@ -13294,7 +13294,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111334"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111335"><xliff:source>Help the people of Draynor Village with a vampyre problem.</xliff:source>
-        <xliff:target state="translated">どれーのーむらのみんながばんぱいあもんだいをてつだう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">どれーのーむらのみんながバンパイアもんだいをてつだう</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111336"><xliff:source>Wanted!</xliff:source>
@@ -13342,7 +13342,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111346"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111347"><xliff:source>Learn about Clue Scrolls and Kourend.</xliff:source>
-        <xliff:target state="translated">あいきょうていくえすとくえすとぷしくおりようりいろくについてまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">あいきょうていクエストクエストぷしくおりようりいろくについてまなぶ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111348"><xliff:source>Zogre Flesh Eaters</xliff:source>
@@ -13574,7 +13574,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111404"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111405"><xliff:source>Defend Varrock from a zombie invasion.</xliff:source>
-        <xliff:target state="translated">ばろっくをそしせいしんぐんはしんどうからまもる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックをそしせいしんぐんはしんどうからまもる</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111406"><xliff:source>While Guthix Sleeps</xliff:source>
@@ -13674,7 +13674,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111429"><xli
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111430"><xliff:source>Bears</xliff:source>
-        <xliff:target state="translated">クマ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">くま</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111431"><xliff:source>Hill Giants</xliff:source>
@@ -13906,7 +13906,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111487"><xli
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111488"><xliff:source>Sea Snakes</xliff:source>
-        <xliff:target state="translated">ウミヘビ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ウミへび</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111489"><xliff:source>FossilIsland Wyverns</xliff:source>
@@ -14278,7 +14278,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111580"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111581"><xliff:source>Ada'mind Some More</xliff:source>
-        <xliff:target state="translated">あだまんとをもっともしたう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">アダマントをもっともしたう</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111582"><xliff:source>RUUUUUNE</xliff:source>
@@ -14318,7 +14318,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111590"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111591"><xliff:source>Actual Vampyre Slayer</xliff:source>
-        <xliff:target state="translated">ほんもののばんぱいあそらい</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ほんもののバンパイアそらい</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111592"><xliff:source>Task Storage</xliff:source>
@@ -14358,11 +14358,11 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111600"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111601"><xliff:source>Learn to craft your own Slayer Rings, with level 75 Crafting.</xliff:source>
-        <xliff:target state="translated">くらふてぃんぐれべるななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">くらふてぃんぐレベルななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111602"><xliff:source>Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).</xliff:source>
-        <xliff:target state="translated">ふれっちんぐれべるごじゅうに　ひろいやじりふれっちんぐれべるごじゅうご　ひろいぐんぽうふれっちんぐれべるななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ふれっちんぐレベルごじゅうに　ひろいやじりふれっちんぐレベルごじゅうご　ひろいぐんぽうふれっちんぐレベルななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111603"><xliff:source>Whenever you get a Dark Beast task, it will be a bigger task.</xliff:source>
@@ -14406,7 +14406,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111612"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111613"><xliff:source>Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.</xliff:source>
-        <xliff:target state="translated">こなるでゅらでるにえぶが みすりるりゅうたすくをあたえられるようになる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">こなるでゅらでるにえぶが ミスリルりゅうたすくをあたえられるようになる</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111614"><xliff:source>Konar, Duradel, Nieve, Chaeldar and Krystilia will be able to assign Aviansies as your task.</xliff:source>
@@ -14434,7 +14434,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111619"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111620"><xliff:source>Whenever you get a Mithril Dragon task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">みすりるりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ミスリルりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111621"><xliff:source>Whenever you get a Cave Horror task, it will be a bigger task.</xliff:source>
@@ -14490,7 +14490,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111633"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111634"><xliff:source>Mithril Dragons drop mithril bars in banknote form while killed on assignment.</xliff:source>
-        <xliff:target state="translated">みすりるりゅうはあたえられたたすくでこらすときみすりるぼうをかせんぎりょとしておとす</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ミスリルりゅうはあたえられたたすくでこらすときミスリルぼうをかせんぎりょとしておとす</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111635"><xliff:source>Whenever you get a Fossil Island Wyvern task, it will be a bigger task.</xliff:source>
@@ -14498,11 +14498,11 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111635"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111636"><xliff:source>Whenever you get an Adamant Dragon task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">あだまんとりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">アダマントりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111637"><xliff:source>Whenever you get a Rune Dragon task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">るーんりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ルーンりゅうたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111638"><xliff:source>Learn how to combine Vorkath's head with your Slayer helmet to colour it turquoise.</xliff:source>
@@ -14534,11 +14534,11 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111644"><xli
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111645"><xliff:source>Whenever you get a Vampyre task, it will be a bigger task.</xliff:source>
-        <xliff:target state="translated">ばんぱいあたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バンパイアたすくをもらうときはもっともおおきいたすくになる</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111646"><xliff:source>Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.</xliff:source>
-        <xliff:target state="translated">こなるでゅらでるにえぶかえるだーがばんぱいあたすくをあたえられるようになる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">こなるでゅらでるにえぶかえるだーがバンパイアたすくをあたえられるようになる</xliff:target><xliff:note>category: manual
 sub_category: slayer_reward
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111647"><xliff:source>Gain the ability to store your task, allowing you to take it at a later point in time.</xliff:source>
@@ -14590,19 +14590,19 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111658"><xli
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111659"><xliff:source>Falador easy</xliff:source>
-        <xliff:target state="translated">ふぁらどーるやさしい</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ファラドーるやさしい</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111660"><xliff:source>Falador medium</xliff:source>
-        <xliff:target state="translated">ふぁらどーるふつう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ファラドーるふつう</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111661"><xliff:source>Falador hard</xliff:source>
-        <xliff:target state="translated">ふぁらどーるむずかしい</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ファラドーるむずかしい</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111662"><xliff:source>Falador elite</xliff:source>
-        <xliff:target state="translated">ふぁらどーるえりーと</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ファラドーるえりーと</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111663"><xliff:source>Fremennik easy</xliff:source>
@@ -14686,19 +14686,19 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111682"><xli
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111683"><xliff:source>Varrock easy</xliff:source>
-        <xliff:target state="translated">ばろっくやさしい</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックやさしい</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111684"><xliff:source>Varrock medium</xliff:source>
-        <xliff:target state="translated">ばろっくふつう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックふつう</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111685"><xliff:source>Varrock hard</xliff:source>
-        <xliff:target state="translated">ばろっくむずかしい</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックむずかしい</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111686"><xliff:source>Varrock elite</xliff:source>
-        <xliff:target state="translated">ばろっくえりーと</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックえりーと</xliff:target><xliff:note>category: manual
 sub_category: task
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111687"><xliff:source>Wilderness easy</xliff:source>
@@ -14874,11 +14874,11 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111729"><xli
 sub_category: varrock_museum
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111730"><xliff:source>Find out about the cult of chaos mages near Varrock.</xliff:source>
-        <xliff:target state="translated">ばろっくちかくのかおすようしゃきょうかくについてわかる</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">バロックちかくのかおすようしゃきょうかくについてわかる</xliff:target><xliff:note>category: manual
 sub_category: varrock_museum
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111731"><xliff:source>Uncover the secrets of runecrafting.</xliff:source>
-        <xliff:target state="translated">るーんくらふてぃんぐのひみつをあきらかにする</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">ルーンくらふてぃんぐのひみつをあきらかにする</xliff:target><xliff:note>category: manual
 sub_category: varrock_museum
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111732"><xliff:source>Discover the secrets of the Shield of Arrav.</xliff:source>
@@ -15062,7 +15062,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111776"><xli
 sub_category: varrock_museum
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111777"><xliff:source>Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.</xliff:source>
-        <xliff:target state="translated">くえすとやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">クエストやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう</xliff:target><xliff:note>category: manual
 sub_category: varrock_museum
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111778"><xliff:source>Discover fossils on fossil island to complete the displays on the bottom floor of the museum.</xliff:source>

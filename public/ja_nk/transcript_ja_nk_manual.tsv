@@ -60,7 +60,7 @@ Slap Head	あたまペチン	manual	emote
 Zombie Walk	ゾンビあるき	manual	emote	
 Zombie Dance	ゾンビダンス	manual	emote	
 Scared	おびえる	manual	emote	
-Rabbit Hop	ウサギだピョン	manual	emote	
+Rabbit Hop	うさぎだピョン	manual	emote	
 Skill Cape	スキルのマント	manual	emote	
 Zombie Hand	ゾンビのて	manual	emote	
 Air Guitar	エアギター	manual	emote	
@@ -79,7 +79,7 @@ Relic unlock	いぶつのときはなし	manual	emote
 Party	パーティー	manual	emote	
 Trick	トリック	manual	emote	
 Fortis Salute	フォーティスのけいれい	manual	emote	
-Crab dance	カニダンス	manual	emote	
+Crab dance	かにダンス	manual	emote	
 Sit down	ざる	manual	emote	
 Bald	スキンヘッド	manual	hair_beard	
 Dreadlocks	ドレッドヘア	manual	hair_beard	
@@ -133,7 +133,7 @@ Side Afro	よこアフロ	manual	hair_beard
 Punk	パンク	manual	hair_beard	
 Half-shaved	はんぶんぞりおろし	manual	hair_beard	
 Fremennik	フレメニック	manual	hair_beard	
-Elven	えるふのようなかみかた	manual	hair_beard	
+Elven	エルフのようなかみかた	manual	hair_beard	
 Medium Coils	ちゅうがたのこいる	manual	hair_beard	
 High ponytail	たかいぽにーてーる	manual	hair_beard	
 Plaits	みつあみ	manual	hair_beard	
@@ -312,26 +312,26 @@ at the Wizards' Tower.	ようしゃたわーあと	manual	music
 Volcanic Vikings	かざんのバイキング	manual	music	
 on Neitiznot.	ねいてぃずのっとじょう	manual	music	
 Voodoo Cult	ブードゥーおしえのカルト	manual	music	
-during the Legends' Quest.	でんせつのくえすとちゅう	manual	music	
+during the Legends' Quest.	でんせつのクエストちゅう	manual	music	
 Voyage	たび	manual	music	
 at Baxtorian Falls.	ばくすとりあのたきあと	manual	music	
 Waiting Game, The	またすゲーム	manual	music	
 The Waiting Game	たいきせんじゅつ	manual	music	
 in the Soul Wars lobby.	たましいせんそうでんいえあ	manual	music	
 Waking Dream	しろひるゆめ	manual	music	
-during the Lunar Diplomacy quest.	げつめんこうしょうくえすとちゅう	manual	music	
+during the Lunar Diplomacy quest.	げつめんこうしょうクエストちゅう	manual	music	
 Wally the Hero	ヒーリーのワリー	manual	music	
-during the Demon Slayer quest.	あくまそらいくえすとちゅう	manual	music	
+during the Demon Slayer quest.	あくまそらいクエストちゅう	manual	music	
 Wander	ほうこう	manual	music	
 in Draynor Village.	どれーのーむらまち	manual	music	
 Warpath	でじんのみち	manual	music	
-during the Clan Wars minigame.	ぞくまさいくえすとちゅう	manual	music	
+during the Clan Wars minigame.	ぞくまさいクエストちゅう	manual	music	
 Song of the Elves	エルフのうた	manual	music	
-during the Song of the Elves quest.	えるぶのうたくえすとちゅう	manual	music	
+during the Song of the Elves quest.	えるぶのうたクエストちゅう	manual	music	
 What Happens Below...	ちかでのできごと	manual	music	
 in the Warrens.	ぐろいもじゅくあと	manual	music	
 Warrior	せんし	manual	music	
-during The Fremennik Trials quest.	ふれめんにくしけんくえすとちゅう	manual	music	
+during The Fremennik Trials quest.	ふれめんにくしけんクエストちゅう	manual	music	
 Warriors' Guild	せんしギルド	manual	music	
 at the Warriors' Guild.	せんしぎるどあと	manual	music	
 Doors of Dinh, The	じんどるのあったい	manual	music	
@@ -348,15 +348,15 @@ in the Karuulm Slayer Dungeon.	かるーむくぢゅんじょんあと	manual	mu
 Wayward	きまぐれ	manual	music	
 in the Jiggig dungeon.	じぎぐくぢゅんじょんあと	manual	music	
 We are the Fairies	わたしたちがようせいだ	manual	music	
-during the Fairytale II - Cure a Queen quest.	おうじょきゅうしゅいうかしくえすとちゅう	manual	music	
+during the Fairytale II - Cure a Queen quest.	おうじょきゅうしゅいうかしクエストちゅう	manual	music	
 Lumbering	もくざいばっさい	manual	music	
 in Weiss.	うぃすまち	manual	music	
 Well of Voyage	たびのいと	manual	music	
-during the Regicide quest.	おうじょぎゃくさつくえすとちゅう	manual	music	
+during the Regicide quest.	おうじょぎゃくさつクエストちゅう	manual	music	
 Morytanian Mystery	モリタニアのなぞ	manual	music	
-during the Darkness of Hallowvale quest.	あんくまとのくらやみくえすとちゅう	manual	music	
+during the Darkness of Hallowvale quest.	あんくまとのくらやみクエストちゅう	manual	music	
 Where Eagles Lair	ワシのすのありか	manual	music	
-during the Eagles' Peak quest.	わしのたかみねくえすとちゅう	manual	music	
+during the Eagles' Peak quest.	わしのたかみねクエストちゅう	manual	music	
 Wild Isle	ワイルド・アイル	manual	music	
 in the Wilderness.	もうれっぱい	manual	music	
 Wild Side	ワイルド・サイド	manual	music	
@@ -382,14 +382,14 @@ A Walk in the Woods	もりでさんぽ	manual	music
 in the Kourend Woodland.	くーれんどりんあと	manual	music	
 Work, Work, Work	しごとしごとしごと	manual	music	
 Work\t Work\t Work	はたらけ	manual	music	
-during the Tower of Life quest.	いのちのたわーくえすとちゅう	manual	music	
+during the Tower of Life quest.	いのちのたわークエストちゅう	manual	music	
 Workshop	こうぼう	manual	music	
-in Falador.	ふぁらどーる で。	manual	music	
+in Falador.	ファラドーる で。	manual	music	
 Wrath and Ruin	ふんどとはいきょ	manual	music	
 in Tolna's Rift.	とるなのさけめあと	manual	music	
 Part Where You Die, The	しぬぶぶん	manual	music	
 The Part Where You Die	あなたがしぬところ	manual	music	
-during the A Kingdom Divided quest.	おうこくぶんれつくえすとちゅう	manual	music	
+during the A Kingdom Divided quest.	おうこくぶんれつクエストちゅう	manual	music	
 Predator Xarpus	とらえしょくものハープス	manual	music	
 in the Theatre of Blood.	けっえんげきじょう	manual	music	
 Last King of the Yarasa	ヤラサのさいごのおう	manual	music	
@@ -405,26 +405,26 @@ while fighting Zalcano.	ざるかのとたたかいちゅう	manual	music
 Zamorak Zoo	ザモラックのどうぶつえん	manual	music	
 in the God Wars Dungeon.	かみだんそうくぢゅんじょんあと	manual	music	
 Zanik's Theme	ザニックのテーマ	manual	music	
-during the Land of the Goblins quest.	ごぶりんのくにくえすとちゅう	manual	music	
+during the Land of the Goblins quest.	ゴブリンのくにクエストちゅう	manual	music	
 Zaros Zeitgeist	ザロスのときだいのきかぜ	manual	music	
 Zealot	ジーロット	manual	music	
 at the Water Altar.	みずさいだんあと	manual	music	
 Zogre Dance	ゾーガダンス	manual	music	
 south of Castle Wars.	しろせんそうみなみ	manual	music	
 On Thin Ice	あぶういこおりのじょう	manual	music	
-during the Dragon Slayer II quest.	りゅうそらいにほんめくえすとちゅう	manual	music	
+during the Dragon Slayer II quest.	りゅうそらいにほんめクエストちゅう	manual	music	
 Zombiism	ゾンビズム	manual	music	
 on Harmony Island.	わきょうしまじょう	manual	music	
 Old Ones, The	ふるいもの	manual	music	
 The Old Ones	ふるいモノ	manual	music	
-during The Garden of Death quest.	しのていえんくえすとちゅう	manual	music	
+during The Garden of Death quest.	しのていえんクエストちゅう	manual	music	
 Secrets of the North	きたりくのひみつ	manual	music	
-during the Secrets of the North quest.	ほっきょくのひみつくえすとちゅう	manual	music	
+during the Secrets of the North quest.	ほっきょくのひみつクエストちゅう	manual	music	
 In the Shadows	かげのちゅうに	manual	music	
 More Than Meets the Eye	みためいじょう	manual	music	
 Vault, The	きょくみん・のこくさい	manual	music	
 The Vault	きんこ	manual	music	
-during the Desert Treasure II - The Fallen Empire quest.	さばくたからにほんめおちてくえんぱいあくえすとちゅう	manual	music	
+during the Desert Treasure II - The Fallen Empire quest.	さばくたからにほんめおちてくえんぱいあクエストちゅう	manual	music	
 Fallen Empire, The	おちたていこく	manual	music	
 The Fallen Empire	めつびたていこく	manual	music	
 Prison Break	ぬごく	manual	music	
@@ -441,7 +441,7 @@ His Faithful Servants	あのほうのちゅうじつなしたがいものたち	
 Tick Tock	ティックトック	manual	music	
 Strangled	こうさつされたもの	manual	music	
 Bolrie's Diary	ボルリーのにっき	manual	music	
-during The Path of Glouphrie quest.	ぐろうふりーのみちくえすとちゅう	manual	music	
+during The Path of Glouphrie quest.	ぐろうふりーのみちクエストちゅう	manual	music	
 Healin' Feelin'	いやしのかんかく	manual	music	
 Longramble Scramble, The	ろんぐぐだまぶるすくらんぶる	manual	music	
 The Longramble Scramble	ながいはいかいのこみみだ	manual	music	
@@ -450,12 +450,12 @@ Terrorbird Tussle	テラーとりのあらそい	manual	music
 Waste Defaced	よごれされたはいきぶつ	manual	music	
 Dot's Yuletide	ドットのクリスマス	manual	music	
 Children of the Sun	たいようのこ	manual	music	
-during the Children of the Sun quest.	たいようのこどもくえすとちゅう	manual	music	
+during the Children of the Sun quest.	たいようのこどもクエストちゅう	manual	music	
 Plots and Plans	かまそうとけいかく	manual	music	
 Burning Sun, The	もえるたいよう	manual	music	
 The Burning Sun	しゃくねつのたいよう	manual	music	
 Undead Army	アンデッドのぐんたい	manual	music	
-during the Defender of Varrock quest.	ばろっくぼうえいしゃくえすとちゅう	manual	music	
+during the Defender of Varrock quest.	バロックぼうえいしゃクエストちゅう	manual	music	
 Dream Theatre, The	ゆめげきじょう	manual	music	
 The Dream Theatre	ゆめのげきじょう	manual	music	
 Zombie Invasion	ゾンビのしんりゃく	manual	music	
@@ -476,14 +476,14 @@ Are You Not Entertained?	おたのしいしみいただけた？	manual	music
 in the Fortis Colosseum.	ふぉるてぃころっせおあと	manual	music	
 Moons of Ruin, The	はかいのげつ	manual	music	
 The Moons of Ruin	はいきょのムーン	manual	music	
-during the Perilous Moons quest.	きけんげつくえすとちゅう	manual	music	
+during the Perilous Moons quest.	きけんげつクエストちゅう	manual	music	
 Lost to Time	ときのりゅうれにうしないわれた	manual	music	
 Sunny Side Up	かためんやきのたまごやき	manual	music	
 during the Easter  Holiday Event.	いーすたーいべんとちゅう	manual	music	
 Animal Magnetism	どうぶつのじせい	manual	quest	
 Learn how to equip Ava's ranged devices.	あばのてきえんそうふくそうほうをまなぶ	manual	quest	
 Another Slice of H.A.M.	もう１まいのH.A.M.	manual	quest	
-Learn how to use the Goblin Village teleport spheres.	ごぶりんむらてれぽーときゅうのつかいかたをまなぶ	manual	quest	
+Learn how to use the Goblin Village teleport spheres.	ゴブリンむらてれぽーときゅうのつかいかたをまなぶ	manual	quest	
 Ascent of Arceuus, The	アルセウスののぼりてん	manual	quest	
 The Ascent of Arceuus	アルセウスののぼりてん	manual	quest	
 Gain the Arceuus Memoirs teleport.	あるけうすかいろくてれぽーとえんくをえる	manual	quest	
@@ -531,7 +531,7 @@ Gain a set of Climbing Boots.	のぼりながぐつをえる	manual	quest
 Death to the Dorgeshuun	ドーゲシューンにしを	manual	quest	
 Gain access to the H.A.M Store Room.	えいちえーえむこれくじゅんしょくべやへのあくせすをえる	manual	quest	
 Demon Slayer	デーモン・スレイヤー	manual	quest	
-Face your destiny in Varrock.	ばろっくでじぶんのうんめいにむきあう	manual	quest	
+Face your destiny in Varrock.	バロックでじぶんのうんめいにむきあう	manual	quest	
 Depths of Despair, The	たえのぞみのそこ	manual	quest	
 The Depths of Despair	たえのぞみのそこ	manual	quest	
 Gain the Hosidius Memoirs teleport.	ほしでぃうすかいろくてれぽーとえんくをえる	manual	quest	
@@ -540,11 +540,11 @@ Learn how to use the Ancient Magicks.	こだいまじゅつのつかいかたを
 Devious Minds	ずるかつなこころ	manual	quest	
 Dig Site, The	はっくつげんば	manual	quest	
 The Dig Site	はっくつげんば	manual	quest	
-Learn how to clean specimens in Varrock Museum.	ばろっくはくぶつかんでしせきをきれいにするかたをまなぶ	manual	quest	
+Learn how to clean specimens in Varrock Museum.	バロックはくぶつかんでしせきをきれいにするかたをまなぶ	manual	quest	
 Doric's Quest	ドリックのクエスト	manual	quest	
 Gain early game Mining XP.	そうきのゆぬているうてぃぴーをえる	manual	quest	
 Dragon Slayer I	ドラゴン・スレイヤー１	manual	quest	
-Learn how to equip Rune and Dragon Platebodies.	るーんどらごんぷれーとよろいよそおいかたをまなぶ	manual	quest	
+Learn how to equip Rune and Dragon Platebodies.	ルーンドラゴンぷれーとよろいよそおいかたをまなぶ	manual	quest	
 Dragon Slayer II	ドラゴン・スレイヤー２	manual	quest	
 Gain great XP and access to the Myth's Guild.	だいりょうのうてぃぴーとしんわぎるどへのあくせすをえる	manual	quest	
 Dream Mentor	ゆめのメンター	manual	quest	
@@ -570,7 +570,7 @@ Enlightened Journey	さとりのたび	manual	quest
 Gain access to the Balloon transportation.	ふうせんのりもののあくせすをえる	manual	quest	
 Enter the Abyss	しんえんへ	manual	quest	
 Gain access to the Abyss.	くうこくへのあくせすをえる	manual	quest	
-Ernest the Chicken	ニワトリのアーネスト	manual	quest	
+Ernest the Chicken	にわとりのアーネスト	manual	quest	
 Investigate the whereabouts of Ernest.	あーねすとのいどころをちょうさする	manual	quest	
 Eyes of Glouphrie, The	グルフリーのめ	manual	quest	
 The Eyes of Glouphrie	グルフリーのめ	manual	quest	
@@ -608,7 +608,7 @@ Gain an Activated Ring of Charos.	かつせいかかったかろすのゆびわ�
 General's Shadow, The	しょうぐんのかげ	manual	quest	
 The General's Shadow	しょうぐんのかげ	manual	quest	
 Gain the Shadow Sword.	かげのけんをえる	manual	quest	
-Gertrude's Cat	ゲートルードのネコ	manual	quest	
+Gertrude's Cat	ゲートルードのねこ	manual	quest	
 Gain a pet Kitten.	こねこをペットにする	manual	quest	
 Getting Ahead	さきあたまにたてつ	manual	quest	
 Help Gordon protect his farm.	ごるどんくんののうえんをまもるのてつだう	manual	quest	
@@ -618,7 +618,7 @@ Giant Dwarf, The	きょだいなドワーフ	manual	quest
 The Giant Dwarf	きょだいなドワーフ	manual	quest	
 Learn how to travel by minecart.	てんろこしゃたびかたをまなぶ	manual	quest	
 Goblin Diplomacy	ゴブリンとのそとまじ	manual	quest	
-Investigate the disturbance in Goblin Village.	ごぶりんむらのそんがいをちょうさする	manual	quest	
+Investigate the disturbance in Goblin Village.	ゴブリンむらのそんがいをちょうさする	manual	quest	
 Golem, The	ザ・ゴーレム	manual	quest	
 The Golem	ザ・ゴーレム	manual	quest	
 Gain access to the Carpet rides to Uzer.	うぜるたびじゅうたんのりもののあくせすをえる	manual	quest	
@@ -631,7 +631,7 @@ Gain a Barrelchest Anchor.	ばれるきょうかいしゃんこーをえる	manu
 Grim Tales	ざんこくなものがたり	manual	quest	
 Hand in the Sand, The	さばくのてをわたす	manual	quest	
 The Hand in the Sand	すなのちゅうのて	manual	quest	
-Gain access to the Wizards' Guild Rune Shop.	ようしゃぎるどるーんてんあくせすをえる	manual	quest	
+Gain access to the Wizards' Guild Rune Shop.	ようしゃぎるどルーンてんあくせすをえる	manual	quest	
 Haunted Mine	のろいわれたさいくつあらわれば	manual	quest	
 Gain a Salve Amulet.	ちりょうふくおまもりをえる	manual	quest	
 Hazeel Cult	ヘーゼル・カルト	manual	quest	
@@ -695,7 +695,7 @@ Help the people of the Mountain Tribe.	やまぞくのみんなのてつだい	m
 Mourning's End Part I	あわいたのおわり　パート１	manual	quest	
 Gain great Hitpoint and Thieving XP.	だいりょうのけんこうとぬすみてぃぴーをえる	manual	quest	
 Mourning's End Part II	あわいたのおわり　パート２	manual	quest	
-Learn how to craft Death Runes.	しるーんづくりかたをまなぶ	manual	quest	
+Learn how to craft Death Runes.	しルーンづくりかたをまなぶ	manual	quest	
 Murder Mystery	ころしひとじけんのなぞ	manual	quest	
 Investigate a murder at Sinclair Mansion.	しんくれあしゃしきでのさつじんじけんをちょうさする	manual	quest	
 My Arm's Big Adventure	おいらのうでのだいぼうけん	manual	quest	
@@ -740,7 +740,7 @@ Restless Ghost, The	ねむれぬれい	manual	quest
 The Restless Ghost	ねむれぬれい	manual	quest	
 Gain a Ghostspeak Amulet.	ゆうれいかいわおまもりをえる	manual	quest	
 Romeo & Juliet	ロミオとジュリエット	manual	quest	
-Gain Quest Points.	くえすとぽいんとをえる	manual	quest	
+Gain Quest Points.	クエストぽいんとをえる	manual	quest	
 Roving Elves	はなしろうするエルフ	manual	quest	
 Gain a Crystal Shield or Bow.	きょうしょくのたてまたはゆみをえる	manual	quest	
 Royal Trouble	おうけのもんだい	manual	quest	
@@ -748,10 +748,10 @@ Gain enhanced rewards from Miscellenia.	みすせれにあからのぞうしゅ�
 Rum Deal	ラムのとりひき	manual	quest	
 Gain a Holy Wrench.	せいなるねんじゃくをえる	manual	quest	
 Rune Mysteries	ルーンのなぞ	manual	quest	
-Learn how to mine Rune Essence.	るーんほんしつのほりかたをまなぶ	manual	quest	
+Learn how to mine Rune Essence.	ルーンほんしつのほりかたをまなぶ	manual	quest	
 Scorpion Catcher	サソリとらえり	manual	quest	
 Help Thormac with a scorpion problem.	てぃおーまっくのさそりもんだいをてつだう	manual	quest	
-Sea Slug	ウミウシ	manual	quest	
+Sea Slug	ウミうし	manual	quest	
 Gain access to the Fishing Platform.	りょうてきぷらっとふぉーむあくせすをえる	manual	quest	
 Shades of Mort'ton	モートンのかげ	manual	quest	
 Gain access to the Shades of Mort'ton minigame.	もーと・とんかげみにげーむあくせすをえる	manual	quest	
@@ -783,8 +783,8 @@ Swan Song	しろとりのうた	manual	quest
 Learn how to catch Monkfish.	らんおうぎょのつかまえかたをまなぶ	manual	quest	
 Tai Bwo Wannai Trio	タイ・ブオ・ワナイ・トリオ	manual	quest	
 Learn how to catch and cook Karambwan.	からんぶわんのつかまえかたとなのしかたをまなぶ	manual	quest	
-Tail of Two Cats, A	２ひきのネコのものがたり	manual	quest	
-A Tail of Two Cats	２ひきのネコのものがたり	manual	quest	
+Tail of Two Cats, A	２ひきのねこのものがたり	manual	quest	
+A Tail of Two Cats	２ひきのねこのものがたり	manual	quest	
 Tale of the Righteous	ただぎものがたり	manual	quest	
 Gain the Shayzien Memoirs teleport.	しゃいじえんかいろくてれぽーとえんくをえる	manual	quest	
 Taste of Hope, A	きぼうのあじ	manual	quest	
@@ -810,7 +810,7 @@ Gain access to the God Wars Dungeon.	かみだんそうくぢゅんじょんへ�
 Underground Pass	ちかとおりみち	manual	quest	
 Gain Iban's Staff.	いばんのつえをえる	manual	quest	
 Vampyre Slayer	きゅうけつきスレイヤー	manual	quest	
-Help the people of Draynor Village with a vampyre problem.	どれーのーむらのみんながばんぱいあもんだいをてつだう	manual	quest	
+Help the people of Draynor Village with a vampyre problem.	どれーのーむらのみんながバンパイアもんだいをてつだう	manual	quest	
 Wanted!	ゆびなてくば	manual	quest	
 Gain access to the White Knight Armoury.	しろきしぶきぐみへのあくせすをえる	manual	quest	
 Watchtower	かんしとう	manual	quest	
@@ -822,7 +822,7 @@ Learn a shortcut to the Chaos Altar.	かおすさいだんへのみちのかし�
 Witch's House	まじょのいえ	manual	quest	
 Witch's Potion	まじょのやくえき	manual	quest	
 X Marks the Spot	Xがしめしすばしょ	manual	quest	
-Learn about Clue Scrolls and Kourend.	あいきょうていくえすとくえすとぷしくおりようりいろくについてまなぶ	manual	quest	
+Learn about Clue Scrolls and Kourend.	あいきょうていクエストクエストぷしくおりようりいろくについてまなぶ	manual	quest	
 Zogre Flesh Eaters	にくをくらうゾーガ	manual	quest	
 Learn how to make Relicym's Balm.	れりくしゅぶっかむをつくるかたをまなぶ	manual	quest	
 Frozen Door, The	こおりったとびら	manual	quest	
@@ -880,7 +880,7 @@ Gain access to the Kingdom of Varlamore.	ばーらもあおうこくへのあく
 Barbarian Training	ばんぞくのくんれん	manual	quest	
 Unlock the strength of a Barbarian.	ばーばりあんのちからのかぎをひらく	manual	quest	
 Defender of Varrock	ヴァロックのしゅごしゃ	manual	quest	
-Defend Varrock from a zombie invasion.	ばろっくをそしせいしんぐんはしんどうからまもる	manual	quest	
+Defend Varrock from a zombie invasion.	バロックをそしせいしんぐんはしんどうからまもる	manual	quest	
 While Guthix Sleeps	ガシックスがねむるあいだ	manual	quest	
 Stop a deadly Mahjarrat from finding an artefact of incomprehensible power.	あくしゅうまじゃらっとがふしぎなしごもつをさがすのをとめる	manual	quest	
 Twilight's Promise	たそがれのやくそく	manual	quest	
@@ -905,7 +905,7 @@ Wolves	オオカミ	manual	slayer_mob
 Zombies	ゾンビ	manual	slayer_mob	
 Skeletons	スケルトン	manual	slayer_mob	
 Ghosts	ゆうれい	manual	slayer_mob	
-Bears	クマ	manual	slayer_mob	
+Bears	くま	manual	slayer_mob	
 Hill Giants	おかのきょじん	manual	slayer_mob	
 Ice Giants	こおりのきょじん	manual	slayer_mob	
 Fire Giants	ひのきょじん	manual	slayer_mob	
@@ -963,7 +963,7 @@ Mogres	モーガ	manual	slayer_mob
 Lizards	トカゲ	manual	slayer_mob	
 Fever Spiders	ねつびょうグモ	manual	slayer_mob	
 Harpie Bug Swarms	ハーピーむしのむれ	manual	slayer_mob	
-Sea Snakes	ウミヘビ	manual	slayer_mob	
+Sea Snakes	ウミへび	manual	slayer_mob	
 FossilIsland Wyverns	かせきじまのワイバーン	manual	slayer_mob	
 Skeletal Wyverns	ほねワイバーン	manual	slayer_mob	
 Killerwatts	キラーワット	manual	slayer_mob	
@@ -1056,7 +1056,7 @@ Bigger and Badder	もっともおおきくわるい	manual	slayer_reward
 Get Scabaright on It	すかばらいとをやっつけろ	manual	slayer_reward	
 Duly Noted	ちょうどよくかかれた	manual	slayer_reward	
 Wyver-nother Two	もうひとつのりゅうにほんめ	manual	slayer_reward	
-Ada'mind Some More	あだまんとをもっともしたう	manual	slayer_reward	
+Ada'mind Some More	アダマントをもっともしたう	manual	slayer_reward	
 RUUUUUNE	るーーーん	manual	slayer_reward	
 Undead Head	しぞくあたま	manual	slayer_reward	
 Stop the Wyvern	りゅうをとめる	manual	slayer_reward	
@@ -1066,7 +1066,7 @@ Basilonger	ばしりすくもながい	manual	slayer_reward
 Basilocked	ばしりすくろっく	manual	slayer_reward	
 Twisted Vision	ねじれたしたし	manual	slayer_reward	
 More at Stake	もっともかかっている	manual	slayer_reward	
-Actual Vampyre Slayer	ほんもののばんぱいあそらい	manual	slayer_reward	
+Actual Vampyre Slayer	ほんもののバンパイアそらい	manual	slayer_reward	
 Task Storage	たすくくみおき	manual	slayer_reward	
 I Wildy More Slayer	わたしはもうれっぱいあくまたいじゃ	manual	slayer_reward	
 Revenenenenenants	よみがえりかえりかえりかえり	manual	slayer_reward	
@@ -1076,8 +1076,8 @@ Automatically salt Rockslugs when they're on critical health, if you have salt.	
 Automatically freeze Desert Lizards when they're on critical health, if you have ice water.	こおりみずがあれば　さばくとかげがげんかいけんこうのときじどうてきにこおらせる	manual	slayer_reward	
 Automatically spray Mutated Zygomites when they're on critical health, if you have fungicide.	ふんぐさいどがあれば　へんいじごみてがげんかいけんこうのときじどうてきにまきちらす	manual	slayer_reward	
 Learn to combine the protective Slayer headgear and Slayer gem into one universal helmet, with level 55 Crafting.	くらふてぃんぐレベルごじゅうごあくまたいじゃかぶとあくまたいじゃほうせきをあわせてこうむのかぶとにするかたをまなぶ	manual	slayer_reward	
-Learn to craft your own Slayer Rings, with level 75 Crafting.	くらふてぃんぐれべるななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ	manual	slayer_reward	
-Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).	ふれっちんぐれべるごじゅうに　ひろいやじりふれっちんぐれべるごじゅうご　ひろいぐんぽうふれっちんぐれべるななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ	manual	slayer_reward	
+Learn to craft your own Slayer Rings, with level 75 Crafting.	くらふてぃんぐレベルななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ	manual	slayer_reward	
+Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).	ふれっちんぐレベルごじゅうに　ひろいやじりふれっちんぐレベルごじゅうご　ひろいぐんぽうふれっちんぐレベルななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ	manual	slayer_reward	
 Whenever you get a Dark Beast task, it will be a bigger task.	だーくびーすとたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get an Ankou task, it will be a bigger task.	あんこうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Suqah task, it will be a bigger task.	すうかーたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
@@ -1088,14 +1088,14 @@ Whenever you get an Abyssal Demon task, it will be a bigger task.	くうこく�
 Whenever you get a Black Demon task, it will be a bigger task.	くろあくまたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Greater Demon task, it will be a bigger task.	だいあくまたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Konar, Duradel and Nieve will be able to assign Red Dragons as your task.	こなるでゅらでるにえぶが あかりゅうたすくをあたえられるようになる	manual	slayer_reward	
-Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.	こなるでゅらでるにえぶが みすりるりゅうたすくをあたえられるようになる	manual	slayer_reward	
+Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.	こなるでゅらでるにえぶが ミスリルりゅうたすくをあたえられるようになる	manual	slayer_reward	
 Konar, Duradel, Nieve, Chaeldar and Krystilia will be able to assign Aviansies as your task.	こなるでゅらでるにえぶかえるだーくりすてぃりあが あびあんしーたすくをあたえられるようになる	manual	slayer_reward	
 Duradel, Nieve and Chaeldar will be able to assign TzHaar as your task. You may also be offered a chance to slay TzTok-Jad or TzKal-Zuk.	でゅらでるにえぶかえるだーが てぃずはーたすくをあたえられるようになる てぃずとっくじゃどてぃずかるずくをたおすきかいがあるかもしれない	manual	slayer_reward	
 Konar, Duradel, Nieve and Krystilia will be able to assign boss monsters as your task. They will choose which boss you must kill.	こなるでゅらでるにえぶくりすてぃりあが おおぼすたすくをあたえられるようになる どのおおぼすをたおすかこれらがえらぶ	manual	slayer_reward	
 Whenever you get a Bloodveld task, it will be a bigger task.	ぶらっどべるどたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get an Aberrant Spectre task, it will be a bigger task.	へんいすぺくたーたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get an Aviansie task, it will be a bigger task.	あびあんしーたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Whenever you get a Mithril Dragon task, it will be a bigger task.	みすりるりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Whenever you get a Mithril Dragon task, it will be a bigger task.	ミスリルりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Cave Horror task, it will be a bigger task.	どうくつおそろしものたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Dust Devil task, it will be a bigger task.	ちりあくまたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Skeletal Wyvern task, it will be a bigger task.	ほねりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
@@ -1109,10 +1109,10 @@ Learn how to combine an Abyssal Demon head with your Slayer helmet to colour it 
 Learn how to combine a Dark Claw with your Slayer helmet to colour it purple.	だーくつめをあくまたいじゃかぶとであわせてむらさきくするかたをまなぶ	manual	slayer_reward	
 Increase the risk against certain Slayer monsters with the chance of a superior version spawning whilst on a Slayer task.	あくまたいじゃたすくちゅうにくうりょくばんそうがあらわれるきけんをたかめる	manual	slayer_reward	
 Whenever you get a Scabarite task, it will be a bigger task.	すかばらいとたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Mithril Dragons drop mithril bars in banknote form while killed on assignment.	みすりるりゅうはあたえられたたすくでこらすときみすりるぼうをかせんぎりょとしておとす	manual	slayer_reward	
+Mithril Dragons drop mithril bars in banknote form while killed on assignment.	ミスリルりゅうはあたえられたたすくでこらすときミスリルぼうをかせんぎりょとしておとす	manual	slayer_reward	
 Whenever you get a Fossil Island Wyvern task, it will be a bigger task.	かせきしまりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Whenever you get an Adamant Dragon task, it will be a bigger task.	あだまんとりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Whenever you get a Rune Dragon task, it will be a bigger task.	るーんりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Whenever you get an Adamant Dragon task, it will be a bigger task.	アダマントりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Whenever you get a Rune Dragon task, it will be a bigger task.	ルーンりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Learn how to combine Vorkath's head with your Slayer helmet to colour it turquoise.	ぼるかすあたまをあくまたいじゃかぶとであわせてみずいろくするかたをまなぶ	manual	slayer_reward	
 Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit.	ふさがったたすくげんすうにかぞえずにかせきしまりゅうたすくがでなくなる	manual	slayer_reward	
 Slaying Dusk and Dawn now counts for two kills towards your task rather than one.	たそがれとあかつきをころすとひとつのたすくとしてふたつのこらすぶんかぞえられる	manual	slayer_reward	
@@ -1120,8 +1120,8 @@ Learn how to combine a Hydra head with your Slayer helmet to theme it like the A
 Whenever you get a Basilisk task, it will be a bigger task.	ばしりすくたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Konar, Duradel and Nieve will be able to assign Basilisks as your task.	こなるでゅらでるにえぶがばしりすくたすくをあたえられるようになる	manual	slayer_reward	
 Learn how to combine Twisted Horns with your Slayer helmet to theme it like the Great Olm.	ねじれたつのをあくまたいじゃかぶとであわせてだいおおむのてーむにするかたをまなぶ	manual	slayer_reward	
-Whenever you get a Vampyre task, it will be a bigger task.	ばんぱいあたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.	こなるでゅらでるにえぶかえるだーがばんぱいあたすくをあたえられるようになる	manual	slayer_reward	
+Whenever you get a Vampyre task, it will be a bigger task.	バンパイアたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.	こなるでゅらでるにえぶかえるだーがバンパイアたすくをあたえられるようになる	manual	slayer_reward	
 Gain the ability to store your task, allowing you to take it at a later point in time.	あとであたえられるたすくをたいせいすることができるようになる	manual	slayer_reward	
 Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task.	くりすてぃりあがぜりーちりあくまねくりあえるくうこくあくまたすくをあたえられるようになる	manual	slayer_reward	
 Whenever you get a Revenants task, it will be a bigger task.	よみがえりもんたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
@@ -1134,10 +1134,10 @@ Ardougne easy	あーどおうぐねやさしい	manual	task
 Ardougne medium	あーどおうぐねふつう	manual	task	
 Ardougne hard	あーどおうぐねむずかしい	manual	task	
 Ardougne elite	あーどおうぐねえりーと	manual	task	
-Falador easy	ふぁらどーるやさしい	manual	task	
-Falador medium	ふぁらどーるふつう	manual	task	
-Falador hard	ふぁらどーるむずかしい	manual	task	
-Falador elite	ふぁらどーるえりーと	manual	task	
+Falador easy	ファラドーるやさしい	manual	task	
+Falador medium	ファラドーるふつう	manual	task	
+Falador hard	ファラドーるむずかしい	manual	task	
+Falador elite	ファラドーるえりーと	manual	task	
 Fremennik easy	ふれめんにくやさしい	manual	task	
 Fremennik medium	ふれめんにくふつう	manual	task	
 Fremennik hard	ふれめんにくむずかしい	manual	task	
@@ -1158,10 +1158,10 @@ Morytania easy	もりたにあやさしい	manual	task
 Morytania medium	もりたにあふつう	manual	task	
 Morytania hard	もりたにあむずかしい	manual	task	
 Morytania elite	もりたにあえりーと	manual	task	
-Varrock easy	ばろっくやさしい	manual	task	
-Varrock medium	ばろっくふつう	manual	task	
-Varrock hard	ばろっくむずかしい	manual	task	
-Varrock elite	ばろっくえりーと	manual	task	
+Varrock easy	バロックやさしい	manual	task	
+Varrock medium	バロックふつう	manual	task	
+Varrock hard	バロックむずかしい	manual	task	
+Varrock elite	バロックえりーと	manual	task	
 Wilderness easy	もうれっぱいやさしい	manual	task	
 Wilderness medium	もうれっぱいふつう	manual	task	
 Wilderness hard	もうれっぱいむずかしい	manual	task	
@@ -1205,8 +1205,8 @@ Discover knowledge about King Lathas and his ancestors.	おうらせすとその
 Provide information about the River Salve.	さるべがわについてのじょうほうをさしだす	manual	varrock_museum	
 Uncover further information about the River Salve.	さるべがわについてもっともじょうほうをあきらかにする	manual	varrock_museum	
 Delve into the story of the Carnillean family.	かるにれあんかぞくのものがたりをぼうえきする	manual	varrock_museum	
-Find out about the cult of chaos mages near Varrock.	ばろっくちかくのかおすようしゃきょうかくについてわかる	manual	varrock_museum	
-Uncover the secrets of runecrafting.	るーんくらふてぃんぐのひみつをあきらかにする	manual	varrock_museum	
+Find out about the cult of chaos mages near Varrock.	バロックちかくのかおすようしゃきょうかくについてわかる	manual	varrock_museum	
+Uncover the secrets of runecrafting.	ルーンくらふてぃんぐのひみつをあきらかにする	manual	varrock_museum	
 Discover the secrets of the Shield of Arrav.	あらぶのたてのひみつをはっけんする	manual	varrock_museum	
 Build the mermaid display.	にんぎょてんじをたてる	manual	varrock_museum	
 Build the pufferfish display.	ふぐてんじをたてる	manual	varrock_museum	
@@ -1252,7 +1252,7 @@ Fossil Island Displays	かせきしまてんじ	manual	varrock_museum
 Camdozaal Relics	かむどざーるいせききねんひん	manual	varrock_museum	
 Clean finds from the Digsite on the tables in the museum and place them in their cases.	はくぶつかんの　てーぶるでくっせきちはっけんぶつをきれいにしてけーすにいれる	manual	varrock_museum	
 Examine the displays in the Natural History section of the museum and answer Orlando Smith's quiz.	はくぶつかんの　しぜんれきしぶぶんのてんじをよく　ごらんになっておーらんどすみすのくいずにこたえる	manual	varrock_museum	
-Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.	くえすとやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう	manual	varrock_museum	
+Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.	クエストやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう	manual	varrock_museum	
 Discover fossils on fossil island to complete the displays on the bottom floor of the museum.	かせきしまでかせきをさがしてはくぶつかんの　かじょうのてんじをせいせいする	manual	varrock_museum	
 Crush Barronite deposits in the ruins of Camdozaal to find relics and hand them in to the curator.	かむどざーるいせきで　ばろないとこうせきをつぶしてきねんひんをみつけてかんりしゃにさしだす	manual	varrock_museum	
 Barbarian Assault	バーバリアン・アサルト	manual	activity	
@@ -1316,7 +1316,7 @@ Slap Head	あたまペチン	manual	emote
 Zombie Walk	ゾンビあるき	manual	emote	
 Zombie Dance	ゾンビダンス	manual	emote	
 Scared	おびえる	manual	emote	
-Rabbit Hop	ウサギだピョン	manual	emote	
+Rabbit Hop	うさぎだピョン	manual	emote	
 Skill Cape	スキルのマント	manual	emote	
 Zombie Hand	ゾンビのて	manual	emote	
 Air Guitar	エアギター	manual	emote	
@@ -1335,7 +1335,7 @@ Relic unlock	いぶつのときはなし	manual	emote
 Party	パーティー	manual	emote	
 Trick	トリック	manual	emote	
 Fortis Salute	フォーティスのけいれい	manual	emote	
-Crab dance	カニダンス	manual	emote	
+Crab dance	かにダンス	manual	emote	
 Sit down	ざる	manual	emote	
 Bald	スキンヘッド	manual	hair_beard	
 Dreadlocks	ドレッドヘア	manual	hair_beard	
@@ -1389,7 +1389,7 @@ Side Afro	よこアフロ	manual	hair_beard
 Punk	パンク	manual	hair_beard	
 Half-shaved	はんぶんぞりおろし	manual	hair_beard	
 Fremennik	フレメニック	manual	hair_beard	
-Elven	えるふのようなかみかた	manual	hair_beard	
+Elven	エルフのようなかみかた	manual	hair_beard	
 Medium Coils	ちゅうがたのこいる	manual	hair_beard	
 High ponytail	たかいぽにーてーる	manual	hair_beard	
 Plaits	みつあみ	manual	hair_beard	
@@ -1568,26 +1568,26 @@ at the Wizards' Tower.	ようしゃたわーあと	manual	music
 Volcanic Vikings	かざんのバイキング	manual	music	
 on Neitiznot.	ねいてぃずのっとじょう	manual	music	
 Voodoo Cult	ブードゥーおしえのカルト	manual	music	
-during the Legends' Quest.	でんせつのくえすとちゅう	manual	music	
+during the Legends' Quest.	でんせつのクエストちゅう	manual	music	
 Voyage	たび	manual	music	
 at Baxtorian Falls.	ばくすとりあのたきあと	manual	music	
 Waiting Game, The	またすゲーム	manual	music	
 The Waiting Game	たいきせんじゅつ	manual	music	
 in the Soul Wars lobby.	たましいせんそうでんいえあ	manual	music	
 Waking Dream	しろひるゆめ	manual	music	
-during the Lunar Diplomacy quest.	げつめんこうしょうくえすとちゅう	manual	music	
+during the Lunar Diplomacy quest.	げつめんこうしょうクエストちゅう	manual	music	
 Wally the Hero	ヒーリーのワリー	manual	music	
-during the Demon Slayer quest.	あくまそらいくえすとちゅう	manual	music	
+during the Demon Slayer quest.	あくまそらいクエストちゅう	manual	music	
 Wander	ほうこう	manual	music	
 in Draynor Village.	どれーのーむらまち	manual	music	
 Warpath	でじんのみち	manual	music	
-during the Clan Wars minigame.	ぞくまさいくえすとちゅう	manual	music	
+during the Clan Wars minigame.	ぞくまさいクエストちゅう	manual	music	
 Song of the Elves	エルフのうた	manual	music	
-during the Song of the Elves quest.	えるぶのうたくえすとちゅう	manual	music	
+during the Song of the Elves quest.	えるぶのうたクエストちゅう	manual	music	
 What Happens Below...	ちかでのできごと	manual	music	
 in the Warrens.	ぐろいもじゅくあと	manual	music	
 Warrior	せんし	manual	music	
-during The Fremennik Trials quest.	ふれめんにくしけんくえすとちゅう	manual	music	
+during The Fremennik Trials quest.	ふれめんにくしけんクエストちゅう	manual	music	
 Warriors' Guild	せんしギルド	manual	music	
 at the Warriors' Guild.	せんしぎるどあと	manual	music	
 Doors of Dinh, The	じんどるのあったい	manual	music	
@@ -1604,15 +1604,15 @@ in the Karuulm Slayer Dungeon.	かるーむくぢゅんじょんあと	manual	mu
 Wayward	きまぐれ	manual	music	
 in the Jiggig dungeon.	じぎぐくぢゅんじょんあと	manual	music	
 We are the Fairies	わたしたちがようせいだ	manual	music	
-during the Fairytale II - Cure a Queen quest.	おうじょきゅうしゅいうかしくえすとちゅう	manual	music	
+during the Fairytale II - Cure a Queen quest.	おうじょきゅうしゅいうかしクエストちゅう	manual	music	
 Lumbering	もくざいばっさい	manual	music	
 in Weiss.	うぃすまち	manual	music	
 Well of Voyage	たびのいと	manual	music	
-during the Regicide quest.	おうじょぎゃくさつくえすとちゅう	manual	music	
+during the Regicide quest.	おうじょぎゃくさつクエストちゅう	manual	music	
 Morytanian Mystery	モリタニアのなぞ	manual	music	
-during the Darkness of Hallowvale quest.	あんくまとのくらやみくえすとちゅう	manual	music	
+during the Darkness of Hallowvale quest.	あんくまとのくらやみクエストちゅう	manual	music	
 Where Eagles Lair	ワシのすのありか	manual	music	
-during the Eagles' Peak quest.	わしのたかみねくえすとちゅう	manual	music	
+during the Eagles' Peak quest.	わしのたかみねクエストちゅう	manual	music	
 Wild Isle	ワイルド・アイル	manual	music	
 in the Wilderness.	もうれっぱい	manual	music	
 Wild Side	ワイルド・サイド	manual	music	
@@ -1638,14 +1638,14 @@ A Walk in the Woods	もりでさんぽ	manual	music
 in the Kourend Woodland.	くーれんどりんあと	manual	music	
 Work, Work, Work	しごとしごとしごと	manual	music	
 Work\t Work\t Work	はたらけ	manual	music	
-during the Tower of Life quest.	いのちのたわーくえすとちゅう	manual	music	
+during the Tower of Life quest.	いのちのたわークエストちゅう	manual	music	
 Workshop	こうぼう	manual	music	
-in Falador.	ふぁらどーる で。	manual	music	
+in Falador.	ファラドーる で。	manual	music	
 Wrath and Ruin	ふんどとはいきょ	manual	music	
 in Tolna's Rift.	とるなのさけめあと	manual	music	
 Part Where You Die, The	しぬぶぶん	manual	music	
 The Part Where You Die	あなたがしぬところ	manual	music	
-during the A Kingdom Divided quest.	おうこくぶんれつくえすとちゅう	manual	music	
+during the A Kingdom Divided quest.	おうこくぶんれつクエストちゅう	manual	music	
 Predator Xarpus	とらえしょくものハープス	manual	music	
 in the Theatre of Blood.	けっえんげきじょう	manual	music	
 Last King of the Yarasa	ヤラサのさいごのおう	manual	music	
@@ -1661,26 +1661,26 @@ while fighting Zalcano.	ざるかのとたたかいちゅう	manual	music
 Zamorak Zoo	ザモラックのどうぶつえん	manual	music	
 in the God Wars Dungeon.	かみだんそうくぢゅんじょんあと	manual	music	
 Zanik's Theme	ザニックのテーマ	manual	music	
-during the Land of the Goblins quest.	ごぶりんのくにくえすとちゅう	manual	music	
+during the Land of the Goblins quest.	ゴブリンのくにクエストちゅう	manual	music	
 Zaros Zeitgeist	ザロスのときだいのきかぜ	manual	music	
 Zealot	ジーロット	manual	music	
 at the Water Altar.	みずさいだんあと	manual	music	
 Zogre Dance	ゾーガダンス	manual	music	
 south of Castle Wars.	しろせんそうみなみ	manual	music	
 On Thin Ice	あぶういこおりのじょう	manual	music	
-during the Dragon Slayer II quest.	りゅうそらいにほんめくえすとちゅう	manual	music	
+during the Dragon Slayer II quest.	りゅうそらいにほんめクエストちゅう	manual	music	
 Zombiism	ゾンビズム	manual	music	
 on Harmony Island.	わきょうしまじょう	manual	music	
 Old Ones, The	ふるいもの	manual	music	
 The Old Ones	ふるいモノ	manual	music	
-during The Garden of Death quest.	しのていえんくえすとちゅう	manual	music	
+during The Garden of Death quest.	しのていえんクエストちゅう	manual	music	
 Secrets of the North	きたりくのひみつ	manual	music	
-during the Secrets of the North quest.	ほっきょくのひみつくえすとちゅう	manual	music	
+during the Secrets of the North quest.	ほっきょくのひみつクエストちゅう	manual	music	
 In the Shadows	かげのちゅうに	manual	music	
 More Than Meets the Eye	みためいじょう	manual	music	
 Vault, The	きょくみん・のこくさい	manual	music	
 The Vault	きんこ	manual	music	
-during the Desert Treasure II - The Fallen Empire quest.	さばくたからにほんめおちてくえんぱいあくえすとちゅう	manual	music	
+during the Desert Treasure II - The Fallen Empire quest.	さばくたからにほんめおちてくえんぱいあクエストちゅう	manual	music	
 Fallen Empire, The	おちたていこく	manual	music	
 The Fallen Empire	めつびたていこく	manual	music	
 Prison Break	ぬごく	manual	music	
@@ -1697,7 +1697,7 @@ His Faithful Servants	あのほうのちゅうじつなしたがいものたち	
 Tick Tock	ティックトック	manual	music	
 Strangled	こうさつされたもの	manual	music	
 Bolrie's Diary	ボルリーのにっき	manual	music	
-during The Path of Glouphrie quest.	ぐろうふりーのみちくえすとちゅう	manual	music	
+during The Path of Glouphrie quest.	ぐろうふりーのみちクエストちゅう	manual	music	
 Healin' Feelin'	いやしのかんかく	manual	music	
 Longramble Scramble, The	ろんぐぐだまぶるすくらんぶる	manual	music	
 The Longramble Scramble	ながいはいかいのこみみだ	manual	music	
@@ -1706,12 +1706,12 @@ Terrorbird Tussle	テラーとりのあらそい	manual	music
 Waste Defaced	よごれされたはいきぶつ	manual	music	
 Dot's Yuletide	ドットのクリスマス	manual	music	
 Children of the Sun	たいようのこ	manual	music	
-during the Children of the Sun quest.	たいようのこどもくえすとちゅう	manual	music	
+during the Children of the Sun quest.	たいようのこどもクエストちゅう	manual	music	
 Plots and Plans	かまそうとけいかく	manual	music	
 Burning Sun, The	もえるたいよう	manual	music	
 The Burning Sun	しゃくねつのたいよう	manual	music	
 Undead Army	アンデッドのぐんたい	manual	music	
-during the Defender of Varrock quest.	ばろっくぼうえいしゃくえすとちゅう	manual	music	
+during the Defender of Varrock quest.	バロックぼうえいしゃクエストちゅう	manual	music	
 Dream Theatre, The	ゆめげきじょう	manual	music	
 The Dream Theatre	ゆめのげきじょう	manual	music	
 Zombie Invasion	ゾンビのしんりゃく	manual	music	
@@ -1732,14 +1732,14 @@ Are You Not Entertained?	おたのしいしみいただけた？	manual	music
 in the Fortis Colosseum.	ふぉるてぃころっせおあと	manual	music	
 Moons of Ruin, The	はかいのげつ	manual	music	
 The Moons of Ruin	はいきょのムーン	manual	music	
-during the Perilous Moons quest.	きけんげつくえすとちゅう	manual	music	
+during the Perilous Moons quest.	きけんげつクエストちゅう	manual	music	
 Lost to Time	ときのりゅうれにうしないわれた	manual	music	
 Sunny Side Up	かためんやきのたまごやき	manual	music	
 during the Easter  Holiday Event.	いーすたーいべんとちゅう	manual	music	
 Animal Magnetism	どうぶつのじせい	manual	quest	
 Learn how to equip Ava's ranged devices.	あばのてきえんそうふくそうほうをまなぶ	manual	quest	
 Another Slice of H.A.M.	もう１まいのH.A.M.	manual	quest	
-Learn how to use the Goblin Village teleport spheres.	ごぶりんむらてれぽーときゅうのつかいかたをまなぶ	manual	quest	
+Learn how to use the Goblin Village teleport spheres.	ゴブリンむらてれぽーときゅうのつかいかたをまなぶ	manual	quest	
 Ascent of Arceuus, The	アルセウスののぼりてん	manual	quest	
 The Ascent of Arceuus	アルセウスののぼりてん	manual	quest	
 Gain the Arceuus Memoirs teleport.	あるけうすかいろくてれぽーとえんくをえる	manual	quest	
@@ -1787,7 +1787,7 @@ Gain a set of Climbing Boots.	のぼりながぐつをえる	manual	quest
 Death to the Dorgeshuun	ドーゲシューンにしを	manual	quest	
 Gain access to the H.A.M Store Room.	えいちえーえむこれくじゅんしょくべやへのあくせすをえる	manual	quest	
 Demon Slayer	デーモン・スレイヤー	manual	quest	
-Face your destiny in Varrock.	ばろっくでじぶんのうんめいにむきあう	manual	quest	
+Face your destiny in Varrock.	バロックでじぶんのうんめいにむきあう	manual	quest	
 Depths of Despair, The	たえのぞみのそこ	manual	quest	
 The Depths of Despair	たえのぞみのそこ	manual	quest	
 Gain the Hosidius Memoirs teleport.	ほしでぃうすかいろくてれぽーとえんくをえる	manual	quest	
@@ -1796,11 +1796,11 @@ Learn how to use the Ancient Magicks.	こだいまじゅつのつかいかたを
 Devious Minds	ずるかつなこころ	manual	quest	
 Dig Site, The	はっくつげんば	manual	quest	
 The Dig Site	はっくつげんば	manual	quest	
-Learn how to clean specimens in Varrock Museum.	ばろっくはくぶつかんでしせきをきれいにするかたをまなぶ	manual	quest	
+Learn how to clean specimens in Varrock Museum.	バロックはくぶつかんでしせきをきれいにするかたをまなぶ	manual	quest	
 Doric's Quest	ドリックのクエスト	manual	quest	
 Gain early game Mining XP.	そうきのゆぬているうてぃぴーをえる	manual	quest	
 Dragon Slayer I	ドラゴン・スレイヤー１	manual	quest	
-Learn how to equip Rune and Dragon Platebodies.	るーんどらごんぷれーとよろいよそおいかたをまなぶ	manual	quest	
+Learn how to equip Rune and Dragon Platebodies.	ルーンドラゴンぷれーとよろいよそおいかたをまなぶ	manual	quest	
 Dragon Slayer II	ドラゴン・スレイヤー２	manual	quest	
 Gain great XP and access to the Myth's Guild.	だいりょうのうてぃぴーとしんわぎるどへのあくせすをえる	manual	quest	
 Dream Mentor	ゆめのメンター	manual	quest	
@@ -1826,7 +1826,7 @@ Enlightened Journey	さとりのたび	manual	quest
 Gain access to the Balloon transportation.	ふうせんのりもののあくせすをえる	manual	quest	
 Enter the Abyss	しんえんへ	manual	quest	
 Gain access to the Abyss.	くうこくへのあくせすをえる	manual	quest	
-Ernest the Chicken	ニワトリのアーネスト	manual	quest	
+Ernest the Chicken	にわとりのアーネスト	manual	quest	
 Investigate the whereabouts of Ernest.	あーねすとのいどころをちょうさする	manual	quest	
 Eyes of Glouphrie, The	グルフリーのめ	manual	quest	
 The Eyes of Glouphrie	グルフリーのめ	manual	quest	
@@ -1864,7 +1864,7 @@ Gain an Activated Ring of Charos.	かつせいかかったかろすのゆびわ�
 General's Shadow, The	しょうぐんのかげ	manual	quest	
 The General's Shadow	しょうぐんのかげ	manual	quest	
 Gain the Shadow Sword.	かげのけんをえる	manual	quest	
-Gertrude's Cat	ゲートルードのネコ	manual	quest	
+Gertrude's Cat	ゲートルードのねこ	manual	quest	
 Gain a pet Kitten.	こねこをペットにする	manual	quest	
 Getting Ahead	さきあたまにたてつ	manual	quest	
 Help Gordon protect his farm.	ごるどんくんののうえんをまもるのてつだう	manual	quest	
@@ -1874,7 +1874,7 @@ Giant Dwarf, The	きょだいなドワーフ	manual	quest
 The Giant Dwarf	きょだいなドワーフ	manual	quest	
 Learn how to travel by minecart.	てんろこしゃたびかたをまなぶ	manual	quest	
 Goblin Diplomacy	ゴブリンとのそとまじ	manual	quest	
-Investigate the disturbance in Goblin Village.	ごぶりんむらのそんがいをちょうさする	manual	quest	
+Investigate the disturbance in Goblin Village.	ゴブリンむらのそんがいをちょうさする	manual	quest	
 Golem, The	ザ・ゴーレム	manual	quest	
 The Golem	ザ・ゴーレム	manual	quest	
 Gain access to the Carpet rides to Uzer.	うぜるたびじゅうたんのりもののあくせすをえる	manual	quest	
@@ -1887,7 +1887,7 @@ Gain a Barrelchest Anchor.	ばれるきょうかいしゃんこーをえる	manu
 Grim Tales	ざんこくなものがたり	manual	quest	
 Hand in the Sand, The	さばくのてをわたす	manual	quest	
 The Hand in the Sand	すなのちゅうのて	manual	quest	
-Gain access to the Wizards' Guild Rune Shop.	ようしゃぎるどるーんてんあくせすをえる	manual	quest	
+Gain access to the Wizards' Guild Rune Shop.	ようしゃぎるどルーンてんあくせすをえる	manual	quest	
 Haunted Mine	のろいわれたさいくつあらわれば	manual	quest	
 Gain a Salve Amulet.	ちりょうふくおまもりをえる	manual	quest	
 Hazeel Cult	ヘーゼル・カルト	manual	quest	
@@ -1951,7 +1951,7 @@ Help the people of the Mountain Tribe.	やまぞくのみんなのてつだい	m
 Mourning's End Part I	あわいたのおわり　パート１	manual	quest	
 Gain great Hitpoint and Thieving XP.	だいりょうのけんこうとぬすみてぃぴーをえる	manual	quest	
 Mourning's End Part II	あわいたのおわり　パート２	manual	quest	
-Learn how to craft Death Runes.	しるーんづくりかたをまなぶ	manual	quest	
+Learn how to craft Death Runes.	しルーンづくりかたをまなぶ	manual	quest	
 Murder Mystery	ころしひとじけんのなぞ	manual	quest	
 Investigate a murder at Sinclair Mansion.	しんくれあしゃしきでのさつじんじけんをちょうさする	manual	quest	
 My Arm's Big Adventure	おいらのうでのだいぼうけん	manual	quest	
@@ -1996,7 +1996,7 @@ Restless Ghost, The	ねむれぬれい	manual	quest
 The Restless Ghost	ねむれぬれい	manual	quest	
 Gain a Ghostspeak Amulet.	ゆうれいかいわおまもりをえる	manual	quest	
 Romeo & Juliet	ロミオとジュリエット	manual	quest	
-Gain Quest Points.	くえすとぽいんとをえる	manual	quest	
+Gain Quest Points.	クエストぽいんとをえる	manual	quest	
 Roving Elves	はなしろうするエルフ	manual	quest	
 Gain a Crystal Shield or Bow.	きょうしょくのたてまたはゆみをえる	manual	quest	
 Royal Trouble	おうけのもんだい	manual	quest	
@@ -2004,10 +2004,10 @@ Gain enhanced rewards from Miscellenia.	みすせれにあからのぞうしゅ�
 Rum Deal	ラムのとりひき	manual	quest	
 Gain a Holy Wrench.	せいなるねんじゃくをえる	manual	quest	
 Rune Mysteries	ルーンのなぞ	manual	quest	
-Learn how to mine Rune Essence.	るーんほんしつのほりかたをまなぶ	manual	quest	
+Learn how to mine Rune Essence.	ルーンほんしつのほりかたをまなぶ	manual	quest	
 Scorpion Catcher	サソリとらえり	manual	quest	
 Help Thormac with a scorpion problem.	てぃおーまっくのさそりもんだいをてつだう	manual	quest	
-Sea Slug	ウミウシ	manual	quest	
+Sea Slug	ウミうし	manual	quest	
 Gain access to the Fishing Platform.	りょうてきぷらっとふぉーむあくせすをえる	manual	quest	
 Shades of Mort'ton	モートンのかげ	manual	quest	
 Gain access to the Shades of Mort'ton minigame.	もーと・とんかげみにげーむあくせすをえる	manual	quest	
@@ -2039,8 +2039,8 @@ Swan Song	しろとりのうた	manual	quest
 Learn how to catch Monkfish.	らんおうぎょのつかまえかたをまなぶ	manual	quest	
 Tai Bwo Wannai Trio	タイ・ブオ・ワナイ・トリオ	manual	quest	
 Learn how to catch and cook Karambwan.	からんぶわんのつかまえかたとなのしかたをまなぶ	manual	quest	
-Tail of Two Cats, A	２ひきのネコのものがたり	manual	quest	
-A Tail of Two Cats	２ひきのネコのものがたり	manual	quest	
+Tail of Two Cats, A	２ひきのねこのものがたり	manual	quest	
+A Tail of Two Cats	２ひきのねこのものがたり	manual	quest	
 Tale of the Righteous	ただぎものがたり	manual	quest	
 Gain the Shayzien Memoirs teleport.	しゃいじえんかいろくてれぽーとえんくをえる	manual	quest	
 Taste of Hope, A	きぼうのあじ	manual	quest	
@@ -2066,7 +2066,7 @@ Gain access to the God Wars Dungeon.	かみだんそうくぢゅんじょんへ�
 Underground Pass	ちかとおりみち	manual	quest	
 Gain Iban's Staff.	いばんのつえをえる	manual	quest	
 Vampyre Slayer	きゅうけつきスレイヤー	manual	quest	
-Help the people of Draynor Village with a vampyre problem.	どれーのーむらのみんながばんぱいあもんだいをてつだう	manual	quest	
+Help the people of Draynor Village with a vampyre problem.	どれーのーむらのみんながバンパイアもんだいをてつだう	manual	quest	
 Wanted!	ゆびなてくば	manual	quest	
 Gain access to the White Knight Armoury.	しろきしぶきぐみへのあくせすをえる	manual	quest	
 Watchtower	かんしとう	manual	quest	
@@ -2078,7 +2078,7 @@ Learn a shortcut to the Chaos Altar.	かおすさいだんへのみちのかし�
 Witch's House	まじょのいえ	manual	quest	
 Witch's Potion	まじょのやくえき	manual	quest	
 X Marks the Spot	Xがしめしすばしょ	manual	quest	
-Learn about Clue Scrolls and Kourend.	あいきょうていくえすとくえすとぷしくおりようりいろくについてまなぶ	manual	quest	
+Learn about Clue Scrolls and Kourend.	あいきょうていクエストクエストぷしくおりようりいろくについてまなぶ	manual	quest	
 Zogre Flesh Eaters	にくをくらうゾーガ	manual	quest	
 Learn how to make Relicym's Balm.	れりくしゅぶっかむをつくるかたをまなぶ	manual	quest	
 Frozen Door, The	こおりったとびら	manual	quest	
@@ -2136,7 +2136,7 @@ Gain access to the Kingdom of Varlamore.	ばーらもあおうこくへのあく
 Barbarian Training	ばんぞくのくんれん	manual	quest	
 Unlock the strength of a Barbarian.	ばーばりあんのちからのかぎをひらく	manual	quest	
 Defender of Varrock	ヴァロックのしゅごしゃ	manual	quest	
-Defend Varrock from a zombie invasion.	ばろっくをそしせいしんぐんはしんどうからまもる	manual	quest	
+Defend Varrock from a zombie invasion.	バロックをそしせいしんぐんはしんどうからまもる	manual	quest	
 While Guthix Sleeps	ガシックスがねむるあいだ	manual	quest	
 Stop a deadly Mahjarrat from finding an artefact of incomprehensible power.	あくしゅうまじゃらっとがふしぎなしごもつをさがすのをとめる	manual	quest	
 Twilight's Promise	たそがれのやくそく	manual	quest	
@@ -2161,7 +2161,7 @@ Wolves	オオカミ	manual	slayer_mob
 Zombies	ゾンビ	manual	slayer_mob	
 Skeletons	スケルトン	manual	slayer_mob	
 Ghosts	ゆうれい	manual	slayer_mob	
-Bears	クマ	manual	slayer_mob	
+Bears	くま	manual	slayer_mob	
 Hill Giants	おかのきょじん	manual	slayer_mob	
 Ice Giants	こおりのきょじん	manual	slayer_mob	
 Fire Giants	ひのきょじん	manual	slayer_mob	
@@ -2219,7 +2219,7 @@ Mogres	モーガ	manual	slayer_mob
 Lizards	トカゲ	manual	slayer_mob	
 Fever Spiders	ねつびょうグモ	manual	slayer_mob	
 Harpie Bug Swarms	ハーピーむしのむれ	manual	slayer_mob	
-Sea Snakes	ウミヘビ	manual	slayer_mob	
+Sea Snakes	ウミへび	manual	slayer_mob	
 FossilIsland Wyverns	かせきじまのワイバーン	manual	slayer_mob	
 Skeletal Wyverns	ほねワイバーン	manual	slayer_mob	
 Killerwatts	キラーワット	manual	slayer_mob	
@@ -2312,7 +2312,7 @@ Bigger and Badder	もっともおおきくわるい	manual	slayer_reward
 Get Scabaright on It	すかばらいとをやっつけろ	manual	slayer_reward	
 Duly Noted	ちょうどよくかかれた	manual	slayer_reward	
 Wyver-nother Two	もうひとつのりゅうにほんめ	manual	slayer_reward	
-Ada'mind Some More	あだまんとをもっともしたう	manual	slayer_reward	
+Ada'mind Some More	アダマントをもっともしたう	manual	slayer_reward	
 RUUUUUNE	るーーーん	manual	slayer_reward	
 Undead Head	しぞくあたま	manual	slayer_reward	
 Stop the Wyvern	りゅうをとめる	manual	slayer_reward	
@@ -2322,7 +2322,7 @@ Basilonger	ばしりすくもながい	manual	slayer_reward
 Basilocked	ばしりすくろっく	manual	slayer_reward	
 Twisted Vision	ねじれたしたし	manual	slayer_reward	
 More at Stake	もっともかかっている	manual	slayer_reward	
-Actual Vampyre Slayer	ほんもののばんぱいあそらい	manual	slayer_reward	
+Actual Vampyre Slayer	ほんもののバンパイアそらい	manual	slayer_reward	
 Task Storage	たすくくみおき	manual	slayer_reward	
 I Wildy More Slayer	わたしはもうれっぱいあくまたいじゃ	manual	slayer_reward	
 Revenenenenenants	よみがえりかえりかえりかえり	manual	slayer_reward	
@@ -2332,8 +2332,8 @@ Automatically salt Rockslugs when they're on critical health, if you have salt.	
 Automatically freeze Desert Lizards when they're on critical health, if you have ice water.	こおりみずがあれば　さばくとかげがげんかいけんこうのときじどうてきにこおらせる	manual	slayer_reward	
 Automatically spray Mutated Zygomites when they're on critical health, if you have fungicide.	ふんぐさいどがあれば　へんいじごみてがげんかいけんこうのときじどうてきにまきちらす	manual	slayer_reward	
 Learn to combine the protective Slayer headgear and Slayer gem into one universal helmet, with level 55 Crafting.	くらふてぃんぐレベルごじゅうごあくまたいじゃかぶとあくまたいじゃほうせきをあわせてこうむのかぶとにするかたをまなぶ	manual	slayer_reward	
-Learn to craft your own Slayer Rings, with level 75 Crafting.	くらふてぃんぐれべるななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ	manual	slayer_reward	
-Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).	ふれっちんぐれべるごじゅうに　ひろいやじりふれっちんぐれべるごじゅうご　ひろいぐんぽうふれっちんぐれべるななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ	manual	slayer_reward	
+Learn to craft your own Slayer Rings, with level 75 Crafting.	くらふてぃんぐレベルななじゅうごで あくまたいじゃゆびわをつくるかたをまなぶ	manual	slayer_reward	
+Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).	ふれっちんぐレベルごじゅうに　ひろいやじりふれっちんぐレベルごじゅうご　ひろいぐんぽうふれっちんぐレベルななじゅうろく　あめじすとひろいぐんぽうのつくりかたをまなぶ	manual	slayer_reward	
 Whenever you get a Dark Beast task, it will be a bigger task.	だーくびーすとたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get an Ankou task, it will be a bigger task.	あんこうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Suqah task, it will be a bigger task.	すうかーたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
@@ -2344,14 +2344,14 @@ Whenever you get an Abyssal Demon task, it will be a bigger task.	くうこく�
 Whenever you get a Black Demon task, it will be a bigger task.	くろあくまたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Greater Demon task, it will be a bigger task.	だいあくまたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Konar, Duradel and Nieve will be able to assign Red Dragons as your task.	こなるでゅらでるにえぶが あかりゅうたすくをあたえられるようになる	manual	slayer_reward	
-Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.	こなるでゅらでるにえぶが みすりるりゅうたすくをあたえられるようになる	manual	slayer_reward	
+Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.	こなるでゅらでるにえぶが ミスリルりゅうたすくをあたえられるようになる	manual	slayer_reward	
 Konar, Duradel, Nieve, Chaeldar and Krystilia will be able to assign Aviansies as your task.	こなるでゅらでるにえぶかえるだーくりすてぃりあが あびあんしーたすくをあたえられるようになる	manual	slayer_reward	
 Duradel, Nieve and Chaeldar will be able to assign TzHaar as your task. You may also be offered a chance to slay TzTok-Jad or TzKal-Zuk.	でゅらでるにえぶかえるだーが てぃずはーたすくをあたえられるようになる てぃずとっくじゃどてぃずかるずくをたおすきかいがあるかもしれない	manual	slayer_reward	
 Konar, Duradel, Nieve and Krystilia will be able to assign boss monsters as your task. They will choose which boss you must kill.	こなるでゅらでるにえぶくりすてぃりあが おおぼすたすくをあたえられるようになる どのおおぼすをたおすかこれらがえらぶ	manual	slayer_reward	
 Whenever you get a Bloodveld task, it will be a bigger task.	ぶらっどべるどたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get an Aberrant Spectre task, it will be a bigger task.	へんいすぺくたーたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get an Aviansie task, it will be a bigger task.	あびあんしーたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Whenever you get a Mithril Dragon task, it will be a bigger task.	みすりるりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Whenever you get a Mithril Dragon task, it will be a bigger task.	ミスリルりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Cave Horror task, it will be a bigger task.	どうくつおそろしものたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Dust Devil task, it will be a bigger task.	ちりあくまたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Whenever you get a Skeletal Wyvern task, it will be a bigger task.	ほねりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
@@ -2365,10 +2365,10 @@ Learn how to combine an Abyssal Demon head with your Slayer helmet to colour it 
 Learn how to combine a Dark Claw with your Slayer helmet to colour it purple.	だーくつめをあくまたいじゃかぶとであわせてむらさきくするかたをまなぶ	manual	slayer_reward	
 Increase the risk against certain Slayer monsters with the chance of a superior version spawning whilst on a Slayer task.	あくまたいじゃたすくちゅうにくうりょくばんそうがあらわれるきけんをたかめる	manual	slayer_reward	
 Whenever you get a Scabarite task, it will be a bigger task.	すかばらいとたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Mithril Dragons drop mithril bars in banknote form while killed on assignment.	みすりるりゅうはあたえられたたすくでこらすときみすりるぼうをかせんぎりょとしておとす	manual	slayer_reward	
+Mithril Dragons drop mithril bars in banknote form while killed on assignment.	ミスリルりゅうはあたえられたたすくでこらすときミスリルぼうをかせんぎりょとしておとす	manual	slayer_reward	
 Whenever you get a Fossil Island Wyvern task, it will be a bigger task.	かせきしまりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Whenever you get an Adamant Dragon task, it will be a bigger task.	あだまんとりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Whenever you get a Rune Dragon task, it will be a bigger task.	るーんりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Whenever you get an Adamant Dragon task, it will be a bigger task.	アダマントりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Whenever you get a Rune Dragon task, it will be a bigger task.	ルーンりゅうたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Learn how to combine Vorkath's head with your Slayer helmet to colour it turquoise.	ぼるかすあたまをあくまたいじゃかぶとであわせてみずいろくするかたをまなぶ	manual	slayer_reward	
 Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit.	ふさがったたすくげんすうにかぞえずにかせきしまりゅうたすくがでなくなる	manual	slayer_reward	
 Slaying Dusk and Dawn now counts for two kills towards your task rather than one.	たそがれとあかつきをころすとひとつのたすくとしてふたつのこらすぶんかぞえられる	manual	slayer_reward	
@@ -2376,8 +2376,8 @@ Learn how to combine a Hydra head with your Slayer helmet to theme it like the A
 Whenever you get a Basilisk task, it will be a bigger task.	ばしりすくたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
 Konar, Duradel and Nieve will be able to assign Basilisks as your task.	こなるでゅらでるにえぶがばしりすくたすくをあたえられるようになる	manual	slayer_reward	
 Learn how to combine Twisted Horns with your Slayer helmet to theme it like the Great Olm.	ねじれたつのをあくまたいじゃかぶとであわせてだいおおむのてーむにするかたをまなぶ	manual	slayer_reward	
-Whenever you get a Vampyre task, it will be a bigger task.	ばんぱいあたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
-Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.	こなるでゅらでるにえぶかえるだーがばんぱいあたすくをあたえられるようになる	manual	slayer_reward	
+Whenever you get a Vampyre task, it will be a bigger task.	バンパイアたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
+Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.	こなるでゅらでるにえぶかえるだーがバンパイアたすくをあたえられるようになる	manual	slayer_reward	
 Gain the ability to store your task, allowing you to take it at a later point in time.	あとであたえられるたすくをたいせいすることができるようになる	manual	slayer_reward	
 Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task.	くりすてぃりあがぜりーちりあくまねくりあえるくうこくあくまたすくをあたえられるようになる	manual	slayer_reward	
 Whenever you get a Revenants task, it will be a bigger task.	よみがえりもんたすくをもらうときはもっともおおきいたすくになる	manual	slayer_reward	
@@ -2390,10 +2390,10 @@ Ardougne easy	あーどおうぐねやさしい	manual	task
 Ardougne medium	あーどおうぐねふつう	manual	task	
 Ardougne hard	あーどおうぐねむずかしい	manual	task	
 Ardougne elite	あーどおうぐねえりーと	manual	task	
-Falador easy	ふぁらどーるやさしい	manual	task	
-Falador medium	ふぁらどーるふつう	manual	task	
-Falador hard	ふぁらどーるむずかしい	manual	task	
-Falador elite	ふぁらどーるえりーと	manual	task	
+Falador easy	ファラドーるやさしい	manual	task	
+Falador medium	ファラドーるふつう	manual	task	
+Falador hard	ファラドーるむずかしい	manual	task	
+Falador elite	ファラドーるえりーと	manual	task	
 Fremennik easy	ふれめんにくやさしい	manual	task	
 Fremennik medium	ふれめんにくふつう	manual	task	
 Fremennik hard	ふれめんにくむずかしい	manual	task	
@@ -2414,10 +2414,10 @@ Morytania easy	もりたにあやさしい	manual	task
 Morytania medium	もりたにあふつう	manual	task	
 Morytania hard	もりたにあむずかしい	manual	task	
 Morytania elite	もりたにあえりーと	manual	task	
-Varrock easy	ばろっくやさしい	manual	task	
-Varrock medium	ばろっくふつう	manual	task	
-Varrock hard	ばろっくむずかしい	manual	task	
-Varrock elite	ばろっくえりーと	manual	task	
+Varrock easy	バロックやさしい	manual	task	
+Varrock medium	バロックふつう	manual	task	
+Varrock hard	バロックむずかしい	manual	task	
+Varrock elite	バロックえりーと	manual	task	
 Wilderness easy	もうれっぱいやさしい	manual	task	
 Wilderness medium	もうれっぱいふつう	manual	task	
 Wilderness hard	もうれっぱいむずかしい	manual	task	
@@ -2461,8 +2461,8 @@ Discover knowledge about King Lathas and his ancestors.	おうらせすとその
 Provide information about the River Salve.	さるべがわについてのじょうほうをさしだす	manual	varrock_museum	
 Uncover further information about the River Salve.	さるべがわについてもっともじょうほうをあきらかにする	manual	varrock_museum	
 Delve into the story of the Carnillean family.	かるにれあんかぞくのものがたりをぼうえきする	manual	varrock_museum	
-Find out about the cult of chaos mages near Varrock.	ばろっくちかくのかおすようしゃきょうかくについてわかる	manual	varrock_museum	
-Uncover the secrets of runecrafting.	るーんくらふてぃんぐのひみつをあきらかにする	manual	varrock_museum	
+Find out about the cult of chaos mages near Varrock.	バロックちかくのかおすようしゃきょうかくについてわかる	manual	varrock_museum	
+Uncover the secrets of runecrafting.	ルーンくらふてぃんぐのひみつをあきらかにする	manual	varrock_museum	
 Discover the secrets of the Shield of Arrav.	あらぶのたてのひみつをはっけんする	manual	varrock_museum	
 Build the mermaid display.	にんぎょてんじをたてる	manual	varrock_museum	
 Build the pufferfish display.	ふぐてんじをたてる	manual	varrock_museum	
@@ -2508,7 +2508,7 @@ Fossil Island Displays	かせきしまてんじ	manual	varrock_museum
 Camdozaal Relics	かむどざーるいせききねんひん	manual	varrock_museum	
 Clean finds from the Digsite on the tables in the museum and place them in their cases.	はくぶつかんの　てーぶるでくっせきちはっけんぶつをきれいにしてけーすにいれる	manual	varrock_museum	
 Examine the displays in the Natural History section of the museum and answer Orlando Smith's quiz.	はくぶつかんの　しぜんれきしぶぶんのてんじをよく　ごらんになっておーらんどすみすのくいずにこたえる	manual	varrock_museum	
-Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.	くえすとやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう	manual	varrock_museum	
+Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.	クエストやたのかつどうをりょうしてぎりのーるのあちこちからじょうほうをあつめてぎじゅつしゃみなすと　はなしあう	manual	varrock_museum	
 Discover fossils on fossil island to complete the displays on the bottom floor of the museum.	かせきしまでかせきをさがしてはくぶつかんの　かじょうのてんじをせいせいする	manual	varrock_museum	
 Crush Barronite deposits in the ruins of Camdozaal to find relics and hand them in to the curator.	かむどざーるいせきで　ばろないとこうせきをつぶしてきねんひんをみつけてかんりしゃにさしだす	manual	varrock_museum	
 MQ: Alfred Grimhand's Barcrawl	アルフレッド・グイムハンドのバーじゅんり	manual	quest	

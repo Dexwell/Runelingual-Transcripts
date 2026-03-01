@@ -67,7 +67,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Agility</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108090">
         <xliff:source>You can now use a Kourend Catacombs Agility shortcut.</xliff:source>
-        <xliff:target state="translated">クレンドカタコムスのアジリティショートカットがつかえるようになりました。</xliff:target>
+        <xliff:target state="translated">クレンドカたこムスのアジリティショートカットがつかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Agility
 source: Agility level up messages
@@ -123,7 +123,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Agility</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108097">
         <xliff:source>You can now use the Kourent Catacombs pillar jump Agility shortcut.</xliff:source>
-        <xliff:target state="translated">クレンドカタコムスのはしらとびアジリティショートカットがつかえるようになりました。</xliff:target>
+        <xliff:target state="translated">クレンドカたこムスのはしらとびアジリティショートカットがつかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Agility
 source: Agility level up messages
@@ -171,7 +171,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Agility</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108103">
         <xliff:source>You can now use the pipe contortion in Karamja Dungeon and a Kourend Catacombs Agility shortcut.</xliff:source>
-        <xliff:target state="translated">カラムジャダンジョンのパイプのたいせつとクレンドカタコムスのアジリティショートカットがつかえるようになりました。</xliff:target>
+        <xliff:target state="translated">カラムジャダンジョンのパイプのたいせつとクレンドカたこムスのアジリティショートカットがつかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Agility
 source: Agility level up messages
@@ -219,7 +219,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Agility</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108109">
         <xliff:source>You can now use the Canifis course, pass high level Agility Arena obstacles and use the Hosidius lake isle jump Agility shortcut.</xliff:source>
-        <xliff:target state="translated">カニフィスコース、こうレベルのアジリティアリーナのしょうがいをのりこえて、ホシディウスこみずしまとびショートカットがつかえるようになりました。</xliff:target>
+        <xliff:target state="translated">かにフィスコース、こうレベルのアジリティアリーナのしょうがいをのりこえて、ホシディウスこみずしまとびショートカットがつかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Agility
 source: Agility level up messages
@@ -387,7 +387,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Agility</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108130">
         <xliff:source>You can now use the Taverley dungeon lesser demon fence Agility shortcut and the Darkmeyer wall shortcut.</xliff:source>
-        <xliff:target state="translated">タバリーダンジョンのおにさくアジリティショートカットとダークマイヤーのかべショートカットがつかえるようになりました。</xliff:target>
+        <xliff:target state="translated">タバリーダンジョンのおにさくアジリティショートカットとダーくまイヤーのかべショートカットがつかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Agility
 source: Agility level up messages
@@ -731,7 +731,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Attack</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108173">
         <xliff:source>Members can now wield Godswords, the Blessed Saradomin Sword, Abyssal Tentacle, Staff of the Dead, Staff of Light, Staff of Balance, Dinh's Bulwark, Arclight, Vesta's blighted longsword and the Voidwaker!</xliff:source>
-        <xliff:target state="translated">メンバーはゴッドのけん、しゅくふくされたサラドミンのけん、あびすしょくしゅ、しのつえ、ひかりのつえ、ちょうわのつえ、ディンスのぼうがい、あーくらいと、ベスタののろわれたながもの、ボイドウェイカーがえられるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはゴッドのけん、しゅくふくされたサラドミンのけん、あびすしょくしゅ、しのつえ、ひかりのつえ、ちょうわのつえ、ディンスのぼうがい、あーくらいと、ベスタののろわれたながもの、ボイドウェいかーがえられるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Attack
 source: Attack level up messages
@@ -1179,7 +1179,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Construction</xliff:note
       </xliff:trans-unit>
       <xliff:trans-unit id="108229">
         <xliff:source>You can now build: Mahogany prize chest, Extra weapons rack, Dartboard, Elemental sphere, Oak cape rack</xliff:source>
-        <xliff:target state="translated">つくれるようになりました：マホガニーゆしょうはこ、ぐたいぶきラック、ダーツばん、ようそしんたい、オークマントラック</xliff:target>
+        <xliff:target state="translated">つくれるようになりました：マホガニーゆしょうはこ、ぐたいぶきラック、ダーツばん、ようそしんたい、オーくまントラック</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Construction
 source: Construction level up messages
@@ -1251,7 +1251,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Construction</xliff:note
       </xliff:trans-unit>
       <xliff:trans-unit id="108238">
         <xliff:source>You can now build: Marble fireplace, Teak wardrobe (bedroom), Astronomical chart, Stone wall, Teak cape rack, Simple pet arena</xliff:source>
-        <xliff:target state="translated">つくれるようになりました：だいりせきのろばだ、チークのいふく（ねやすみか）、てんもんちゃーと、せきのかべ、チークマントラック、かんたんペットアリーナ</xliff:target>
+        <xliff:target state="translated">つくれるようになりました：だいりせきのろばだ、チークのいふく（ねやすみか）、てんもんちゃーと、せきのかべ、チーくまントラック、かんたんペットアリーナ</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Construction
 source: Construction level up messages
@@ -1315,7 +1315,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Construction</xliff:note
       </xliff:trans-unit>
       <xliff:trans-unit id="108246">
         <xliff:source>You can now build: Ranging pedestals, Small fountain, Picket fence, Daffodils, Marigolds, Icon of Bob the Cat, Tentacle pool</xliff:source>
-        <xliff:target state="translated">つくれるようになりました：ひょうてきだい、ちいさいふんすい、ういきのさく、ラッパズイセン、キンセンカ、ネコのボブのあいこん、しょくしゅいけ</xliff:target>
+        <xliff:target state="translated">つくれるようになりました：ひょうてきだい、ちいさいふんすい、ういきのさく、ラッパズイセン、キンセンカ、ねこのボブのあいこん、しょくしゅいけ</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Construction
 source: Construction level up messages
@@ -1611,7 +1611,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108283">
         <xliff:source>Members can now brew cider and make worm crunchies.</xliff:source>
-        <xliff:target state="translated">メンバーはシードルをかもし、ミミズバリバリがつくれるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはシードルをかもし、ミみずバリバリがつくれるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -1627,7 +1627,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108285">
         <xliff:source>Members can now spit roast rabbit meat, cook jungle spiders and make chocolate chip crunchies.</xliff:source>
-        <xliff:target state="translated">メンバーはやいたウサギにくとジャングルクモをりょうりして、チョコレートチップバリバリがつくれるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはやいたうさぎにくとジャングルクモをりょうりして、チョコレートチップバリバリがつくれるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -1699,7 +1699,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108294">
         <xliff:source>You can now cook stews and salmon. Members may also create fruit battas.</xliff:source>
-        <xliff:target state="translated">シチューとサケがりょうりできるようになりました。メンバーはフルーツバッタがつくれます。</xliff:target>
+        <xliff:target state="translated">シチューとさけがりょうりできるようになりました。メンバーはフルーツバッタがつくれます。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -1707,7 +1707,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108295">
         <xliff:source>Members can now cook worm battas.</xliff:source>
-        <xliff:target state="translated">メンバーはミミズバッタがりょうりできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはミみずバッタがりょうりできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -1731,7 +1731,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108298">
         <xliff:source>You can now cook apple pies and tuna. Members can now cook worm holes, Leckish fish and Giral bats, and spit roast chompy bird.</xliff:source>
-        <xliff:target state="translated">りんごパイとマグロがりょうりできるようになりました。メンバーはミミズあなとレックフィッシュとギラルコウモリがりょうりできて、やいたチョンピーバードができるようになりました。</xliff:target>
+        <xliff:target state="translated">りんごパイとまぐろがりょうりできるようになりました。メンバーはミみずあなとレックフィッシュとギラルコウモリがりょうりできて、やいたチョンピーバードができるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -1987,7 +1987,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108330">
         <xliff:source>Members can now make tuna and sweetcorn.</xliff:source>
-        <xliff:target state="translated">メンバーはマグロととうもろこしがつくれるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはまぐろととうもろこしがつくれるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -1995,7 +1995,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108331">
         <xliff:source>Members can now make baked potatoes with tuna and sweetcorn.</xliff:source>
-        <xliff:target state="translated">メンバーはマグロととうもろこしがけたやいたじゃがいもがつくれるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはまぐろととうもろこしがけたやいたじゃがいもがつくれるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -2067,7 +2067,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Cooking</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108340">
         <xliff:source>Members can now cook dark crabs, Kyren fish and Psykk bats.</xliff:source>
-        <xliff:target state="translated">メンバーはくろいカニ、キレンフィッシュ、プシックコウモリがりょうりできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはくろいかに、キレンフィッシュ、プシックコウモリがりょうりできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Cooking
 source: Cooking level up messages
@@ -2195,7 +2195,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108356">
         <xliff:source>Members can now make snail shell helmets (snelms), crab shell armour and oak birdhouses.</xliff:source>
-        <xliff:target state="translated">メンバーはカタツムリのからかぶと（スネルム）、カニのからよろい、オークのとりのいえがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはカタツムリのからかぶと（スネルム）、かにのからよろい、オークのとりのいえがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2363,7 +2363,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108377">
         <xliff:source>Members can now craft rabbit-foot necklaces.</xliff:source>
-        <xliff:target state="translated">メンバーはウサギのあしのくびかざりがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはうさぎのあしのくびかざりがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2419,7 +2419,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108384">
         <xliff:source>Members can now craft snakeskin boots, red topaz amulets and maple birdhouses.</xliff:source>
-        <xliff:target state="translated">メンバーはヘビのかわぶーつ、あかいトパーズのおまじない、カエデのとりのいえがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはへびのかわぶーつ、あかいトパーズのおまじない、カエデのとりのいえがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2435,7 +2435,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108386">
         <xliff:source>Members can now craft snakeskin vambraces.</xliff:source>
-        <xliff:target state="translated">メンバーはヘビのかわうでよろいがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはへびのかわうでよろいがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2443,7 +2443,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108387">
         <xliff:source>Members can now craft snakeskin bandanas.</xliff:source>
-        <xliff:target state="translated">メンバーはヘビのかわずきん、くふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはへびのかわずきん、くふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2467,7 +2467,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108390">
         <xliff:source>Members can now craft snakeskin chaps.</xliff:source>
-        <xliff:target state="translated">メンバーはヘビのかわももかぶりがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはへびのかわももかぶりがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2475,7 +2475,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108391">
         <xliff:source>Members can now craft serpentine helms.</xliff:source>
-        <xliff:target state="translated">メンバーはヘビのようかぶとがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはへびのようかぶとがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2483,7 +2483,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108392">
         <xliff:source>Members can now craft snakeskin body armour.</xliff:source>
-        <xliff:target state="translated">メンバーはヘビのかわよろいがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはへびのかわよろいがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2507,7 +2507,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Crafting</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108395">
         <xliff:source>You can now craft diamond necklaces,snakeskin shields and colossal pouches.</xliff:source>
-        <xliff:target state="translated">ダイヤのくびかざり、ヘビのかわたて、だいだいぶくろがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">ダイヤのくびかざり、へびのかわたて、だいだいぶくろがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Crafting
 source: Crafting level up messages
@@ -2819,7 +2819,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Defence</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108434">
         <xliff:source>Members can now wear frog-leather armour.'</xliff:source>
-        <xliff:target state="translated">メンバーはカエルのかわのよろいがきられるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはかえるのかわのよろいがきられるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Defence
 source: Defence level up messages
@@ -2923,7 +2923,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Farming</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108447">
         <xliff:source>You can now grow Barley.</xliff:source>
-        <xliff:target state="translated">オオムギがうえられるようになりました。</xliff:target>
+        <xliff:target state="translated">オオむぎがうえられるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Farming
 source: Farming level up messages
@@ -3755,7 +3755,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Fishing</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108551">
         <xliff:source>You can now try fly fishing for salmon. Members can catch Leckish fish.</xliff:source>
-        <xliff:target state="translated">サケのはえつりがためせるようになりました。メンバーはレックフィッシュがつかまえられます。</xliff:target>
+        <xliff:target state="translated">さけのはえつりがためせるようになりました。メンバーはレックフィッシュがつかまえられます。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Fishing
 source: Fishing level up messages
@@ -3763,7 +3763,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Fishing</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108552">
         <xliff:source>You can now try fishing for tetra. Members can now try to net giant frogspawn.</xliff:source>
-        <xliff:target state="translated">テトラつりをためせるようになりました。メンバーはだいだいカエルのしぶきをあみですくえるようになりました。</xliff:target>
+        <xliff:target state="translated">テトラつりをためせるようになりました。メンバーはだいだいかえるのしぶきをあみですくえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Fishing
 source: Fishing level up messages
@@ -3779,7 +3779,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Fishing</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108554">
         <xliff:source>You can now try harpooning tuna. Members can now fight the Tempoross.</xliff:source>
-        <xliff:target state="translated">マグロをもりでついたたかえるようになりました。メンバーはテンポロスとたたかえるようになりました。</xliff:target>
+        <xliff:target state="translated">まぐろをもりでついたたかえるようになりました。メンバーはテンポロスとたたかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Fishing
 source: Fishing level up messages
@@ -3867,7 +3867,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Fishing</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108565">
         <xliff:source>Members can now try fishing for leaping salmon.</xliff:source>
-        <xliff:target state="translated">メンバーはとびあがるサケつりがためせるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはとびあがるさけつりがためせるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Fishing
 source: Fishing level up messages
@@ -3995,7 +3995,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Fishing</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108581">
         <xliff:source>Members can now catch Dark Crabs in the Wilderness.</xliff:source>
-        <xliff:target state="translated">メンバーはウィルダネスでくろいカニがつかまえられるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはウィルダネスでくろいかにがつかまえられるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Fishing
 source: Fishing level up messages
@@ -4555,7 +4555,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Fletching</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108651">
         <xliff:source>You can now make attack potions. You can now clean guam leaf, snake weed and rogues purse.</xliff:source>
-        <xliff:target state="translated">こうげきやくがつくれるようになりました。グアムのは、ヘビクサ、どろぼうのさいふがきれいにできるようになりました。</xliff:target>
+        <xliff:target state="translated">こうげきやくがつくれるようになりました。グアムのは、へびクサ、どろぼうのさいふがきれいにできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Herblore
 source: Herblore level up messages
@@ -5283,7 +5283,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Hunter</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108742">
         <xliff:source>You can now trap ferrets and catch rabbits.</xliff:source>
-        <xliff:target state="translated">イタチがつかまえられて、ウサギがつかまえられるようになりました。</xliff:target>
+        <xliff:target state="translated">イタチがつかまえられて、うさぎがつかまえられるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Hunter
 source: Hunter level up messages
@@ -7003,7 +7003,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Mining</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108957">
         <xliff:source>Members can now mine Te Salt, Efh Salt, Urt Salt, and Basalt.</xliff:source>
-        <xliff:target state="translated">メンバーはテしお、エフしお、ウルトしお、げんぶがんがさいくつできるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはてしお、えふしお、うるとしお、げんぶがんがさいくつできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Mining
 source: Mining level up messages
@@ -7291,7 +7291,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Ranged</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108993">
         <xliff:source>Members can now wear frog-leather armour.</xliff:source>
-        <xliff:target state="translated">メンバーはカエルのかわのよろいがきられるようになりました。</xliff:target>
+        <xliff:target state="translated">メンバーはかえるのかわのよろいがきられるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Ranged
 source: Ranged level up messages
@@ -7315,7 +7315,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Ranged</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="108996">
         <xliff:source>You can now wield maple bows. Members can use adamant throwing weapons, the ogre composite bow and snakeskin armour.</xliff:source>
-        <xliff:target state="translated">カエデのゆみがえられるようになりました。メンバーはアダマントのなげぶき、オーガーあわせゆみ、ヘビのかわのよろいがつかえるようになりました。</xliff:target>
+        <xliff:target state="translated">カエデのゆみがえられるようになりました。メンバーはアダマントのなげぶき、オーガーあわせゆみ、へびのかわのよろいがつかえるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Ranged
 source: Ranged level up messages
@@ -7811,7 +7811,7 @@ wiki_url: https://oldschool.runescape.wiki/w/Transcript:Runecraft</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109058">
         <xliff:source>You can now craft diamond necklaces,snakeskin shields and colossal pouches.</xliff:source>
-        <xliff:target state="translated">ダイヤのくびかざり、ヘビのかわたて、だいだいぶくろがくふうできるようになりました。</xliff:target>
+        <xliff:target state="translated">ダイヤのくびかざり、へびのかわたて、だいだいぶくろがくふうできるようになりました。</xliff:target>
         <xliff:note>category: lvl_up_msg
 sub_category: Runecraft
 source: Runecraft level up messages

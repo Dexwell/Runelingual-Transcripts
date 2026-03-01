@@ -311,7 +311,7 @@ Freshly shorn.	あたらしく、かった。	examine	npc	Golden sheep
 Lovely thick wool.	いい、あつ、けですね。	examine	npc	Golden sheep
 A powerful spirit that lives in this lake.	このみずうみにすんでいる、つよいせいれい。	examine	npc	Fossegrimen
 Looks like he's had a few drinks already.	かれはもうすこしのんでいるみたいだ。	examine	npc	Ospak
-Doesn't look like the musical type.	おんがくのたいプではないみたいだ。	examine	npc	Styrmir
+Doesn't look like the musical type.	おんがくのたいぷではないみたいだ。	examine	npc	Styrmir
 Waiting for the show.	しょうを、まっている。	examine	npc	Torbrund
 A music lover?	おんがく、すき？	examine	npc	Fridgeir
 He's fat, he's round, he bounces on the ground. That's how he got the job.	あいつはぶとい、そしてまるい、じめんではねている。だからしごとをもらった。	examine	npc	Longhall Bouncer
@@ -574,7 +574,7 @@ The Dwarven armoury engineer.	こびと、ぶき、ぎし。	examine	npc	Nulodio
 A dwarven worker.	こびと、ろうどうしゃ。	examine	npc	Dwarf
 A member of the Black Guard, a special division of the dwarven army.	くろいガード、こびとぐんのとくべつなぶたいのメンバー。	examine	npc	Black Guard
 He looks busy.	あいつはいそがしそうだ。	examine	npc	Engineering assistant
-He's wandering around aimlessly with a box of spare parts.	あいつははんぷへんなはこをもちって、さまよっている。	examine	npc	Engineering assistant
+He's wandering around aimlessly with a box of spare parts.	あいつははんぷへんなはこをもって、さまよっている。	examine	npc	Engineering assistant
 He's building a cannon.	たいほうを、つくっている。	examine	npc	Engineer
 Bushy tail!	ふさふさ、しっぽ。	examine	npc	Squirrel
 Likes nuts.	ぎがすき。	examine	npc	Squirrel
@@ -611,7 +611,7 @@ An elven seamstress.	エルフ、ぬいし。	examine	npc	Oronwen
 He can look after my money.	かれはわたしのおきんをみておくことができる。	examine	npc	Banker
 She can look after my money.	かのじょはわたしのおきんをみておくことができる。	examine	npc	Banker
 Buys and sells bows.	ゆみをかいったりうりったりしている。	examine	npc	Dalldav
-Looks like he knows his way around a kitchen.	かれはだいどころをよくしりっているみたいだ。	examine	npc	Gethin
+Looks like he knows his way around a kitchen.	かれはだいどころをよくしっているみたいだ。	examine	npc	Gethin
 He looks a bit worse for wear, but he seems cheerful enough.	あいつはちょっときているのがわるいけど、そこそこげんきそうだ。	examine	npc	Nickolaus
 He looks like an eagle with no fashion sense.	あいつはおしゃれがないわしみたいだ。	examine	npc	Nickolaus
 A very large, very dangerous, very sandy-looking birdy.	とてもだいきい、とてもあぶない、とてもすなのようなとり。	examine	npc	Desert eagle
@@ -621,10 +621,10 @@ It seems to be protecting the nest.	それはすをまもりっているよう�
 A little bigger than usual...	いつもより、ちょっと、おおきい。	examine	npc	Kebbit
 One of the zookeepers; enjoys locking up animals in small pens.	どうぶつえんのかいそだかかりのひとり、しょうさいおりにどうぶつをいりれるのがすき。	examine	npc	Charlie
 Now, who put that there? It's too suspicious and round to be natural.	さて、だれがそれをここにおきいたのか？しぜんにしてはうたがわしすぎて、まるい。	examine	npc	Boulder
-He acts as if he owns the place.	あいつはここをもちっているようにふるまっている。	examine	npc	Aleck
+He acts as if he owns the place.	あいつはここをもっているようにふるまっている。	examine	npc	Aleck
 He seems to be making odd sucking noises with his teeth.	あいつははできみょうなすうおとをでしているようだ。	examine	npc	Leon
 He must be good at hunting; even his hair blends in with the surroundings.	あいつはかりがじょうずにちがいない、かみさえもまわりにあわせう。	examine	npc	Hunting expert
-With all the furs, I almost mistook her for a wild animal.	すべてのけがわで、かのじょをほぼやせいどうぶつだとおもいった。	examine	npc	Hunting expert
+With all the furs, I almost mistook her for a wild animal.	すべてのけがわで、かのじょをほぼやせいどうぶつだとおもった。	examine	npc	Hunting expert
 Wild.	あばれもの。	examine	npc	Ferret
 An opponent from the grave. He seems unimpressed by your bone rummaging.	はからのたいて。あなたのほねさがしにかんめいをうけていないようだ。	examine	npc	Skeleton hero
 An ex-barbarian, willing to make you ex too.	もとバーバリアン、あなたももとにすることをいとわない。	examine	npc	Skeleton brute
@@ -697,7 +697,7 @@ He's making a run for it!	あいつはにげている！	examine	npc	Penance Run
 A nasty piece of work.	いやなしごと。	examine	npc	Penance Healer
 Wonder how long he's been here...	どのくらい、ここに、いたんだろう。	examine	npc	Strange Old Man
 A vengeful spirit corrupted by dark magic.	ふくしゅうのせいしんはあんいまほうではかいされる。	examine	npc	Ahrim the Blighted
-I think I should keep my distance...	わたしはきょりをほつべきだとおもいう...	examine	npc	Bloodworm
+I think I should keep my distance...	わたしはきょりをほつべきだとおもう...	examine	npc	Bloodworm
 A nasty little rodent.	いやな、ちいさい、げっし。	examine	npc	Crypt rat
 A nasty overgrown rodent.	いやな、おおきくなった、げっし。	examine	npc	Giant crypt rat
 Incey wincey.	ちいさい、ちいさい。	examine	npc	Crypt spider
@@ -718,7 +718,7 @@ He's playing both sides!	りょうほう、やっている。	examine	npc	Double
 Who's your mummy?	あなたのミイラはだれ？	examine	npc	Guardian mummy
 Somehow he's managing to look angry.	どういうわけか、あいつはいかりっているようにみえる。	examine	npc	Annoyed guardian mummy
 That's a strange hat for a local.	じもとのひとにはきみょうなぼうしだ。	examine	npc	Tarik
-I think they're some kind of beetle.	かれらはなにしゅるいかのこうむしだとおもいう。	examine	npc	Scarab Swarm
+I think they're some kind of beetle.	かれらはなにしゅるいかのこうむしだとおもう。	examine	npc	Scarab Swarm
 A master of necromancy!	ししゃまほうのマスター！	examine	npc	Malignius Mortifer
 Rattle dem bones.	ほね、がたがた。	examine	npc	Skeleton
 WoooOOOOoooo!	うぅぅぅぅぅぅぅ。	examine	npc	Ghost
@@ -727,7 +727,7 @@ She seems like a nice sort of person.	かのじょはいいひとみたいだ。
 Loves his gold!	かれはきんがだいすき！	examine	npc	Grum
 An expert on fishing.	つりのエキスパート。	examine	npc	Gerrant
 Likes his food to be kept fresh.	かれはしょくべものをしんせんにほつのがすき。	examine	npc	Wydin
-They'll eat anything!	かれらはなんでもしょくべる！	examine	npc	Goat
+They'll eat anything!	かれらはなんでもたべる！	examine	npc	Goat
 Shiny armour!	ぴかぴか、よろい。	examine	npc	White Knight
 A White Knight proselyte.	しろいナイトのかいしゅうしゃ。	examine	npc	White Knight
 A White Knight acolyte.	しろいナイトのさむらいもの。	examine	npc	White Knight
@@ -735,7 +735,7 @@ A summer elemental.	なつ、げんそ。	examine	npc	Summer Elemental
 Antisocial.	ひとづきあい、きらい。	examine	npc	Sorceress
 Come, old broomstick, you are needed.	きい、ふるいほうきよ、あなたはひつようとされている。	examine	npc	Apprentice
 He looks a little shifty.	あいつはちょっといかがわしくみえる。	examine	npc	Osman
-Loves living in an orchard.	はじゅえんにすみむのがだいすき。	examine	npc	Del-Monty
+Loves living in an orchard.	はじゅえんにすむのがだいすき。	examine	npc	Del-Monty
 A pirate from the lands to the east.	ひがしのとちからのかいぞく。	examine	npc	San Fan
 A very flamboyant pirate.	とてもはてなかいぞく。	examine	npc	Fancy Dan
 I can't wait to buy from a guy with Honest in his name...	かれのなまえにはっきりがあるひとからかいうのがまちてない...	examine	npc	Honest Jimmy
@@ -805,7 +805,7 @@ With a hop and a skip.	ぴょんぴょんとひとっとびで。	examine	npc	Sc
 Delightfully cheerful.	たのしく、ようき。	examine	npc	Schoolgirl
 Looks intent on learning.	まなびぶことにねつこころそうにみえる。	examine	npc	Schoolgirl
 Ahh, the youth of today.	あ、きょうのわかもの。	examine	npc	Schoolgirl
-Looks kind of familiar.	なにとなくしりっているみたいにみえる。	examine	npc	Schoolboy
+Looks kind of familiar.	なにとなくしっているみたいにみえる。	examine	npc	Schoolboy
 Cheeky little chappy.	いたずら、ちいさい、やつ。	examine	npc	Schoolboy
 Cute pigtails.	かわいい、おさげ。	examine	npc	Schoolgirl
 A teacher and one of her pupils.	せんせいとかのじょのでしのひとり。	examine	npc	Teacher and pupil
@@ -825,7 +825,7 @@ A guy that will sell you armour.	あなたにぼうぐをうりってくれる�
 Jatizso's armour merchant.	ジャティズソー、よろい、あきんど。	examine	npc	Skuli Myrka
 A rough-looking chef.	あらい、ようすの、りょうりし。	examine	npc	Keepa Kettilon
 A guard on insult duty.	ぶじょくあたりばんのガード。	examine	npc	Guard
-Stands around and insults stuff all day.	いちにちちゅう、たてって、ものにぶじょくをいいう。	examine	npc	Guard
+Stands around and insults stuff all day.	いちにちちゅう、たてって、ものにぶじょくをいう。	examine	npc	Guard
 One of King Sorvott's militia.	ソルボットおうのたみへいのひとり。	examine	npc	Guard
 One of Jatizso's many citizens.	ジャティズソーのおおいくのしみんのひとり。	examine	npc	Freygerd
 A happy, friendly landlady.	さちせで、ともすきてきないえぬし。	examine	npc	Vanligga Gastfrihet
@@ -846,9 +846,9 @@ He has volunteered to be a sacrifice to Zulrah.	かれはズルラへのなま�
 The tribe's eel-catcher.	ぞく、うなぎ、とる。	examine	npc	Zul-Onan
 He served King Tyras before he found a new master.	かれはしんしいぬしひとをみつけるまえに、キング・タイラスにしえた。	examine	npc	Zul-Aniel
 He's set up a telescope pointing deep into the swamp.	てんてきえんきょう、ぬま、ふかい、むき、すえた。	examine	npc	Broken Handz
-The green hooded serpent of the poison waste.	どくのゴミのみどりのフードのヘビ。	examine	npc	Zulrah
-The crimson hooded serpent of the poison waste.	どくのゴミのしんくのフードのヘビ。	examine	npc	Zulrah
-The turquoise hooded serpent of the poison waste.	どくのゴミのターコイズのフードのヘビ。	examine	npc	Zulrah
+The green hooded serpent of the poison waste.	どくのゴミのみどりのフードのへび。	examine	npc	Zulrah
+The crimson hooded serpent of the poison waste.	どくのゴミのしんくのフードのへび。	examine	npc	Zulrah
+The turquoise hooded serpent of the poison waste.	どくのゴミのターコイズのフードのへび。	examine	npc	Zulrah
 Spawn of Zulrah.	ズルラのこども。	examine	npc	Snakeling
 His motives are see-through.	かれのうごきはとうきとおりっている。	examine	npc	Fritz the Glassblower
 pUre A cHaOs of crEatuRe!	ぴゅあなアー、こんらんのいきもの！	examine	npc	Chaos Elemental
@@ -856,13 +856,13 @@ D'aw look at the liddle...	かわいいしょうさい...	examine	npc	Chaos Elem
 I'm sure the briefcase's contents is strictly for personal use.	ブリーフケースのないようはこじんてきなしようのためだとたしかしんしている。	examine	npc	Dodgy Squire
 A jungle version of the chicken, but more vicious.	にわとりのジャングルばん、でも、もっときょうぼう。	examine	npc	Oomlie bird
 A giant raptor.	きょだい、たかだ。	examine	npc	Terrorbird
-These gnomes know how to get around!	これらのノームは、どのようにうごきかいるかをしりっている！	examine	npc	Mounted terrorbird gnome
+These gnomes know how to get around!	これらのノームは、どのようにうごきかいるかをしっている！	examine	npc	Mounted terrorbird gnome
 A farmer's enemy.	のうみんのてき。	examine	npc	Crow
 A very large elemental adversary.	とてもだいきいエレメンタルのてき。	examine	npc	Fire giant
 He's got icicles in his beard.	かれのひげにこおりはしらがある。	examine	npc	Ice giant
-His beard seems to have a life of its own.	かれのひげはどくりつしたじんせいをもちっているようだ。	examine	npc	Moss giant
+His beard seems to have a life of its own.	かれのひげはどくりつしたじんせいをもっているようだ。	examine	npc	Moss giant
 An aggressive humanoid.	こうげきてき、にんけい。	examine	npc	Jogre
-A one-eyed man eater.	かためのにんげんをしょくべるもの。	examine	npc	Cyclops
+A one-eyed man eater.	かためのにんげんをたべるもの。	examine	npc	Cyclops
 A very large foe.	とてもだいきいてき。	examine	npc	Hill Giant
 Ugly, fierce and with a bad attitude.	みにくい、げきしく、あくいたいどで。	examine	npc	Ork
 A venerable and rich sage.	そんけいされる、ゆたかなけんじゃ。	examine	npc	Wise Old Man
@@ -873,10 +873,10 @@ A busy-body who loves a bit of gossip.	おおいいそがしいで、すこし�
 He guards the Draynor Market stalls from thieves.	かれはドレイノアしじょうのやだいをぬすみひとからまもりる。	examine	npc	Market Guard
 He's guarding the bank.	ぎんこう、まもっている。	examine	npc	Bank guard
 It's a badger.	あなぐまだ。	examine	npc	Badger
-A slithering serpent spawn of Zulrah.	するするしたヘビ、ズルラのこども。	examine	npc	Snakeling
+A slithering serpent spawn of Zulrah.	するするしたへび、ズルラのこども。	examine	npc	Snakeling
 Kamfreena's apprentice.	カムフリーナ、でし。	examine	npc	Lorelai
 A one-eyed cutie.	ひとつめ、かわいい。	examine	npc	Rory
-A one-eyed woman eater.	かためのじょせいをしょくべるもの。	examine	npc	Cyclops
+A one-eyed woman eater.	かためのじょせいをたべるもの。	examine	npc	Cyclops
 Good thing there's no such thing as Sarachnophobia.	クモきょうこわいしょうなんて、ないからいいことだ。	examine	npc	Sraracha
 A fallen worshiper of a forgotten religion.	わすれられたしゅうきょうのおちたしんほうじゃ。	examine	npc	Undead Druid
 He can set up offers on the Exchange for you.	かれはあなたのためのとりひきところでもうしでをセットアップできる。	examine	npc	Grand Exchange Clerk
@@ -925,7 +925,7 @@ This support is propping the door closed.	このサポートはドアをとじ�
 Without its support, it was no problem!	そのサポートなしで、もんだいなかった！	examine	npc	Door
 This door seems to have a weak point.	このドアはじゃくてんがあるみたいだ。	examine	npc	Door
 A spiney horror from the ocean depths...	うみのふかいさからのとげのようなおそろしさ...	examine	npc	Dagannoth
-No one likes crabs... especially really big ones!	だれもカニがすきではない... とくにほんとうにだいきいやつ！	examine	npc	Giant Rock Crab
+No one likes crabs... especially really big ones!	だれもかにがすきではない... とくにほんとうにだいきいやつ！	examine	npc	Giant Rock Crab
 Heavy rock!	おもい、いし。	examine	npc	Boulder
 A Fremennik warrior, hard at work.	フレメニクせんし、いちなまけんめいはたらいている。	examine	npc	Bardur
 A knee-high horror from the ocean depths...	うみのふかいさからひざのこうさのおそろしさ...	examine	npc	Dagannoth fledgeling
@@ -937,7 +937,7 @@ A respected member of the Dorgeshuun Council.	ドルゲシュンぎかいのそ�
 Looks after cave goblin money.	どうくつゴブリンのおきんをせわしている。	examine	npc	Banker
 He works the city's metal.	かれはまちのきんぞくをしごとにしている。	examine	npc	Bartak
 He keeps the cave goblin magic working.	かれはどうくつゴブリンのまほうをきのうさせている。	examine	npc	Turgall
-Sells leather goods made of frog!	カエルでさくったかわせいしなをうりっている！	examine	npc	Reldak
+Sells leather goods made of frog!	かえるでさくったかわせいしなをうりっている！	examine	npc	Reldak
 Sells lamps to light your way in dark caves.	あんいどうくつでみちをしょうらすランプをうりっている。	examine	npc	Miltog
 She looks after the kiddies.	かのじょはこどもたちをせわしている。	examine	npc	Mernik
 Taking a terribly important box from one place to another.	きょうろしくじゅうようなはこをあるばしょからべつのばしょにはこびんでいる。	examine	npc	Crate goblin
@@ -952,7 +952,7 @@ A goblin baby.	ゴブリン、あかちゃん。	examine	npc	Young 'un
 A goblin child.	ゴブリンのこども。	examine	npc	Cave goblin child
 Don't spit, it's unhygienic.	つばするな、きえきでない。	examine	npc	Spit goblin
 A bug-eyed little goblin fish. How cute.	めがでかいちいさいゴブリンのさかな。かわいい。	examine	npc	Goblin fish
-He knows a thousand arcane secrets, every one of which would drive you mad.	かれはせんのひみつのひみつをしりっていて、どれもあなたをきょうわせるだろう。	examine	npc	Movario
+He knows a thousand arcane secrets, every one of which would drive you mad.	かれはせんのひみつのひみつをしっていて、どれもあなたをきょうわせるだろう。	examine	npc	Movario
 He's here to guard the wizard.	かれはここでまほうつかいをまもっているのだ。	examine	npc	Darve
 Annoying little flappy things.	うるさい、ちいさい、ぱたぱた。	examine	npc	Moths
 Sells bone goods.	ほね、せいひん、うる。	examine	npc	Barlak
@@ -968,7 +968,7 @@ Looks like some kind of engineer or mechanic.	なにしゅるいかのエンジ�
 He's selling his bread on the market here.	かれはここでしじょうでパンをうりっている。	examine	npc	Randivor
 A gem stall owner, with goods from the deepest of mines.	ほうせきやだいのところあもの、ふかいこうざんからのしょうひん。	examine	npc	Hervi
 A crafty dwarf.	ずるい、こびと。	examine	npc	Nolar
-He has lots of silver on display. And only silver.	かれはひょうじにたくさんのぎんをもちっている。そしてぎんだけだ。	examine	npc	Gulldamar
+He has lots of silver on display. And only silver.	かれはひょうじにたくさんのぎんをもっている。そしてぎんだけだ。	examine	npc	Gulldamar
 An old mining dwarf, now he sells pickaxes and generally acts grumpy.	ふるいさいくつこびと、いまかれはつるはしをうりって、いっぱんてきにぶっきらぼうにふりるまいう。	examine	npc	Tati
 She seems to be doing rather well for herself, selling clothes in a palace shop.	かのじょはきゅうでんのみせでふくをうりって、かなりうまくやっているようだ。	examine	npc	Agmundi
 A rather poor looking little dwarf, selling her clothes on the market.	しじょうでかのじょのふくをうりっている、かなりまずしくみえるちいさいこびと。	examine	npc	Vermundi
@@ -991,7 +991,7 @@ Remember: don't drink and ride in mine carts.	おもいでして：のみんで�
 Keeps the line clear of traffic.	ラインをまじとおりからたしかほしている。	examine	npc	Cart conductor
 A loud, drunk and generally obnoxious dwarf.	だいこえで、よいっていて、いっぱんてきにふかいなこびと。	examine	npc	Rowdy dwarf
 A bickering old dwarf.	けんかしているふるいこびと。	examine	npc	Hegir
-A sad old dwarf living in a sad old home.	ひしいふるいいえにすみむ、ひしいふるいこびと。	examine	npc	Runvastr
+A sad old dwarf living in a sad old home.	ひしいふるいいえにすむ、ひしいふるいこびと。	examine	npc	Runvastr
 He seems to always be busy.	かれはいつもいそがしいようだ。	examine	npc	Sune
 This dwarf doesn't seem to be very well off.	このこびとはそこまでめぐまれていないようだ。	examine	npc	Bentamir
 A dwarf minding his own business.	こびと、わがいえの、ことを、みて。	examine	npc	Ulifed
@@ -1032,8 +1032,8 @@ Potion shopkeeper.	やくもの、みせ。	examine	npc	Lilly
 Armour shopkeeper.	よろい、みせ。	examine	npc	Anton
 Bank staff.	ぎんこう、しょくいん。	examine	npc	Jade
 He looks like a strong warrior.	かれみえるすきつよいせんし。	examine	npc	Sloane
-Big... Cow-like... But cows don't have serpent tails!	だいきい... うしみたいな... でも、うしはヘビのおをもちっていない！	examine	npc	Catablepon
-I think this spider has been genetically modified.	このクモはいつたえこをそうされたとおもいう。	examine	npc	Giant spider
+Big... Cow-like... But cows don't have serpent tails!	だいきい... うしみたいな... でも、うしはへびのおをもっていない！	examine	npc	Catablepon
+I think this spider has been genetically modified.	このクモはいつたえこをそうされたとおもう。	examine	npc	Giant spider
 Incey wincey... with a nasty bite.	しょうさい... いやなかみつきで。	examine	npc	Spider
 An extremely vicious scorpion.	ひじょうに、あくい、さそり。	examine	npc	Scorpion
 He doesn't look very pleased to see you.	かれはあなたをみてそこまでよろこびんでいないみたいだ。	examine	npc	Minotaur
@@ -1070,7 +1070,7 @@ A gnome pilot off duty, he looks a bit worse for wear...	つとむそとのノ�
 A gnome pilot off duty, he looks a bit drunk.	つとむそとのノームのパイロット、かれはすこしよいっているようにみえる。	examine	npc	Captain Daerkin
 He looks after the terrorbirds.	かれはテラーバードたちをせわしている。	examine	npc	Meegle
 He looks like a big gnomeball fan.	かれはだいきいノームボールのファンみたいにみえる。	examine	npc	Wurbel
-She tends the toads and worms in the swamp.	かのじょはぬまのヒキガエルとミミズをせわしている。	examine	npc	Sarble
+She tends the toads and worms in the swamp.	かのじょはぬまのヒキガエルとミみずをせわしている。	examine	npc	Sarble
 He looks alert and ready for action.	かれはアラートで、アクションのじゅんびができているみたいにみえる。	examine	npc	Guard Vemmeldo
 A lean mean gnome fighting machine.	ほそい、きつい、ノーム、せんとうき。	examine	npc	Burkor
 He looks like he needs something useful to do.	かれはなにかやくにたてつことをすることがひつようみたいにみえる。	examine	npc	Froono
@@ -1150,11 +1150,11 @@ Likes people spending money.	おきんをつかいうひとがすき。	examine	
 Likes helping sell stuff.	もの、うるのを、てつだうの、すき。	examine	npc	Shop assistant
 A product of consumerist society.	きえひものしゃかいのさんもの。	examine	npc	Shop keeper
 Likes you more the more you spend.	あなたがおきんをつかいえばつかいうほど、あなたがすき。	examine	npc	Shop assistant
-If he doesn't have it, he can't sell it!	かれがそれをもちっていなかったら、うりることができない！	examine	npc	Shop keeper
+If he doesn't have it, he can't sell it!	かれがそれをもっていなかったら、うりることができない！	examine	npc	Shop keeper
 She's here on work experience.	かのじょはここでしごとのけいけんをしている。	examine	npc	Shop assistant
 An interesting assortment of items for sale.	はんばいするアイテムのきょうみふかいしなぞろえ。	examine	npc	Shop keeper
 Works on commission.	きゅうあたえではたらきいている。	examine	npc	Shop assistant
-Clearly takes pride in his appearance.	かれのみためにあかりらかにほこりをもちっている。	examine	npc	Shop keeper
+Clearly takes pride in his appearance.	かれのみためにあかりらかにほこりをもっている。	examine	npc	Shop keeper
 Needs a haircut.	かみのけ、きるひつよう。	examine	npc	Shop assistant
 An annoying flappy thing.	うるさい、ぱたぱた、もの。	examine	npc	Bat
 A wood nymph.	もくせい、にんぎょう。	examine	npc	Dryad
@@ -1240,7 +1240,7 @@ This ghost looks quite rebellious.	このゆうれいはかなりはんこうて
 A ghost disciple.	ゆうれいのでし。	examine	npc	Ghost disciple
 A trader from across the eastern sea.	ひがしのうみをわたしるしょうにん。	examine	npc	Ak-Haranu
 It's an undead cow.	ゾンビ、うしだ。	examine	npc	Undead cow
-Yep, definitely a chicken... an undead chicken.	ああ、まちがいなく、ニワトリ、ゾンビ。	examine	npc	Undead chicken
+Yep, definitely a chicken... an undead chicken.	ああ、まちがいなく、にわとり、ゾンビ。	examine	npc	Undead chicken
 An extremely vicious lobster.	ひじょうに、あくい、いせえび。	examine	npc	Giant lobster
 A master bowman.	しゅうじゃ、ゆみし。	examine	npc	Robin
 An old, cranky lady.	ふるい、ぶっきらぼうなおっとひと。	examine	npc	Old crone
@@ -1260,7 +1260,7 @@ He's studying to be a guard.	かれはガードになるためのべんきょう
 Trains the guards of the future.	みきのガードをくんれんしている。	examine	npc	Captain
 Is it a spider or is it a shadow?	くも かな それとも かげ かな?	examine	npc	Shadow spider
 A barely visible deadly jungle spider.	ほとんどみえない、ちめいてきなジャングルのクモ。	examine	npc	Jungle spider
-It has a very vicious looking tail.	とてもあくいのあるおをもちっている。	examine	npc	Poison Scorpion
+It has a very vicious looking tail.	とてもあくいのあるおをもっている。	examine	npc	Poison Scorpion
 Tiny, annoying, stinging thing.	ちいさい、うるさい、さす、もの。	examine	npc	Pit Scorpion
 Wow! Scorpions shouldn't grow that big.	わあ！サソリはそんなにだいきくなりながするべきではない。	examine	npc	King Scorpion
 An ugly, smelly creature, with a spear.	みにくい、においがする、やりをもちつ、いきもの。	examine	npc	Hobgoblin
@@ -1293,7 +1293,7 @@ A fancy businessman with a mighty fine hat.	ぎょうぎょしいビジネスマ
 Someone has to get rid of all the stone they dug Keldagrim out of.	だれかがケルダグリムをほりでしたいしをすべてとりのぞきくひつようがある。	examine	npc	Stonemason
 Chief Herald of Falador.	ファラダーのさいこうこうほうかん。	examine	npc	Sir Renitee
 He changes the shape of wood.	かれはきのかたちをへんえる。	examine	npc	Sawmill operator
-She has green fingers. (Not literally.)	かのじょはみどりのゆびをもちっている。（じっさいではなく。）	examine	npc	Garden supplier
+She has green fingers. (Not literally.)	かのじょはみどりのゆびをもっている。（じっさいではなく。）	examine	npc	Garden supplier
 Servant of the Duke of Lumbridge.	ルムブリッジのデュークのしようひと。	examine	npc	Hans
 One of Gielinor's many citizens, apparently trying to be an explorer.	ギエリノールのおおいくのしみんのひとり、たんけんかになろうとしているようだ。	examine	npc	Man
 He grows the crops in this area.	かれはこのちいきのさくものをそだてている。	examine	npc	Farmer
@@ -1331,8 +1331,8 @@ A darkened horror from the ocean depths...	うみのふかいさからのくら�
 Head of the maze.	めいろのなが。	examine	npc	Brian O'Richard
 Roguelike and guardish.	ならずものような、ガードのような。	examine	npc	Rogue Guard
 A loveable rogue.	すきな、ならず、もの。	examine	npc	Martin Thwait
-A rich banker man... Some say too rich.	ゆたかなぎんこういえ... なにひとかはきんもちすぎるといいう。	examine	npc	Emerald Benedict
-I don't think I want to get too close to that!	あれにちかくづきたくないとおもいう！	examine	npc	Spin Blades
+A rich banker man... Some say too rich.	ゆたかなぎんこういえ... なにひとかはきんもちすぎるという。	examine	npc	Emerald Benedict
+I don't think I want to get too close to that!	あれにちかくづきたくないとおもう！	examine	npc	Spin Blades
 He looks fairly well-to-do.	かれはかなりめぐまれているようにみえる。	examine	npc	Arhein
 A being from a mysterious other realm.	なぞめいたほかのりょういきからのそんざい。	examine	npc	Jukat
 Smells strangely of cabbage.	きみょうにキャベツのにおいがする。	examine	npc	Lunderwin
@@ -1340,8 +1340,8 @@ Looks strange and mysterious.	きみょうでなぞめいてみえる。	examine
 Appears slightly drunk.	ほんのりと、よっぱらったようす。	examine	npc	Zambo
 Seems very well off.	とてもめぐまれているようだ。	examine	npc	Gem merchant
 So where are the butcher and the candlestick maker?	では、にくやとしょくだいしょくにんはどこ？	examine	npc	Baker
-Has a very exotic aroma about him.	かれはひじょうにことくにてきなかおりをもちっている。	examine	npc	Spice seller
-Knows how to keep warm in the winter.	ふゆにあたたかくほつほうほうをしりっている。	examine	npc	Fur trader
+Has a very exotic aroma about him.	かれはひじょうにことくにてきなかおりをもっている。	examine	npc	Spice seller
+Knows how to keep warm in the winter.	ふゆにあたたかくほつほうほうをしっている。	examine	npc	Fur trader
 A master fletcher.	しゅうじゃ、やうち。	examine	npc	Hickton
 Something fishy about him.	かれについて、なにか、あやしい。	examine	npc	Harry
 Nice eyes.	いい、め。	examine	npc	Cassie
@@ -1446,13 +1446,13 @@ It's slightly red.	ほんのりと、あかい。	examine	npc	Elemental balance
 It's a bit red.	ちょっと、あかい。	examine	npc	Elemental balance
 It's quite red.	かなり、あかい。	examine	npc	Elemental balance
 It's bright red.	それはあかりるいあかだ。	examine	npc	Elemental balance
-It's glowing bright red!	それはあかりるいあかにかがやきいている！	examine	npc	Elemental balance
+It's glowing bright red!	それはあかりるいあかにかがやいている！	examine	npc	Elemental balance
 It's very slightly blue.	それはほんのわずかにあおい。	examine	npc	Elemental balance
 It's slightly blue.	ほんのりと、あおい。	examine	npc	Elemental balance
 It's a bit blue.	ちょっと、あおい。	examine	npc	Elemental balance
 It's quite blue.	かなり、あおい。	examine	npc	Elemental balance
 It's bright blue.	それはあかりるいあおだ。	examine	npc	Elemental balance
-It's glowing bright blue!	それはあかりるいあおにかがやきいている！	examine	npc	Elemental balance
+It's glowing bright blue!	それはあかりるいあおにかがやいている！	examine	npc	Elemental balance
 It's very slightly green.	それはほんのわずかにみどり。	examine	npc	Elemental balance
 It's slightly green.	ほんのりと、みどりいろ。	examine	npc	Elemental balance
 It's a bit green.	ちょっと、みどりいろ。	examine	npc	Elemental balance
@@ -1461,20 +1461,20 @@ It's bright green.	それはあかりるいみどり。	examine	npc	Elemental ba
 He looks short and grumpy.	かれはせがていく、ぶっきらぼうにみえる。	examine	npc	Mountain Dwarf
 An ogre.	オーガー。	examine	npc	Skrach Uglogwee
 A demented evil wizard who specialises in food spells.	しょくべものスペルをせんもんとする、きぐみのあくいあくいまほうつかい。	examine	npc	Culinaromancer
-It's glowing bright green!	それはあかりるいみどりにかがやきいている！	examine	npc	Elemental balance
+It's glowing bright green!	それはあかりるいみどりにかがやいている！	examine	npc	Elemental balance
 It's very slightly cyan.	それはほんのわずかにシアンだ。	examine	npc	Elemental balance
 It's slightly cyan.	ほんのりと、みずいろ。	examine	npc	Elemental balance
 It's a bit cyan.	ちょっと、みずいろ。	examine	npc	Elemental balance
 It's quite cyan.	かなり、みずいろ。	examine	npc	Elemental balance
 It's bright cyan.	それはあかりるいシアンだ。	examine	npc	Elemental balance
-It's glowing bright cyan!	それはあかりるいシアンにかがやきいている！	examine	npc	Elemental balance
+It's glowing bright cyan!	それはあかりるいシアンにかがやいている！	examine	npc	Elemental balance
 The cave guide.	どうくつ、あんないしゃ。	examine	npc	Koftik
 An elven hunter.	エルフ、かりゅうしゃ。	examine	npc	Idris
 An elven warrior.	エルフのせんし。	examine	npc	Essyllt
 A cute bunny rabbit.	かわいい、うさぎ。	examine	npc	Rabbit
 Eek! A big bear!	えっ！だいきいくま！	examine	npc	Grizzly bear
 Eek! A bear cub!	うわあ、くまの、こ。	examine	npc	Grizzly bear cub
-What big teeth you have.	あなたはだいきいはをもちっている。	examine	npc	Dire Wolf
+What big teeth you have.	あなたはだいきいはをもっている。	examine	npc	Dire Wolf
 He looks pretty handy with that bow.	かれはそのゆみでかなりじょうずそうだ。	examine	npc	Iorwerth Archer
 I don't want to get on the wrong side of him.	かれのあくいがわにはなりたくない。	examine	npc	Iorwerth Warrior
 An odd looking person.	へんな、ようすの、ひと。	examine	npc	Arianwyn
@@ -1541,7 +1541,7 @@ Mayor of Pollnivneach.	ポルニブナッハのしなが。	examine	npc	Ali the 
 An old hag named Alisha.	アリシャというろうば。	examine	npc	Ali the Hag
 A snake charmer.	へびつかい。	examine	npc	Ali the Snake Charmer
 A foul tempered, ugly, lumpy yellow horse prone to spitting.	きぐみのあくい、みにくい、ゴツゴツのきいろいうまで、つばをはくけいこうがある。	examine	npc	Ali the Camel
-A toothless old Snake.	はのないふるいヘビ。	examine	npc	Snake
+A toothless old Snake.	はのないふるいへび。	examine	npc	Snake
 Leader of the Menaphites.	メナファイトのリーダー。	examine	npc	Menaphite Leader
 Smooth operator.	なめらか、そうりょう。	examine	npc	Ali the Operator
 Menaphite thug.	メナフ、わるもの。	examine	npc	Menaphite Thug
@@ -1551,7 +1551,7 @@ Male desert villager.	おす、さばく、りあじん。	examine	npc	Villager
 Female desert villager.	めす、さばく、りあじん。	examine	npc	Villager
 She doesn't look too happy.	かのじょはそこまでさちせにみえない。	examine	npc	Veronica
 A mad scientist if ever I saw one!	きちがい、かがくしゃ、いやおうなし。	examine	npc	Professor Oddenstein
-A former chicken.	もとの、ニワトリ。	examine	npc	Ernest
+A former chicken.	もとの、にわとり。	examine	npc	Ernest
 Harbinger of light surface scratches and minor dents.	ひかりのおもてめんのひっかききずとかるいへこみのさきふれ。	examine	npc	Lil' Destructor
 He's been trapped here for thousands of years.	かれはなにせんねんもここにとじこみめられている。	examine	npc	Pentyn
 A travelling scholar from Menaphos.	メナフォスからたびするまなびもの。	examine	npc	Aristarchus
@@ -1566,8 +1566,8 @@ He's been freed from the boneguard.	かれはボーンガードからときは�
 Very shifty-looking and sunburnt.	とてもいかがわしくみえて、ひやけしている。	examine	npc	Lazim
 A man with the head of a camel.	ラクダのあたまをもちつおとこ。	examine	npc	Akthanakos
 He's wearing heavy armour.	かれは、おもい、よろい、きている。	examine	npc	Knight
-He knows anything is possible.	かれはなんでもかのうであることをしりっている。	examine	npc	Effigy
-He knows everything has a reason.	かれはすべてがりゆうをもちつことをしりっている。	examine	npc	Bonafido
+He knows anything is possible.	かれはなんでもかのうであることをしっている。	examine	npc	Effigy
+He knows everything has a reason.	かれはすべてがりゆうをもちつことをしっている。	examine	npc	Bonafido
 Is it male or female?	それはおとこですか、それともおんなですか？	examine	npc	Homunculus
 It looks pretty unhappy.	それはかなりふこうにみえる。	examine	npc	Homunculus
 You could hold anything in that.	あなたはそのなかに、なにでもおきくことができた。	examine	npc	Cage
@@ -1575,12 +1575,12 @@ He wants to create everything from nothing.	かれはなにもないところか
 All he wants is gold.	かれがのぞみむのはきんだけだ。	examine	npc	'Currency' The Alchemist
 Famous for his fights.	けんかで、ゆうめい。	examine	npc	'Black-eye'
 Count them pinkies!	ぴんく、かぞえろ。	examine	npc	'No fingers'
-He wishes he had teeth.	かれははをもちっていたらいいとおもいっている。	examine	npc	'Gummy'
+He wishes he had teeth.	かれははをもっていたらいいとおもっている。	examine	npc	'Gummy'
 He likes to weightlift a little too much.	かれはウェイトリフティングをすこしおおいくのがすき。	examine	npc	'The Guns'
-Is it a frog, or is it an eel?	それはカエルですか、それともうなぎですか？	examine	npc	Frogeel
+Is it a frog, or is it an eel?	それはかえるですか、それともうなぎですか？	examine	npc	Frogeel
 Half unicorn, half cow.	はんぶん、いっかどけもの、はんぶん、うし。	examine	npc	Unicow
 It's a spider. No, a giant sardine...	それはクモだ。いや、きょだいなイワシ...	examine	npc	Spidine
-Definitely not a chicken or a swordfish.	たしかみに、ニワトリまたはフグではない。	examine	npc	Swordchick
+Definitely not a chicken or a swordfish.	たしかみに、にわとりまたはフグではない。	examine	npc	Swordchick
 A jubbly bird with claws.	つめをもちつ、ぷりぷりしたとり。	examine	npc	Jubster
 Since when did newts have beaks?	いつから、いもり、くちばし、もっている？	examine	npc	Newtroost
 A peaceful monk.	へいわ、そう。	examine	npc	Brother Kojo
@@ -1590,10 +1590,10 @@ His robes prominently display the star of Saradomin.	かれのローブはサラ
 How does it move of its own accord?	それはどのようにしてじぶんでうごきく？	examine	npc	Possessed pickaxe
 Useful for hitting rocks.	いしを、たたくのに、やくたつ。	examine	npc	Iron pickaxe
 Well, at least he doesn't have to worry about getting 'black lung'.	うーん、すこしなくとも、かれは「くろいはい」をとりることについてしんぱいするひつようはない。	examine	npc	Corpse
-I don't think the pickaxe is for hitting rocks.	つるはしはいわをたたくためではないとおもいう。	examine	npc	Skeletal miner
+I don't think the pickaxe is for hitting rocks.	つるはしはいわをたたくためではないとおもう。	examine	npc	Skeletal miner
 Eeek! A big ghost!	えっ！だいきいゆうれい！	examine	npc	Treus Dayth
 Those are some of the biggest teeth I've ever seen.	それらはわたしがみたことがあるさいだいのはです。	examine	npc	Loading crane
-A shiny key sitting quietly on a crate.	クレートのじょうにしずかにざっている、かがやきいているかぎ。	examine	npc	Innocent-looking key
+A shiny key sitting quietly on a crate.	クレートのじょうにしずかにざっている、かがやいているかぎ。	examine	npc	Innocent-looking key
 Big, metal, and wheeled.	だいきい、きんぞくで、くるまわがある。	examine	npc	Mine cart
 A strange disturbance in the air.	くうきのちゅうのきみょうなじゃまだち。	examine	npc	Haze
 That ghost looks like he's up to something.	そのゆうれいはなにかをしようとしているみたいだ。	examine	npc	Mischievous ghost
@@ -1623,7 +1623,7 @@ He's guarding the throne room.	かれは、おうぎょく、へや、まもっ�
 Smithy for Sogthorpe.	ソグソープ、かじや。	examine	npc	Derrik
 He's cutting the wheat.	かれは、こむぎ、きっている。	examine	npc	Farmer
 No-one would mistake her for a duchess.	だれも、かのじょを、こうしゃく、ひめ、まちがえない。	examine	npc	Flower Girl
-He's strong to the finish, because he eats cabbage.	かれはおわりまできょうい、キャベツをしょくべるから。	examine	npc	Sailor
+He's strong to the finish, because he eats cabbage.	かれはおわりまできょうい、キャベツをたべるから。	examine	npc	Sailor
 A warrior of Miscellania.	ミセラニアのせんし。	examine	npc	Skraeling
 A juvinate vampyre. They're guarding the mining area.	わかい、ぎゃくろう、めす。さんこつ、ちいく、まもっている。	examine	npc	Vampyre Juvinate
 A juvenile vampyre.	わかい、ぎゃくろう。	examine	npc	Vampyre Juvenile
@@ -1652,8 +1652,8 @@ A smelly cat.	においがするねこ。	examine	npc	Cat
 It looks seaworthy now.	それはいま、こうかいにてきしているようにみえる。	examine	npc	Boat
 Spiritual leader of the Moonclan.	ムーンクランのせいしんてきなリーダー。	examine	npc	Oneiromancer
 The craziest house I ever did see!	わたしがみたことがある、もっともききょういじみたいえ！	examine	npc	House
-An old woman who lives in a very strange house.	とてもきみょうないえにすみむふるいじょせい。	examine	npc	Baba Yaga
-She has a certain twinkle in her eye.	かのじょはかれのめにあるていどのきらめきをもちっている。	examine	npc	Pauline Polaris
+An old woman who lives in a very strange house.	とてもきみょうないえにすむふるいじょせい。	examine	npc	Baba Yaga
+She has a certain twinkle in her eye.	かのじょはかれのめにあるていどのきらめきをもっている。	examine	npc	Pauline Polaris
 As beautiful as a fallen star... I feel sick.	おちたほしのようにびしい...わたしはばかだ。	examine	npc	Meteora
 Did she just wink at me?	かのじょはただわたしにウィンクしましたか？	examine	npc	Melana Moonlander
 In a world of her own.	かれじしんのせかいで。	examine	npc	Selene
@@ -1675,7 +1675,7 @@ A pirate through and through.	どんなにみても、かいぞく。	examine	np
 A deadly pirate.	さいだい、かいぞく。	examine	npc	Jake
 He got his name from his favourite hobby. Reading about beds.	かれはかれのおきにいりのしごとからかれのなまえをえた。ベッドについてよむこと。	examine	npc	Bedread the bold
 Nobody really knows why he's called Tommy 2-times...	なぜ、かれを、トミー、にかい、よぶ、だれも、わからない。	examine	npc	Tommy 2-times
-Don't look him straight in the eyes. He'll eat you alive!	かれをめをみてはいけない。かれはあなたをなまきたまましょくべるでしょう！	examine	npc	Murky Pat
+Don't look him straight in the eyes. He'll eat you alive!	かれをめをみてはいけない。かれはあなたをなまきたままたべるでしょう！	examine	npc	Murky Pat
 Nice beard.	いい、ひげ。	examine	npc	Jack Sails
 He never stops talking about Betty...	かれはベティについてはなしすのをやめない...	examine	npc	'Betty' B.Boppin
 Is he looking at me?	かれはわたしをみていますか？	examine	npc	'Beedy-eye' Jones
@@ -1700,7 +1700,7 @@ Cute. But deadly.	かわいい。でも、ちめいてき。	examine	npc	Bear Cu
 Horned Horsey.	つののある、うまのようなやつ。	examine	npc	Unicorn Foal
 Cute but evil.	かわいいけど、あくい。	examine	npc	Black unicorn Foal
 Looks like he's having fun!	かれはたのしいしんでいるみたいだ！	examine	npc	Bjorn
-He's only as think as you drunk he is!	かれはあなたがよいっているのとおなじくらいおもいっている！	examine	npc	Eldgrim
+He's only as think as you drunk he is!	かれはあなたがよいっているのとおなじくらいおもっている！	examine	npc	Eldgrim
 Every innkeeper's best friend!	すべてのイン・キーパーのさいこうのともだち！	examine	npc	Manni the Reveller
 Supposedly fixes things around Gielinor.	いわゆる、ギエリノール、かい、もの、すぐなおす。	examine	npc	Council workman
 A fearful spirit of the drowned.	おぼれたきょうろしいせいれい。	examine	npc	The Draugen
@@ -1710,7 +1710,7 @@ A Fremennik navigator.	フレメンニク、こうしゃ。	examine	npc	Swensen 
 Stands around and looks at stuff all day.	いちにちちゅう、たてって、ものをみている。	examine	npc	Guard
 Stands around and looks tough all day.	いちにちちゅう、たてって、たいへんそうにみえている。	examine	npc	Guard
 What a rubbish job he has.	かれはどんなにあくいしごとをしている。	examine	npc	Town Guard
-Who's going to steal a whole town anyway?	そもそも、だれがまちぜんからだをぬすみむのか？	examine	npc	Town Guard
+Who's going to steal a whole town anyway?	そもそも、だれがまちぜんからだをぬすむのか？	examine	npc	Town Guard
 The Longhall barkeep.	なが、ほーる、バーてん。	examine	npc	Thora the Barkeep
 Pretty shabbily dressed for a clothes shop owner.	いるいみせのところあものには、かなりみすぼらしくふくをきている。	examine	npc	Yrsa
 There's something fishy about this guy.	このやつについて、あやしい、もの、ある。	examine	npc	Fisherman
@@ -1795,12 +1795,12 @@ Billy is a baa-a-a-d goat.	びりーはわるいやぎだ。	examine	npc	Billy
 This beast doesn't need climbing boots.	このけもの、のぼり、ブーツ、ひつよう、ない。	examine	npc	Mountain goat
 A rather mad-looking hermit.	すこし、きちがい、ようす、いんし。	examine	npc	Eadgar
 Dunstan's son.	ダンスタン、むすこ。	examine	npc	Godric
-One of the troll generals.	とろるしょうぐん。	examine	npc	Troll general
+One of the troll generals.	トロルしょうぐん。	examine	npc	Troll general
 He's watching the arena.	かれは、あれーな、みまもっている。	examine	npc	Troll spectator
 An unusually large troll.	いつもと、ちがう、おおきい、トロール。	examine	npc	Dad
 He's guarding the cells.	かれは、ろうや、べや、まもっている。	examine	npc	Twig
-Small for a troll, but it's mean, ugly and throws rocks.	とろるにしてはちいさいけど、わるくてみにくくていしをなげる。	examine	npc	Thrower troll
-Small for a troll, but mean and ugly.	とろるにしてはちいさいけど、わるくてみにくい。	examine	npc	Mountain troll
+Small for a troll, but it's mean, ugly and throws rocks.	トロルにしてはちいさいけど、わるくてみにくくていしをなげる。	examine	npc	Thrower troll
+Small for a troll, but mean and ugly.	トロルにしてはちいさいけど、わるくてみにくい。	examine	npc	Mountain troll
 He's fast asleep.	かれはぐっすりねている。	examine	npc	Mushroom
 He's guarding the storeroom.	かれは、なぞ、べや、まもっている。	examine	npc	Guard
 He's guarding the goutweed.	かれは、ぐうぎ、もぐかえる、そう、まもっている。	examine	npc	Guard
@@ -1808,7 +1808,7 @@ A travelling trader.	たび、あきんど。	examine	npc	Rat Burgiss
 A powerful wizard.	つよい、まほうし。	examine	npc	Surok Magis
 Leader of the Dagon'hai Order.	だごんはいおーだーのしどうしゃ。	examine	npc	Surok Magis
 An archaeologist.	こうこがくしゃ。	examine	npc	Anna Jones
-Varrock's resident monarch. He looks strangely evil!	ばろっくのおうさま。かれはへんにわるそうだ！	examine	npc	King Roald
+Varrock's resident monarch. He looks strangely evil!	バロックのおうさま。かれはへんにわるそうだ！	examine	npc	King Roald
 A monk of the Dagon'hai Order.	だごんはいおーだーのしゅくとく。	examine	npc	Mishkal'un Dorn
 A mean looking outlaw. Don't get too close!	いやそうな、ならず、もの。ちかづくなよ。	examine	npc	Outlaw
 For sitting on.	すわるためのもの。	examine	npc	Bench
@@ -1863,7 +1863,7 @@ The head of the Rehnison family.	れにそんかぞくのあたま。	examine	np
 A fairly poor looking woman.	かなりまずしそうなおんな。	examine	npc	Martha Rehnison
 The Rehnisons' eldest son.	レンニソン、ちょうなん。	examine	npc	Billy Rehnison
 She doesn't seem very happy.	かのじょはあまりしあわせそうじゃない。	examine	npc	Milli Rehnison
-She comes from Al Kharid.	かのじょはあるかりどからきた。	examine	npc	Leela
+She comes from Al Kharid.	かのじょはアルカリドからきた。	examine	npc	Leela
 A dangerous looking guard.	あぶなそうなえいご。	examine	npc	Jail guard
 Chancellor to the Emir.	えみーるのもとのもじぶぎょう。	examine	npc	Chancellor Hassan
 Guards the border.	さかい、まもる。	examine	npc	Border Guard
@@ -1876,7 +1876,7 @@ He's unconscious!	かれは、いしきがない。	examine	npc	Wise Old Man
 An aquatic troll.	みず、トロール。	examine	npc	Sea troll
 Recalled to unlife!	よみがえった！	examine	npc	Skeleton Mage
 This will not be so easy.	これはそんなにかんたんじゃない。	examine	npc	Sea Troll General
-The mother of all sea trolls!	うみのとろるのおかあさん！	examine	npc	Sea Troll Queen
+The mother of all sea trolls!	うみのトロルのおかあさん！	examine	npc	Sea Troll Queen
 Doesn't seem to want to go away.	さっていきたくなさそう。	examine	npc	Skeleton Mage
 A younger Zanik.	わかい、ザニク。	examine	npc	Zanik
 The mark on her head is glowing.	かのじょのあたまのしるしがひかっている。	examine	npc	Zanik
@@ -1934,21 +1934,21 @@ Is it a rock crab? Our survey says no.	いわがに？ぼくたちのちょう�
 Keeps rolling, rolling, rolling...	ころころ、ころがる。	examine	npc	Boulder
 It's a pretty big bat.	ぷりてぃなおおきなこうもり。	examine	npc	Giant bat
 She has a mark on her head.	かのじょのあたまにしるしがある。	examine	npc	Zanik
-An eager cave goblin on her first trip to the surface.	しょうかいしゃのもくろみ。そのまんいんごぶりんはまずめがすうほど。	examine	npc	Zanik
-A goblin fighting for her city.	まちのためにたたかうごぶりん。	examine	npc	Zanik
+An eager cave goblin on her first trip to the surface.	しょうかいしゃのもくろみ。そのまんいんゴブリンはまずめがすうほど。	examine	npc	Zanik
+A goblin fighting for her city.	まちのためにたたかうゴブリン。	examine	npc	Zanik
 He delivers the goods.	かれはしなものをとどける。	examine	npc	Dwarf
 Shopkeeper.	みせや。	examine	npc	Chadwell
-A nasty spider, blessed by Zamorak.	ざもらくにあしなわれたいやなくも。	examine	npc	Blessed spider
+A nasty spider, blessed by Zamorak.	ザモラクにあしなわれたいやなくも。	examine	npc	Blessed spider
 Some oversized vermin, blessed by Zamorak.	ザモラク、しゅくふく、おおきい、がいちゅう。	examine	npc	Blessed giant rat
 Precariously balanced...	あぶなく、つりあった。	examine	npc	Boulder
-A strong and hardy dwarf.	つよくてたくましい どわーふ。	examine	npc	Niloof
-A dwarven maker of gauntlets.	どわーふのてぶくろさいせいしゃ。	examine	npc	Klank
-This dwarf looks intoxicated.	このどわーふはよっぱらっているみたいだ。	examine	npc	Kamen
+A strong and hardy dwarf.	つよくてたくましい ドワーフ。	examine	npc	Niloof
+A dwarven maker of gauntlets.	ドワーフのてぶくろさいせいしゃ。	examine	npc	Klank
+This dwarf looks intoxicated.	このドワーフはよっぱらっているみたいだ。	examine	npc	Kamen
 Annoying, flappy thing.	うるさい、ぱたぱた、もの。	examine	npc	Giant bat
 A hooded monk.	ずきん、そう。	examine	npc	Monk
-A recently deceased follower of Saradomin.	さらどみんのしたがいで さいきんなくなった。	examine	npc	Dead Monk
+A recently deceased follower of Saradomin.	サラドミンのしたがいで さいきんなくなった。	examine	npc	Dead Monk
 A stealthy assassin.	そろり、さつじんき。	examine	npc	Assassin
-A short, but extremely tough looking dwarf...	みじかいけど、すごくかたそうなどわーふ...	examine	npc	Red Axe Henchman
+A short, but extremely tough looking dwarf...	みじかいけど、すごくかたそうなドワーフ...	examine	npc	Red Axe Henchman
 Who ate all the rats?	だれ、ねずみ、たべた。	examine	npc	The Beast
 Unkempt and a bit smelly.	きたなくてちょっときたない。	examine	npc	Bellemorde
 Not the healthiest cat you've ever seen.	けっこうげんきじゃないねこ。	examine	npc	Pox
@@ -1993,7 +1993,7 @@ He's in control of the whole mining camp.	かれはぜんぶのこうざんえ�
 He's the leader of the Bedabin tribe.	かれはべだびんぞくのしどうしゃだ。	examine	npc	Al Shabim
 A bedabin nomad, they live in the harshest extremes in the desert.	べだびんあるきのしょくみん。さばくでもっときびしいばしょにすむ。	examine	npc	Bedabin Nomad
 A bedabin nomad guard - it looks like he's protecting an area.	べだびんあるきのしょくみんえいご。ばしょをまもっているみたいだ。	examine	npc	Bedabin Nomad Guard
-A resident of Al Kharid.	あるかりどのじゅうみん。	examine	npc	Irena
+A resident of Al Kharid.	アルカリドのじゅうみん。	examine	npc	Irena
 He's in control of the Shantay pass.	かれはしゃんたいたいのこんとろーるをしている。	examine	npc	Shantay
 He patrols the Shantay Pass.	かれはしゃんたいたいをぱとろーるしている。	examine	npc	Shantay Guard
 Can he build it? Yes he can!	かれはそれをたてられる？ はい。	examine	npc	Oaknock the Engineer
@@ -2048,7 +2048,7 @@ He's washing his clothes in the lake.	かれは みずうみでふくをあら�
 It's a Troll Thistle.	トロール、あざみだ。	examine	npc	Thistle
 What a colourful bunch of parrots!	なんてカラフルなおうむたち！	examine	npc	Parrots
 He seems strangely familiar...	かれはへんにしってるみたいだ...	examine	npc	Parroty Pete
-It's good enough to fool a troll.	とろるをだますのに じゅうぶんだ。	examine	npc	Fake Man
+It's good enough to fool a troll.	トロルをだますのに じゅうぶんだ。	examine	npc	Fake Man
 A generic evil henchman.	ふつうのあくのぶか。	examine	npc	Fortress Guard
 One of the Black Knights.	くろいきしの ひとり。	examine	npc	Black Knight Captain
 The Black Knights' resident witch.	くろきし、そこ、まじょ。	examine	npc	Witch
@@ -2081,8 +2081,8 @@ A Paradise Fish.	ぱらだいすぎょ。	examine	npc	Fish
 A shoal of Neon Tetra.	ねおんてとらのむれ。	examine	npc	Fish
 A shoal of Pearl Danio.	ぱーるだにおのむれ。	examine	npc	Fish
 He's got funky socks, but he's still an ugly green creature.	かれはくるったくつしたがあるけど、それでもみにくいみどりのいきもだ。	examine	npc	Goblin Cook
-More like a goblin cooked.	ごぶりんりょうりのようだ。	examine	npc	Goblin Cook
-Half way up the wall is maybe not a naturally tenable position for a goblin.	かべのなかばはたぶんごぶりんのしぜんないち じゃない。	examine	npc	Goblin Cook
+More like a goblin cooked.	ゴブリンりょうりのようだ。	examine	npc	Goblin Cook
+Half way up the wall is maybe not a naturally tenable position for a goblin.	かべのなかばはたぶんゴブリンのしぜんないち じゃない。	examine	npc	Goblin Cook
 An important looking ogre, he hits the table a lot.	だいじなみたいなおーぐれ。つくえをたくさんたたく。	examine	npc	Skrach Uglogwee
 An important looking ogre.	だいじ、ようすの、オーガー。	examine	npc	Skrach Uglogwee
 Rantz's boat, operated by his kids Fycie and Bugs.	ぎこうのおねえさんふたりで ハンドルされたぼーと。	examine	npc	Ogre boat
@@ -2179,23 +2179,23 @@ An animated clay statue with some clay missing.	どろぞうで、ちょっぴ�
 Definitely not a chicken.	たしかにかぎてきにはにわとりじゃない。	examine	npc	Desert Phoenix
 An old archaeologist.	ふるいこうこがくしゃ。	examine	npc	Elissa
 Putting up a fight!	けんかを、やっている。	examine	npc	Zanik
-A heroic cave goblin joining you for another adventure!	ゆしゃのどうくつごぶりんがあなたとまたぼうけんしよう！	examine	npc	Zanik
+A heroic cave goblin joining you for another adventure!	ゆしゃのどうくつゴブリンがあなたとまたぼうけんしよう！	examine	npc	Zanik
 The Chosen Commander?	えらばれた、しれい？	examine	npc	Zanik
 He looks pretty skilled with that bow.	かれはそのゆみにくわしいみたいだ。	examine	npc	H.A.M. Archer
 He bristles with arcane power.	かれはひみつのちからでいっぱい。	examine	npc	H.A.M. Mage
 She's addressing the crowd.	かのじょは、ぐんしゅに、はなしかけている。	examine	npc	Zanik
 Sigmund holding Zanik hostage.	ジグムント、ザニク、ひょうどり、もつ。	examine	npc	Sigmund and Zanik
 An ugly green creature... but don't say that to his face!	きたないみどりのいきもの...けど、かれのかおで いわないで。	examine	npc	Sergeant Mossfists
-A goblin with big, bulging eyes.	おおきくてふくらんだめのごぶりん。	examine	npc	Cave goblin
+A goblin with big, bulging eyes.	おおきくてふくらんだめのゴブリン。	examine	npc	Cave goblin
 He sells tickets to Keldagrim.	かれはけるだぐりむのきっぷをうる。	examine	npc	Ticket goblin
-A dwarf from Keldagrim.	けるだぐりむからきたどわーふ。	examine	npc	Dwarf
+A dwarf from Keldagrim.	けるだぐりむからきたドワーフ。	examine	npc	Dwarf
 He sells tickets to Dorgesh-Kaan.	かれはどるげっしゅかーんのきっぷをうる。	examine	npc	Ticket dwarf
-The dwarf ambassador to Dorgesh-Kaan.	どるげっしゅかーんへのどわーふたいしおう。	examine	npc	Ambassador Alvijar
+The dwarf ambassador to Dorgesh-Kaan.	どるげっしゅかーんへのドワーフたいしおう。	examine	npc	Ambassador Alvijar
 A worker on the train link.	でんしゃのつながりではたらくはたらきて。	examine	npc	Builder
 He's digging up cave goblin history!	かれは、どうくつ、ゴブリン、れきし、ほりおこしている。	examine	npc	Tegdak
 A cave goblin adventurer.	どうくつ、ゴブリン、ぼうけんしゃ。	examine	npc	Zanik
-A dwarven guard.	どわーふのえいご。	examine	npc	Guard
-A young Dwarf lad.	わかいどわーふのおとこのこ。	examine	npc	Lollk
+A dwarven guard.	ドワーフのえいご。	examine	npc	Guard
+A young Dwarf lad.	わかいドワーフのおとこのこ。	examine	npc	Lollk
 The head honcho around here.	このあたりのあたまやろう。	examine	npc	Captain Lawgof
 Looks down on his luck.	かれはついが わるくみえる。	examine	npc	Charlie the Tramp
 An empowered woman.	けんのあるおんな。	examine	npc	Katrine
@@ -2288,8 +2288,8 @@ Spooky.	こわい。	examine	npc	Ghost
 The essence of evil.	あくのほんしつ。	examine	npc	Spirit of Scorpius
 A vicious, little, stinging thing.	あくい、ちいさい、さす、もの。	examine	npc	Grave scorpion
 A nasty, poisonous arachnid.	いや、どく、くも。	examine	npc	Poison spider
-An old goblin hag.	ふるいごぶりんのおんなしゃくし。	examine	npc	Naghead
-A young goblin 'beauty'.	わかいごぶりんの「びじん」。	examine	npc	Wagchin
+An old goblin hag.	ふるいゴブリンのおんなしゃくし。	examine	npc	Naghead
+A young goblin 'beauty'.	わかいゴブリンの「びじん」。	examine	npc	Wagchin
 Big appetite for a small creature.	ちいさいいきものにしてはおおきなしょくよく。	examine	npc	Greasycheeks
 Likes drink a little too much.	ちょっぴりのみもの。	examine	npc	Smellytoes
 Lean and green.	ほそくてみどり。	examine	npc	Creakyknees
@@ -2316,7 +2316,7 @@ A retired Security Guard.	りたいあはんぐぁあど。	examine	npc	Security
 Swashbuckled his way across the seven seas.	しちかい、こえ、ぶかぶかしたけん、やり、なおす。	examine	npc	Cap'n Hand
 He probably hasn't smiled since the Third Age.	かれはだいさんじだいいらい ほぼ ゑがおにならないだろう。	examine	npc	Advisor Ghrim
 He's probably seen better days.	かれは、たぶん、よい、ひ、みた。	examine	npc	Bob Barter (herbs)
-Would you buy a used nature rune from this guy?	あなたはこのやつから つかったしぜん・るーんを かいます？	examine	npc	Murky Matt (runes)
+Would you buy a used nature rune from this guy?	あなたはこのやつから つかったしぜん・ルーンを かいます？	examine	npc	Murky Matt (runes)
 A tribal man, for sure.	ぞくぞくのおとこ、たしかに。	examine	npc	Relobo Blinyo (logs)
 He's travelled a long way.	かれは、なが、みち、たび。	examine	npc	Hofuthand (weapons and armour)
 His music flows like the wind.	かれのおんがくはかぜのようにながれる。	examine	npc	Reshi
@@ -2336,7 +2336,7 @@ An extremely powerful knight of balance.	ずっともりょくなきんこうの
 Tries so hard to fit in, but just can't get it right.	ものすごく うまくいくようとするけど、ただ ただしくいかない。	examine	npc	Lesser Fanatic
 He'll smell it later.	かれは、あとで、においを、かぐ。	examine	npc	The 'Wedge'
 For he has risen to ascendancy!	かれはしょうりにあがった！	examine	npc	Elder Gnome child
-Whatever you do, don't attack her goblins!	あなたがなにをしても、かのじょのごぶりんをこうげきするな！	examine	npc	Two-pints
+Whatever you do, don't attack her goblins!	あなたがなにをしても、かのじょのゴブリンをこうげきするな！	examine	npc	Two-pints
 A promising citizen.	のぞみ、ある、しみん。	examine	npc	Jarr
 Mysterious.	なぞめいた。	examine	npc	Le-sabrè
 He tends to the flax fields.	かれはあまでんを せわする。	examine	npc	Flax keeper
@@ -2426,10 +2426,10 @@ A hairy, smelly, grazing animal.	ぶきぎ、くさい、くらう、どうぶ�
 Like an icecube's big, fat uncle.	あいすきゅーぶのおおきくてふといおじさん。	examine	npc	Iceberg
 A floating chunk of ice.	ういているひのかたまり。	examine	npc	Iceberg
 An impressive-looking troll.	きょすぎる、ようす、トロール。	examine	npc	Ice Troll King
-An ice troll youngling. All brawn and no loot.	あいすとろるのおさなご。すべてのちから。	examine	npc	Frenzied ice troll runt
-A male troll wielding a large club. All brawn and no loot.	おおきなこんぼうをもったおとこのとろる。すべてのちから。	examine	npc	Frenzied ice troll male
-An ice troll with a bag of rocks. All brawn and no loot.	いしのぶくろをもったあいすとろる。すべてのちから。	examine	npc	Frenzied ice troll female
-A large ice troll. All brawn and no loot.	おおきなあいすとろる。すべてのちから。	examine	npc	Frenzied ice troll grunt
+An ice troll youngling. All brawn and no loot.	あいすトロルのおさなご。すべてのちから。	examine	npc	Frenzied ice troll runt
+A male troll wielding a large club. All brawn and no loot.	おおきなこんぼうをもったおとこのトロル。すべてのちから。	examine	npc	Frenzied ice troll male
+An ice troll with a bag of rocks. All brawn and no loot.	いしのぶくろをもったあいすトロル。すべてのちから。	examine	npc	Frenzied ice troll female
+A large ice troll. All brawn and no loot.	おおきなあいすトロル。すべてのちから。	examine	npc	Frenzied ice troll grunt
 Physician to Neitiznot's militia.	ねいてぃずのっとの ぶたいのいしゃ。	examine	npc	Bork Sigmundson
 A master at gardening.	えんげいのあくぶぎょう。	examine	npc	Martin the Master Gardener
 A magical frog.	まほう、かえる。	examine	npc	Frog
@@ -2581,7 +2581,7 @@ A swarm of five highly agile mosquitoes.	ごのすごく ちゅういぶかい�
 An undead victim of some ancient murderous ritual; his skin appears deep green.	こだいなころしのぎしきのしこたみない。そのはだはふかいみどりみたいだ。	examine	npc	Broodoo victim
 An undead victim of some ancient murderous ritual; his skin appears pale yellow.	こだいなころしのぎしきのしこたみない。そのはだはあおぎみたいだ。	examine	npc	Broodoo victim
 An undead victim of some ancient murderous ritual; his skin is pale and drawn.	こだいなころしのぎしきのしこたみない。そのはだはあおくて、ひっぱられている。	examine	npc	Broodoo victim
-A goblin with big bulging eyes.	おおきくてふくらんだめのごぶりん。	examine	npc	Cave goblin
+A goblin with big bulging eyes.	おおきくてふくらんだめのゴブリン。	examine	npc	Cave goblin
 The Master Carpenter who runs Mahogany Homes.	マホガニー、すまい、そしきする、しゃちょう、たくみ。	examine	npc	Amy
 A giant skeleton or a giant's skeleton?	おおきなガイコツ。それともおおきなやつのガイコツ？	examine	npc	Giant skeleton
 A skeleton in a dress!	ドレスをきたガイコツ！	examine	npc	Skeleton
@@ -2649,7 +2649,7 @@ He's supporting 3 small children. Very small children.	かれは みつのちい
 Keeps order in Seers bank.	しーあーずぎんこうのちゅういをたもつ。	examine	npc	Guard
 Keeps order in Seers and Catherby bank.	しーあーずとかぜりばいぎんこうのちゅういをたもつ。	examine	npc	Guard
 Master of all clues.	すべてのあぐのあくぶぎょう。	examine	npc	Sherlock
-A follower of Bandos.	ばんどすのしたがいて。	examine	npc	Bandosian guard
+A follower of Bandos.	バンドスのしたがいて。	examine	npc	Bandosian guard
 The good doctor.	いいいしゃ。	examine	npc	Dr Ford
 She runs a little chapel here.	かのじょはここでちょっぴりしゃぺるをうんえいしている。	examine	npc	Sister Scarophia
 It's dripping with molten lava.	ようかんなもうようがしたたっている。	examine	npc	Lava dragon
@@ -2683,7 +2683,7 @@ Suggests there's a king nearby.	そばにおうがいるとあんじる。	exami
 *cough*	ごホン。	examine	npc	Smoke Devil
 How.... is it walking?	どうやって...あるいている？	examine	npc	Kraken
 Run away! Run aw... wait, it's tiny...	にげて！にげ...あれ、ちいさい...	examine	npc	Penance Pet
-He applied to be the Drunken Dwarf, but failed the intelligence test.	かれはよっぱらったどわーふになるていしゅつしたけど、ちのうてすとにおちた。	examine	npc	Miner
+He applied to be the Drunken Dwarf, but failed the intelligence test.	かれはよっぱらったドワーフになるていしゅつしたけど、ちのうてすとにおちた。	examine	npc	Miner
 Parrot on shoulder... wooden leg... skull and crossbones... yup, definitely a pirate.	かたのうえにおうむ。もくのあし。ほねずい。うん、たしかにかいぞく。	examine	npc	Captain Bentley
 How... is it walking?	どうやって...あるいている？	examine	npc	Kraken
 The lowest maintenance pet you will ever have.	あなたがかつていたもっともてりょうがひくいペット。	examine	npc	Pet rock
@@ -2836,7 +2836,7 @@ One of Glough's tortured creations.	ぐろーのくるしめられたそうぞ�
 He's riding on the back of one of Glough's creations.	かれはぐろーのそうぞうのくびのうえにのっている。	examine	npc	Kruk
 A gnome consumed by his own wrath.	ノーム、じぶんの、いかり、のまれた。	examine	npc	Glough
 Head of the city guard.	あたまのしろばんえい。	examine	npc	Keef
-One of the highest ranking trolls.	さいもこういのとろるのひとり。	examine	npc	Kob
+One of the highest ranking trolls.	さいもこういのトロルのひとり。	examine	npc	Kob
 A high ranking troll.	かい、たかい、トロール。	examine	npc	Kob
 That's a big shadow...	あれはおおきなかげ...	examine	npc	Looming shadow
 A brave adventurer who looks a bit lost.	ちょっぴりまよっているみたいな ゆしゃなぼうけんしゃ。	examine	npc	Kineer
@@ -2849,7 +2849,7 @@ This Gnome is busy applying some kind of pasty material to the cave walls.	こ�
 A member of the 10th squad.	だいじゅったいのいんいん。	examine	npc	Bunkwicket
 Up up and away!	あがるあがるあがるそして あっちへ！	examine	npc	Captain Shoracks
 Distributing weapons to those who need them.	ぶきがひつようなひとにぶきをばいはい。	examine	npc	Briget
-Trades in runes.	るーんであきんど。	examine	npc	Thyria
+Trades in runes.	ルーンであきんど。	examine	npc	Thyria
 Trades in staves.	すたっふであきんど。	examine	npc	Filamina
 It doesn't look like tin foil hats are all they're cracked up to be.	すずはくぼうしはかれらがひびいれるほどすべじゃないみたい。	examine	npc	Maniacal monkey
 Apparently these monkeys can shed their tails to escape danger.	あきらかに、このさるたちはあぶないからのがれるためにおしりをとれる。	examine	npc	Maniacal monkey
@@ -2928,9 +2928,9 @@ This dummy is very susceptible to any sort of combat, and functions as any slaye
 Count Check checks accounts for security.	カウント、チェック、せきんん、あんぜん、ちょうさ。	examine	npc	Count Check
 The apple fell far from the tree.	りんごはきから とおく おちた。	examine	npc	Bologa
 He looks very dangerous.	かれはとてもあぶなそうだ。	examine	npc	Obor
-A warrior of Zamorak.	ざもらくのせんし。	examine	npc	Zamorak warrior
-A ranger of Zamorak.	ざもらくのれんじゃあ。	examine	npc	Zamorak ranger
-A mage of Zamorak.	ざもらくのまじょ。	examine	npc	Zamorak mage
+A warrior of Zamorak.	ザモラクのせんし。	examine	npc	Zamorak warrior
+A ranger of Zamorak.	ザモラクのれんじゃあ。	examine	npc	Zamorak ranger
+A mage of Zamorak.	ザモラクのまじょ。	examine	npc	Zamorak mage
 A cave dweller.	どうくつ、すまい。	examine	npc	Cave lizard
 A representative of the Z.M.I.	ぜっど・えむ・あいの あくむ。	examine	npc	Mage of Zamorak
 A Z.M.I. runecrafter.	ゼット、えむ、あい、ルーン、かじ。	examine	npc	Zamorak crafter
@@ -2946,15 +2946,15 @@ He's gone insane.	かれは、きちがい、なった。	examine	npc	Rakkar
 He was here first.	かれはここに さきにいた。	examine	npc	Hopleez
 Defending Kourend from the lizardman threat.	こうれんどをとかげおとこのおどしからまもっている。	examine	npc	Captain Sdiar
 An entrepreneur to admire.	しょうさんするきぎょうか。	examine	npc	Sandicrahb
-A dwarven researcher and former boatman.	どわーふのけんきゅうしゃでふるいふねのり。	examine	npc	Jardric
+A dwarven researcher and former boatman.	ドワーフのけんきゅうしゃでふるいふねのり。	examine	npc	Jardric
 Need a net? Here's Annette.	あみ、ひつよう？　アネット、ここ。	examine	npc	Annette
 Knows a lot about shields made specifically for Archers.	ゆみし、ため、たてについて、よく、しっている。	examine	npc	Shield master
 A talking Hat!	しゃべる、ぼうし。	examine	npc	Pizazz Hat
 An ancient Guthixian Ent.	ふるい、グーシックス、えんと。	examine	npc	Derwen
 Derwen is sapping its energy.	でるうぇんはそのエネルギーを すいとっている。	examine	npc	Energy ball
-A rage-filled Zamorakian Demon.	ざもらくてきあくでいっぱいになった。	examine	npc	Porazdir
+A rage-filled Zamorakian Demon.	ザモラクてきあくでいっぱいになった。	examine	npc	Porazdir
 Enthusiastic gnome construction engineer.	ねっしん、ノーム、けんせつ、ぎし。	examine	npc	Gnormadium Avlafrim
-A big, scary-looking troll.	おおきくて、こわそうなとろる。	examine	npc	Jelly
+A big, scary-looking troll.	おおきくて、こわそうなトロル。	examine	npc	Jelly
 The most cuddly Spawn of the Guardian in the Deep.	いちばん あたたかいふかき あばるもんのそうせい。	examine	npc	Olmlet
 Taking the fight into enemy territory.	せんそうを てきのりょういくにもっていく。	examine	npc	Soldier
 Formerly a member of Xeric's elite tactical unit.	ぜりっくのえりせんたれたとうたくたいのまえのいんいん。	examine	npc	Vanguard
@@ -3044,7 +3044,7 @@ A strange glyph.	へんなもじ。	examine	npc	Ancestral Glyph
 A lava born creature with healing powers.	いやすちからのあるようかんうまれのいきもの。	examine	npc	Jal-MejJak
 A large rocky column. It looks to be holding up well.	おおきないしのはしらで、かなりもちこたえているみたいだ。	examine	npc	Rocky support
 A large rocky column. It's breaking apart!	おおきい、いし、ちゅう、ばらばら、なっている。	examine	npc	Rocky support
-A dwarf who looks after the mining guild.	こうざんぎるどをせわしているどわーふ。	examine	npc	Dwarf
+A dwarf who looks after the mining guild.	こうざんぎるどをせわしているドワーフ。	examine	npc	Dwarf
 He's in charge of the mining guild.	かれはこうざんぎるどのちゃじがいる。	examine	npc	Gadrin
 He runs the guild's ore shop.	かれはぎるどのあるみせをえんにんしている。	examine	npc	Hendor
 He runs the guild's pickaxe shop.	かれはぎるどのつるはしみせをえんにんしている。	examine	npc	Yarsul
@@ -3128,9 +3128,9 @@ Wonder where he gets the fish from.	かれはどこからぎょをえるのか�
 He wants my money.	かれはぼくのおかねをほしい。	examine	npc	Shop keeper
 Watch your pockets.	あなたのぽけっとをいましめる。	examine	npc	Thief
 Avast!	やめろ。	examine	npc	Pirate
-The ghost of a goblin slain long ago.	ながあいだまえにころされたごぶりんのおばけ。	examine	npc	Revenant goblin
+The ghost of a goblin slain long ago.	ながあいだまえにころされたゴブリンのおばけ。	examine	npc	Revenant goblin
 The ghost of a pyrefiend slain long ago.	ながあいだまえにころされたぴれふぃえんどのおばけ。	examine	npc	Revenant pyrefiend
-The ghost of a hobgoblin slain long ago.	ながあいだまえにころされたほぶごぶりんのおばけ。	examine	npc	Revenant hobgoblin
+The ghost of a hobgoblin slain long ago.	ながあいだまえにころされたほぶゴブリンのおばけ。	examine	npc	Revenant hobgoblin
 The ghost of a cyclops slain long ago.	ながあいだまえにころされたさいくろぷすのおばけ。	examine	npc	Revenant cyclops
 The ghost of a hellhound slain long ago.	ながあいだまえにころされたへるはうんどのおばけ。	examine	npc	Revenant hellhound
 The ghost of a demon slain long ago.	ながあいだまえにころされたあくのおばけ。	examine	npc	Revenant demon
@@ -3162,7 +3162,7 @@ He's just minding his own business.	かれは、ただ、じぶんの、しご�
 First in command: there's an unmistakeable air of authority about him.	さいしょのめいれい。かれのあたりにはあやまたないちゃぶきのけはいがある。	examine	npc	Lord Marshal Brogan
 A large angry ogre lady.	おおきくておこったおーぐれのおんな。	examine	npc	Ogress Warrior
 Big, ugly and no sense of humour.	おおきくて、みにくくて、ユーモアのかんがくはない。	examine	npc	Ogress Shaman
-A follower of Zamorak.	ざもらくのしたがいて。	examine	npc	Elder Chaos druid
+A follower of Zamorak.	ザモラクのしたがいて。	examine	npc	Elder Chaos druid
 Looks like there's something wrong with it.	そこになにかもんだいがあるみたい。	examine	npc	Corrupt Lizardman (hard)
 A retired Shayzien soldier.	りたいしゃいじぇんのへいし。	examine	npc	Phileas Rimor
 A famous skeletal knight.	ゆうめいなガイコツのないと。	examine	npc	Crunchy
@@ -3195,7 +3195,7 @@ An ancient stone automaton.	こだいないしのじどうしゃ。	examine	npc	
 It's got a bone to pick with you.	それはあなたとつかみたいほねがある。	examine	npc	Skeleton
 This is what fear looks like.	これがおそれのみかただ。	examine	npc	Galvek
 That doesn't look good.	それはいいみたいじゃない。	examine	npc	Tsunami
-A researcher from the Varrock Museum.	ばろっくぱくぶつかんからのけんきゅうしゃ。	examine	npc	Dallas Jones
+A researcher from the Varrock Museum.	バロックぱくぶつかんからのけんきゅうしゃ。	examine	npc	Dallas Jones
 Like Bob, but not.	ぼぶのようだけど、そうじゃない。	examine	npc	Not Bob
 She looks dangerous.	かのじょはあぶなそう。	examine	npc	Camorra
 A forgotten hero.	わすられた、えいゆう。	examine	npc	Tristan
@@ -3271,11 +3271,11 @@ Well that's not good.	まあ、それはいいみたいじゃない。	examine	n
 Maybe not all that wise yet, but pretty smart.	たぶん、まだ ぜんぜんかしこくないけど、かなりあたまいい。	examine	npc	Wise Young Man
 A tree-dweller of the icy lands.	こおりのくにのき。すみがいる。	examine	npc	Squirrel
 A visitor from a colder land.	もっとさむいくにからのらいほうしゃ。	examine	npc	Wolfbone
-He's the boss of the trolls of Weiss.	かれはわいすのとろるのあくむだ。	examine	npc	Mother
+He's the boss of the trolls of Weiss.	かれはわいすのトロルのあくむだ。	examine	npc	Mother
 Not a good father.	いいとうさんじゃない。	examine	npc	Mother
-A young troll of Weiss.	わいすのわかいとろる。	examine	npc	Snowflake
-A troll with an unusual capacity for imagination and invention.	そうぞうおうりょくとはっめいのめずらしいようりょくのあるとろる。	examine	npc	Odd Mushroom
-A troll of Weiss.	わいすのとろる。	examine	npc	Don't Know What
+A young troll of Weiss.	わいすのわかいトロル。	examine	npc	Snowflake
+A troll with an unusual capacity for imagination and invention.	そうぞうおうりょくとはっめいのめずらしいようりょくのあるトロル。	examine	npc	Odd Mushroom
+A troll of Weiss.	わいすのトロル。	examine	npc	Don't Know What
 A troll.	トロール。	examine	npc	Troll
 Defenders of Keldagrim.	けるだぐりむのぼうえいて。	examine	npc	Black Guard
 The hat is a dead give away.	ぼうしはあきらかなしょうこだ。	examine	npc	Wizard Cromperty
@@ -3642,16 +3642,16 @@ Wait, have I seen her before?	まって、ぼくは、かのじょを、みた�
 There aren't many adventurers down here. Perhaps she's a rogue one?	ここに、ぼうけんしゃが、あまり、いない。たぶん、かのじょは、あくておおり。	examine	npc	Jyn
 It looks like he's... gone rogue!	そのおとこは...ならずものになった！	examine	npc	c4ssi4n
 Yep, that arrow wound definitely looks like it hurts.	ああ、そのやのきずはたしかにいたみそうだ。	examine	npc	fishrunner82
-Perhaps she should try dodging them instead of sticking to one row.	かのじょはおそらくいちれつにかたしつするだいわりに、それらをかいひしようとおもいうべきだ。	examine	npc	weast side49
-He seems to be struggling with that coffin. He must be having bad RNG.	かれはそのひつぎでかくとうしているようだ。かれはあくいアールえぬじーをもちっているにちがいない。	examine	npc	c0lect0r890
+Perhaps she should try dodging them instead of sticking to one row.	かのじょはおそらくいちれつにかたしつするだいわりに、それらをかいひしようとおもうべきだ。	examine	npc	weast side49
+He seems to be struggling with that coffin. He must be having bad RNG.	かれはそのひつぎでかくとうしているようだ。かれはあくいアールえぬじーをもっているにちがいない。	examine	npc	c0lect0r890
 To what?	なんに？	examine	npc	Owl
 To who?	だれに？	examine	npc	Owl
-She looks to be in charge here.	かのじょはここでせきにんをもちっているようだ。	examine	npc	Noranna Tytanin
+She looks to be in charge here.	かのじょはここでせきにんをもっているようだ。	examine	npc	Noranna Tytanin
 A slave from Meiyerditch. They look dirty and tired!	メイエルディッチからのどれい。かれらはよごれてつかれているようにみえる！	examine	npc	Slave
 A juvinate vampyre. They're keeping an eye on the slaves.	しょうねんヴァンパイア。かれらはどれいをみまもりっている。	examine	npc	Vampyre Juvinate
-What does he know about the queen?	かれはおうじょについてなにをしりっているのか？	examine	npc	Valentin Rasputin
+What does he know about the queen?	かれはおうじょについてなにをしっているのか？	examine	npc	Valentin Rasputin
 His snarl is just so condescending.	かれのうなりこえはほんとうにしょうがないだ。	examine	npc	Von van Von
-I know he's certain we'll fail.	かれがわれ々がうしないやぶれすることをたしかしんしていることをしりっている。	examine	npc	Vlad Bechstein
+I know he's certain we'll fail.	かれがわれ々がうしないやぶれすることをたしかしんしていることをしっている。	examine	npc	Vlad Bechstein
 Don't run, I'm not the sun.	にげるな、あたしはたいようではない。	examine	npc	Draconis Sanguine
 Out. For. A. Walk... Witch!	そとに。のために。あるく。まじょ！	examine	npc	Mort Nightshade
 Red shirt, red eyes... Could he be any more evil?	あかいシャツ、あかいめ。かれはもっとあくいことができるのか？	examine	npc	Vampyrus Diaemus
@@ -3666,13 +3666,13 @@ He walks with a sense of importance... I wonder what he's doing.	かれはじゅ
 I could use a coat like that.	あたしはそのようなコートをつかいうことができる。	examine	npc	Remus Kaninus
 Those boots were made for walking.	それらのブーツはあるきくためにさくられた。	examine	npc	Vallessia Dracyula
 Dressed for the occasion. I don't know what occasion, but she's dressed for it.	そのばしょのためにふくをきている。どのようなばしょかわからないが、かのじょはそれのためにきている。	examine	npc	Violetta Sanguine
-She's got a look in her eyes...	かのじょはそのめにみほうをもちっている。	examine	npc	Diphylla Bechstein
+She's got a look in her eyes...	かのじょはそのめにみほうをもっている。	examine	npc	Diphylla Bechstein
 I wouldn't want to get in her way.	あたしはかのじょのじゃまをしたくない。	examine	npc	Episcula Helsing
 She's got her red dress on tonight.	かのじょはこんやそのあかいドレスをきている。	examine	npc	Vampyressa van Von
 She doesn't look so mean, what's she doing in a city like this?	かのじょはそんなにあくみえないが、かのじょはこのようなとしでなにをしているのか？	examine	npc	Vallessia von Pitt
 Those wings don't look so fierce.	そのはねは、そんなに、おおごとでない。	examine	npc	Vonnetta Varnis
 Without passion, she'd be truly dead.	じょうねつがなければ、かのじょはほんとうにしぬだろう。	examine	npc	Mortina Daubenton
-The people of Darkmeyer really know how to dress.	ダークメイヤーのひと々はほんとうにふくのきほうをしりっている。	examine	npc	Lasenna Rasputin
+The people of Darkmeyer really know how to dress.	ダークメイヤーのひと々はほんとうにふくのきほうをしっている。	examine	npc	Lasenna Rasputin
 Can you what?	あなたはなにができるのか？	examine	npc	Caninelle Draynar
 A red dress. It looks nice!	あかいドレス。みためがいいですね！	examine	npc	Valentina Diaemus
 A member of the Jovkai family.	ジョフカイいえのメンバー。	examine	npc	Nakasa Jovkai
@@ -3686,12 +3686,12 @@ A vampyric bartender.	ぎゃくろう、バーてん。	examine	npc	Despoina Cal
 A vampyric butcher.	ぎゃくろう、ぶたや。	examine	npc	Lenyig Karna
 A vampyric seamstress.	ぎゃくろう、ぬいし。	examine	npc	Varrian Sobak
 They look pale, tired and old!	かれらはあおしろく、つかれて、ねんきりにみえる！	examine	npc	Slave
-A werewolf visiting Darkmeyer.	おおかみおとこ、ダークマイアー、ほうもん。	examine	npc	Werewolf
+A werewolf visiting Darkmeyer.	おおかみおとこ、ダーくまイアー、ほうもん。	examine	npc	Werewolf
 A werewolf working for the vampyres.	ぎゃくろう、ため、はたらく、おおかみおとこ。	examine	npc	Werewolf
-Conducts the Darkmeyer slave auctions.	ダークマイアー、どれい、きゅうばい、しきしゃ。	examine	npc	Auctioneer
+Conducts the Darkmeyer slave auctions.	ダーくまイアー、どれい、きゅうばい、しきしゃ。	examine	npc	Auctioneer
 A pet bloodveld. Cute.	ペット、ちすいび。かわいい。	examine	npc	Frank
 Looking to make the perfect purchase.	かんぺきなこうにゅうをしようとしている。	examine	npc	Spectator
-Looks like the Rat & Bat has another new barkeep.	ネズミとこうもりはべつのしんしいバーキープをもちっているようだ。	examine	npc	Roy
+Looks like the Rat & Bat has another new barkeep.	ネズミとこうもりはべつのしんしいバーキープをもっているようだ。	examine	npc	Roy
 He's looking at that painting with a worrying intensity.	かれはそのえがもいんきょきょうげきしさでみている。	examine	npc	Damien Leucurte
 His strange tattoos seem to shift and move when focused upon.	かれのきみょうなれいじでして、こげてんをあたりてるといどうしているようだ。	examine	npc	Painted One
 He seems like a very angry man.	かれはとてもいかりったおとこのようだ。	examine	npc	Kurt
@@ -3710,7 +3710,7 @@ Pledged to protect Ferox Enclave.	フェロックスエンクレーブをほご�
 Seeking knowledge and answers.	ちしきとこたえをさがしている。	examine	npc	Zamorakian Acolyte
 Looks after the Wilderness Loot Chest.	ウィルダーネスルートチェストのせわをしている。	examine	npc	Skully
 Trying to live a life in these savage lands.	これらののばんなちでじんせいをなまきようとしている。	examine	npc	Refugee
-Let's hope she doesn't have arachnophobia.	かのじょがくもきょうこわいしょうをもちっていないことをねがいおう。	examine	npc	Phabelle Bile
+Let's hope she doesn't have arachnophobia.	かのじょがくもきょうこわいしょうをもっていないことをねがいおう。	examine	npc	Phabelle Bile
 Said to have gone toe to toe with Callisto with just his bear hands.	カリストとくまのてだけでつまさきたいつまさきでたいしょしたといいわれている。	examine	npc	Derse Venator
 Vanquisher of evil and breaker of bones.	あくいもののせいふくものとほねのはかいしゃ。	examine	npc	Andros Mai
 He can look after my money - I hope.	かれはあたしのおかねのせわをすることができます。あたしはねがいう。	examine	npc	Banker
@@ -3763,7 +3763,7 @@ So smol, so anger.	とても、ちいさい、とても、おこった。	examin
 They seem to like the sea's salt.	かれらはうみのしおがすきなようだ。	examine	npc	Crab
 You can't take the sky from me.	あなたはあたしからくうをとりることはできません。	examine	npc	Green fireflies
 It looks like there are some large fish shaped a lot like harpoons in the water.	みずのちゅうにもりのようなでかいさかなのようなかたちがあるようだ。	examine	npc	Fishing spot
-Wonder if he knows the way out?	かれがでぐちのみちをしりっているのかな？	examine	npc	Goblin
+Wonder if he knows the way out?	かれがでぐちのみちをしっているのかな？	examine	npc	Goblin
 Seems to live in here. Must be cold.	ここにすみんでいるようだ。さむいにちがいない。	examine	npc	Goblin
 The water here is bubbling with activity.	ここのみずはかつどうでぶくぶくいっている。	examine	npc	Fishing spot
 Brimming with energy...	エネルギーであふれている。	examine	npc	Inactive spirit pool
@@ -3777,7 +3777,7 @@ His back looks rather crooked from carrying that coffin.	かれのせなかは�
 A zealot who has succumbed to a grizzly undeath.	グリズリーのしのなくことにくつしたきょうしんしゃ。	examine	npc	Undead Zealot
 First Mate of one of the Spirit Anglers' ships.	スピリットアングラーのふねのいちつのさいしょのメイト。	examine	npc	First Mate Deri
 Aww... how adorable! I almost don't want to disturb him.	あああ。どれほどかわいい！あたしはほぼかれをじゃましたくない。	examine	npc	Sheep
-I'm not entirely sure what that monkey is trying to achieve.	あたしはそのさルがなにをたっせいしようとしているのかかんぜんにはかくにんされていない。	examine	npc	Cow
+I'm not entirely sure what that monkey is trying to achieve.	あたしはそのさるがなにをたっせいしようとしているのかかんぜんにはかくにんされていない。	examine	npc	Cow
 Keeps those fish flying.	それらのさかなをとびぶことをほつ。	examine	npc	Cannoneer
 Perhaps the monkey confused it for a... nevermind.	たぶん、さるが、それを、してた、ああ、いいや。	examine	npc	Monkey on unicorn
 Keeps things shipshape!	ものを、ふね、かたち、たもつ。	examine	npc	Sailor
@@ -3793,15 +3793,15 @@ Crewmember of the Desert Trout. Smells like damp pastry.	デザートトラウ�
 Crewmember of the Desert Trout. Busy writing in a thick book.	デザートトラウトのクルーメンバー。あついほんにしょくのにいそがしい。	examine	npc	Lauretta
 A seasoned fisherman, turned fishmonger.	けいけん、ぎょし、ぎょぎょう、なった。	examine	npc	Ishmael
 Small, troublesome, cute.	しょうさい、やっかい、かわいい。	examine	npc	JalRek-Jad
-He has a challenge for you.	かれはあなたのためのチャレンジをもちっている。	examine	npc	TzHaar-Ket-Rak
+He has a challenge for you.	かれはあなたのためのチャレンジをもっている。	examine	npc	TzHaar-Ket-Rak
 The shadow of a shooting star.	りゅうれほしのかげ。	examine	npc	Shadow
-He has a keen interest in stars.	かれはほしにするどいきょうみをもちっている。	examine	npc	Dusuri
+He has a keen interest in stars.	かれはほしにするどいきょうみをもっている。	examine	npc	Dusuri
 A shiny, happy star sprite.	こうたくのある、さちせなほしのスプライト。	examine	npc	Star Sprite
 He guards the Shantay Pass.	かれはシャンティパスをまもりっている。	examine	npc	Shantay Guard
 The guardian of this ancient ruin.	このふるいいせきのほごもの。	examine	npc	Ancient Guardian
 A shifty looking gal.	あやしい、ようすの、おんな。	examine	npc	Willow
 Looks a little down on his luck.	かれのはこびにちょっとおちこみんでいるようだ。	examine	npc	Marley
-He has muscles on top of muscles.	かれはすじにくのじょうにすじにくをもちっている。	examine	npc	Checkal
+He has muscles on top of muscles.	かれはすじにくのじょうにすじにくをもっている。	examine	npc	Checkal
 He looks like he could hold up the sky.	かれはくうをほつことができるようにみえる。	examine	npc	Atlas
 A master of anything explosive.	なにでもばくはつせいのたつじん。	examine	npc	Burntof
 A shifty looking guy.	あやしい、ようすの、やつ。	examine	npc	Marley
@@ -3830,28 +3830,28 @@ She roams free.	かのじょはじゆうにあるきかいる。	examine	npc	Str
 Freed from her torturous constraints.	かのじょのにがいしいせいやくからときはなし。	examine	npc	Lil' Maiden
 Smaller size, same smell.	ちいさい、さいず、おなじ、におい。	examine	npc	Lil' Bloat
 Eight legs of unparalleled loyalty.	くらべるいのないなちゅうせいの8ほんのあし。	examine	npc	Lil' Nylo
-Has a lot of anger for such a small monster.	そのようなしょうさいモンスターのためにおおいくのいかりをもちっている。	examine	npc	Lil' Sot
+Has a lot of anger for such a small monster.	そのようなしょうさいモンスターのためにおおいくのいかりをもっている。	examine	npc	Lil' Sot
 The prince of Yarasa.	ヤラサのおうじ。	examine	npc	Lil' Xarp
 One of Verzik's slightly larger pets.	ヴェルジクのわずかにだいきいペットのいちつ。	examine	npc	Nylocas Prinkipas
 The only son of Lord Trobin Arceuus.	ロードトロビンアルセウスのゆいいつのむすこ。	examine	npc	Asteros Arceuus
-He seems to have a lot to say.	かれはいいうべきことがたくさんあるようだ。	examine	npc	Martin Holt
+He seems to have a lot to say.	かれはいうべきことがたくさんあるようだ。	examine	npc	Martin Holt
 Leader of Kourend's Royal Society.	クーレンドのロイヤルソサエティのリーダー。	examine	npc	Martin Holt
-She seems to have a lot to say.	かのじょはいいうべきことがたくさんあるようだ。	examine	npc	Protest Leader
+She seems to have a lot to say.	かのじょはいうべきことがたくさんあるようだ。	examine	npc	Protest Leader
 He looks angry.	かれみえるおこった。	examine	npc	Protester
 She looks angry.	かのじょみえるおこった。	examine	npc	Protester
 Keeping an eye on the protest.	こうぎをみまもりっている。	examine	npc	Guard
 Keeps the peace.	へいわ、たもつ。	examine	npc	Guard
 Leader of the Kourend Royal Guard.	クーレンドロイヤルガードのリーダー。	examine	npc	Commander Fullore
-He has an air of authority about him.	かれはかれについてけんいのくうきをもちっている。	examine	npc	Councillor Andrews
-He has no authority here.	かれはここにけんいをもちっていない。	examine	npc	David Andrews
+He has an air of authority about him.	かれはかれについてけんいのくうきをもっている。	examine	npc	Councillor Andrews
+He has no authority here.	かれはここにけんいをもっていない。	examine	npc	David Andrews
 Veos' cabin boy.	ベオス、こうろうしょ。	examine	npc	Cabin Boy Herbert
 She summons demons as a hobby.	かのじょはしゅみとしてあくまをしょうかんする。	examine	npc	Sophia Hughes
 In the name of Yama, you will be judged.	ヤマのなにおいて、あなたははんだんされるだろう。	examine	npc	Judge of Yama
 Here comes the heat!	ねつう、がくる。	examine	npc	Fire Wave
 Has a habit of killing people.	ひとをころしすならながある。	examine	npc	Assassin
-He has a look of concern to him.	かれはかれへのしんぱいなみほうをもちっている。	examine	npc	Councillor Orson
+He has a look of concern to him.	かれはかれへのしんぱいなみほうをもっている。	examine	npc	Councillor Orson
 Oh dear... he's dead.	ああ、わかりました。かれはしんでいます。	examine	npc	Councillor Orson
-If evil had a look, this would be it.	あくいことがみほうをもちっていれば、これはそれになるだろう。	examine	npc	Xamphur
+If evil had a look, this would be it.	あくいことがみほうをもっていれば、これはそれになるだろう。	examine	npc	Xamphur
 Need a hand?	てをひつようとしていますか？	examine	npc	Phantom Hand
 Once a councillor, now just a prisoner.	むかしは、ぎぎいん、いま、ただ、ろうや。	examine	npc	Kubec Unkar
 A member of the Kourend Council.	クーレンドかいぎのメンバー。	examine	npc	Councillor Unkar
@@ -3878,7 +3878,7 @@ Osten's assistant. She sells the latest Shayzien fashion.	オステンのおて�
 Looks like he's changed a barrel or two in his time.	かれはかれのじかんにいちつかにつのたるをかえているようだ。	examine	npc	Oswald
 She helps run the bar.	かのじょはばーをはしるのをたすける。	examine	npc	Sheryl
 A soldier of Shayzien.	シャイジエンのへいし。	examine	npc	Soldier
-I think he's had one too many.	かれはあまりにもおおいくのものをもちっていたとおもう。	examine	npc	Drunken soldier
+I think he's had one too many.	かれはあまりにもおおいくのものをもっていたとおもう。	examine	npc	Drunken soldier
 A Shayzien soldier.	シャイジエンのへいし。	examine	npc	Soldier
 She looks a bit worried.	かのじょはちょっとしんぱいそうにみえる。	examine	npc	Mia
 An experienced gardener.	えきけん、えんていし。	examine	npc	Elijah
@@ -3891,7 +3891,7 @@ She loves the forest.	かのじょはもりがすきだ。	examine	npc	Jessie
 A bandit hiding within the Shayzia Ruin.	シャイジア、はいきゃく、ないぶ、かくれた、ぞくめいぶ。	examine	npc	Bandit
 That's one nasty looking piggy.	あれ、いやそうな、ぶただ。	examine	npc	Boar
 Who's a good kitty?	だれがいいねこなのか？	examine	npc	Lynx
-Master of the lynx.	オオヤマネコのマスター。	examine	npc	Lynx Tamer
+Master of the lynx.	オオヤマねこのマスター。	examine	npc	Lynx Tamer
 Ready to defend Kourend.	クーレンドをまもるようにじゅんびができた。	examine	npc	Soldier
 The other soldiers won't be messing around with her about.	ほかのへいしはかのじょについてじゃれないだろう。	examine	npc	Sergeant
 Soon he'll be able to hit a kalphite larva at 100 paces.	すぐにかれはひゃくかっぽでカルファイトようちゅうをうつことができるだろう。	examine	npc	Ranger
@@ -3970,7 +3970,7 @@ An elemental rune guardian infused with a small amount of energy.	すこしり�
 An elemental rune guardian infused with a moderate amount of energy.	ちゅうていどのエネルギーをそそいりしたようそルーンガーディアン。	examine	npc	Medium elemental guardian
 An elemental rune guardian infused with a high amount of energy.	こういエネルギーをそそいりしたようそルーンガーディアン。	examine	npc	Strong elemental guardian
 An elemental rune guardian infused with an immense amount of energy.	ばくだいなエネルギーをそそいりしたようそルーンガーディアン。	examine	npc	Overcharged elemental guardian
-Archmage of the Order of Wizards.	ウィザードのちつじょのアルクマージ。	examine	npc	Archmage Sedridor
+Archmage of the Order of Wizards.	ウィザードのちつじょのアルくまージ。	examine	npc	Archmage Sedridor
 An out of place wizard.	ばしょのそとれたウィザード。	examine	npc	Wizard Persten
 An expert on teleportation magic.	テレポーテーションまじゅつのえきもん。	examine	npc	Wizard Persten
 An excited looking apprentice.	よろこぶ、ようすの、でし。	examine	npc	Apprentice Tamara
@@ -4036,7 +4036,7 @@ It needs a lot more water.	それはもっともっとみずがひつようだ�
 It needs more water.	それはもっとみずがひつようだ。	examine	npc	Palm of Resourcefulness
 It needs a bit more water.	それはもっとちょっとみずがひつようだ。	examine	npc	Palm of Resourcefulness
 A healthy and nourished palm.	けんこうでえいようのあるヤシ。	examine	npc	Palm of Resourcefulness
-It looks to be glimmering slightly.	それはかすかにかがやきいているようだ。	examine	npc	Het's Seal (protected)
+It looks to be glimmering slightly.	それはかすかにかがやいているようだ。	examine	npc	Het's Seal (protected)
 The cracks are starting to show.	ひびがみえはじめている。	examine	npc	Het's Seal (weakened)
 A magical orb.	まほう、きゅう。	examine	npc	Orb of Darkness
 An undead baboon brawler.	ゾンビ、ひひ、けんかや。	examine	npc	Baboon Brawler
@@ -4071,7 +4071,7 @@ A phantom of Zebak.	ゼバクのゆうれい。	examine	npc	Zebak's Phantom
 A phantom of Ba-Ba.	バババのゆうれい。	examine	npc	Ba-Ba's Phantom
 A phantom of Kephri.	ケプリのゆうれい。	examine	npc	Kephri's Phantom
 A phantom of Akkha.	アッハのゆうれい。	examine	npc	Akkha's Phantom
-A big ol' monke.	だいきいさル。	examine	npc	Ba-Ba
+A big ol' monke.	だいきいさる。	examine	npc	Ba-Ba
 An undead baboon.	ゾンビ、ひひ。	examine	npc	Baboon
 I should stop examining this and get out of the way!	あたしはこれをしらべるのをやめてじゃまからでるべきだ！	examine	npc	Boulder
 This place needs a clean...	このばしょはきれいなことがひつようだ。	examine	npc	Rubble
@@ -4149,7 +4149,7 @@ Looks... safe?	みえる...あんぜん？	examine	npc	Floating Column
 Where did this soul come from?	このたましいはどこからきたのか？	examine	npc	Lost Soul
 An unfathomably huge sea creature.	はかりしれないほどおおきなうみのなまきもの。	examine	npc	The Leviathan
 Is this many or one?	これはたくさんですかそれともいちつですか？	examine	npc	Tail
-Has an aura around it that seems to be safe.	あんぜんなようなオーラをそのまわりにもちっている。	examine	npc	Abyssal pathfinder
+Has an aura around it that seems to be safe.	あんぜんなようなオーラをそのまわりにもっている。	examine	npc	Abyssal pathfinder
 Is that really it?	それはほんとうにそれなのか？	examine	npc	The Leviathan?
 How does he suck blood now?	かれはどのようにいまちをすうのか？	examine	npc	Vardorvis
 What in sweet goodness grief?	あまいしんせつなひしみにおいてなに？	examine	npc	Large Tendril
@@ -4260,9 +4260,9 @@ The least milkable cow I've ever seen.	さいしょ、にゅうしぼり、う�
 An archer from a faraway land, come to test their skills.	とおいくにからのいて、かれらのスキルをテストするためにきた。	examine	npc	Fremennik warband archer
 A seer from a faraway land, come to test their skills.	とおいくにからのしんばし、かれらのスキルをテストするためにきた。	examine	npc	Fremennik warband seer
 A warrior from a faraway land, come to test their skills.	とおいくにからのせんし、かれらのスキルをテストするためにきた。	examine	npc	Fremennik warband berserker
-At least he brought a loincloth.	すこしなくともかれはふんどしをもちってきた。	examine	npc	Javelin Colossus
+At least he brought a loincloth.	すこしなくともかれはふんどしをもってきた。	examine	npc	Javelin Colossus
 He's smiling at you!	かれはあなたにびわらいんでいます！	examine	npc	Manticore
-If he had a theme song, it'd probably go with everything.	かれがテーマソングをもちっていたなら、それはおそらくすべてといっしょにいきくだろう。	examine	npc	Shockwave Colossus
+If he had a theme song, it'd probably go with everything.	かれがテーマソングをもっていたなら、それはおそらくすべてといっしょにいきくだろう。	examine	npc	Shockwave Colossus
 Its stompin' time!	そのふみつけじかん！	examine	npc	Sol Heredit
 A small but deadly foe.	ちいさいがしてもてき。	examine	npc	Doom Scorpion
 Not the bees!	ミツバチではない！	examine	npc	Bee Swarm
@@ -4289,7 +4289,7 @@ A guardian of the Teomat.	テオマットのまもりて。	examine	npc	Guard
 A pretty water feature.	きれいなみずのきのう。	examine	npc	Fountain
 Oh no!	あああ!	examine	npc	Injured hunter
 He'll be back hunting in no time.	かれはすぐにかりにもどりるだろう。	examine	npc	Guild Hunter Fox
-She knows a thing or two about fabrics.	かのじょはきじについていくつかのことをしりっている。	examine	npc	Atza
+She knows a thing or two about fabrics.	かのじょはきじについていくつかのことをしっている。	examine	npc	Atza
 Grey, round, and oddly squeaky.	はいいろ、まるい、そしてきみょうにきしむ。	examine	npc	Guild Hunter Kiko
 A completely well-adjusted farmer.	まったく、うまくいった、のうふ。	examine	npc	Marcellus
 A rather large frog.	すこし、おおきい、かえる。	examine	npc	Frog
@@ -4357,8 +4357,8 @@ A master of her craft!	かのじょのてくぎのマスター！	examine	npc	Or
 Those paws weren't made for sewing...	そのて、ぬう、ため、つくられなかった。	examine	npc	Orsaga's chinchompa
 This one doesn't look happy to see me.	このもはあたしをみることをうれしくなさそうだ。	examine	npc	Pyre fox
 Hop, skip, and... hunt?	ぴょん、スキップ、そしてかり。	examine	npc	Embertailed jerboa
-Knows a thing or two about rock.	いわについていくつかのことをしりっている。	examine	npc	Metla
-She looks like she knows her way around a rock or two.	かのじょはかのじょがいわのまわりにかのじょのみちをしりっているようにみえる。	examine	npc	Avinia
+Knows a thing or two about rock.	いわについていくつかのことをしっている。	examine	npc	Metla
+She looks like she knows her way around a rock or two.	かのじょはかのじょがいわのまわりにかのじょのみちをしっているようにみえる。	examine	npc	Avinia
 Maybe they take requests.	かれらはリクエストをとりるかもしれない。	examine	npc	Bard
 Working hard, or hardly working?	くろうしごとまたはほぼしごとをしていないのか？	examine	npc	Worker
 I wonder what his siblings are called...	かれのきょうだいがなにとよびばれているのか？	examine	npc	Ru Merald
@@ -4400,7 +4400,7 @@ Her goods can keep you warm.	かのじょのしなものはあなたをあたた
 He likes them shiny.	かれはぴかぴかしたものがすきだ。	examine	npc	Gem Merchant
 Serving spices ranging from mild to 'I can't feel my tongue!'	マイルドから「あたしはあたしのしたをかんじることはできません！」までのはんいのあじをていきょうする。	examine	npc	Spice Merchant
 Who doesn't like a good loaf of bread?	だれがいいパンのラッフをすきではない？	examine	npc	Baker
-Has everything you need to get your hands dirty.	あなたのてをよごれすためにひつようなすべてをもちっている。	examine	npc	Agelus
+Has everything you need to get your hands dirty.	あなたのてをよごれすためにひつようなすべてをもっている。	examine	npc	Agelus
 She'll get you properly dressed up.	かのじょはあなたをてきせつにふくをきさせるだろう。	examine	npc	Floria
 Is he wearing an orange as a hat?	かれはぼうとしてみかんをかぶっているのか？	examine	npc	Cobado
 She can help you with all your crafting needs.	かのじょはあなたのすべてのてくぎニーズをたすけることができます。	examine	npc	Artima
@@ -4427,11 +4427,11 @@ Are they real or is it just my imagination?	かれらはほんとうですか、
 Do they really exist?	かれらは、ほんとう、いるのか？	examine	npc	Ethereal Being
 Patchy the pirate.	パッチ、かいぞく。	examine	npc	Mac
 A battle-hardened hero.	たたかい、みがいた、えいゆう。	examine	npc	Robert the Strong
-The leader of the Dagon'hai, also known as the Dark Squall.	ダゴンハイのリーダー、ダークスコールとしてもしりられている。	examine	npc	Surok Magis
+The leader of the Dagon'hai, also known as the Dark Squall.	ダゴンハイのリーダー、ダークスコールとしてもしられている。	examine	npc	Surok Magis
 A warrior who has devoted their life to Armadyl.	かれらのじんせいをアルマディルにささげたせんし。	examine	npc	Guardian of Armadyl
 The keeper of keys, cursed and bound to protect the Arceuus Family.	キーのキーパー、のろいわれてアルセウスかぞくをほごするためにむすびあわせ。	examine	npc	Patchy
 A dodgy guy with a sack. Doesn't say much.	ふくろをもちつかいしいおとこ。あまりいいわない。	examine	npc	Jack Frost
-An extremely dangerous, emaciated, ape-like creature with beady red eyes.	きょくめてきけんで、やせたさルのようななまきもの、こうたくのあるあかいめで。	examine	npc	Cave abomination
+An extremely dangerous, emaciated, ape-like creature with beady red eyes.	きょくめてきけんで、やせたさるのようななまきもの、こうたくのあるあかいめで。	examine	npc	Cave abomination
 Son of Santa, mildly bored.	サンタのむすこ、ほのかにあきた。	examine	npc	Key Master
 The guildmaster of the Warriors' Guild.	せんしギルドのギルドマスター。	examine	npc	Harrallak Menarous
 A powerful warrior from the Warriors' Guild.	せんしギルドからのきょうりょくなせんし。	examine	npc	Ghommal
@@ -4521,7 +4521,7 @@ Servant of the sacred flame. Capable of herblore.	ゆうせいなほのおのし
 An expert in tomatoes, growing pumpkins for a change.	トマトのえきもん、へんかのためにかぼちゃをそだてている。	examine	npc	Marika
 A local lover of food.	しょくべものじもとのあいし。	examine	npc	Emelio
 The editor for the Colosseum.	ころっせうむ、へんしゅう。	examine	npc	Lelia
-She knows a thing or two about being a farmer.	かのじょはのうふであることについていくつかのことをしりっている。	examine	npc	Alba
+She knows a thing or two about being a farmer.	かのじょはのうふであることについていくつかのことをしっている。	examine	npc	Alba
 He's here to try Emelio's kebabs.	かれはエメリオのケバブをためしすためにここにいる。	examine	npc	Lucas
 She's here to try Emelio's kebabs.	かのじょはエメリオのケバブをためしすためにここにいる。	examine	npc	Renata
 Tells you what's happening in the Colosseum.	コロッセウムでなにがおきているのかをあなたにつたえる。	examine	npc	Colosseum Announcer

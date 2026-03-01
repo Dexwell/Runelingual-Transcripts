@@ -1515,7 +1515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="190">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">もり</xliff:target>
+        <xliff:target state="translated">もりをぶっこむ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Harpoon
@@ -1539,7 +1539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="193">
         <xliff:source>Shrimps</xliff:source>
-        <xliff:target state="translated">エビ</xliff:target>
+        <xliff:target state="translated">えび</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shrimps
@@ -1547,7 +1547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="194">
         <xliff:source>Raw shrimps</xliff:source>
-        <xliff:target state="translated">なまエビ</xliff:target>
+        <xliff:target state="translated">なまえび</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw shrimps
@@ -1595,7 +1595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="200">
         <xliff:source>Salmon</xliff:source>
-        <xliff:target state="translated">サケ</xliff:target>
+        <xliff:target state="translated">さけ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Salmon
@@ -1603,7 +1603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="201">
         <xliff:source>Raw salmon</xliff:source>
-        <xliff:target state="translated">なまのサケ</xliff:target>
+        <xliff:target state="translated">なまのさけ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw salmon
@@ -1707,7 +1707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="214">
         <xliff:source>Raw tuna</xliff:source>
-        <xliff:target state="translated">なまのマグロ</xliff:target>
+        <xliff:target state="translated">なまのまぐろ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw tuna
@@ -1715,7 +1715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="215">
         <xliff:source>Tuna</xliff:source>
-        <xliff:target state="translated">マグロ</xliff:target>
+        <xliff:target state="translated">まぐろ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tuna
@@ -3587,7 +3587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="449">
         <xliff:source>Message</xliff:source>
-        <xliff:target state="translated">てがみ</xliff:target>
+        <xliff:target state="translated">メッセージをおくる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Message
@@ -4595,7 +4595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="575">
         <xliff:source>Skull</xliff:source>
-        <xliff:target state="translated">ずがいこつ</xliff:target>
+        <xliff:target state="translated">どくろをえらぶ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Skull
@@ -5451,7 +5451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="682">
         <xliff:source>Bronze kiteshield</xliff:source>
-        <xliff:target state="translated">せいどうのタコたて</xliff:target>
+        <xliff:target state="translated">せいどうのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze kiteshield
@@ -5459,7 +5459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="683">
         <xliff:source>Iron kiteshield</xliff:source>
-        <xliff:target state="translated">てつのタコたて</xliff:target>
+        <xliff:target state="translated">てつのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron kiteshield
@@ -5467,7 +5467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="684">
         <xliff:source>Steel kiteshield</xliff:source>
-        <xliff:target state="translated">こうてつのタコたて</xliff:target>
+        <xliff:target state="translated">こうてつのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel kiteshield
@@ -5475,7 +5475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="685">
         <xliff:source>Black kiteshield</xliff:source>
-        <xliff:target state="translated">くろがねのタコたて</xliff:target>
+        <xliff:target state="translated">くろがねのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black kiteshield
@@ -5483,7 +5483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="686">
         <xliff:source>Mithril kiteshield</xliff:source>
-        <xliff:target state="translated">ミスリルのタコたて</xliff:target>
+        <xliff:target state="translated">ミスリルのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril kiteshield
@@ -5491,7 +5491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="687">
         <xliff:source>Adamant kiteshield</xliff:source>
-        <xliff:target state="translated">アダマントのタコたて</xliff:target>
+        <xliff:target state="translated">アダマントのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamant kiteshield
@@ -5499,7 +5499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="688">
         <xliff:source>Rune kiteshield</xliff:source>
-        <xliff:target state="translated">ルーンのタコたて</xliff:target>
+        <xliff:target state="translated">ルーンのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune kiteshield
@@ -6555,7 +6555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="820">
         <xliff:source>Sea slug</xliff:source>
-        <xliff:target state="translated">ウミウシ</xliff:target>
+        <xliff:target state="translated">ウミうし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sea slug
@@ -6651,7 +6651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="832">
         <xliff:source>Witch's cat</xliff:source>
-        <xliff:target state="translated">まじょのネコ</xliff:target>
+        <xliff:target state="translated">まじょのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Witch's cat
@@ -6851,7 +6851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="857">
         <xliff:source>Lockpick</xliff:source>
-        <xliff:target state="translated">ピッキングどうぐ</xliff:target>
+        <xliff:target state="translated">ろっくぴっくる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lockpick
@@ -7867,7 +7867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="984">
         <xliff:source>Unfired pie dish</xliff:source>
-        <xliff:target state="translated">みしょうせいのパイさら</xliff:target>
+        <xliff:target state="translated">みしょう せい の ぱい さら</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unfired pie dish
@@ -8555,7 +8555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1070">
         <xliff:source>Jug</xliff:source>
-        <xliff:target state="translated">みずさしし</xliff:target>
+        <xliff:target state="translated">みずさし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jug
@@ -9195,7 +9195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1150">
         <xliff:source>Raw bear meat</xliff:source>
-        <xliff:target state="translated">なまのクマにく</xliff:target>
+        <xliff:target state="translated">なまのくまにく</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw bear meat
@@ -9307,7 +9307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1164">
         <xliff:source>King worm</xliff:source>
-        <xliff:target state="translated">おうさまミミズ</xliff:target>
+        <xliff:target state="translated">おうさまミみず</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: King worm
@@ -9955,7 +9955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1245">
         <xliff:source>Hammer</xliff:source>
-        <xliff:target state="translated">ハンマー</xliff:target>
+        <xliff:target state="translated">かなづちでうつ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hammer
@@ -10955,7 +10955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1370">
         <xliff:source>Watch</xliff:source>
-        <xliff:target state="translated">ながめる</xliff:target>
+        <xliff:target state="translated">みる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watch
@@ -11019,7 +11019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1378">
         <xliff:source>Black kiteshield (t)</xliff:source>
-        <xliff:target state="translated">くろがねのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">くろがねのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black kiteshield (t)
@@ -11051,7 +11051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1382">
         <xliff:source>Black kiteshield (g)</xliff:source>
-        <xliff:target state="translated">くろがねのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">くろがねのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black kiteshield (g)
@@ -11075,7 +11075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1385">
         <xliff:source>Adamant kiteshield (t)</xliff:source>
-        <xliff:target state="translated">アダマントのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">アダマントのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamant kiteshield (t)
@@ -11107,7 +11107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1389">
         <xliff:source>Adamant kiteshield (g)</xliff:source>
-        <xliff:target state="translated">アダマントのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">アダマントのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamant kiteshield (g)
@@ -11147,7 +11147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1394">
         <xliff:source>Rune kiteshield (g)</xliff:source>
-        <xliff:target state="translated">ルーンのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">ルーンのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune kiteshield (g)
@@ -11179,7 +11179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1398">
         <xliff:source>Rune kiteshield (t)</xliff:source>
-        <xliff:target state="translated">ルーンのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">ルーンのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune kiteshield (t)
@@ -11299,7 +11299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1413">
         <xliff:source>Zamorak kiteshield</xliff:source>
-        <xliff:target state="translated">ザモラックのタコたて</xliff:target>
+        <xliff:target state="translated">ザモラックのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Zamorak kiteshield
@@ -11331,7 +11331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1417">
         <xliff:source>Saradomin kiteshield</xliff:source>
-        <xliff:target state="translated">サラドミンのタコたて</xliff:target>
+        <xliff:target state="translated">サラドミンのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saradomin kiteshield
@@ -11363,7 +11363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1421">
         <xliff:source>Guthix kiteshield</xliff:source>
-        <xliff:target state="translated">ガシックスのタコたて</xliff:target>
+        <xliff:target state="translated">ガシックスのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Guthix kiteshield
@@ -12931,7 +12931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1617">
         <xliff:source>Raw rabbit</xliff:source>
-        <xliff:target state="translated">なまのウサギ</xliff:target>
+        <xliff:target state="translated">なまのうさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw rabbit
@@ -12939,7 +12939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1618">
         <xliff:source>Cooked rabbit</xliff:source>
-        <xliff:target state="translated">やきけたウサギ</xliff:target>
+        <xliff:target state="translated">やきけたうさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cooked rabbit
@@ -13019,7 +13019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1628">
         <xliff:source>Watchman</xliff:source>
-        <xliff:target state="translated">みはりりひと</xliff:target>
+        <xliff:target state="translated">みはりひと</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watchman
@@ -13867,7 +13867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1734">
         <xliff:source>Gilded kiteshield</xliff:source>
-        <xliff:target state="translated">おうごんのタコたて</xliff:target>
+        <xliff:target state="translated">おうごんのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gilded kiteshield
@@ -14683,7 +14683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1836">
         <xliff:source>Manual</xliff:source>
-        <xliff:target state="translated">マニュアル</xliff:target>
+        <xliff:target state="translated">しゅどう</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Manual
@@ -15147,7 +15147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1894">
         <xliff:source>Decorative shield</xliff:source>
-        <xliff:target state="translated">そうしょくされたタコたて</xliff:target>
+        <xliff:target state="translated">そうしょくされたたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Decorative shield
@@ -15627,7 +15627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1954">
         <xliff:source>Earmuffs</xliff:source>
-        <xliff:target state="translated">みみあてて</xliff:target>
+        <xliff:target state="translated">みみあて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Earmuffs
@@ -16923,7 +16923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2116">
         <xliff:source>Chicken cage</xliff:source>
-        <xliff:target state="translated">ニワトリのおり</xliff:target>
+        <xliff:target state="translated">にわとりのおり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chicken cage
@@ -17107,7 +17107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2139">
         <xliff:source>Giant frog legs</xliff:source>
-        <xliff:target state="translated">きょだいなカエルのあし</xliff:target>
+        <xliff:target state="translated">きょだいなかえるのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Giant frog legs
@@ -17235,7 +17235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2155">
         <xliff:source>Blue sweets</xliff:source>
-        <xliff:target state="translated">あおいアメ&lt;</xliff:target>
+        <xliff:target state="translated">あおいアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blue sweets
@@ -17251,7 +17251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2157">
         <xliff:source>White sweets</xliff:source>
-        <xliff:target state="translated">しろいアメ&lt;</xliff:target>
+        <xliff:target state="translated">しろいアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: White sweets
@@ -17259,7 +17259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2158">
         <xliff:source>Purple sweets</xliff:source>
-        <xliff:target state="translated">むらさきのアメ&lt;</xliff:target>
+        <xliff:target state="translated">むらさきのアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Purple sweets
@@ -17267,7 +17267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2159">
         <xliff:source>Red sweets</xliff:source>
-        <xliff:target state="translated">あかいアメ&lt;</xliff:target>
+        <xliff:target state="translated">あかいアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Red sweets
@@ -17275,7 +17275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2160">
         <xliff:source>Green sweets</xliff:source>
-        <xliff:target state="translated">みどりのアメ&lt;</xliff:target>
+        <xliff:target state="translated">みどりのアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Green sweets
@@ -17283,7 +17283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2161">
         <xliff:source>Pink sweets</xliff:source>
-        <xliff:target state="translated">ピンクのアメ&lt;</xliff:target>
+        <xliff:target state="translated">ピンクのアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pink sweets
@@ -17299,7 +17299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2163">
         <xliff:source>Rubber chicken</xliff:source>
-        <xliff:target state="translated">ゴムのニワトリ</xliff:target>
+        <xliff:target state="translated">ゴムのにわとり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rubber chicken
@@ -17667,7 +17667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2209">
         <xliff:source>Fire</xliff:source>
-        <xliff:target state="translated">ひ</xliff:target>
+        <xliff:target state="translated">ひをつける</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fire
@@ -17771,7 +17771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2222">
         <xliff:source>Catspeak amulet</xliff:source>
-        <xliff:target state="translated">ネコはなしのアミュレット</xliff:target>
+        <xliff:target state="translated">ねこはなしのアミュレット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Catspeak amulet
@@ -19427,7 +19427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2429">
         <xliff:source>Frog spawn</xliff:source>
-        <xliff:target state="translated">カエルのはらこ</xliff:target>
+        <xliff:target state="translated">かえるのはらこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog spawn
@@ -19635,7 +19635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2455">
         <xliff:source>Sea snake</xliff:source>
-        <xliff:target state="translated">ウミヘビ</xliff:target>
+        <xliff:target state="translated">ウミへび</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sea snake
@@ -19747,7 +19747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2469">
         <xliff:source>Seeds</xliff:source>
-        <xliff:target state="translated">たね</xliff:target>
+        <xliff:target state="translated">たねをだす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Seeds
@@ -20011,7 +20011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2502">
         <xliff:source>Acorn</xliff:source>
-        <xliff:target state="translated">どんぐり</xliff:target>
+        <xliff:target state="translated">エイコーン</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Acorn
@@ -20219,7 +20219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2528">
         <xliff:source>Rake</xliff:source>
-        <xliff:target state="translated">くまで</xliff:target>
+        <xliff:target state="translated">くまでをつかう</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rake
@@ -21331,7 +21331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2667">
         <xliff:source>Gear</xliff:source>
-        <xliff:target state="translated">はぐるま</xliff:target>
+        <xliff:target state="translated">ぐそくをえらぶ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gear
@@ -21339,7 +21339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2668">
         <xliff:source>Tiles</xliff:source>
-        <xliff:target state="translated">タイル</xliff:target>
+        <xliff:target state="translated">タイルズ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tiles
@@ -21483,7 +21483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2686">
         <xliff:source>Chicken</xliff:source>
-        <xliff:target state="translated">ニワトリ</xliff:target>
+        <xliff:target state="translated">にわとり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chicken
@@ -24187,7 +24187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3024">
         <xliff:source>Frog token</xliff:source>
-        <xliff:target state="translated">カエルのトークン</xliff:target>
+        <xliff:target state="translated">かえるのトークン</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog token
@@ -24195,7 +24195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3025">
         <xliff:source>Royal frog tunic</xliff:source>
-        <xliff:target state="translated">おうけカエルのうわぎ</xliff:target>
+        <xliff:target state="translated">おうけかえるのうわぎ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Royal frog tunic
@@ -24203,7 +24203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3026">
         <xliff:source>Royal frog leggings</xliff:source>
-        <xliff:target state="translated">おうけカエルのレギンス</xliff:target>
+        <xliff:target state="translated">おうけかえるのレギンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Royal frog leggings
@@ -24211,7 +24211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3027">
         <xliff:source>Royal frog blouse</xliff:source>
-        <xliff:target state="translated">おうけカエルのブラウス</xliff:target>
+        <xliff:target state="translated">おうけかえるのブラウス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Royal frog blouse
@@ -24219,7 +24219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3028">
         <xliff:source>Royal frog skirt</xliff:source>
-        <xliff:target state="translated">おうけカエルのスカート</xliff:target>
+        <xliff:target state="translated">おうけかえるのスカート</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Royal frog skirt
@@ -24227,7 +24227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3029">
         <xliff:source>Frog mask</xliff:source>
-        <xliff:target state="translated">カエルのかめん</xliff:target>
+        <xliff:target state="translated">かえるのかめん</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog mask
@@ -25043,7 +25043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3131">
         <xliff:source>Catspeak amulet(e)</xliff:source>
-        <xliff:target state="translated">ネコはなしのアミュレット（まほう）</xliff:target>
+        <xliff:target state="translated">ねこはなしのアミュレット（まほう）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Catspeak amulet(e)
@@ -25083,7 +25083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3136">
         <xliff:source>Lazy cat</xliff:source>
-        <xliff:target state="translated">たいだなネコ</xliff:target>
+        <xliff:target state="translated">たいだなねこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lazy cat
@@ -25091,7 +25091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3137">
         <xliff:source>Wily cat</xliff:source>
-        <xliff:target state="translated">ずるけんいネコ</xliff:target>
+        <xliff:target state="translated">ずるけんいねこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Wily cat
@@ -25387,7 +25387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3174">
         <xliff:source>White kiteshield</xliff:source>
-        <xliff:target state="translated">はくてつのタコたて</xliff:target>
+        <xliff:target state="translated">はくてつのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: White kiteshield
@@ -25763,7 +25763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3221">
         <xliff:source>Baked potato</xliff:source>
-        <xliff:target state="translated">やきいたジャガイモ</xliff:target>
+        <xliff:target state="translated">やいたジャガイモ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Baked potato
@@ -26059,7 +26059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3258">
         <xliff:source>Cat antipoison</xliff:source>
-        <xliff:target state="translated">ネコのげどくざい</xliff:target>
+        <xliff:target state="translated">ねこのげどくざい</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cat antipoison
@@ -26747,7 +26747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3344">
         <xliff:source>Sand</xliff:source>
-        <xliff:target state="translated">すな</xliff:target>
+        <xliff:target state="translated">すなをまく</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sand
@@ -26779,7 +26779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3348">
         <xliff:source>Roll</xliff:source>
-        <xliff:target state="translated">ロールバン</xliff:target>
+        <xliff:target state="translated">ころがりがす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Roll
@@ -27259,7 +27259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3408">
         <xliff:source>Plunder</xliff:source>
-        <xliff:target state="translated">りゃくだつひん</xliff:target>
+        <xliff:target state="translated">あたらしいむねをぶんどる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Plunder
@@ -27531,7 +27531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3442">
         <xliff:source>Burnt rabbit</xliff:source>
-        <xliff:target state="translated">こげたウサギ</xliff:target>
+        <xliff:target state="translated">こげたうさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Burnt rabbit
@@ -27539,7 +27539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3443">
         <xliff:source>Roast rabbit</xliff:source>
-        <xliff:target state="translated">やきウサギ</xliff:target>
+        <xliff:target state="translated">やきうさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Roast rabbit
@@ -27547,7 +27547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3444">
         <xliff:source>Skewered rabbit</xliff:source>
-        <xliff:target state="translated">ウサギのくし</xliff:target>
+        <xliff:target state="translated">うさぎのくし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Skewered rabbit
@@ -28291,7 +28291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3537">
         <xliff:source>Book on chickens</xliff:source>
-        <xliff:target state="translated">ニワトリにかんするほん</xliff:target>
+        <xliff:target state="translated">にわとりにかんするほん</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Book on chickens
@@ -28355,7 +28355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3545">
         <xliff:source>Evil chicken's egg</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリのたまご</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとりのたまご</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Evil chicken's egg
@@ -28595,7 +28595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3575">
         <xliff:source>Crab meat</xliff:source>
-        <xliff:target state="translated">なまのカニにく</xliff:target>
+        <xliff:target state="translated">なまのかににく</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crab meat
@@ -28603,7 +28603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3576">
         <xliff:source>Burnt crab meat</xliff:source>
-        <xliff:target state="translated">こげたカニにく</xliff:target>
+        <xliff:target state="translated">こげたかににく</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Burnt crab meat
@@ -28611,7 +28611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3577">
         <xliff:source>Cooked crab meat</xliff:source>
-        <xliff:target state="translated">やきけたカニにく</xliff:target>
+        <xliff:target state="translated">やきけたかににく</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cooked crab meat
@@ -28619,7 +28619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3578">
         <xliff:source>Ground crab meat</xliff:source>
-        <xliff:target state="translated">ひかれたカニにく</xliff:target>
+        <xliff:target state="translated">ひかれたかににく</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ground crab meat
@@ -28683,7 +28683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3586">
         <xliff:source>Fresh crab claw</xliff:source>
-        <xliff:target state="translated">しんせんなカニのかぎづめ</xliff:target>
+        <xliff:target state="translated">しんせんなかにのかぎづめ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fresh crab claw
@@ -28691,7 +28691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3587">
         <xliff:source>Crab claw</xliff:source>
-        <xliff:target state="translated">カニのかぎづめ</xliff:target>
+        <xliff:target state="translated">かにのかぎづめ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crab claw
@@ -28699,7 +28699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3588">
         <xliff:source>Fresh crab shell</xliff:source>
-        <xliff:target state="translated">しんせんなカニのから</xliff:target>
+        <xliff:target state="translated">しんせんなかにのから</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fresh crab shell
@@ -28707,7 +28707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3589">
         <xliff:source>Crab helmet</xliff:source>
-        <xliff:target state="translated">カニのかぶと</xliff:target>
+        <xliff:target state="translated">かにのかぶと</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crab helmet
@@ -28715,7 +28715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3590">
         <xliff:source>Broken crab claw</xliff:source>
-        <xliff:target state="translated">わりれたカニのかぎづめ</xliff:target>
+        <xliff:target state="translated">わりれたかにのかぎづめ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Broken crab claw
@@ -28723,7 +28723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3591">
         <xliff:source>Broken crab shell</xliff:source>
-        <xliff:target state="translated">わりれたカニのから</xliff:target>
+        <xliff:target state="translated">わりれたかにのから</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Broken crab shell
@@ -28835,7 +28835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3605">
         <xliff:source>Snake corpse</xliff:source>
-        <xliff:target state="translated">ヘビのしがい</xliff:target>
+        <xliff:target state="translated">へびのしがい</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Snake corpse
@@ -28867,7 +28867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3609">
         <xliff:source>Snake over-cooked</xliff:source>
-        <xliff:target state="translated">やきかぎたヘビ</xliff:target>
+        <xliff:target state="translated">やきかぎたへび</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Snake over-cooked
@@ -28891,7 +28891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3612">
         <xliff:source>Hell-kitten</xliff:source>
-        <xliff:target state="translated">ヘル・コネコ</xliff:target>
+        <xliff:target state="translated">ヘル・コねこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hell-kitten
@@ -29251,7 +29251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3657">
         <xliff:source>Hoop</xliff:source>
-        <xliff:target state="translated">フープ</xliff:target>
+        <xliff:target state="translated">ふープをなげる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hoop
@@ -29411,7 +29411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3677">
         <xliff:source>Toy cat</xliff:source>
-        <xliff:target state="translated">おもちゃのネコ</xliff:target>
+        <xliff:target state="translated">おもちゃのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Toy cat
@@ -29587,7 +29587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3699">
         <xliff:source>Bear ribs</xliff:source>
-        <xliff:target state="translated">クマのあばらほね</xliff:target>
+        <xliff:target state="translated">くまのあばらほね</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bear ribs
@@ -29707,7 +29707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3714">
         <xliff:source>Snake spine</xliff:source>
-        <xliff:target state="translated">ヘビのせぼね</xliff:target>
+        <xliff:target state="translated">へびのせぼね</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Snake spine
@@ -29803,7 +29803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3726">
         <xliff:source>Rabbit bone</xliff:source>
-        <xliff:target state="translated">ウサギのほね</xliff:target>
+        <xliff:target state="translated">うさぎのほね</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rabbit bone
@@ -29835,7 +29835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3730">
         <xliff:source>Big frog leg</xliff:source>
-        <xliff:target state="translated">だいきなカエルのあし</xliff:target>
+        <xliff:target state="translated">だいきなかえるのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Big frog leg
@@ -29995,7 +29995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3750">
         <xliff:source>Burnt shrimp</xliff:source>
-        <xliff:target state="translated">こげたエビ</xliff:target>
+        <xliff:target state="translated">こげたえび</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Burnt shrimp
@@ -30635,7 +30635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3830">
         <xliff:source>Shaving stand</xliff:source>
-        <xliff:target state="translated">ひげそりりスタンド</xliff:target>
+        <xliff:target state="translated">ひげそりスタンド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shaving stand
@@ -30643,7 +30643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3831">
         <xliff:source>Oak shaving stand</xliff:source>
-        <xliff:target state="translated">かしのひげそりりスタンド</xliff:target>
+        <xliff:target state="translated">かしのひげそりスタンド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak shaving stand
@@ -31123,7 +31123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3891">
         <xliff:source>Kite shield</xliff:source>
-        <xliff:target state="translated">タコたて</xliff:target>
+        <xliff:target state="translated">たこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Kite shield
@@ -31979,7 +31979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3998">
         <xliff:source>Firepit with pot</xliff:source>
-        <xliff:target state="translated">なべつききひばち</xliff:target>
+        <xliff:target state="translated">なべつきひばち</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Firepit with pot
@@ -32123,7 +32123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4016">
         <xliff:source>Cat blanket</xliff:source>
-        <xliff:target state="translated">ネコのもうふ</xliff:target>
+        <xliff:target state="translated">ねこのもうふ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cat blanket
@@ -32131,7 +32131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4017">
         <xliff:source>Cat basket</xliff:source>
-        <xliff:target state="translated">ネコのバスケット</xliff:target>
+        <xliff:target state="translated">ねこのバスケット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cat basket
@@ -32523,7 +32523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4066">
         <xliff:source>Oak armchair</xliff:source>
-        <xliff:target state="translated">かしのひじかけけいす</xliff:target>
+        <xliff:target state="translated">かしのひじかけいす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak armchair
@@ -32531,7 +32531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4067">
         <xliff:source>Teak armchair</xliff:source>
-        <xliff:target state="translated">チークのひじかけけいす</xliff:target>
+        <xliff:target state="translated">チークのひじかけいす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak armchair
@@ -32539,7 +32539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4068">
         <xliff:source>Mahogany armchair</xliff:source>
-        <xliff:target state="translated">マホガニーのひじかけけいす</xliff:target>
+        <xliff:target state="translated">マホガニーのひじかけいす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany armchair
@@ -33219,7 +33219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4153">
         <xliff:source>Study</xliff:source>
-        <xliff:target state="translated">べんきょうべや</xliff:target>
+        <xliff:target state="translated">しらべる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Study
@@ -33443,7 +33443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4181">
         <xliff:source>Crude chair</xliff:source>
-        <xliff:target state="translated">そまつないす</xliff:target>
+        <xliff:target state="translated"> そまつないす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crude chair
@@ -33955,7 +33955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4245">
         <xliff:source>Crabclaw hook</xliff:source>
-        <xliff:target state="translated">カニつめのフック</xliff:target>
+        <xliff:target state="translated">かにつめのフック</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crabclaw hook
@@ -34931,7 +34931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4367">
         <xliff:source>Blurite bolts</xliff:source>
-        <xliff:target state="translated">ブルライトのボルト</xliff:target>
+        <xliff:target state="translated"> ブルライトのボルト</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blurite bolts
@@ -35483,7 +35483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4436">
         <xliff:source>Grapple</xliff:source>
-        <xliff:target state="translated">とらえまる</xliff:target>
+        <xliff:target state="translated">よじのぼる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Grapple
@@ -35891,7 +35891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4487">
         <xliff:source>Hazelmere's book</xliff:source>
-        <xliff:target state="translated">ヘイゼルミアのほん</xliff:target>
+        <xliff:target state="translated"> ヘイゼルミアのほん</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hazelmere's book
@@ -36363,7 +36363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4546">
         <xliff:source>Sea slug glue</xliff:source>
-        <xliff:target state="translated">ウミウシのノリ</xliff:target>
+        <xliff:target state="translated">ウミうしのノリ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sea slug glue
@@ -36387,7 +36387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4549">
         <xliff:source>Dead sea slug</xliff:source>
-        <xliff:target state="translated">しんだウミウシ</xliff:target>
+        <xliff:target state="translated">しんだウミうし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dead sea slug
@@ -37867,7 +37867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4734">
         <xliff:source>Rabbit</xliff:source>
-        <xliff:target state="translated">ウサギ</xliff:target>
+        <xliff:target state="translated">うさぎ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rabbit
@@ -38107,7 +38107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4764">
         <xliff:source>Rabbit snare</xliff:source>
-        <xliff:target state="translated">ウサギのわな</xliff:target>
+        <xliff:target state="translated">うさぎのわな</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rabbit snare
@@ -38515,7 +38515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4815">
         <xliff:source>Strung rabbit foot</xliff:source>
-        <xliff:target state="translated">ひもがついたウサギのあし</xliff:target>
+        <xliff:target state="translated">ひもがついたうさぎのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Strung rabbit foot
@@ -38523,7 +38523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4816">
         <xliff:source>Rabbit foot</xliff:source>
-        <xliff:target state="translated">ウサギのあし</xliff:target>
+        <xliff:target state="translated">うさぎのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rabbit foot
@@ -39027,7 +39027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4879">
         <xliff:source>3rd age kiteshield</xliff:source>
-        <xliff:target state="translated">だい3きのタコたて</xliff:target>
+        <xliff:target state="translated">だい3きのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age kiteshield
@@ -39523,7 +39523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4941">
         <xliff:source>Undead chicken</xliff:source>
-        <xliff:target state="translated">アンデッドのニワトリ</xliff:target>
+        <xliff:target state="translated">アンデッドのにわとり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Undead chicken
@@ -40571,7 +40571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5072">
         <xliff:source>Wooden cat</xliff:source>
-        <xliff:target state="translated">もくせいのネコ</xliff:target>
+        <xliff:target state="translated">もくせいのねこ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Wooden cat
@@ -40819,7 +40819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5103">
         <xliff:source>Frog-leather body</xliff:source>
-        <xliff:target state="translated">カエルかわのボディ</xliff:target>
+        <xliff:target state="translated">かえるかわのボディ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog-leather body
@@ -40827,7 +40827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5104">
         <xliff:source>Frog-leather chaps</xliff:source>
-        <xliff:target state="translated">カエルかわのチャップス</xliff:target>
+        <xliff:target state="translated">かえるかわのチャップス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog-leather chaps
@@ -40835,7 +40835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5105">
         <xliff:source>Frog-leather boots</xliff:source>
-        <xliff:target state="translated">カエルかわのくつ</xliff:target>
+        <xliff:target state="translated">かえるかわのくつ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog-leather boots
@@ -40867,7 +40867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5109">
         <xliff:source>Coated frogs' legs</xliff:source>
-        <xliff:target state="translated">コーティングされたカエルのあし</xliff:target>
+        <xliff:target state="translated">コーティングされたかえるのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Coated frogs' legs
@@ -40899,7 +40899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5113">
         <xliff:source>Roast frog</xliff:source>
-        <xliff:target state="translated">やきカエル</xliff:target>
+        <xliff:target state="translated">やきかえる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Roast frog
@@ -41171,7 +41171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5147">
         <xliff:source>Chicken feet</xliff:source>
-        <xliff:target state="translated">ニワトリのあし</xliff:target>
+        <xliff:target state="translated">にわとりのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chicken feet
@@ -41179,7 +41179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5148">
         <xliff:source>Chicken wings</xliff:source>
-        <xliff:target state="translated">ニワトリのつばさ</xliff:target>
+        <xliff:target state="translated">にわとりのつばさ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chicken wings
@@ -41187,7 +41187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5149">
         <xliff:source>Chicken head</xliff:source>
-        <xliff:target state="translated">ニワトリのあたま</xliff:target>
+        <xliff:target state="translated">にわとりのあたま</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chicken head
@@ -41195,7 +41195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5150">
         <xliff:source>Chicken legs</xliff:source>
-        <xliff:target state="translated">ニワトリのあし</xliff:target>
+        <xliff:target state="translated">にわとりのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chicken legs
@@ -41211,7 +41211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5152">
         <xliff:source>Rabbit mould</xliff:source>
-        <xliff:target state="translated">ウサギのいがた</xliff:target>
+        <xliff:target state="translated">うさぎのいがた</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rabbit mould
@@ -42275,7 +42275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5285">
         <xliff:source>Leaping salmon</xliff:source>
-        <xliff:target state="translated">とびサケ</xliff:target>
+        <xliff:target state="translated">とびさけ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Leaping salmon
@@ -44403,7 +44403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5551">
         <xliff:source>Raw dark crab</xliff:source>
-        <xliff:target state="translated">なまのあんこくのカニ</xliff:target>
+        <xliff:target state="translated">なまのあんこくのかに</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw dark crab
@@ -44411,7 +44411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5552">
         <xliff:source>Dark crab</xliff:source>
-        <xliff:target state="translated">あんこくのカニ</xliff:target>
+        <xliff:target state="translated">あんこくのかに</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dark crab
@@ -44419,7 +44419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5553">
         <xliff:source>Burnt dark crab</xliff:source>
-        <xliff:target state="translated">こげたあんこくのカニ</xliff:target>
+        <xliff:target state="translated">こげたあんこくのかに</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Burnt dark crab
@@ -44899,7 +44899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5613">
         <xliff:source>Bronze kiteshield (g)</xliff:source>
-        <xliff:target state="translated">せいどうのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">せいどうのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze kiteshield (g)
@@ -44939,7 +44939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5618">
         <xliff:source>Bronze kiteshield (t)</xliff:source>
-        <xliff:target state="translated">せいどうのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">せいどうのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze kiteshield (t)
@@ -44979,7 +44979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5623">
         <xliff:source>Iron kiteshield (t)</xliff:source>
-        <xliff:target state="translated">てつのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">てつのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron kiteshield (t)
@@ -45019,7 +45019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5628">
         <xliff:source>Iron kiteshield (g)</xliff:source>
-        <xliff:target state="translated">てつのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">てつのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron kiteshield (g)
@@ -45171,7 +45171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5647">
         <xliff:source>Mithril kiteshield (g)</xliff:source>
-        <xliff:target state="translated">ミスリルのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">ミスリルのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril kiteshield (g)
@@ -45211,7 +45211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5652">
         <xliff:source>Mithril kiteshield (t)</xliff:source>
-        <xliff:target state="translated">ミスリルのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">ミスリルのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril kiteshield (t)
@@ -45491,7 +45491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5687">
         <xliff:source>Cat mask</xliff:source>
-        <xliff:target state="translated">ネコのマスク</xliff:target>
+        <xliff:target state="translated">ねこのマスク</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cat mask
@@ -46003,7 +46003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5751">
         <xliff:source>Ancient kiteshield</xliff:source>
-        <xliff:target state="translated">こだいのタコたて</xliff:target>
+        <xliff:target state="translated">こだいのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ancient kiteshield
@@ -46043,7 +46043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5756">
         <xliff:source>Armadyl kiteshield</xliff:source>
-        <xliff:target state="translated">アーマディルのタコたて</xliff:target>
+        <xliff:target state="translated">アーマディルのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Armadyl kiteshield
@@ -46083,7 +46083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5761">
         <xliff:source>Bandos kiteshield</xliff:source>
-        <xliff:target state="translated">バンドスのタコたて</xliff:target>
+        <xliff:target state="translated">バンドスのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bandos kiteshield
@@ -49219,7 +49219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6153">
         <xliff:source>Bunny feet</xliff:source>
-        <xliff:target state="translated">ウサギあし</xliff:target>
+        <xliff:target state="translated">うさぎあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bunny feet
@@ -49819,7 +49819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6228">
         <xliff:source>Deadman's chest</xliff:source>
-        <xliff:target state="translated">デッドマンのチェスト</xliff:target>
+        <xliff:target state="translated">デッドマン の むね よろい</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Deadman's chest
@@ -50763,7 +50763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6346">
         <xliff:source>Ensouled bear head</xliff:source>
-        <xliff:target state="translated">たましいやどりるクマのあたま</xliff:target>
+        <xliff:target state="translated">たましいやどりるくまのあたま</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ensouled bear head
@@ -51443,7 +51443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6431">
         <xliff:source>Bunny top</xliff:source>
-        <xliff:target state="translated">ウサギのトップ</xliff:target>
+        <xliff:target state="translated">うさぎのトップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bunny top
@@ -51451,7 +51451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6432">
         <xliff:source>Bunny legs</xliff:source>
-        <xliff:target state="translated">ウサギのレッグ</xliff:target>
+        <xliff:target state="translated">うさぎのレッグ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bunny legs
@@ -51459,7 +51459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6433">
         <xliff:source>Bunny paws</xliff:source>
-        <xliff:target state="translated">ウサギのあし</xliff:target>
+        <xliff:target state="translated">うさぎのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bunny paws
@@ -53131,7 +53131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6642">
         <xliff:source>Steel kiteshield (g)</xliff:source>
-        <xliff:target state="translated">こうてつのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">こうてつのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel kiteshield (g)
@@ -53171,7 +53171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6647">
         <xliff:source>Steel kiteshield (t)</xliff:source>
-        <xliff:target state="translated">こうてつのタコたて（えん）</xliff:target>
+        <xliff:target state="translated">こうてつのたこたて（えん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel kiteshield (t)
@@ -53531,7 +53531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6692">
         <xliff:source>Evil chicken feet</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリのあし</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとりのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Evil chicken feet
@@ -53539,7 +53539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6693">
         <xliff:source>Evil chicken wings</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリのつばさ</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとりのつばさ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Evil chicken wings
@@ -53547,7 +53547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6694">
         <xliff:source>Evil chicken head</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリのあたま</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとりのあたま</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Evil chicken head
@@ -53555,7 +53555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6695">
         <xliff:source>Evil chicken legs</xliff:source>
-        <xliff:target state="translated">じゃあくなニワトリのあし</xliff:target>
+        <xliff:target state="translated">じゃあくなにわとりのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Evil chicken legs
@@ -53739,7 +53739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6718">
         <xliff:source>Decorative shield (broken)</xliff:source>
-        <xliff:target state="translated">そうしょくのタコたて（こわし）</xliff:target>
+        <xliff:target state="translated">そうしょくのたこたて（こわし）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Decorative shield (broken)
@@ -54883,7 +54883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6861">
         <xliff:source>Corrupted kiteshield</xliff:source>
-        <xliff:target state="translated">へんいしたタコたて</xliff:target>
+        <xliff:target state="translated">へんいしたたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Corrupted kiteshield
@@ -57851,7 +57851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7232">
         <xliff:source>Hoop snake</xliff:source>
-        <xliff:target state="translated">わのヘビ</xliff:target>
+        <xliff:target state="translated">わのへび</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hoop snake
@@ -58763,7 +58763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7346">
         <xliff:source>Dragon kiteshield</xliff:source>
-        <xliff:target state="translated">りゅうてつのタコたて</xliff:target>
+        <xliff:target state="translated">りゅうてつのたこたて</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon kiteshield
@@ -59563,7 +59563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7446">
         <xliff:source>Dragon kiteshield ornament kit</xliff:source>
-        <xliff:target state="translated">りゅうてつのタコたてのそうしょくキット</xliff:target>
+        <xliff:target state="translated">りゅうてつのたこたてのそうしょくキット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon kiteshield ornament kit
@@ -59579,7 +59579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7448">
         <xliff:source>Dragon kiteshield (g)</xliff:source>
-        <xliff:target state="translated">りゅうてつのタコたて（きん）</xliff:target>
+        <xliff:target state="translated">りゅうてつのたこたて（きん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon kiteshield (g)
@@ -60579,7 +60579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7573">
         <xliff:source>Te salt</xliff:source>
-        <xliff:target state="translated">テしお</xliff:target>
+        <xliff:target state="translated">てしお</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Te salt
@@ -60595,7 +60595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7575">
         <xliff:source>Urt salt</xliff:source>
-        <xliff:target state="translated">ウルトしお</xliff:target>
+        <xliff:target state="translated">うるとしお</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Urt salt
@@ -62355,7 +62355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7795">
         <xliff:source>Frog slippers</xliff:source>
-        <xliff:target state="translated">カエルのスリッパ</xliff:target>
+        <xliff:target state="translated">かえるのスリッパ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Frog slippers
@@ -62363,7 +62363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7796">
         <xliff:source>Bear feet</xliff:source>
-        <xliff:target state="translated">クマのあし</xliff:target>
+        <xliff:target state="translated">くまのあし</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bear feet
@@ -62539,7 +62539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7818">
         <xliff:source>Staff of bob the cat</xliff:source>
-        <xliff:target state="translated">ネコのボブのつえ</xliff:target>
+        <xliff:target state="translated">ねこのボブのつえ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Staff of bob the cat
@@ -64555,7 +64555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8070">
         <xliff:source>Decorative shield (l)</xliff:source>
-        <xliff:target state="translated">そうしょくのタコたて（ほ）</xliff:target>
+        <xliff:target state="translated">そうしょくのたこたて（ほ）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Decorative shield (l)
@@ -64987,7 +64987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8124">
         <xliff:source>Wilderness crabs teleport</xliff:source>
-        <xliff:target state="translated">ウィルダネスカニ・ワープ</xliff:target>
+        <xliff:target state="translated">ウィルダネスかに・ワープ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Wilderness crabs teleport
@@ -72379,7 +72379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9048">
         <xliff:source>Saika's hood (broken)</xliff:source>
-        <xliff:target state="translated">サイカのフード（こわし）</xliff:target>
+        <xliff:target state="translated">サいかのフード（こわし）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's hood (broken)
@@ -72387,7 +72387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9049">
         <xliff:source>Saika's veil (broken)</xliff:source>
-        <xliff:target state="translated">サイカのベール（は）</xliff:target>
+        <xliff:target state="translated">サいかのベール（は）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's veil (broken)
@@ -72395,7 +72395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9050">
         <xliff:source>Saika's shroud (broken)</xliff:source>
-        <xliff:target state="translated">サイカのシュラウド（はそん）</xliff:target>
+        <xliff:target state="translated">サいかのシュラウド（はそん）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's shroud (broken)
@@ -72611,7 +72611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9077">
         <xliff:source>Saika's hood</xliff:source>
-        <xliff:target state="translated">サイカのフード</xliff:target>
+        <xliff:target state="translated">サいかのフード</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's hood
@@ -72619,7 +72619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9078">
         <xliff:source>Saika's hood (l)</xliff:source>
-        <xliff:target state="translated">サイカのフード（ほ）</xliff:target>
+        <xliff:target state="translated">サいかのフード（ほ）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's hood (l)
@@ -72627,7 +72627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9079">
         <xliff:source>Saika's veil</xliff:source>
-        <xliff:target state="translated">サイカのベール</xliff:target>
+        <xliff:target state="translated">サいかのベール</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's veil
@@ -72635,7 +72635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9080">
         <xliff:source>Saika's veil (l)</xliff:source>
-        <xliff:target state="translated">サイカのベール（ほ）</xliff:target>
+        <xliff:target state="translated">サいかのベール（ほ）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's veil (l)
@@ -72643,7 +72643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9081">
         <xliff:source>Saika's shroud</xliff:source>
-        <xliff:target state="translated">サイカのシュラウド</xliff:target>
+        <xliff:target state="translated">サいかのシュラウド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's shroud
@@ -72651,7 +72651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9082">
         <xliff:source>Saika's shroud (l)</xliff:source>
-        <xliff:target state="translated">サイカのシュラウド（ほ）</xliff:target>
+        <xliff:target state="translated">サいかのシュラウド（ほ）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saika's shroud (l)
@@ -73491,7 +73491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9187">
         <xliff:source>Washing line</xliff:source>
-        <xliff:target state="translated">せんたくほししのロープ</xliff:target>
+        <xliff:target state="translated">せんたくほしのロープ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Washing line
@@ -75683,7 +75683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9461">
         <xliff:source>Voidwaker hilt</xliff:source>
-        <xliff:target state="translated">ボイドウェイカーのえ</xliff:target>
+        <xliff:target state="translated">ボイドウェいかーのえ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Voidwaker hilt
@@ -75691,7 +75691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9462">
         <xliff:source>Voidwaker blade</xliff:source>
-        <xliff:target state="translated">ボイドウェイカーのやいば</xliff:target>
+        <xliff:target state="translated">ボイドウェいかーのやいば</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Voidwaker blade
@@ -75699,7 +75699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9463">
         <xliff:source>Voidwaker gem</xliff:source>
-        <xliff:target state="translated">ボイドウェイカーのほうせき</xliff:target>
+        <xliff:target state="translated">ボイドウェいかーのほうせき</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Voidwaker gem
@@ -75707,7 +75707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9464">
         <xliff:source>Voidwaker</xliff:source>
-        <xliff:target state="translated">ボイドウェイカー</xliff:target>
+        <xliff:target state="translated">ボイドウェいかー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Voidwaker
@@ -75771,7 +75771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9472">
         <xliff:source>Bob the cat slippers</xliff:source>
-        <xliff:target state="translated">ネコのボブのスリッパ</xliff:target>
+        <xliff:target state="translated">ねこのボブのスリッパ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bob the cat slippers
@@ -78403,7 +78403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9801">
         <xliff:source>Sigil of the well-fed</xliff:source>
-        <xliff:target state="translated">よくしょくべるものまほういん</xliff:target>
+        <xliff:target state="translated">よくたべるものまほういん</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sigil of the well-fed
@@ -78491,7 +78491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9812">
         <xliff:source>Corrupted voidwaker</xliff:source>
-        <xliff:target state="translated">へんいしたボイドウェイカー</xliff:target>
+        <xliff:target state="translated">へんいしたボイドウェいかー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Corrupted voidwaker
@@ -80475,7 +80475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10060">
         <xliff:source>Sunlight moth mix (2)</xliff:source>
-        <xliff:target state="translated">にっこうガのミックス (2)</xliff:target>
+        <xliff:target state="translated">にっこうがのミックス (2)</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sunlight moth mix (2)
@@ -80483,7 +80483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10061">
         <xliff:source>Moonlight moth mix (2)</xliff:source>
-        <xliff:target state="translated">げっこうガのミックス (2)</xliff:target>
+        <xliff:target state="translated">げっこうがのミックス (2)</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Moonlight moth mix (2)
@@ -80523,7 +80523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10066">
         <xliff:source>Sunlight moth mix (1)</xliff:source>
-        <xliff:target state="translated">にっこうガのミックス (1)</xliff:target>
+        <xliff:target state="translated">にっこうがのミックス (1)</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sunlight moth mix (1)
@@ -80531,7 +80531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10067">
         <xliff:source>Moonlight moth mix (1)</xliff:source>
-        <xliff:target state="translated">げっこうガのミックス (1)</xliff:target>
+        <xliff:target state="translated">げっこうがのミックス (1)</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Moonlight moth mix (1)
@@ -80691,7 +80691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10087">
         <xliff:source>Sunlight moth wing</xliff:source>
-        <xliff:target state="translated">にっこうガのはね</xliff:target>
+        <xliff:target state="translated">にっこうがのはね</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sunlight moth wing
@@ -80715,7 +80715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10090">
         <xliff:source>Moonlight moth wing</xliff:source>
-        <xliff:target state="translated">げっこうガのはね</xliff:target>
+        <xliff:target state="translated">げっこうがのはね</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Moonlight moth wing
@@ -81702,7 +81702,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Armadyl godsword (deadman)
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29605</xliff:note></xliff:trans-unit><xliff:trans-unit id="10244"><xliff:source>Voidwaker (deadman)</xliff:source>
-        <xliff:target state="translated">ボイドウェイカー（デッドマン）</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ボイドウェいかー（デッドマン）</xliff:target><xliff:note>category: name
 sub_category: item
 source: Voidwaker (deadman)
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29607</xliff:note></xliff:trans-unit><xliff:trans-unit id="10245"><xliff:source>Volatile nightmare staff (deadman)</xliff:source>

@@ -493,7 +493,7 @@ Swings	ふりわたしる	name	object	Swings
 Washing line	せんたくほしのロープ	name	object	Washing line
 Toy bricks	おもちゃのレンガ	name	object	Toy bricks
 Toy weapons	おもちゃのぶき	name	object	Toy weapons
-Cat basket	ネコのバスケット	name	object	Cat basket
+Cat basket	ねこのバスケット	name	object	Cat basket
 Bunkbed	にだんベッド	name	object	Bunkbed
 Dolls and balls	にんぎょうとボール	name	object	Dolls and balls
 Sword in stone	いしのちゅうのけん	name	object	Sword in stone
@@ -1020,7 +1020,7 @@ Wooden Obstruction	もくせいのしょうがいぶつ	name	object	Wooden Obstr
 Contortion Bars	ゆがみきょくしたてつのぼう	name	object	Contortion Bars
 Spin Blades	かいころがりするやいば	name	object	Spin Blades
 Fox	キツネ	name	object	Fox
-Chicken	ニワトリ	name	object	Chicken
+Chicken	にわとり	name	object	Chicken
 Grain	こくもつ	name	object	Grain
 Empty Sack	くうのふくろ	name	object	Empty Sack
 Precarious bridge	ふあんていなはし	name	object	Precarious bridge
@@ -1323,7 +1323,7 @@ Pillar of Light	ひかりのはしら	name	object	Pillar of Light
 Final Pillar	さいごのはしら	name	object	Final Pillar
 Mausoleum	れいびょう	name	object	Mausoleum
 Grand Exchange booth	グランド・エクスチェンジのブース	name	object	Grand Exchange booth
-Staff of Bob the Cat	ネコのボブのしたがいぎょういん	name	object	Staff of Bob the Cat
+Staff of Bob the Cat	ねこのボブのしたがいぎょういん	name	object	Staff of Bob the Cat
 Copper rocks	どうのいわ	name	object	Copper rocks
 Tin rocks	スズのいわ	name	object	Tin rocks
 Ominous Fishing Spot	ふきつなつりば	name	object	Ominous Fishing Spot
@@ -1517,7 +1517,7 @@ Fairy fountain	ようせいのふんすい	name	object	Fairy fountain
 Fairy Queen	ようせいのじょおう	name	object	Fairy Queen
 Fairy Queen throne	ようせいのじょおうのおうざ	name	object	Fairy Queen throne
 Godfather throne	くびりょうのざ	name	object	Godfather throne
-Chicken Shrine	ニワトリのせいどう	name	object	Chicken Shrine
+Chicken Shrine	にわとりのせいどう	name	object	Chicken Shrine
 G.A.G. banner	G.A.G. バナー	name	object	G.A.G. banner
 Dairy Cow	ちちうし	name	object	Dairy Cow
 Cow wheel	うしのかいしくるま	name	object	Cow wheel
@@ -1754,7 +1754,7 @@ Hanging	ぶらしたがったもの	name	object	Hanging
 Decoration	そうしょく	name	object	Decoration
 Window space	まどスペース	name	object	Window space
 Round shield	まるいたて	name	object	Round shield
-Kite shield	タコたて	name	object	Kite shield
+Kite shield	たこたて	name	object	Kite shield
 Square shield	つのたて	name	object	Square shield
 Mahogany wall decoration	マホガニーのかべのそうしょく	name	object	Mahogany wall decoration
 Oak wall decoration	かしのかべのそうしょく	name	object	Oak wall decoration
@@ -1878,7 +1878,7 @@ Map space	ちずのスペース	name	object	Map space
 Stove space	ストーブのスペース	name	object	Stove space
 Shelf space	たなのスペース	name	object	Shelf space
 Barrel space	たるのスペース	name	object	Barrel space
-Cat basket space	ネコのバスケットのスペース	name	object	Cat basket space
+Cat basket space	ねこのバスケットのスペース	name	object	Cat basket space
 Larder space	しょくりょうちょぞうこのスペース	name	object	Larder space
 Sink space	シンクのスペース	name	object	Sink space
 Portal space	ポータルのスペース	name	object	Portal space
@@ -1907,7 +1907,7 @@ Gloves and duster	グローブとダスター	name	object	Gloves and duster
 Entry	いりばくち	name	object	Entry
 Kalphite Queen	じょおうカルファイト	name	object	Kalphite Queen
 Mouse hole	ネズミのあな	name	object	Mouse hole
-Snake	ヘビ	name	object	Snake
+Snake	へび	name	object	Snake
 Tchiki Monkey Nut Bush	ツチキ・モンキー・ナッツのていぼく	name	object	Tchiki Monkey Nut Bush
 Strange banana tree	ふしぎなバナナのき	name	object	Strange banana tree
 Red Banana Tree	あかいバナナのき	name	object	Red Banana Tree
@@ -2121,7 +2121,7 @@ Machine	きかい	name	object	Machine
 Wall rubble	かべのがれき	name	object	Wall rubble
 Slashed tapestry	さけかれたタペストリー	name	object	Slashed tapestry
 Vampyre statue	きゅうけつきのぞう	name	object	Vampyre statue
-Statue with key	カギをもちったぞう	name	object	Statue with key
+Statue with key	カギをもったぞう	name	object	Statue with key
 Broken rune case	こわしれたルーンのケース	name	object	Broken rune case
 Rocky surface	いわのめん	name	object	Rocky surface
 Trapdoor table	おちとしとのテーブル	name	object	Trapdoor table
@@ -2239,10 +2239,10 @@ Magic box	まほうのはこ	name	object	Magic box
 Magic box failed	うしないやぶれしたまほうのはこ	name	object	Magic box failed
 Spiked pit	トゲのおちとしあな	name	object	Spiked pit
 Collapsed trap	くずれたわな	name	object	Collapsed trap
-Rabbit snare	ウサギのわな	name	object	Rabbit snare
+Rabbit snare	うさぎのわな	name	object	Rabbit snare
 Broken snare	こわしれたわな	name	object	Broken snare
-Rabbit hole	ウサギのすあな	name	object	Rabbit hole
-Rabbitless hole	ウサギがいないすあな	name	object	Rabbitless hole
+Rabbit hole	うさぎのすあな	name	object	Rabbit hole
+Rabbitless hole	うさぎがいないすあな	name	object	Rabbitless hole
 Disturbed sand	あらされたすな	name	object	Disturbed sand
 Snow drift	ゆきのふきためまり	name	object	Snow drift
 Burrow	すあな	name	object	Burrow
@@ -2452,12 +2452,12 @@ Thingymajig	シンギマジグ	name	object	Thingymajig
 Oojimaflip	ウージマフリップ	name	object	Oojimaflip
 Magic ball	まほうのたま	name	object	Magic ball
 Beetle	コガネムシむし	name	object	Beetle
-Frog	カエル	name	object	Frog
+Frog	かえる	name	object	Frog
 Fungus seat	キノコのせき	name	object	Fungus seat
 Moth	ガ	name	object	Moth
 Fungus doormat	キノコのドアマット	name	object	Fungus doormat
 Bone door	ほねのドア	name	object	Bone door
-Frog spit	カエルのくしやき	name	object	Frog spit
+Frog spit	かえるのくしやき	name	object	Frog spit
 Broken lamp	こわしれたランプ	name	object	Broken lamp
 Metal	きんぞく	name	object	Metal
 Open statue	ひらきいたぞう	name	object	Open statue
@@ -2660,7 +2660,7 @@ Air rune	たいきのルーン	name	object	Air rune
 Water rune	みずのルーン	name	object	Water rune
 Earth rune	つちのルーン	name	object	Earth rune
 Fire rune	ひのルーン	name	object	Fire rune
-Bear droppings	クマのフン	name	object	Bear droppings
+Bear droppings	くまのフン	name	object	Bear droppings
 Pet house space	ペットのいえのスペース	name	object	Pet house space
 Oak house	かしのハウス	name	object	Oak house
 Teak house	チークのハウス	name	object	Teak house
@@ -3205,9 +3205,9 @@ Petrified Large Mushroom	いしかしただいきなキノコ	name	object	Petrif
 Small Fossil Display	しょうさなかせきのてんじ	name	object	Small Fossil Display
 Merfolk Skeleton	にんぎょのスケルトン	name	object	Merfolk Skeleton
 Petrified Pufferfish	いしかしたフグ	name	object	Petrified Pufferfish
-Hoop Snake	わのヘビ	name	object	Hoop Snake
+Hoop Snake	わのへび	name	object	Hoop Snake
 Wyvern Egg	ワイバーンのたまご	name	object	Wyvern Egg
-Crab Shell	カニのから	name	object	Crab Shell
+Crab Shell	かにのから	name	object	Crab Shell
 Fossil fuel	かせきもえりょう	name	object	Fossil fuel
 Big, foot print	だいきなあしあと	name	object	Big, foot print
 Ancient Zygomite	こだいのジゴマイト	name	object	Ancient Zygomite
@@ -3371,7 +3371,7 @@ Damaged Vent	そんしょうしたはいきくち	name	object	Damaged Vent
 Broken Fountain	こわしれたふんすい	name	object	Broken Fountain
 Meiyerditch citizen	メイヤーディッチのしみん	name	object	Meiyerditch citizen
 Old Man Ral	ラルじいさん	name	object	Old Man Ral
-Kael Forshaw	カエル・フォーシャウ	name	object	Kael Forshaw
+Kael Forshaw	かえる・フォーシャウ	name	object	Kael Forshaw
 Theatre of Blood	ちのげきじょう	name	object	Theatre of Blood
 Ranis Drakan	ラニス・ドラカン	name	object	Ranis Drakan
 Cloak rack	マントラック	name	object	Cloak rack
@@ -3433,17 +3433,17 @@ Squirrel	リス	name	object	Squirrel
 Mountain goat	シロイワヤギ	name	object	Mountain goat
 Ice wolf	こおりオオカミ	name	object	Ice wolf
 Goat poo	ヤギのフン	name	object	Goat poo
-Te salt	テしお	name	object	Te salt
-Urt salt	ウルトしお	name	object	Urt salt
+Te salt	てしお	name	object	Te salt
+Urt salt	うるとしお	name	object	Urt salt
 Efh salt	エフフしお	name	object	Efh salt
 Throne of Weiss	ウェイスのおうざ	name	object	Throne of Weiss
 Weiss banner	ウェイスのバナー	name	object	Weiss banner
 Ramp	スロープ	name	object	Ramp
 Narrow gap	ほそいすきあいだ	name	object	Narrow gap
 Water's edge	みずあたり	name	object	Water's edge
-Urt salt rocks	ウルトしおのいわ	name	object	Urt salt rocks
+Urt salt rocks	うるとしおのいわ	name	object	Urt salt rocks
 Efh salt rocks	エフフしおのいわ	name	object	Efh salt rocks
-Te salt rocks	テしおのいわ	name	object	Te salt rocks
+Te salt rocks	てしおのいわ	name	object	Te salt rocks
 Basalt rocks	げんぶがん	name	object	Basalt rocks
 Mine door	こうざんのドア	name	object	Mine door
 Smelly hole	くさいあな	name	object	Smelly hole
@@ -3483,8 +3483,8 @@ Dead Body	したい	name	object	Dead Body
 Thana	サナ	name	object	Thana
 Bright crystal	あかりるいすいしょう	name	object	Bright crystal
 Ancient Grave	ふるいはか	name	object	Ancient Grave
-Unoccupied Cormorant perch	くういてるウのとめまりき	name	object	Unoccupied Cormorant perch
-Occupied Cormorant perch	うらないりょうされたウのとめまりき	name	object	Occupied Cormorant perch
+Unoccupied Cormorant perch	あいているうのとめまりき	name	object	Unoccupied Cormorant perch
+Occupied Cormorant perch	つかわれているうのとめまりき	name	object	Occupied Cormorant perch
 Boaty	ボート	name	object	Boaty
 White lily	しろゆり	name	object	White lily
 Diseased White lily	びょうきのしろゆり	name	object	Diseased White lily
@@ -3534,11 +3534,11 @@ Olmic pillar	オルムのはしら	name	object	Olmic pillar
 Lizard dwelling	トカゲのせいそくち	name	object	Lizard dwelling
 Lizardman eggs	リザードマンのたまご	name	object	Lizardman eggs
 Strange hole	ふかしぎなあな	name	object	Strange hole
-Cat	ネコ	name	object	Cat
+Cat	ねこ	name	object	Cat
 Mystical barrier (orange)	ひでんのバリア（オレンジ）	name	object	Mystical barrier (orange)
 Mystical barrier (red)	ひでんのバリア（あか）	name	object	Mystical barrier (red)
 Water tap	へびくち	name	object	Water tap
-Chicken coop	ニワトリこや	name	object	Chicken coop
+Chicken coop	にわとりこや	name	object	Chicken coop
 Chemical pool	かがくぶっしつのたとめ	name	object	Chemical pool
 Lava gap	ようがんのすきあいだ	name	object	Lava gap
 Alchemical door	れんきんじゅつのとびら	name	object	Alchemical door
@@ -3549,7 +3549,7 @@ Chemical vent (red)	かがくぶっしつようはいきくち（あか）	name	
 Chemical vent (green)	かがくぶっしつようはいきくち（みどり）	name	object	Chemical vent (green)
 Chemical vent (blue)	かがくぶっしつようはいきくち（あお）	name	object	Chemical vent (blue)
 Broken machinery	こわしれたきかい	name	object	Broken machinery
-King worm	おうさまミミズ	name	object	King worm
+King worm	おうさまミみず	name	object	King worm
 Alchemical Hydra display	れんきんじゅつヒドラのてんじ	name	object	Alchemical Hydra display
 Alchemical Topiary	れんきんじゅつのトピアリー	name	object	Alchemical Topiary
 Mysterious pipe	ふかしぎなパイプ	name	object	Mysterious pipe
@@ -3810,11 +3810,11 @@ Chompy chick	チョンピーのヒナ	name	object	Chompy chick
 Dark Squirrel	あんこくのリス	name	object	Dark Squirrel
 Tangleroot	タングルルート	name	object	Tangleroot
 Hellcat	ヘルキャット	name	object	Hellcat
-Overgrown cat	ろういたネコ	name	object	Overgrown cat
+Overgrown cat	ろういたねこ	name	object	Overgrown cat
 Overgrown hellcat	ろういたヘルキャット	name	object	Overgrown hellcat
-Lazy cat	たいだなネコ	name	object	Lazy cat
+Lazy cat	たいだなねこ	name	object	Lazy cat
 Lazy hellcat	たいだななヘルキャット	name	object	Lazy hellcat
-Wily cat	ずるけんいネコ	name	object	Wily cat
+Wily cat	ずるけんいねこ	name	object	Wily cat
 Wily hellcat	ずるけんいヘルキャット	name	object	Wily hellcat
 Carrot	にんじん	name	object	Carrot
 Broken dead tree	こわしれたしんだき	name	object	Broken dead tree
@@ -3953,7 +3953,7 @@ Shelf of thread	いとのたな	name	object	Shelf of thread
 Fabric rack	きじのラック	name	object	Fabric rack
 Hanging flag	ぶらしたがるはた	name	object	Hanging flag
 Clothes Stand	ふくスタンド	name	object	Clothes Stand
-Cat Shrine	ネコのせいどう	name	object	Cat Shrine
+Cat Shrine	ねこのせいどう	name	object	Cat Shrine
 Ceremonial Pillow	ぎしきようのざぬのだん	name	object	Ceremonial Pillow
 Ceremonial Pillow Stack	せきまれたぎしきようのざぬのだん	name	object	Ceremonial Pillow Stack
 Ceremonial Pillar	ぎしきのはしら	name	object	Ceremonial Pillar
@@ -4165,7 +4165,7 @@ Mysterious Stairs	ふかしぎなかいだん	name	object	Mysterious Stairs
 Pub Gate	パブのドア	name	object	Pub Gate
 Festive Table	しゅくさいのテーブル	name	object	Festive Table
 Decorated festive fireplace	そうしょくされたしゅくさいのだんろ	name	object	Decorated festive fireplace
-Cosy Cat	ぬくぬくしているネコ	name	object	Cosy Cat
+Cosy Cat	ぬくぬくしているねこ	name	object	Cosy Cat
 Snowy Bush	ゆきのていぼく	name	object	Snowy Bush
 Potted Tree	はちうえのき	name	object	Potted Tree
 Snowman	ゆきだるま	name	object	Snowman
@@ -4200,7 +4200,7 @@ Prifddinas Display	プリフディナスのてんじ	name	object	Prifddinas Disp
 Death Rework Display	しのしくみかいりょうのディスプレイ	name	object	Death Rework Display
 Mahogany Homes Display	マホガニー・ホームのてんじ	name	object	Mahogany Homes Display
 Ferox Enclave Display	フェロックス・オンクレーブのてんじ	name	object	Ferox Enclave Display
-Porcine of Interest Display	ちゅうもくのブタのてんじ	name	object	Porcine of Interest Display
+Porcine of Interest Display	ちゅうもくのぶたのてんじ	name	object	Porcine of Interest Display
 Soul Wars Display	ソウル・ウォーズのてんじ	name	object	Soul Wars Display
 Darkmeyer Display	ダークメヤーのてんじ	name	object	Darkmeyer Display
 Shades of Mort'ton Rework Display	モートンのかげのかいりょうのてんじ	name	object	Shades of Mort'ton Rework Display
@@ -4280,10 +4280,10 @@ Sunken Steeple	しずんだとがりとう	name	object	Sunken Steeple
 Ominous bubbles	ふきつなあわ	name	object	Ominous bubbles
 Strangled Tree	からみまったき	name	object	Strangled Tree
 Pine	まつ	name	object	Pine
-Dead Bear	しんだクマ	name	object	Dead Bear
+Dead Bear	しんだくま	name	object	Dead Bear
 Dead Boar	しんだイノシシ	name	object	Dead Boar
 Dead Goat	しんだヤギ	name	object	Dead Goat
-Dead Lynx	しんだオオヤマネコ	name	object	Dead Lynx
+Dead Lynx	しんだオオヤマねこ	name	object	Dead Lynx
 Ruined Monument	こうはいしたしるしねんひ	name	object	Ruined Monument
 Strangled Plant	からみまったしょくぶつ	name	object	Strangled Plant
 Strangled Fern	からみまったシダ	name	object	Strangled Fern
@@ -4406,7 +4406,7 @@ Pot of wheat	むぎのどなべ	name	object	Pot of wheat
 Broken pot	こわしれたなべ	name	object	Broken pot
 Regal table	ごうかなテーブル	name	object	Regal table
 Statue base	ぞうのベース	name	object	Statue base
-Ushabti	ウシャブティ	name	object	Ushabti
+Ushabti	うしャブティ	name	object	Ushabti
 Amascut statue	アマスカットぞう	name	object	Amascut statue
 Apmeken statue	アプメケンぞう	name	object	Apmeken statue
 Crondis statue	クロンジスぞう	name	object	Crondis statue
@@ -4515,7 +4515,7 @@ Statue of Emperor Imafore	イマフォーこうていのぞう	name	object	Statu
 Libation bowl	けんさけのボール	name	object	Libation bowl
 Exposed altar	ろしゅつしたさいだん	name	object	Exposed altar
 Unbuilt Landing Site	みけんちくのきりくちてん	name	object	Unbuilt Landing Site
-Cat bed	ネコのベッド	name	object	Cat bed
+Cat bed	ねこのベッド	name	object	Cat bed
 Leafy bush	はがたくさんしげりるていぼく	name	object	Leafy bush
 Rough-looking bush	あら々しそうなていぼく	name	object	Rough-looking bush
 Crypt staircase	ちかへのかいだん	name	object	Crypt staircase

@@ -46,7 +46,7 @@ An unstrung magic longbow; I need a bowstring for this.	ひものついていな
 An unstrung magic shortbow; I need a bowstring for this.	ひものついていないまほうのみじかいゆみ。ゆみのひもがひつようだ。	examine	item	Magic shortbow (u)
 A helmet, as worn by the minions of General Khazard.	helmet, as worn by the minions of General Khazardだ。	examine	item	Khazard helmet
 Armour, as worn by the minions of General Khazard.	カザードしょうぐんのてしたがきるよろい。	examine	item	Khazard armour
-These keys open the cells at the Khazard fight arena (Used in the Fight Arena quest).	ハザードたたかいあれなのさっきゅうをあけるかぎだ（ファイトアレーナくえすとでつかう）。	examine	item	Khazard cell keys
+These keys open the cells at the Khazard fight arena (Used in the Fight Arena quest).	ハザードたたかいあれなのさっきゅうをあけるかぎだ（ファイトアレーナクエストでつかう）。	examine	item	Khazard cell keys
 A bottle of Khazard's worst brew.	Khazard's worst brewの びんだ。	examine	item	Khali brew
 Can only be fired from yew, magic, dark or twisted bows.	いちい、ぎりし、くろい、またはねじれたゆみからしかはっしゃできない。	examine	item	Ice arrows
 A lever to open something perhaps?	なにかをひらくくためのレバーかな？	examine	item	Lever
@@ -195,7 +195,7 @@ A special kind of paper.	とくべつな kind of paperだ。	examine	item	Touch 
 Apparently it distills.	みたいにじょうしゃくするみたいだ。	examine	item	Distillator
 Yup. It's an amulet.	そうだ。おまもりだ。	examine	item	Lathas' amulet
 Birds love this stuff!	とりたちはこのぶつをすきだ！	examine	item	Bird feed
-Opens things (Used in the Biohazard quest).	もののあけ（バイオハザードくえすとでつかう）。	examine	item	Key
+Opens things (Used in the Biohazard quest).	もののあけ（バイオハザードクエストでつかう）。	examine	item	Key
 It's full of pigeons.	はとでいっぱいだ。	examine	item	Pigeon cage
 It's empty...	からだ...	examine	item	Pigeon cage
 Top half of a priest suit.	そうりょいしょくぶぶんのうえはんぶん。	examine	item	Priest gown
@@ -225,7 +225,7 @@ Keeps a druid's knees nice and warm.	どぅるういどのひざをあたたか�
 I feel closer to the gods when I am wearing this.	これを きていると かみに ちかづいた きがする。	examine	item	Druid's robe top
 Keeps a monk's knees nice and warm.	そうりょのひざをあたたかくたもつ。	examine	item	Monk's robe
 If a shade had knees, this would keep them nice and warm.	かげがひざをもってたら、これはそのひざをあたたかくたもつだろう。	examine	item	Shade robe
-Issued to all new citizens of Gielinor.	ぎえりのーるのすべてのあたらしいしみんにはっこうされた。	examine	item	Newcomer map
+Issued to all new citizens of Gielinor.	ギエリノーるのすべてのあたらしいしみんにはっこうされた。	examine	item	Newcomer map
 It lets me talk to ghosts.	ゆうれいとはなせる。	examine	item	Ghostspeak amulet
 Ooooh spooky!	おおおおおおこわい！	examine	item	Ghost's skull
 One of the 4 basic elemental Runes.	4つのきほんてきなげんそルーンのひとつ。	examine	item	Fire rune
@@ -331,7 +331,7 @@ A strong chemical.	つよい chemicalだ。	examine	item	Unidentified liquid
 Charcoal - crushed to small pieces!	すみ - ちいさいかけらにくだかれた！	examine	item	Ground charcoal
 A mixture of strong chemicals.	mixture of strong chemicalsだ。	examine	item	Mixed chemicals
 The root of an arcenia plant.	あるせにあしょくぶつのね。	examine	item	Arcenia root
-This fits a chest (Used in The Digsite quest).	これははこにあう（ディグサイトくえすとでつかう）。	examine	item	Chest key
+This fits a chest (Used in The Digsite quest).	これははこにあう（ディグサイトクエストでつかう）。	examine	item	Chest key
 A vessel for holding plants.	vessel for holding plantsだ。	examine	item	Vase
 It's about chemicals, judging from its cover.	ひょうしからみると、かがくについてだ。	examine	item	Book on chemicals
 A refreshing cuppa.	refreshing cuppaだ。	examine	item	Cup of tea
@@ -370,8 +370,8 @@ Poisonous berries.	どくせいのべりー。	examine	item	Cadava berries
 A message from Juliet to Romeo.	Juliet to Romeoからの messageだ。	examine	item	Message
 I'm meant to give this to Juliet.	これをじゅりえっとにあげるはずだ。	examine	item	Cadava potion
 The Shield of Arrav by A R Wright.	えーあーるらいとによるあるラウのたて。	examine	item	Book
-The key to get into the Phoenix Gang HQ (Used in the Shield of Arrav quest).	フェニックスぎゃんぐほんぶにはいるかぎ（あるラウのたてくえすとでつかう）。	examine	item	Phoenix hq key
-The key to the Phoenix Gang's weapons store (Used in the Shield of Arrav quest).	フェニックスぎゃんぐぶきもんぎょうへのかぎ（あるラウのたてくえすとでつかう）。	examine	item	Weapon store key
+The key to get into the Phoenix Gang HQ (Used in the Shield of Arrav quest).	フェニックスぎゃんぐほんぶにはいるかぎ（あるラウのたてクエストでつかう）。	examine	item	Phoenix hq key
+The key to the Phoenix Gang's weapons store (Used in the Shield of Arrav quest).	フェニックスぎゃんぐぶきもんぎょうへのかぎ（あるラウのたてクエストでつかう）。	examine	item	Weapon store key
 An intelligence report.	ちょうほうほうこく。	examine	item	Intel report
 A shield from Falador.	Faladorからの shieldだ。	examine	item	Falador shield
 Half of the Shield of Arrav.	あるラウのたてのはんぶん。	examine	item	Broken shield
@@ -619,7 +619,7 @@ Keeps things in place fairly permanently.	ものをきこうそこそこえい�
 This provides partial protection from dragonbreath attacks.	これはドラゴンのいきこうげきからぶぶんてきなほごをていきょうする。	examine	item	Anti-dragon shield
 A key to Melzar's Maze (Used in the Dragon Slayer I quest).	Melzar's Mazeの かぎだ。	examine	item	Maze key
 A red key from Melzar's Maze (Used in the Dragon Slayer I quest).	Melzar's Mazeからの red keyだ。	examine	item	Key
-An orange key from Melzar's Maze (Used in the Dragon Slayer I quest).	メルザーのめいろからのオレンジのかぎ（ドラゴンスレイヤー1くえすとでつかう）。	examine	item	Key
+An orange key from Melzar's Maze (Used in the Dragon Slayer I quest).	メルザーのめいろからのオレンジのかぎ（ドラゴンスレイヤー1クエストでつかう）。	examine	item	Key
 A yellow key from Melzar's Maze (Used in the Dragon Slayer I quest).	Melzar's Mazeからの yellow keyだ。	examine	item	Key
 A blue key from Melzar's Maze (Used in the Dragon Slayer I quest).	Melzar's Mazeからの blue keyだ。	examine	item	Key
 A magenta key from Melzar's Maze (Used in the Dragon Slayer I quest).	Melzar's Mazeからの magenta keyだ。	examine	item	Key
@@ -1223,20 +1223,20 @@ The key to the troll prison (Used in the Troll Stronghold quest).	トロール�
 The key to Godric's cell in the troll prison (Used in the Troll Stronghold quest).	トロールかんごくのゴドリックのセルへのカギ（トロールストロングホールドクエストでつかいう）。	examine	item	Cell key 1
 The key to Mad Eadgar's cell in the troll prison (Used in the Troll Stronghold quest).	トロールかんごくのマッドイードガーのセルへのカギ（トロールストロングホールドクエストでつかいう）。	examine	item	Cell key 2
 How am I supposed to eat that?!	これ どうやって たべるの？！	examine	item	Potato cactus
-A raw green octopus.	なまのみどりのタコ。	examine	item	Raw karambwan
-Cooked octopus. It looks very nutritious.	くわえねつしたタコ。えいようがある。	examine	item	Cooked karambwan
-Cooked octopus. It looks poorly cooked and quite dangerous.	くわえねつしたタコ。くわえねつがあくて、かなりきけん。	examine	item	Poison karambwan
-Cooked octopus. It looks a little suspect.	くわえねつしたタコ。ちょっとうたがわしい。	examine	item	Cooked karambwan
-Burnt octopus.	やきけたタコ。	examine	item	Burnt karambwan
+A raw green octopus.	なまのみどりのたこ。	examine	item	Raw karambwan
+Cooked octopus. It looks very nutritious.	くわえねつしたたこ。えいようがある。	examine	item	Cooked karambwan
+Cooked octopus. It looks poorly cooked and quite dangerous.	くわえねつしたたこ。くわえねつがあくて、かなりきけん。	examine	item	Poison karambwan
+Cooked octopus. It looks a little suspect.	くわえねつしたたこ。ちょっとうたがわしい。	examine	item	Cooked karambwan
+Burnt octopus.	やきけたたこ。	examine	item	Burnt karambwan
 Small brightly coloured tropical fish.	ちいさなあかりるいいろのトロピカルフィッシュ。	examine	item	Raw karambwanji
-Freshly made octopus paste.	しんしくつくられたタコペースト。	examine	item	Karambwan paste
-Freshly made octopus paste. This smells quite nauseating.	しんしくつくられたタコペースト。これはかなりふかい。	examine	item	Karambwan paste
+Freshly made octopus paste.	しんしくつくられたたこペースト。	examine	item	Karambwan paste
+Freshly made octopus paste. This smells quite nauseating.	しんしくつくられたたこペースト。これはかなりふかい。	examine	item	Karambwan paste
 This paste smells of raw fish.	このペーストはなまのさかなのにおいがする。	examine	item	Karambwanji paste
 This paste smells of cooked fish.	このペーストはくわえねつしたさかなのにおいがする。	examine	item	Karambwanji paste
 A wide bodied and thin necked vessel, encrusted with sea salt.	ひろいからだとほそいくびのようき、うみのしおでこびりついた。	examine	item	Karambwan vessel
 This Karambwan Vessel is loaded with Karambwanji.	このカラムブワンのようきはカラムブワンジでまんたされた。	examine	item	Karambwan vessel
 A set of instructions explaining how to construct a Karambwan vessel.	カラムブワンようきをけんせつするほうほうをせつめいするせつめいのセット。	examine	item	Crafting manual
-You swear you had more than three slices before.	あなたはまえに3ついじょうのスライスをもちっていたとちかう。	examine	item	Sliced banana
+You swear you had more than three slices before.	あなたはまえに3ついじょうのスライスをもっていたとちかう。	examine	item	Sliced banana
 The Karamjan rum has slices of banana floating in it.	カラムジャンラムのちゅうにバナナスライスがういている。	examine	item	Karamjan rum
 A banana has been stuffed into the neck of this bottle.	バナナはこのびんのくびにつめられた。	examine	item	Karamjan rum
 It's the body of a dead monkey.	しんださるのからだだ。	examine	item	Monkey corpse
@@ -1364,26 +1364,26 @@ Willow logs prepared with sacred oil for a funeral pyre.	そうしきのたき�
 Maple logs prepared with sacred oil for a funeral pyre.	そうしきのたきぎのためにせいなるあぶらでじゅんびされたメープルログ。	examine	item	Maple pyre logs
 Yew logs prepared with sacred oil for a funeral pyre.	そうしきのたきぎのためにせいなるあぶらでじゅんびされたイチイログ。	examine	item	Yew pyre logs
 Magic logs prepared with sacred oil for a funeral pyre.	そうしきのたきぎのためにせいなるあぶらでじゅんびされたまほうのログ。	examine	item	Magic pyre logs
-A bronze key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Bronze key red
-A bronze key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Bronze key brown
-A bronze key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Bronze key crimson
-A bronze key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Bronze key black
-A bronze key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Bronze key purple
-A steel key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Steel key red
-A steel key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Steel key brown
-A steel key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Steel key crimson
-A steel key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Steel key black
-A steel key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Steel key purple
-A black key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Black key red
-A black key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Black key brown
-A black key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Black key crimson
-A black key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Black key black
-A black key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Black key purple
-A silver key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Silver key red
-A silver key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Silver key brown
-A silver key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Silver key crimson
-A silver key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Silver key black
-A silver key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。	examine	item	Silver key purple
+A bronze key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Bronze key red
+A bronze key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Bronze key brown
+A bronze key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Bronze key crimson
+A bronze key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Bronze key black
+A bronze key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Bronze key purple
+A steel key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Steel key red
+A steel key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Steel key brown
+A steel key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Steel key crimson
+A steel key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Steel key black
+A steel key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Steel key purple
+A black key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Black key red
+A black key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Black key brown
+A black key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Black key crimson
+A black key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Black key black
+A black key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Black key purple
+A silver key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).	ちのようなあかでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Silver key red
+A silver key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).	ちゃいろでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Silver key brown
+A silver key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).	しんくでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Silver key crimson
+A silver key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).	くろでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Silver key black
+A silver key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).	むらさきでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。	examine	item	Silver key purple
 Amazingly untouched by time.	おどろきくほどじかんにふれられない。	examine	item	Fine cloth
 Black plateskirt with trim.	トリムのくろいプレートスカート。	examine	item	Black plateskirt (t)
 Black plateskirt with gold trim.	きんトリムのくろいプレートスカート。	examine	item	Black plateskirt (g)
@@ -1493,7 +1493,7 @@ A hardy gout tuber.	じょうぶないたみかぜのむすびかく。	examine	
 It looks like some kind of control panel.	なにらかのコントロールパネルのようにみえる。	examine	item	Spare controls
 It's the official Gnome Royal Seal, signed by King Narnode Shareen.	これはコウにナルノードシャリーンによってしゅめいされたこうしきなノームおうインシール。	examine	item	Gnome royal seal
 Unreadable orders handwritten by King Narnode Shareen.	キングナーノードシャリーンでてがきされたよめないオーダー。	examine	item	Narnode's orders
-Magical monkey talking dentures! What more can we say? Ook!	まほうのさるがはなしすれば、いりれは！もっといいうことができますか？オーク！	examine	item	Monkey dentures
+Magical monkey talking dentures! What more can we say? Ook!	まほうのさるがはなしすれば、いりれは！もっということができますか？オーク！	examine	item	Monkey dentures
 A gold bar invested with a talkative monkey spirit.	はなしすさるのせいれいになげしされたきんのバー。	examine	item	Enchanted bar
 It's ... the eye of a gnome! Now what on earth could one do with this?	これは...ノームのめだ！さて、これをどうすればいい？	examine	item	Eye of gnome
 A small sample of monkey magic.	さるのまほうのちいさなサンプル。	examine	item	Monkey magic
@@ -1727,7 +1727,7 @@ A sturdy steel lantern.	じょうぶなはがねとうろ。	examine	item	Bullse
 A sturdy steel lantern casting a bright beam.	あかるいビームをだしているじょうぶなはがねとうろ。	examine	item	Bullseye lantern
 You don't want to wear it inside-out.	きみは それを ひっくりかえして かぶりたくない。	examine	item	Spiny helmet
 Not likely to last until next Halloween.	つぎの ハロウィンまで もつ ことは なさそうだ。	examine	item	Blue sweets
-A holiday gift from the Easter Bunny.	いーすたーウサギからのきゅうじつのおみやげ。	examine	item	Easter basket
+A holiday gift from the Easter Bunny.	いーすたーうさぎからのきゅうじつのおみやげ。	examine	item	Easter basket
 Perhaps not the most powerful weapon in Gielinor.	ゲリノールで いちばん きょうりょくな ぶきでは ないかも。	examine	item	Rubber chicken
 Made of gold and white gold.	きんと しろきんで つくられている。	examine	item	Gold helmet
 The book is almost falling apart, you'll have to handle it quite carefully.	そのほんはほとんどばらばらになってる、わりとていねいにあつかうひつようがある。	examine	item	Dwarven lore
@@ -1768,7 +1768,7 @@ It has a picture of a dragon on it.	そのうえに ドラゴンの えが あ�
 Alas...	ああ...。	examine	item	Broken plate
 An old faded letter.	ふるくてふぁいどしたてがみ。	examine	item	Letter
 An archaeologist's notes.	こうこがくしゃのおぼえがき。	examine	item	Varmen's notes
-The museum curator's key (Used in The Golem quest).	びょういんのせきむいんのかぎ（ゴーレムくえすとでつかう）。	examine	item	Display cabinet key
+The museum curator's key (Used in The Golem quest).	びょういんのせきむいんのかぎ（ゴーレムクエストでつかう）。	examine	item	Display cabinet key
 A beautifully-carved stone statuette.	すてきにきざみだされたいしのしょうぞう。	examine	item	Statuette
 It's pretty, but you wish you knew what it was.	きれいだけど、それが なんだか しりたい。	examine	item	Strange implement
 It looks horrible.	それは ひどくみえる。	examine	item	Black mushroom
@@ -1860,7 +1860,7 @@ Blunt rune arrow... ouch.	にぶいルーンのや...いたい。	examine	item	R
 A very black prism.	ひじょうにくろいプリズム。	examine	item	Black prism
 A half torn necromantic page.	はんぶんやぶられたねくろまんてぃっくぺーじ。	examine	item	Torn page
 A broken and useless looking backpack with the moniker,'B.Vahn' in it.	「ビーヴァーン」というすうじがはいったこわれたそしてやくにたたないバックパック。	examine	item	Ruined backpack
-A white ceramic mug with a dragon insignia.	ドラゴンのしょうゆがついたはくいのセラミックマグ。	examine	item	Dragon inn tankard
+A white ceramic mug with a dragon insignia.	ドラゴンのしょうゆがついたはくいのセラミッくまグ。	examine	item	Dragon inn tankard
 A pile of Zombie Ogre bones.	ゾンビオウガーのほねのやま。	examine	item	Zogre bones
 A classic realist charcoal portrait of Sithik.	シシックのすみえのしょじつてきなしょうぞう。	examine	item	Sithik portrait
 A semi-nihilistic, pseudo-impressionistic, half-squarist charcoal sketch of Sithik.	シシックのはんにほんしゅぎてき、にせいんしょうはんあんぱるぎうのすみえスケッチ。	examine	item	Sithik portrait
@@ -1874,7 +1874,7 @@ Ancient ogre bones from the ogre burial tomb.	オウガーそうそうぼから�
 Some strange liquid given to you by Zavistic Rarve.	ザヴィスティックラルヴにもらったへんなえきたい。	examine	item	Strange potion
 A book of necromantic spells.	ねくろまんしーまほうのほん。	examine	item	Necromancy book
 Looks like an innocent cup of tea.	むじつのちゃわんのようにみえる。	examine	item	Cup of tea
-A key to some sort of special tomb area (Used in the Zogre Flesh Eaters quest).	なんらかのとくべつなそうそうをさせきょうてきなかぎ（ゾーグレなくぼくしゃくえすとでつかう）。	examine	item	Ogre gate key
+A key to some sort of special tomb area (Used in the Zogre Flesh Eaters quest).	なんらかのとくべつなそうそうをさせきょうてきなかぎ（ゾーグレなくぼくしゃクエストでつかう）。	examine	item	Ogre gate key
 I need another ingredient to finish this Rogue's Purse potion.	このロウグズパースポーションをおわらすために、もうひとつのざいりょうがひつようだ。	examine	item	Unfinished potion
 4 doses of Relicym's balm, which helps cure disease.	びょうきをなおすのをたすけるレリシムのバームの4ふく。	examine	item	Relicym's balm(4)
 3 doses of Relicym's balm, which helps cure disease.	びょうきをなおすのをたすけるレリシムのバームの3ふく。	examine	item	Relicym's balm(3)
@@ -1891,7 +1891,7 @@ It's a bit slimy.	ちょっとぬるぬるしている。	examine	item	Cave eel
 That's disgusting!	それはきもちわるい！	examine	item	Frog spawn
 A stone brooch with a symbol on it.	しんごうがついたせきのブローチ。	examine	item	Brooch
 A book about the ancient goblin tribes.	いにしえのゴブリンぞくについてのほん。	examine	item	Goblin symbol book
-The key you stole from Sigmund (Used in The Lost Tribe quest).	あなたがシグムンドからぬすんだかぎ（ロストトライブくえすとでつかう）。	examine	item	Key
+The key you stole from Sigmund (Used in The Lost Tribe quest).	あなたがシグムンドからぬすんだかぎ（ロストトライブクエストでつかう）。	examine	item	Key
 You found the Lumbridge silverware in the HAM cave.	あなたはハムほらあなでラムブリッジぎんうえをみつけた。	examine	item	Silverware
 A peace treaty between Lumbridge and the Cave Goblins.	ラムブリッジとほらあなゴブリンのあいだのへいわえいあく。	examine	item	Peace treaty
 A helmet with a lamp on it.	ランプがついたかぶと。	examine	item	Mining helmet
@@ -1948,7 +1948,7 @@ A whiteberry bush seed - plant in a bush patch.	しろいべりーぶっしゅ�
 A poison ivy bush seed - plant in a bush patch.	どくのつたぶっしゅのしゅし - ぶっしゅぱっちにうえろ。	examine	item	Poison ivy seed
 Some seeds.	いくつかのしゅし。	examine	item	Seeds
 A Cactus seed - plant in a cactus patch.	サボテンのしゅし - さぼてんぱっちにうえろ。	examine	item	Cactus seed
-Also known as Deadly Nightshade - plant in a belladonna patch.	また、デッドリーナイトシェードとしてもしりられている - べらどんなぱっちにうえろ。	examine	item	Belladonna seed
+Also known as Deadly Nightshade - plant in a belladonna patch.	また、デッドリーナイトシェードとしてもしられている - べらどんなぱっちにうえろ。	examine	item	Belladonna seed
 A Bittercap mushroom spore - plant in a mushroom patch.	ビターキャップきのこのほうし - きのこぱっちにうえろ。	examine	item	Mushroom spore
 Plant in a plantpot of soil to grow a sapling.	りんごのきのしゅし - つちのうえにきのことうをうえて、ちいさいきのこになる。	examine	item	Apple tree seed
 A guam seed - plant in a herb patch.	ぐあむのしゅし - やくそうぱっちにうえろ。	examine	item	Guam seed
@@ -1960,7 +1960,7 @@ A toadflax seed - plant in a herb patch.	トードふらっくすのしゅし - 
 An irit seed - plant in a herb patch.	いりっとのしゅし - やくそうぱっちにうえろ。	examine	item	Irit seed
 An avantoe seed - plant in a herb patch.	あばんとえのしゅし - やくそうぱっちにうえろ。	examine	item	Avantoe seed
 A kwuarm seed - plant in a herb patch.	くうぁあむのしゅし - やくそうぱっちにうえろ。	examine	item	Kwuarm seed
-A snapdragon seed - plant in a herb patch.	すなっぷどらごんのしゅし - やくそうぱっちにうえろ。	examine	item	Snapdragon seed
+A snapdragon seed - plant in a herb patch.	すなっぷドラゴンのしゅし - やくそうぱっちにうえろ。	examine	item	Snapdragon seed
 A cadantine seed - plant in a herb patch.	かだんてぃねのしゅし - やくそうぱっちにうえろ。	examine	item	Cadantine seed
 A lantadyme seed - plant in a herb patch.	ランタディムのたねだ。ハーブぱっちにうえて。	examine	item	Lantadyme seed
 A dwarf weed seed - plant in a herb patch.	ドワーフうぃーどのしゅし - やくそうぱっちにうえろ。	examine	item	Dwarf weed seed
@@ -1988,7 +1988,7 @@ This watering can is empty.	このみずやりかんはからだ。	examine	item
 This watering can is almost empty.	このみずやりかんはほぼからだ。	examine	item	Watering can(1)
 This watering can is three-quarters empty.	このみずやりかんは4ぶんの3がからだ。	examine	item	Watering can(2)
 This watering can is just under half-full.	このみずやりかんはちょうどはんぶんのしただ。	examine	item	Watering can(3)
-Some would say this watering can is half-full, others half-empty.	あるひとはこのみずやりかんははんぶんいっぱいだといいう、そのほかははんぶんからだといいう。	examine	item	Watering can(4)
+Some would say this watering can is half-full, others half-empty.	あるひとはこのみずやりかんははんぶんいっぱいだという、そのほかははんぶんからだという。	examine	item	Watering can(4)
 This watering can is just over half-full.	このみずやりかんはちょうどはんぶんのうえだ。	examine	item	Watering can(5)
 This watering can is three quarters full.	このみずやりかんは4ぶんの3がいっぱいだ。	examine	item	Watering can(6)
 This watering can is almost completely full.	このみずやりかんはほぼかんぜんにいっぱいだ。	examine	item	Watering can(7)
@@ -2118,13 +2118,13 @@ A vial of something labelled 'Nitrous Oxide'.	「ナイトラスオキシド」�
 A vial of something labelled 'Dihydrogen Monoxide'.	「ダイハイドロジェンモノキシド」というらべるがついたなにかのしゃけい。	examine	item	Vial of liquid
 A vial of something labelled 'Powdered Tin Ore'.	「こなにされたすずこうしゃ」というらべるがついたなにかのしゃけい。	examine	item	Tin ore powder
 A vial of something labelled 'Powdered Cupric Ore'.	「こなにされたくぷりっくこうしゃ」というらべるがついたなにかのしゃけい。	examine	item	Cupric ore powder
-I hope the mould was accurate enough... (Used in the Recruitment Drive quest).	ながたがじゅうぶんせいかくだったことをのぞむ...（りくるーとめんとどらいぶくえすとでつかう）。	examine	item	Bronze key
+I hope the mould was accurate enough... (Used in the Recruitment Drive quest).	ながたがじゅうぶんせいかくだったことをのぞむ...（りくるーとめんとどらいぶクエストでつかう）。	examine	item	Bronze key
 It's a metal spade with a wooden handle.	もくせいのてのついたきんぞくのスペード。	examine	item	Metal spade
 It's a metal spade without a handle.	てなしのきんぞくのスペード。	examine	item	Metal spade
 Looks like a pretty boring read.	かなりつまらないよみもののようにみえる。	examine	item	Alchemical notes
 A very hot vial of something or other. The label says 'Cupric Sulfate'.	なにかのひじょうにあつなしゃけい。らべるは「クプリックサルフェート」といっている。	examine	item	??? mixture
 A very warm vial of something or other. It's a bit lumpy.	なにかのひじょうにあたたかいしゃけい。ちょっとこぶがある。	examine	item	??? mixture
-It looks horrible. I think I messed something up.	ひどくみえる。ぼくはなにかをめちゃくちゃにしたとおもいう。	examine	item	??? mixture
+It looks horrible. I think I messed something up.	ひどくみえる。ぼくはなにかをめちゃくちゃにしたとおもう。	examine	item	??? mixture
 I could probably pour something into this.	おそらくこれになにかをそそぐことができる。	examine	item	Tin
 It's full of a white lumpy mixture that seems to be hardening.	しろいこぶこぶのこんごうでいっぱいで、かたまっているようにみえる。	examine	item	Tin
 There is an impression of a key embedded in it.	かぎのいんしょうがめりこんでいる。	examine	item	Tin
@@ -2136,7 +2136,7 @@ There is a strange concoction filling this tin.	このすずぶりきにへん�
 A tin layered with some stuff from a vial.	しゃけいからのいくつかのぶつでそうでられたすずぶりき。	examine	item	Tin
 Useful for crafting items.	ひんをこうさくするのにやくにたつ。	examine	item	Bronze wire
 A sack full of grain.	むぎでいっぱいのたま。	examine	item	Grain
-I don't think he likes being carried.	かれははこばれるのはすきじゃないとおもいう。	examine	item	Fox
+I don't think he likes being carried.	かれははこばれるのはすきじゃないとおもう。	examine	item	Fox
 He'd be easier to carry if I cooked and ate him first...	もしぼくがはじめにかれをにてたべたら、かれはもっとはこびやすいだろう...	examine	item	Chicken
 It's an hourglass.	すなどけいだ。	examine	item	Hourglass
 A flying Magic carpet.	ひるまほうのじゅうたん。	examine	item	Magic carpet
@@ -2318,8 +2318,8 @@ A book on the settlement of the eastern realm.	ひがしのおうこくのけっ
 A book about the great divide.	だいぶんきょうについてのほん。	examine	item	The great divide
 A strange broken device of gnomic design.	ノームえがおのへんなこわれたそうち。	examine	item	Broken device
 A device for firing dye.	せんりょくをはっしゃするそうち。	examine	item	Fixed device
-A key that Essyllt gave to me (used in the Mourning's End Part I quest).	エッシルトがぼくにくれたかぎ（モーニングズエンドパート1くえすとでつかう）。	examine	item	Tarnished key
-This key has seen a lot of use (used in the Mourning's End Part I quest).	このかぎはたくさんつかわれた（モーニングズエンドパート1くえすとでつかう）。	examine	item	Worn key
+A key that Essyllt gave to me (used in the Mourning's End Part I quest).	エッシルトがぼくにくれたかぎ（モーニングズエンドパート1クエストでつかう）。	examine	item	Tarnished key
+This key has seen a lot of use (used in the Mourning's End Part I quest).	このかぎはたくさんつかわれた（モーニングズエンドパート1クエストでつかう）。	examine	item	Worn key
 A large pair of ogre bellows filled with red dye.	あかいせんりょくでいっぱいのおおきなオウガーふいご。	examine	item	Red dye bellows
 A large pair of ogre bellows filled with blue dye.	あおいせんりょくでいっぱいのおおきなオウガーふいご。	examine	item	Blue dye bellows
 A large pair of ogre bellows filled with yellow dye.	きいろいせんりょくでいっぱいのおおきなオウガーふいご。	examine	item	Yellow dye bellows
@@ -2336,7 +2336,7 @@ It's a sieve.	ふるいだ。	examine	item	Sieve
 A pile of toxic powder.	どくせいのこなのやま。	examine	item	Toxic powder
 An enchanted teleportation crystal.	まほうがかかったテレポーテーションクリスタル。	examine	item	Teleport crystal (4)
 A seed to be sung into a powerful teleport crystal.	つよいテレポートクリスタルにうたわれるしゅし。	examine	item	Crystal teleport seed
-A newly cut key that Essyllt gave to me (used in the Mourning's End Part II quest).	エッシルトがぼくにくれたあたらしくきられたかぎ（モーニングズエンドパート2くえすとでつかう）。	examine	item	New key
+A newly cut key that Essyllt gave to me (used in the Mourning's End Part II quest).	エッシルトがぼくにくれたあたらしくきられたかぎ（モーニングズエンドパート2クエストでつかう）。	examine	item	New key
 One of the elven folk.	えるぶのくにのひとりのしゃしん。	examine	item	Elf
 They seem to be not quite of this world...	それらはこのせかいのものではないようです...	examine	item	Ghostly boots
 A particularly spooky robe top.	かなりおそろしいそでんずえい。	examine	item	Ghostly robe
@@ -2512,8 +2512,8 @@ A fishbowl with a Tiny Spinefish in it.	ちいさいとげさかながはいっ�
 An empty fishbowl in a net.	あみのからのぎょうはち。	examine	item	Fishbowl and net
 A tiny net for grabbing tiny fish.	ちいさいさかなをつかむためのちいさいあみ。	examine	item	Tiny net
 'Ingredients; Ground Guam and Ground Seaweed.'	「ざいりょう；ひいたぐあむとひいたのり」。	examine	item	An empty box
-'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Guam Leaf...	「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはぐあむのはっぱをもちってる...	examine	item	Guam in a box
-'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Seaweed...	「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはのりをもちってる...	examine	item	Seaweed in a box
+'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Guam Leaf...	「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはぐあむのはっぱをもってる...	examine	item	Guam in a box
+'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Seaweed...	「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはのりをもってる...	examine	item	Seaweed in a box
 One of the ingredients for making fish food.	さかなのえさをつくるためのなりぶんのひとつ。	examine	item	Ground guam
 4 doses of Saradomin brew.	サラドミンブリューの4ふく。	examine	item	Saradomin brew(4)
 3 doses of Saradomin brew.	サラドミンブリューの3ふく。	examine	item	Saradomin brew(3)
@@ -2587,7 +2587,7 @@ A patched up robe.	ぱっちがあてられたそでんず。	examine	item	Robe 
 This robe is too torn to wear.	このそでんずはきるのにはやぶれすぎている。	examine	item	Torn robe
 Awusah's Shoes.	アウサーのくつ。	examine	item	Shoes
 Awusah's Sole.	アウサーのそーる。	examine	item	Sole
-An ancient key from the shrine in Nardah (Allows access to the Water Ravine Dungeon from the Spirits of the Elid quest).	ナルダーのじんしゃからのいにしえのかぎ（エリドのせいれいくえすとからウォーターラビーンダンジョンへのアクセスをゆるす）。	examine	item	Ancestral key
+An ancient key from the shrine in Nardah (Allows access to the Water Ravine Dungeon from the Spirits of the Elid quest).	ナルダーのじんしゃからのいにしえのかぎ（エリドのせいれいクエストからウォーターラビーンダンジョンへのアクセスをゆるす）。	examine	item	Ancestral key
 The Ballad of Jareesh.	ジャレッシュのバラッド。	examine	item	Ballad
 Better eat this before it melts.	それがとけるまえにこれをたべよう。	examine	item	Choc-ice
 Ooh a nice shiny lamp.	あ、いいぴかぴかのあかり。	examine	item	Lamp
@@ -2769,7 +2769,7 @@ Not likely to work again.	もういちどはたらきそうにない。	examine	
 Some cannon balls.	いくつかのたいほうのきゅうたい。	examine	item	Cannon balls
 A plank of wood to repair the hull with.	ふねのがんたいをなおすためのもくのぼうど。	examine	item	Repair plank
 Useful for pinning up paintings.	えをはりつけるのにゆうこう。	examine	item	Tacks
-I think it is eating through the bottle.	ぼくはそれがびんをとおしてたべてるとおもいう。	examine	item	Braindeath 'rum'
+I think it is eating through the bottle.	ぼくはそれがびんをとおしてたべてるとおもう。	examine	item	Braindeath 'rum'
 A two-handed Dragon Sword.	りょうてのドラゴンつるぎ。	examine	item	Dragon 2h sword
 They're heavily insulated wellies.	それらはひじょうにことわねつされたうぇりーず。	examine	item	Insulated boots
 A slayer monster	スレイヤーおばけ。	examine	item	Killerwatt
@@ -2913,7 +2913,7 @@ It's ground up silver.	ひいたぎんだ。	examine	item	Silver dust
 An unfinished potion.	みかんせいのポーション。	examine	item	Guthix balance (unf)
 A potion of harralander, red spiders eggs, garlic and silver dust.	ハラレンダー、あかいくものたご、にんにく、ぎんこなのポーション。	examine	item	Guthix balance(4)
 A specially crafted hammer with strange markings on it.	へんなもじがついたとくべつにこうさくされたおづち。	examine	item	Gadderhammer
-I think they look a bit silly.	そのぎゅうとうはちょっとばかばかしくみえるとおもいう。	examine	item	Boxing gloves
+I think they look a bit silly.	そのぎゅうとうはちょっとばかばかしくみえるとおもう。	examine	item	Boxing gloves
 A less-than razor sharp sword.	かみそりほどするどいくないつるぎ。	examine	item	Wooden sword
 A less-than strong shield.	つよくないたて。	examine	item	Wooden shield
 It knows where the treasure is.	それはたからがどこにあるかしってる。	examine	item	Treasure stone
@@ -2997,7 +2997,7 @@ The Bonesack is a little old item that protects like leather.	ボーンサック
 A very good vintage.	ひじょうにいいぶどう。	examine	item	Bottle of wine
 This one has clearly been taken down and passed around.	このもとあきらかにとりられて、ぐるぐるかいされている。	examine	item	Empty wine bottle
 The money off voucher has expired.	そのかねわりビューチャーがきれた。	examine	item	Al kharid flyer
-A ring given to you by the Easter Bunny.	いーすたーウサギにもらったゆびわ。	examine	item	Easter ring
+A ring given to you by the Easter Bunny.	いーすたーうさぎにもらったゆびわ。	examine	item	Easter ring
 Best before 1st May 2014.	2014ねん5がつ1にちまえがいちばんいい。	examine	item	Easter egg
 A field ration to help your wounds go away.	あなたのきずをなくすのをたすけるためのやばんのポーション。	examine	item	Field ration
 An unimbued rune of extra capability.	ちからをつけられていないルーン。	examine	item	Pure essence
@@ -3043,9 +3043,9 @@ The exotic land of the Elves.	えるぶのクニのえごき。	examine	item	Isa
 The tropical coast of Karamja.	カラムジャのねったいかいがん。	examine	item	Karamja painting
 Oxtable's famous painting of the Lumbridge water mill.	オックステーブルのラムブリッジすいしのゆうめいなが。	examine	item	Lumbridge painting
 A painting of the spooky forests of Morytania.	モリテニアのおそろしいもりのが。	examine	item	Morytania painting
-A small map of Gielinor.	ぎえりのーるのちいさいちず。	examine	item	Small map
-A medium map of Gielinor.	ぎえりのーるのちゅうくらいのちず。	examine	item	Medium map
-A large map of Gielinor.	ぎえりのーるのおおきいちず。	examine	item	Large map
+A small map of Gielinor.	ギエリノーるのちいさいちず。	examine	item	Small map
+A medium map of Gielinor.	ギエリノーるのちゅうくらいのちず。	examine	item	Medium map
+A large map of Gielinor.	ギエリノーるのおおきいちず。	examine	item	Large map
 A teleport to Varrock.	ヴァーロックへのテレポート。	examine	item	Varrock teleport
 A teleport to Lumbridge.	ラムブリッジへのテレポート。	examine	item	Lumbridge teleport
 A teleport to Falador.	ファラダルへのテレポート。	examine	item	Falador teleport
@@ -3092,7 +3092,7 @@ Symbol of Guthix	ガシックスのしるし	examine	item	Guthix symbol
 Icon of Saradomin	サラドミンのアイコン。	examine	item	Saradomin icon
 Icon of Zamorak	ザモラックのアイコン。	examine	item	Zamorak icon
 Icon of Guthix	グーティックスのアイコン。	examine	item	Guthix icon
-Icon of Bob the Cat	ネコのボブのしょうぞう	examine	item	Bob icon
+Icon of Bob the Cat	ねこのボブのしょうぞう	examine	item	Bob icon
 Oak altar	かしのさいだん	examine	item	Oak altar
 Teak altar	チークのさいだん	examine	item	Teak altar
 Cloth-covered teak altar	ぬのでおおわれたチークざいのさいだん。	examine	item	Cloth-covered altar
@@ -3265,9 +3265,9 @@ Sink	シンク	examine	item	Sink
 Wooden larder	もくせいのちょぞうこ	examine	item	Wooden larder
 Oak larder	かしのちょぞうこ	examine	item	Oak larder
 Teak larder	チークのちょぞうこ	examine	item	Teak larder
-Cat blanket	ネコのもうふ	examine	item	Cat blanket
-Cat basket	ネコのバスケット	examine	item	Cat basket
-Cushioned cat basket	クッションつきのネコのバスケット	examine	item	Cushioned basket
+Cat blanket	ねこのもうふ	examine	item	Cat blanket
+Cat basket	ねこのバスケット	examine	item	Cat basket
+Cushioned cat basket	クッションつきのねこのバスケット	examine	item	Cushioned basket
 Beer barrel	ビールのたる	examine	item	Beer barrel
 Cider barrel	サイダーのたる	examine	item	Cider barrel
 Asgarnian Ale barrel	アスガルニアン・エールのたる	examine	item	Asgarnian ale
@@ -3494,7 +3494,7 @@ A heap of finely ground ashes.	きれいにひいたはいのやま。	examine	i
 You stole this key from a HAM guard (Used to open a chest deep in the HAM cave).	あなたはこのかぎをハムばんにんからぬすんだ（ハムほらあなのふかいところのはこをあけるのにつかいう）。	examine	item	Steel key
 She's dead, but the mark on her forehead is glowing brightly.	かのじょはしんでる、でもかのじょのひたいのしるしはあかるくひるしている。	examine	item	Zanik
 It's got Zanik in it.	それはザニックがはいってる。	examine	item	Crate with zanik
-Good if you have a bone crossbow!	ほねクロスボウをもちってたらいい！	examine	item	Bone bolts
+Good if you have a bone crossbow!	ほねクロスボウをもってたらいい！	examine	item	Bone bolts
 You should probably get her out of your pocket.	あなたはおそらくかのじょをあなたのぽけっとからですべき。	examine	item	Zanik
 A magic cave horror mask.	まほうのほらあなおそろしいめん。	examine	item	Black mask (10)
 An inert-seeming cave horror mask.	もうどうしょうじょうのほらあなおそろしいめん。	examine	item	Black mask
@@ -5417,7 +5417,7 @@ Lightweight gloves ideal for rangers.	かるい てぶくろ。 こうしゅて�
 Holy handwear!	しゅくせい された ゆび の うごき！	examine	item	Holy wraps
 A vicious, curved and stylish sword.	あくらつ な、まがった、しゃれた けん。	examine	item	Dragon scimitar (or)
 Use on the dragon scimitar to trim it with gold.	ドラゴン の しゃもじ に つかう。 きん で かざる。	examine	item	Dragon scimitar ornament kit
-A ring shaped like the nature rune symbol.	しぜん の るーん の かたち を した ゆびわ。	examine	item	Ring of nature
+A ring shaped like the nature rune symbol.	しぜん の ルーン の かたち を した ゆびわ。	examine	item	Ring of nature
 Call me princess.	わたし を ひめさま と よんで。	examine	item	Fancy tiara
 A beautifully crafted axe, shaped by ancient smiths.	ふるい かじや に つくられた うつくしい おの。	examine	item	3rd age axe
 A beautifully crafted pickaxe, shaped by ancient smiths.	ふるい かじや に つくられた うつくしい つるはし。	examine	item	3rd age pickaxe
@@ -5464,8 +5464,8 @@ A medium sized helmet with gold plate.	きんいろ の いたが つけられ�
 A series of connected metal rings plated in gold.	きんいろ で めっき された つながった きんぞく わ。	examine	item	Gilded chainbody
 A medium square shield in gold plate.	きんいろ で めっき された ちゅうくらい の しかく たて。	examine	item	Gilded sq shield
 A two handed sword with gold plate.	きんいろ で めっき された にほん て の つるぎ。	examine	item	Gilded 2h sword
-A rune tipped spear with gold plate.	きんいろ で めっき された るーん の さき の やり。	examine	item	Gilded spear
-A rune-tipped, one-handed hasta, with gold plate.	きんいろ で めっき された るーん の さき の あすた。	examine	item	Gilded hasta
+A rune tipped spear with gold plate.	きんいろ で めっき された ルーン の さき の やり。	examine	item	Gilded spear
+A rune-tipped, one-handed hasta, with gold plate.	きんいろ で めっき された ルーン の さき の あすた。	examine	item	Gilded hasta
 Can you dig it?	ほる ことが できるか？	examine	item	Large spade
 An epic wooden shield with a golden trim.	きんいろ の ふち の えぽっく な もくせい たて。	examine	item	Wooden shield (g)
 Steel platebody with a gold trim.	きんいろ の ふち の てつ どう。	examine	item	Steel platebody (g)
@@ -5501,7 +5501,7 @@ A stained glass banner displaying the Piscarilius sigil.	ピスカリリウス �
 A war torn banner bearing the Shayzien sigil.	シェイジエン の しるし を つけた せんそう で ぼろぼろ の はた。	examine	item	Shayzien banner
 Pointy shadows.	するどい かげ。	examine	item	Black unicorn mask
 Pointy rainbows.	するどい にじ。	examine	item	White unicorn mask
-An adamant shield shaped like a cabbage.	キャベツ の かたち の あだまんと たて。	examine	item	Cabbage round shield
+An adamant shield shaped like a cabbage.	キャベツ の かたち の アダマント たて。	examine	item	Cabbage round shield
 Fill it with firelighters to make pretty fire.	ひ を きれい に するため に ふぁいあらいたー を つめる。	examine	item	Gnomish firelighter
 I need to brighten its day.	それ の ひ を あかるく する ひつよう が ある。	examine	item	Light box
 This geode seems to have some old paper inside.	この じおーど の なか に ふるい かみ が あるみたい だ。	examine	item	Clue geode (easy)
@@ -5537,8 +5537,8 @@ A broken Penance Healer hat.	こわれた ペナンス ひーらー ぼうし。
 A broken Penance Fighter torso.	こわれた ペナンス ふぁいたー どう。	examine	item	Fighter torso (broken)
 A broken skirt made from the skin of a Penance Ranger.	ペナンス てきしゃ の かわ から つくられた こわれた すかーと。	examine	item	Penance skirt (broken)
 The robes worn by the dangerous elder druids.	あぶない ちょうろう ドルイド が きていた ろーぶ。	examine	item	Elder chaos top
-A pack containing 50 of each high-level catalytic rune.	こうレベル の ふれきょう ぱわー るーん 50 こ かくしを ふくむ パック。	examine	item	Catalytic rune pack
-A pack containing 100 of each elemental rune.	げんそてき るーん 100 こ かくしを ふくむ パック。	examine	item	Elemental rune pack
+A pack containing 50 of each high-level catalytic rune.	こうレベル の ふれきょう ぱわー ルーン 50 こ かくしを ふくむ パック。	examine	item	Catalytic rune pack
+A pack containing 100 of each elemental rune.	げんそてき ルーン 100 こ かくしを ふくむ パック。	examine	item	Elemental rune pack
 A pack containing 50 adamant arrows.	アダマント ぎ 50 ほん を ふくむ パック。	examine	item	Adamant arrow pack
 A key stained in the blood of a fallen foe.	たおれた てき の ち で しみた かぎ。	examine	item	Bloody key
 This can be used to claim items from vending shrines.	これ は ばいばつ の ほこら から あいてむ を もらう ため に つかえる。	examine	item	Survival token
@@ -5558,7 +5558,7 @@ Wooden table	もくせいのテーブル	examine	item	Wooden table
 Waxwood bed	ワックスウッドのベッド	examine	item	Waxwood bed
 Carpet	カーペット	examine	item	Carpet
 Wooden stool	もくせいのスツール	examine	item	Wooden stool
-A pack containing 50 rune arrows.	るーん ぎ 50 ほん を ふくむ パック。	examine	item	Rune arrow pack
+A pack containing 50 rune arrows.	ルーン ぎ 50 ほん を ふくむ パック。	examine	item	Rune arrow pack
 A key stained in the blood of a worthy opponent.	あたい する あいて の ち で しみた かぎ。	examine	item	Bloodier key
 A scroll containing a fairy enchantment.	フェアリー の まほう を ふくむ すくろーる。	examine	item	Fairy enchantment
 An artefact imbued with ancient magical powers.	ふるい まほう の ちから を しこんだ いぶつ。	examine	item	Ancient signet
@@ -5723,7 +5723,7 @@ A key crafted from emerald (Used in the Misthalin Mystery quest).	エメラル�
 A key crafted from sapphire (Used in the Misthalin Mystery quest).	サファイア から つくられた かぎ。	examine	item	Sapphire key
 This ring can reveal a hunter creature's track.	このゆびわ は かりゅうどう の いきものの こあと を あきらかに することができる。	examine	item	Ring of pursuit
 This ring returns you to your spawn point.	このゆびわ は あなた を あなた の はつせい てん に かえす。	examine	item	Ring of returning(5)
-Aids the user against vampyres.	ゆーざー を ばんぱいあ に たいして たすける。	examine	item	Efaritay's aid
+Aids the user against vampyres.	ゆーざー を バンパイア に たいして たすける。	examine	item	Efaritay's aid
 Lets you get away with it - sometimes.	あなた は それ を やり おおせることを ゆるす - ときどき。	examine	item	Dodgy necklace
 This necklace can really take you places.	このねっくれす は ほんとうに あなた を ばしょ に つれていくことが できる。	examine	item	Necklace of passage(5)
 Can grant me prayer in an emergency.	きんきゅう じたい に いのり を あたえることが できる。	examine	item	Necklace of faith
@@ -5735,7 +5735,7 @@ Helps when building the Shades of Mort'ton temple.	モルトンン のようひ 
 Occasionally prevents slayer kill count being decremented.	ときどき すれいやー きる かず が へらされるのを ふせぐ。	examine	item	Bracelet of slaughter
 It's a slightly magical but highly beautiful stick.	すこし まほうてき だが ひじょうに うつくしい ぼう だ。	examine	item	Lava battlestaff
 Makes a lava battlestaff or mystic lava staff more beautiful.	まぐま ばとるすたっふ ないし しんぴてき な まぐま すたっふ を もっと うつくしく する。	examine	item	Lava staff upgrade kit
-Special guests for the 4th Old School RuneScape birthday party!	だい よん とてね るーんすけーぷ しょうねん かい の とくべつな ゲスト！	examine	item	Invitation list
+Special guests for the 4th Old School RuneScape birthday party!	だい よん とてね ルーンすけーぷ しょうねん かい の とくべつな ゲスト！	examine	item	Invitation list
 Don't let them touch the floor!	かれら に ゆか に ふれさせない で！	examine	item	Birthday balloons
 A celebration of 4 great years.	えん ねん の しゅくう。	examine	item	4th birthday hat
 Servant's money bag	めしつかいのきゅうよぶくろ	examine	item	Servant's money bag
@@ -5760,7 +5760,7 @@ A bucket of golden Wester Island sand.	ウェスター あいらんど の き�
 A selection of Wester Island spices	ウェスター あいらんど の スパイス の えらぶ。	examine	item	Wester spices
 A sumptuous Wester Island beef fillet.	ウェスター あいらんど の ぜいたく な ぎゅうにく フィレ。	examine	item	Beef fillet
 The finest sea salt.	さいこう の うみ えん。	examine	item	Sea salt
-Golden rabbit droppings.	きんいろ の ウサギ のふん。	examine	item	Gold fragment
+Golden rabbit droppings.	きんいろ の うさぎ のふん。	examine	item	Gold fragment
 A bunch of fluffy feathers.	ふんわり した はね の たば。	examine	item	Fluffy feathers
 A glistening wester island fish.	ウェスター あいらんど の きらめく さかな。	examine	item	Wester fish
 If found, return to a hard place.	みつかった ばあい、なんてん に もどす。	examine	item	Rock
@@ -5800,13 +5800,13 @@ These amethyst-headed arrows are ablaze with fire.	これらの あめじすと 
 Amethyst bolt tips.	あめじすと ぼると さき。	examine	item	Amethyst bolt tips
 I wonder if someone can identify these.	だれかが これらを さてい できるか と いぶかる。	examine	item	Unidentified minerals
 These will help me mine Iron, Silver, Coal and Gold.	これらは わたし が てつ、ぎん、たんたん、きんを ほるのを たすける だろう。	examine	item	Mining gloves
-These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.	これらは わたし が みすりる と あだまんたいと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん の さいこう を きゅうしん する。	examine	item	Superior mining gloves
+These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.	これらは わたし が ミスリル と あだまんたいと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん の さいこう を きゅうしん する。	examine	item	Superior mining gloves
 Maybe I can make something with this.	たぶん わたし はこれで なにか つくることが できるだろう。	examine	item	Amethyst
 I'm not a huge fan.	わたし は おおきな ふぁん ではない。	examine	item	Hand fan
 A tiny fish.	ちいさい さかな。	examine	item	Minnow
 I can store my teleport scrolls in this.	わたし は これに わたし の たいそう すくろーる を しまうことが できる。	examine	item	Master scroll book (empty)
 Holds all my teleport scrolls.	わたし の すべての たいそう すくろーる を もつ。	examine	item	Master scroll book
-These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.	これらは わたし が すないし、るーないと、あめじすと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん、みすりる、あだまんたいと の さいこう を きゅうしん する。	examine	item	Expert mining gloves
+These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.	これらは わたし が すないし、るーないと、あめじすと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん、ミスリル、あだまんたいと の さいこう を きゅうしん する。	examine	item	Expert mining gloves
 Small brightly coloured tropical fish. Looks tasty.	ちいさく、あかるく いろづいた ねったい さかな。 あじわい がよさそう だ。	examine	item	Karambwanji
 A cape worn by fighters in the Wilderness Wars.	あぶれーす ぽい ほうりつ で たたかいて が きていた マント。	examine	item	Wilderness cape
 A very powerful amulet worn by Wilderness Wars champions.	あぶれーす せんそう チャンピオン が きていた ひじょうに つよい おまもり。	examine	item	Wilderness champion amulet
@@ -5831,7 +5831,7 @@ A broken up piece of Iron ore.	こわれた てつこうぶつ のぴーす。	e
 A broken up piece of Silver ore.	こわれた ぎんこうぶつ のぴーす。	examine	item	Silver ore fragment
 A broken up piece of Coal.	こわれた たんたん のぴーす。	examine	item	Coal fragment
 A broken up piece of Gold ore.	こわれた きんこうぶつ のぴーす。	examine	item	Gold ore fragment
-A broken up piece of Mithril ore.	こわれた みすりるこうぶつ のぴーす。	examine	item	Mithril ore fragment
+A broken up piece of Mithril ore.	こわれた ミスリルこうぶつ のぴーす。	examine	item	Mithril ore fragment
 A broken up piece of Adamantite ore.	こわれた あだまんたいと こうぶつ のぴーす。	examine	item	Adamantite ore fragment
 A broken up piece of Runite ore.	こわれた るーないとこうぶつ のぴーす。	examine	item	Runite ore fragment
 Prevents the water from evaporating!	みず が じょうはつ するのを ふせぐ！	examine	item	Heat-proof vessel
@@ -6022,7 +6022,7 @@ A piece of an ancient key. I found this in the Shayzien Crypts.	こだい の �
 A piece of an ancient key. I found this buried in Mort Myre.	こだい の かぎ の ぴーす。 わたし は これ を モルト マイア に うめられた ところ で みつけた。	examine	item	Dragon key piece
 A piece of an ancient key. I found this in an old Karamjan temple.	こだい の かぎ の ぴーす。 わたし は これ を ふるい カラム じゃん じんじゃ で みつけた。	examine	item	Dragon key piece
 An ancient key.	こだい の かぎ。	examine	item	Dragon key
-A strange key. It seems to be made out of various metals, including mithril.	へんな かぎ。 みすりる を ふくめた さまざま な きんぞく で できているみたい。	examine	item	Ancient key
+A strange key. It seems to be made out of various metals, including mithril.	へんな かぎ。 ミスリル を ふくめた さまざま な きんぞく で できているみたい。	examine	item	Ancient key
 It has lots of water in it.	それ は なか に たっぷり の みず が ある。	examine	item	Water container
 A tar-like substance.	たーのような ぶっしつ。	examine	item	Swamp paste
 Helps people feel better.	ひとびと に より よい きぶん に させるのを たすける。	examine	item	Revitalisation potion
@@ -6062,7 +6062,7 @@ A solid yew shield.	ぎっしりした イチイ の たて。	examine	item	Yew 
 A solid magic wood shield.	ぎっしりした まほう のき の たて。	examine	item	Magic shield
 A solid redwood shield.	ぎっしりした あかきい の たて。	examine	item	Redwood shield
 A solid oaken shield covered in hard leather.	かたい かわ で おおわれた ぎっしりした コナラ の たて。	examine	item	Hard leather shield
-A solid willow shield covered in snakeskin leather.	ヘビ かわ かわ で おおわれた ぎっしりした ヤナギ の たて。	examine	item	Snakeskin shield
+A solid willow shield covered in snakeskin leather.	へび かわ かわ で おおわれた ぎっしりした ヤナギ の たて。	examine	item	Snakeskin shield
 A solid maple shield covered in green dragon leather.	みどり ドラゴン かわ で おおわれた ぎっしりした カエデ の たて。	examine	item	Green d'hide shield
 A solid yew shield covered in blue dragon leather.	あおい ドラゴン かわ で おおわれた ぎっしりした イチイ の たて。	examine	item	Blue d'hide shield
 A solid magic wood shield covered in red dragon leather.	あかい ドラゴン かわ で おおわれた ぎっしりした まほう のき の たて。	examine	item	Red d'hide shield
@@ -6080,7 +6080,7 @@ Not quite so fearsome anymore.	もう そこまで おそろしく はない。	
 Sometimes that quiet feeling of accomplishment just isn't enough of a reward.	ときどき その しずか な だっせい の かんじ は じゅうぶんな ほうしゅう では ない。	examine	item	Champion's lamp
 Eww!	あ！	examine	item	Rotten cabbage
 A sacred staff imbued with the power of blood.	ち の ちから を しこんだ せいなる すたっふ。	examine	item	Sanguinesti staff
-A razor sharp rapier, smeared with vampyric blood.	ばんぱいあ の ち で ぬられた かみそり のような するどい らぴあ。	examine	item	Ghrazi rapier
+A razor sharp rapier, smeared with vampyric blood.	バンパイア の ち で ぬられた かみそり のような するどい らぴあ。	examine	item	Ghrazi rapier
 A powerful scythe.	つよい かま。	examine	item	Scythe of vitur
 A helm that once belonged to a Justiciar, a loyal zealot of Saradomin.	さきに ジャスティシアル（ サラドミン の ちゅうてき な こううさ）に ぞくしていた かぶと。	examine	item	Justiciar faceguard
 A Justiciar's chestguard. They once roamed the land casting judgements on wrongdoers, their decisions were never questioned.	ジャスティシアル の むねあて。 かれら は かつて はんざい しゃ に はんだん を くだす みち を さまよっていた。 かれら の けつめい は けっして ぎもん されなかった。	examine	item	Justiciar chestguard
@@ -6143,7 +6143,7 @@ A glass vial containing blood.	ち を ふくむ ガラス の びん。	examine
 3 doses of bastion potion.	ほしゅく くすり 3 どーず。	examine	item	Bastion potion(3)
 2 doses of bastion potion.	ほしゅく くすり 2 どーず。	examine	item	Bastion potion(2)
 1 dose of bastion potion.	ほしゅく くすり 1 どーず。	examine	item	Bastion potion(1)
-What has eight legs and runs a Vampyric Theatre?	8 ほん の あし を もち，ばんぱいあ シアター を はしる ものは？	examine	item	Lil' zik
+What has eight legs and runs a Vampyric Theatre?	8 ほん の あし を もち，バンパイア シアター を はしる ものは？	examine	item	Lil' zik
 A crumpled note.	しわくちゃ の めも。	examine	item	Message
 Perhaps this could be used to create a defensive weapon.	たぶん これは ぼうぎょ ぶき を つくるのに つかえるだろう。	examine	item	Avernic defender hilt
 A sacred staff imbued with the power of blood. It is currently uncharged.	ち の ちから を しこんだ せいなる すたっふ。 げんざい，じゅうでん されていない。	examine	item	Sanguinesti staff (uncharged)
@@ -6360,7 +6360,7 @@ Bandos blessed wooden shield covered in dragon leather.	ドラゴン かわ で 
 A pair of aggressive Sai.	しんこく な さい の ペアー。	examine	item	Dual sai
 Provides excellent protection with a heraldic design.	ごくれいてき な ほご を ていきょう する。 かじられた さられた そうしょく で。	examine	item	Rune platebody (h1)
 A good place to store your stolen goods.	あなたの ぬすまれた せいひん を しまう のに よいばしょ。	examine	item	Thieving bag
-Use on the rune defender to trim it with gold.	るーん ぼうぎょしゃ に つかう。 きん で かざる。	examine	item	Rune defender ornament kit
+Use on the rune defender to trim it with gold.	ルーン ぼうぎょしゃ に つかう。 きん で かざる。	examine	item	Rune defender ornament kit
 Use on the TzHaar-ket-om to trim and spike it.	ツハール・けっと・おむ に つかう。 かざる そしてとげを つけ る。	examine	item	Tzhaar-ket-om ornament kit
 A maul of obsidian with trim and spikes.	かざり と とげ を つけた おぶしでぃあん の つぼね。	examine	item	Tzhaar-ket-om (t)
 Use on the Berserker necklace to make it look fancier!	バーサーカー ねっくれす に つかう。 もっと しゃれに する！	examine	item	Berserker necklace ornament kit
@@ -6374,7 +6374,7 @@ Made with 100% golden dragonhide.	100% の きんいろ の ドラゴン かわ 
 Used for mining and very stylish.	さいこう のために つかわれて，ひじょうに しゃれた。	examine	item	Gilded pickaxe
 Oh, I'm a gold digger?	あ，わたし は きん の ほりて？	examine	item	Gilded spade
 Cute mole slippers.	かわいい もぐら スリッパ。	examine	item	Mole slippers
-Cute frog slippers.	かわいい カエル スリッパ。	examine	item	Frog slippers
+Cute frog slippers.	かわいい かえる スリッパ。	examine	item	Frog slippers
 Vicious bear slippers.	あくらつな くま スリッパ。	examine	item	Bear feet
 Vicious demon slippers.	あくらつな あくま スリッパ。	examine	item	Demon feet
 A jester cape.	ピエロ マント。	examine	item	Jester cape
@@ -6383,7 +6383,7 @@ An enchanted emerald amulet of protection that looks good.	よく みえる ひ�
 A hat worn by a sandwich lady.	サンドウィッチ れいてき な レディ が かぶっていた ぼうし。	examine	item	Sandwich lady hat
 A top worn by a sandwich lady.	サンドウィッチ れいてき な レディ が きていた うえぎ。	examine	item	Sandwich lady top
 Bottoms worn by a sandwich lady.	サンドウィッチ れいてき な レディ が きていた ボトムス。	examine	item	Sandwich lady bottom
-Use on a rune scimitar to make it look fancier!	るーん しゃもじ に つかう。 もっと しゃれに する！	examine	item	Rune scimitar ornament kit (guthix)
+Use on a rune scimitar to make it look fancier!	ルーン しゃもじ に つかう。 もっと しゃれに する！	examine	item	Rune scimitar ornament kit (guthix)
 A fabulously ancient woven robe top as worn by the druids of old.	ふるい ドルイド が きていた ほめられた ふるい おられた ろーぶ うえぎ。	examine	item	3rd age druidic robe top
 A fabulously ancient woven robe as worn by the druids of old.	ふるい ドルイド が きていた ほめられた ふるい おられた ろーぶ。	examine	item	3rd age druidic robe bottoms
 A fabulously ancient gnarled staff as used by the druids of old.	ふるい ドルイド によって つかわれた ほめられた ふるい ねじまがった すたっふ。	examine	item	3rd age druidic staff
@@ -6398,7 +6398,7 @@ Black plate body with a heraldic design.	ごくれいてき な さされた そ
 Better than no armour! Nice trim too!	よろい が ない より いい！ またよい ふち！	examine	item	Leather body (g)
 Teleports you to Watson's house in Great Kourend.	あなた を グレート コーレンド の ワトソン の いえ に たいそう する。	examine	item	Watson teleport
 Some very spikey metal bands, better make sure I don't cut myself while walking.	ひじょうに とげとげ した きんぞく バンド。 あるくあいだ じぶん を きった しない か ちゅういぶかく する ほうが よい。	examine	item	Spiked manacles
-Adamant platebody with a heraldic design.	ごくれいてき な さされた そうしょく で の あだまんと どう。	examine	item	Adamant platebody (h1)
+Adamant platebody with a heraldic design.	ごくれいてき な さされた そうしょく で の アダマント どう。	examine	item	Adamant platebody (h1)
 Howwwallll!	ほうううぎゃおおおぉぉぉ！	examine	item	Wolf mask
 A very warm wolf cloak.	ひじょうに あたたかい おおかみ かぎ。	examine	item	Wolf cloak
 Boots made for climbing. Nice trim!	のぼる ため に つくられた ぶーつ。 いい ふち！	examine	item	Climbing boots (g)
@@ -6574,11 +6574,11 @@ Decorative elven boots.	そうしょくてき な えるぶん ぶーつ。	exam
 Decorative elven gloves.	そうしょくてき な えるぶん てぶくろ。	examine	item	Elven gloves
 Clothing from the elven city of Prifddinas.	えるぶん の しろ プリフディナス から の ふく。	examine	item	Elven top
 A blue crystal used to store information.	じょうほう を しまう のに つかわれる あおい くりすたる。	examine	item	Memoriam crystal (1)
-A stylish rune full helm inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた るーん ぜんめん かぶと。	examine	item	Dragonstone full helm
-A stylish rune platebody inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた るーん どう。	examine	item	Dragonstone platebody
-A stylish pair of rune platelegs inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた るーん ズボン。	examine	item	Dragonstone platelegs
-A stylish pair of rune boots inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた るーん ぶーつ。	examine	item	Dragonstone boots
-A stylish pair of rune gauntlets inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた るーん てぶくろ。	examine	item	Dragonstone gauntlets
+A stylish rune full helm inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた ルーン ぜんめん かぶと。	examine	item	Dragonstone full helm
+A stylish rune platebody inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた ルーン どう。	examine	item	Dragonstone platebody
+A stylish pair of rune platelegs inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた ルーン ズボン。	examine	item	Dragonstone platelegs
+A stylish pair of rune boots inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた ルーン ぶーつ。	examine	item	Dragonstone boots
+A stylish pair of rune gauntlets inlaid with dragonstones.	ドラゴンすとーん を うめこんだ しゃれた ルーン てぶくろ。	examine	item	Dragonstone gauntlets
 Whoever wrote this probably wasn't in a good state of mind.	これ を かいた だれでも，たぶん こころ の よい じょうたい では ありませんでした。	examine	item	Crazed scribbles
 An old elven book.	ふるい えるぶん ほん。	examine	item	A dear friend
 Some strange writings about leprechauns.	レプラコーン についての へんな かきもの。	examine	item	On leprechauns
@@ -6608,7 +6608,7 @@ Halo with the protection of Seren.	セーレン の ご ほご を つけた こ
 Halo with the protection of an ancient god.	こだい の かみがみ の ご ほご を つけた こうわく。	examine	item	Ancient halo
 Halo with the protection of a healthy diet and the smell of flatulence.	けんこう な しょくじ と へ の においの ご ほご を つけた こうわく。	examine	item	Brassica halo
 Shows your prowess in Last Man Standing.	ラスト マン スタンディング での あなた の きりょう を しめす。	examine	item	Victor's cape (1)
-An icon of the god of Balance that has been stylised in the form of a snake.	つりあい の かみがみ の あいこん。 ヘビ の すがた に しゃれた。	examine	item	Guthixian icon
+An icon of the god of Balance that has been stylised in the form of a snake.	つりあい の かみがみ の あいこん。 へび の すがた に しゃれた。	examine	item	Guthixian icon
 A dull blade that moves at incredible speed.	ぶあついば が かんじられない すぴーど で うごく。	examine	item	Swift blade
 This handle can be applied to the granite maul.	このハンドル は みかげいし つぼね に てきよう することが できる。	examine	item	Ornate maul handle
 Advertise your house here.	ここで あなた の いえ を こうこく する。	examine	item	House advertisement
@@ -6714,7 +6714,7 @@ You'll need to slap some paint on this.	あなた は これに ペイント を
 Turns into a bit of an echo chamber.	すこし の こだま しゃべり に なる。	examine	item	Conch shell
 Something has emerged from this egg already.	すでに このたまご から なにか が でてきた。	examine	item	Broken egg
 Shouldn't have this.	これ を もつべき ではない。	examine	item	Dummy portal
-A rabbit's favourite snack.	ウサギ の お きに いり の おやつ。	examine	item	Carrot
+A rabbit's favourite snack.	うさぎ の お きに いり の おやつ。	examine	item	Carrot
 Looks like a poor goat lost it.	びんぼう な ヤギ が それ を うしなった みたい。	examine	item	Broken goat horn
 A magical elven sword, corrupted through the addition of too many shards.	あまりにも おおくの かけら を つけることで よごれた まほうてき な えるぶん つるぎ。	examine	item	Blade of saeldor (c)
 A set of pyromancer robes.	かじょうたか ろーぶ の せっと。	examine	item	Pyromancer set
@@ -6747,8 +6747,8 @@ Use on ancestral pieces to recolour them!	そんけい のぴーす に つか�
 A book called Haemalchemy Volume 2.	ヘムアルケミー ボリューム 2 という ほん。	examine	item	Haemalchemy volume 2
 This needs to be scented before it can be used.	これを つかう まえに においを つけ ろ。	examine	item	Vyre noble top (unscented)
 These need to be scented before they can be used.	これらを つかう まえに においを つけ ろ。	examine	item	Vyre noble legs (unscented)
-Lets you dress like a vampyre noble.	あなた を ばんぱいあ きぞく のように まう ことを ゆるす。	examine	item	Vyre noble top
-An old note found in the Darkmeyer Arboretum.	ダークマイヤー じゅもくえん で みつかった ふるい めも。	examine	item	Old note
+Lets you dress like a vampyre noble.	あなた を バンパイア きぞく のように まう ことを ゆるす。	examine	item	Vyre noble top
+An old note found in the Darkmeyer Arboretum.	ダーくまイヤー じゅもくえん で みつかった ふるい めも。	examine	item	Old note
 A tatty note found beneath Meiyerditch.	メイヤーディッチ の した で みつかった ぼろぼろ の めも。	examine	item	Tatty note
 The page of an old journal found near the Icyene Graveyard.	アイシーン そうぼ の ちかく で みつかった ふるい てちょう の ぺーじ。	examine	item	Journal page
 It's far beyond repair.	それは しゅうり のはるか むこう だ。	examine	item	Ancient armour
@@ -6767,7 +6767,7 @@ Currency from a previous age.	ぜんじだい から の つうか。	examine	it
 A token which can grant an extra minute within the Hallowed Sepulchre.	ハローウッド セプルコア のなか で ようあい ふん を あたえることが できる とくん。	examine	item	Hallowed token
 Removes the chance of failing a grapple shortcut within the Hallowed Sepulchre.	ハローウッド セプルコア のなか で つかみか たんろ が しっぱい する ちゃんす を とりのぞく。	examine	item	Hallowed grapple
 Removes the chance of failing to enchant portals within the Hallowed Sepulchre.	ハローウッド セプルコア のなか で ぽーたる を ひきつける ことに しっぱい する ちゃんす を とりのぞく。	examine	item	Hallowed focus
-Reduces the amount of vampyre dust to sacrifice within the Hallowed Sepulchre.	ハローウッド セプルコア のなか で ぎせい する べき ばんぱいあ ほこり の りょう を へらす。	examine	item	Hallowed symbol
+Reduces the amount of vampyre dust to sacrifice within the Hallowed Sepulchre.	ハローウッド セプルコア のなか で ぎせい する べき バンパイア ほこり の りょう を へらす。	examine	item	Hallowed symbol
 Removes the chance of bending nails within the Hallowed Sepulchre.	ハローウッド セプルコア のなか で くぎ を まげる ちゃんす を とりのぞく。	examine	item	Hallowed hammer
 A dye which can be used to recolour a piece of graceful clothing.	しとやか な ふく の ぴーす を いろを ぬりかえるのに つかえる せんりょう。	examine	item	Dark dye
 A ring which prevents damage from traps in the Hallowed Sepulchre.	ハローウッド セプルコア の わな から の そんしょく を ふせぐ ゆびわ。	examine	item	Hallowed ring
@@ -6874,9 +6874,9 @@ The trousers of a trailblazer relic hunter.	しおみち かきくずし いぶ�
 The boots of a trailblazer relic hunter.	しおみち かきくずし いぶつ かりゅうどう の ぶーつ。	examine	item	Trailblazer boots (t3)
 A cane of the trailblazer relic hunter.	しおみち かきくずし いぶつ かりゅうどう の づえ。	examine	item	Trailblazer cane
 A Dragon trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのドラゴン とろふぃー。	examine	item	Trailblazer dragon trophy
-A Rune trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのるーん とろふぃー。	examine	item	Trailblazer rune trophy
-An Adamant trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのあだまんと とろふぃー。	examine	item	Trailblazer adamant trophy
-A Mithril trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのみすりる とろふぃー。	examine	item	Trailblazer mithril trophy
+A Rune trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのルーン とろふぃー。	examine	item	Trailblazer rune trophy
+An Adamant trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのアダマント とろふぃー。	examine	item	Trailblazer adamant trophy
+A Mithril trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのミスリル とろふぃー。	examine	item	Trailblazer mithril trophy
 A Steel trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのすてぃーる とろふぃー。	examine	item	Trailblazer steel trophy
 An Iron trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのあいあん とろふぃー。	examine	item	Trailblazer iron trophy
 A Bronze trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).	りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのぶろんず とろふぃー。	examine	item	Trailblazer bronze trophy
@@ -7682,7 +7682,7 @@ A bow from an even darker dimension.	ゆみ から.	examine	item	Dark bow (bh)
 Not so subtle.	ない だから.	examine	item	Giant bronze dagger
 A decorated spade.	かざられた.	examine	item	Eastfloor spade
 An egg-cellent look.	たまご-.	examine	item	Nest hat
-People won't stop chicken you out.	ニワトリ だす.	examine	item	Nest hat
+People won't stop chicken you out.	にわとり だす.	examine	item	Nest hat
 A scaled blue dragonhide.	あおい.	examine	item	Scaly blue dragonhide
 A powerful spear, now inactive.	ヤリ, いま.	examine	item	Vesta's spear (bh)(inactive)
 A powerful longsword, now inactive.	ろんぐけん, いま.	examine	item	Vesta's longsword (bh)(inactive)

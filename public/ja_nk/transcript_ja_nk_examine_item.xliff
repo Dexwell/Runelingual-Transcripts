@@ -3,7 +3,7 @@
     <xliff:body>
       <xliff:trans-unit id="18898">
         <xliff:source>The body of a Dwarf savaged by Goblins.</xliff:source>
-        <xliff:target state="translated">ゴブリンにおそわれたドワーフのからだ。</xliff:target>
+        <xliff:target state="translated">からだので。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dwarf remains
@@ -59,7 +59,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18905">
         <xliff:source>The mounting for the multicannon.</xliff:source>
-        <xliff:target state="translated">マルチキャノンのとりつけぶぶん。</xliff:target>
+        <xliff:target state="translated">マルチキャノンのマウントだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cannon stand
@@ -67,7 +67,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18906">
         <xliff:source>The barrels of the multicannon.</xliff:source>
-        <xliff:target state="translated">マルチキャノンのほづつ。</xliff:target>
+        <xliff:target state="translated">マルチキャノンのほうしんだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cannon barrels
@@ -195,7 +195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18922">
         <xliff:source>A lit candle.</xliff:source>
-        <xliff:target state="translated">ひのついたろうそく。</xliff:target>
+        <xliff:target state="translated">ろうそく。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Lit candle
@@ -379,7 +379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18945">
         <xliff:source>These keys open the cells at the Khazard fight arena (Used in the Fight Arena quest).</xliff:source>
-        <xliff:target state="translated">ハザードたたかいあれなのさっきゅうをあけるかぎだ（ファイトアレーナくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">ハザードたたかいあれなのさっきゅうをあけるかぎだ（ファイトアレーナクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Khazard cell keys
@@ -907,7 +907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19011">
         <xliff:source>Ewww!</xliff:source>
-        <xliff:target state="translated">ぎゃあ！</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Red spiders' eggs
@@ -1339,7 +1339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19065">
         <xliff:source>Oops!</xliff:source>
-        <xliff:target state="translated">あ！</xliff:target>
+        <xliff:target state="translated">おっと！</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Burnt fish
@@ -1571,7 +1571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19094">
         <xliff:source>Opens things (Used in the Biohazard quest).</xliff:source>
-        <xliff:target state="translated">もののあけ（バイオハザードくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">もののあけ（バイオハザードクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Key
@@ -1755,7 +1755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19117">
         <xliff:source>Bones are for burying!</xliff:source>
-        <xliff:target state="translated">ほねはうめるためのもの！</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bones
@@ -1811,7 +1811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19124">
         <xliff:source>Issued to all new citizens of Gielinor.</xliff:source>
-        <xliff:target state="translated">ぎえりのーるのすべてのあたらしいしみんにはっこうされた。</xliff:target>
+        <xliff:target state="translated">ギエリノーるのすべてのあたらしいしみんにはっこうされた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Newcomer map
@@ -1835,7 +1835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19127">
         <xliff:source>One of the 4 basic elemental Runes.</xliff:source>
-        <xliff:target state="translated">4つのきほんてきなげんそルーンのひとつ。</xliff:target>
+        <xliff:target state="translated">One of the 4 basic elemental Runes。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Fire rune
@@ -1859,7 +1859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19130">
         <xliff:source>Used for medium level missile spells.</xliff:source>
-        <xliff:target state="translated">ちゅうていどのみさいるまほうようにつかわれる。</xliff:target>
+        <xliff:target state="translated">つかった。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Death rune
@@ -1875,7 +1875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19132">
         <xliff:source>Used for low level missile spells.</xliff:source>
-        <xliff:target state="translated">ていていどのみさいるまほうようにつかわれる。</xliff:target>
+        <xliff:target state="translated">つかったひくい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Chaos rune
@@ -1899,7 +1899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19135">
         <xliff:source>Used for high level missile spells.</xliff:source>
-        <xliff:target state="translated">こうていどのみさいるまほうようにつかわれる。</xliff:target>
+        <xliff:target state="translated">つかったたかい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Blood rune
@@ -1987,7 +1987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19146">
         <xliff:source>Useful for lighting a fire.</xliff:source>
-        <xliff:target state="translated">やくにたつ。</xliff:target>
+        <xliff:target state="translated">Useful for lighting a fire。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Tinderbox
@@ -2131,7 +2131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19164">
         <xliff:source>Lovely money!</xliff:source>
-        <xliff:target state="translated">すばらしいかね！</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Coins
@@ -2659,7 +2659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19230">
         <xliff:source>This fits a chest (Used in The Digsite quest).</xliff:source>
-        <xliff:target state="translated">これははこにあう（ディグサイトくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">これははこにあう（ディグサイトクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Chest key
@@ -2971,7 +2971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19269">
         <xliff:source>The key to get into the Phoenix Gang HQ (Used in the Shield of Arrav quest).</xliff:source>
-        <xliff:target state="translated">フェニックスぎゃんぐほんぶにはいるかぎ（あるラウのたてくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">フェニックスぎゃんぐほんぶにはいるかぎ（あるラウのたてクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Phoenix hq key
@@ -2979,7 +2979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19270">
         <xliff:source>The key to the Phoenix Gang's weapons store (Used in the Shield of Arrav quest).</xliff:source>
-        <xliff:target state="translated">フェニックスぎゃんぐぶきもんぎょうへのかぎ（あるラウのたてくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">フェニックスぎゃんぐぶきもんぎょうへのかぎ（あるラウのたてクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Weapon store key
@@ -4363,7 +4363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19443">
         <xliff:source>Used for mining.</xliff:source>
-        <xliff:target state="translated">つかうさいくつ。</xliff:target>
+        <xliff:target state="translated">つかった。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze pickaxe
@@ -4635,7 +4635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19477">
         <xliff:source>A magical sphere that glimmers within.</xliff:source>
-        <xliff:target state="translated">まほうの sphere that glimmers withinだ。</xliff:target>
+        <xliff:target state="translated">あれなか。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Orb of light
@@ -4963,7 +4963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19518">
         <xliff:source>An orange key from Melzar's Maze (Used in the Dragon Slayer I quest).</xliff:source>
-        <xliff:target state="translated">メルザーのめいろからのオレンジのかぎ（ドラゴンスレイヤー1くえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">メルザーのめいろからのオレンジのかぎ（ドラゴンスレイヤー1クエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Key
@@ -5491,7 +5491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19584">
         <xliff:source>Good for detailed crafting.</xliff:source>
-        <xliff:target state="translated">しょうさいなこうさくにいい。</xliff:target>
+        <xliff:target state="translated">detailed craftingに ぴったりだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Chisel
@@ -5923,7 +5923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19638">
         <xliff:source>An empty mining barrel.</xliff:source>
-        <xliff:target state="translated">からのこうばんたる。</xliff:target>
+        <xliff:target state="translated">からのたる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Barrel
@@ -6307,7 +6307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19686">
         <xliff:source>It's a wooden bucket.</xliff:source>
-        <xliff:target state="translated">もくせいのバケツだ。</xliff:target>
+        <xliff:target state="translated">もくせいのバケツ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bucket
@@ -6563,7 +6563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19718">
         <xliff:source>It's got holes in it.</xliff:source>
-        <xliff:target state="translated">あながあいてる。</xliff:target>
+        <xliff:target state="translated">なったにこれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cheese
@@ -6987,7 +6987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19771">
         <xliff:source>They're a gnome delicacy apparently.</xliff:source>
-        <xliff:target state="translated">みたいにそれらはノームのもてなしだ。</xliff:target>
+        <xliff:target state="translated">あきらかに、かれらはノームのこうみだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Toad's legs
@@ -7499,7 +7499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19835">
         <xliff:source>Looks tasty.</xliff:source>
-        <xliff:target state="translated">おいしそうにみえる。</xliff:target>
+        <xliff:target state="translated">みえる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Redberry pie
@@ -7587,7 +7587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19846">
         <xliff:source>Good for hitting things!</xliff:source>
-        <xliff:target state="translated">ものをたたくのにいい！</xliff:target>
+        <xliff:target state="translated">いい!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Hammer
@@ -9795,7 +9795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20122">
         <xliff:source>A raw green octopus.</xliff:source>
-        <xliff:target state="translated">なまのみどりのタコ。</xliff:target>
+        <xliff:target state="translated">なまのみどりのたこ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Raw karambwan
@@ -9803,7 +9803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20123">
         <xliff:source>Cooked octopus. It looks very nutritious.</xliff:source>
-        <xliff:target state="translated">くわえねつしたタコ。えいようがある。</xliff:target>
+        <xliff:target state="translated">くわえねつしたたこ。えいようがある。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cooked karambwan
@@ -9811,7 +9811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20124">
         <xliff:source>Cooked octopus. It looks poorly cooked and quite dangerous.</xliff:source>
-        <xliff:target state="translated">くわえねつしたタコ。くわえねつがあくて、かなりきけん。</xliff:target>
+        <xliff:target state="translated">くわえねつしたたこ。くわえねつがあくて、かなりきけん。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Poison karambwan
@@ -9819,7 +9819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20125">
         <xliff:source>Cooked octopus. It looks a little suspect.</xliff:source>
-        <xliff:target state="translated">くわえねつしたタコ。ちょっとうたがわしい。</xliff:target>
+        <xliff:target state="translated">くわえねつしたたこ。ちょっとうたがわしい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cooked karambwan
@@ -9827,7 +9827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20126">
         <xliff:source>Burnt octopus.</xliff:source>
-        <xliff:target state="translated">やきけたタコ。</xliff:target>
+        <xliff:target state="translated">やきけたたこ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Burnt karambwan
@@ -9843,7 +9843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20128">
         <xliff:source>Freshly made octopus paste.</xliff:source>
-        <xliff:target state="translated">しんしくつくられたタコペースト。</xliff:target>
+        <xliff:target state="translated">しんしくつくられたたこペースト。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Karambwan paste
@@ -9851,7 +9851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20129">
         <xliff:source>Freshly made octopus paste. This smells quite nauseating.</xliff:source>
-        <xliff:target state="translated">しんしくつくられたタコペースト。これはかなりふかい。</xliff:target>
+        <xliff:target state="translated">しんしくつくられたたこペースト。これはかなりふかい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Karambwan paste
@@ -9899,7 +9899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20135">
         <xliff:source>You swear you had more than three slices before.</xliff:source>
-        <xliff:target state="translated">あなたはまえに3ついじょうのスライスをもちっていたとちかう。</xliff:target>
+        <xliff:target state="translated">あなたはまえに3ついじょうのスライスをもっていたとちかう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Sliced banana
@@ -10195,7 +10195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20172">
         <xliff:source>An empty barrel.</xliff:source>
-        <xliff:target state="translated">くうのたる。</xliff:target>
+        <xliff:target state="translated">からのたる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Barrel
@@ -10291,7 +10291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20184">
         <xliff:source>One of Gielinor's many citizens.</xliff:source>
-        <xliff:target state="translated">ギエリノルのおおいくのしみんのひとり。</xliff:target>
+        <xliff:target state="translated">のおおく。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Man
@@ -10923,7 +10923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20263">
         <xliff:source>A bronze key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze key red
@@ -10931,7 +10931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20264">
         <xliff:source>A bronze key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちゃいろでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちゃいろでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze key brown
@@ -10939,7 +10939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20265">
         <xliff:source>A bronze key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">しんくでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">しんくでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze key crimson
@@ -10947,7 +10947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20266">
         <xliff:source>A bronze key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">くろでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">くろでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze key black
@@ -10955,7 +10955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20267">
         <xliff:source>A bronze key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">むらさきでえがかれたアイレットのせいどうキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">むらさきでえがかれたアイレットのせいどうキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze key purple
@@ -10963,7 +10963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20268">
         <xliff:source>A steel key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Steel key red
@@ -10971,7 +10971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20269">
         <xliff:source>A steel key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちゃいろでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちゃいろでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Steel key brown
@@ -10979,7 +10979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20270">
         <xliff:source>A steel key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">しんくでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">しんくでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Steel key crimson
@@ -10987,7 +10987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20271">
         <xliff:source>A steel key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">くろでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">くろでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Steel key black
@@ -10995,7 +10995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20272">
         <xliff:source>A steel key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">むらさきでえがかれたアイレットのスチールキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">むらさきでえがかれたアイレットのスチールキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Steel key purple
@@ -11003,7 +11003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20273">
         <xliff:source>A black key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Black key red
@@ -11011,7 +11011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20274">
         <xliff:source>A black key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちゃいろでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちゃいろでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Black key brown
@@ -11019,7 +11019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20275">
         <xliff:source>A black key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">しんくでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">しんくでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Black key crimson
@@ -11027,7 +11027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20276">
         <xliff:source>A black key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">くろでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">くろでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Black key black
@@ -11035,7 +11035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20277">
         <xliff:source>A black key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">むらさきでえがかれたアイレットのくろいキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">むらさきでえがかれたアイレットのくろいキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Black key purple
@@ -11043,7 +11043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20278">
         <xliff:source>A silver key with a blood-red painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちのようなあかでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Silver key red
@@ -11051,7 +11051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20279">
         <xliff:source>A silver key with a brown painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">ちゃいろでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">ちゃいろでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Silver key brown
@@ -11059,7 +11059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20280">
         <xliff:source>A silver key with a crimson painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">しんくでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">しんくでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Silver key crimson
@@ -11067,7 +11067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20281">
         <xliff:source>A silver key with a black painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">くろでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">くろでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Silver key black
@@ -11075,7 +11075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20282">
         <xliff:source>A silver key with a purple painted eyelet (Opens chests found in the Mort'ton catacombs).</xliff:source>
-        <xliff:target state="translated">むらさきでえがかれたアイレットのぎんのキー（モートンカタコーブでみつかったむねをあける）。</xliff:target>
+        <xliff:target state="translated">むらさきでえがかれたアイレットのぎんのキー（モートンカたこーブでみつかったむねをあける）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Silver key purple
@@ -11851,7 +11851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20379">
         <xliff:source>A comfy stool.</xliff:source>
-        <xliff:target state="translated">あんらくないすいはん。</xliff:target>
+        <xliff:target state="translated">あたたかいスツール。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Stool
@@ -11955,7 +11955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20392">
         <xliff:source>Magical monkey talking dentures! What more can we say? Ook!</xliff:source>
-        <xliff:target state="translated">まほうのさるがはなしすれば、いりれは！もっといいうことができますか？オーク！</xliff:target>
+        <xliff:target state="translated">まほうのさるがはなしすれば、いりれは！もっということができますか？オーク！</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Monkey dentures
@@ -12139,7 +12139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20415">
         <xliff:source>The Saradomin Team Standard.</xliff:source>
-        <xliff:target state="translated">サラドミンティームスタンダード。</xliff:target>
+        <xliff:target state="translated">サラドミンチーム。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Saradomin banner
@@ -12147,7 +12147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20416">
         <xliff:source>The Zamorak Team Standard.</xliff:source>
-        <xliff:target state="translated">ザモラックティームスタンダード。</xliff:target>
+        <xliff:target state="translated">ザモラックチーム。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Zamorak banner
@@ -12187,7 +12187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20421">
         <xliff:source>Should be long enough to scale castle walls.</xliff:source>
-        <xliff:target state="translated">しろのかべをスケールするのにじゅうぶんなながさであるべき。</xliff:target>
+        <xliff:target state="translated">すべきであるながいへよじのぼる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Climbing rope
@@ -13675,7 +13675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20607">
         <xliff:source>Quite ferocious looking.</xliff:source>
-        <xliff:target state="translated">かなり きょうあくに みえる。</xliff:target>
+        <xliff:target state="translated">みえている。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bearhead
@@ -13827,7 +13827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20626">
         <xliff:source>A holiday gift from the Easter Bunny.</xliff:source>
-        <xliff:target state="translated">いーすたーウサギからのきゅうじつのおみやげ。</xliff:target>
+        <xliff:target state="translated">いーすたーうさぎからのきゅうじつのおみやげ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Easter basket
@@ -14155,7 +14155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20667">
         <xliff:source>The museum curator's key (Used in The Golem quest).</xliff:source>
-        <xliff:target state="translated">びょういんのせきむいんのかぎ（ゴーレムくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">びょういんのせきむいんのかぎ（ゴーレムクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Display cabinet key
@@ -14235,7 +14235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20677">
         <xliff:source>Hot!</xliff:source>
-        <xliff:target state="translated">あつい！</xliff:target>
+        <xliff:target state="translated">あつい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Fire
@@ -14427,7 +14427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20701">
         <xliff:source>It has a lid shaped like an ape. Eeew! I think it contains someone's intestines.</xliff:source>
-        <xliff:target state="translated">さるのかたちをしたふたがついている。ぎゃ！だれかのちょうがはいっているみたい。</xliff:target>
+        <xliff:target state="translated">これあるのような。わたしこれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Canopic jar
@@ -14435,7 +14435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20702">
         <xliff:source>It has a lid shaped like a bug. Disgusting! I think there's a stomach inside.</xliff:source>
-        <xliff:target state="translated">むしのかたちをしたふたがついている。きたない！だれかのいぶくろがはいっているみたい。</xliff:target>
+        <xliff:target state="translated">これあるのような。わたしなか。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Canopic jar
@@ -14891,7 +14891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20759">
         <xliff:source>A white ceramic mug with a dragon insignia.</xliff:source>
-        <xliff:target state="translated">ドラゴンのしょうゆがついたはくいのセラミックマグ。</xliff:target>
+        <xliff:target state="translated">ドラゴンのしょうゆがついたはくいのセラミッくまグ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dragon inn tankard
@@ -15003,7 +15003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20773">
         <xliff:source>A key to some sort of special tomb area (Used in the Zogre Flesh Eaters quest).</xliff:source>
-        <xliff:target state="translated">なんらかのとくべつなそうそうをさせきょうてきなかぎ（ゾーグレなくぼくしゃくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">なんらかのとくべつなそうそうをさせきょうてきなかぎ（ゾーグレなくぼくしゃクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Ogre gate key
@@ -15139,7 +15139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20790">
         <xliff:source>The key you stole from Sigmund (Used in The Lost Tribe quest).</xliff:source>
-        <xliff:target state="translated">あなたがシグムンドからぬすんだかぎ（ロストトライブくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">あなたがシグムンドからぬすんだかぎ（ロストトライブクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Key
@@ -15595,7 +15595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20847">
         <xliff:source>Also known as Deadly Nightshade - plant in a belladonna patch.</xliff:source>
-        <xliff:target state="translated">また、デッドリーナイトシェードとしてもしりられている - べらどんなぱっちにうえろ。</xliff:target>
+        <xliff:target state="translated">また、デッドリーナイトシェードとしてもしられている - べらどんなぱっちにうえろ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Belladonna seed
@@ -15691,7 +15691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20859">
         <xliff:source>A snapdragon seed - plant in a herb patch.</xliff:source>
-        <xliff:target state="translated">すなっぷどらごんのしゅし - やくそうぱっちにうえろ。</xliff:target>
+        <xliff:target state="translated">すなっぷドラゴンのしゅし - やくそうぱっちにうえろ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Snapdragon seed
@@ -15915,7 +15915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="20887">
         <xliff:source>Some would say this watering can is half-full, others half-empty.</xliff:source>
-        <xliff:target state="translated">あるひとはこのみずやりかんははんぶんいっぱいだといいう、そのほかははんぶんからだといいう。</xliff:target>
+        <xliff:target state="translated">あるひとはこのみずやりかんははんぶんいっぱいだという、そのほかははんぶんからだという。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Watering can(4)
@@ -16955,7 +16955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21017">
         <xliff:source>I hope the mould was accurate enough... (Used in the Recruitment Drive quest).</xliff:source>
-        <xliff:target state="translated">ながたがじゅうぶんせいかくだったことをのぞむ...（りくるーとめんとどらいぶくえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">ながたがじゅうぶんせいかくだったことをのぞむ...（りくるーとめんとどらいぶクエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bronze key
@@ -17003,7 +17003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21023">
         <xliff:source>It looks horrible. I think I messed something up.</xliff:source>
-        <xliff:target state="translated">ひどくみえる。ぼくはなにかをめちゃくちゃにしたとおもいう。</xliff:target>
+        <xliff:target state="translated">ひどくみえる。ぼくはなにかをめちゃくちゃにしたとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: ??? mixture
@@ -17091,7 +17091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21034">
         <xliff:source>A sack full of grain.</xliff:source>
-        <xliff:target state="translated">むぎでいっぱいのたま。</xliff:target>
+        <xliff:target state="translated">いっぱいののこくもつ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Grain
@@ -17099,7 +17099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21035">
         <xliff:source>I don't think he likes being carried.</xliff:source>
-        <xliff:target state="translated">かれははこばれるのはすきじゃないとおもいう。</xliff:target>
+        <xliff:target state="translated">かれははこばれるのはすきじゃないとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Fox
@@ -18259,7 +18259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21180">
         <xliff:source>A pile of leaves.</xliff:source>
-        <xliff:target state="translated">はっぱのやま。</xliff:target>
+        <xliff:target state="translated">ののこす。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Leaves
@@ -18443,7 +18443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21203">
         <xliff:source>A Spirit Tree.</xliff:source>
-        <xliff:target state="translated">せいれいのき。</xliff:target>
+        <xliff:target state="translated">れいき。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Spirit tree
@@ -18555,7 +18555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21217">
         <xliff:source>A key that Essyllt gave to me (used in the Mourning's End Part I quest).</xliff:source>
-        <xliff:target state="translated">エッシルトがぼくにくれたかぎ（モーニングズエンドパート1くえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">エッシルトがぼくにくれたかぎ（モーニングズエンドパート1クエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Tarnished key
@@ -18563,7 +18563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21218">
         <xliff:source>This key has seen a lot of use (used in the Mourning's End Part I quest).</xliff:source>
-        <xliff:target state="translated">このかぎはたくさんつかわれた（モーニングズエンドパート1くえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">このかぎはたくさんつかわれた（モーニングズエンドパート1クエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Worn key
@@ -18699,7 +18699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21235">
         <xliff:source>A newly cut key that Essyllt gave to me (used in the Mourning's End Part II quest).</xliff:source>
-        <xliff:target state="translated">エッシルトがぼくにくれたあたらしくきられたかぎ（モーニングズエンドパート2くえすとでつかう）。</xliff:target>
+        <xliff:target state="translated">エッシルトがぼくにくれたあたらしくきられたかぎ（モーニングズエンドパート2クエストでつかう）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: New key
@@ -18811,7 +18811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21249">
         <xliff:source>For sitting on.</xliff:source>
-        <xliff:target state="translated">すわるため。</xliff:target>
+        <xliff:target state="translated">のじょうに。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: A chair
@@ -19059,7 +19059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21280">
         <xliff:source>Very posh!</xliff:source>
-        <xliff:target state="translated">ひじょうにしゃれた！</xliff:target>
+        <xliff:target state="translated">とても!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Royal frog tunic
@@ -19875,7 +19875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21382">
         <xliff:source>A red crystal.</xliff:source>
-        <xliff:target state="translated">あかいくりすたる。</xliff:target>
+        <xliff:target state="translated">あかいすいしょうの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Red crystal
@@ -20107,7 +20107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21411">
         <xliff:source>'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Guam Leaf...</xliff:source>
-        <xliff:target state="translated">「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはぐあむのはっぱをもちってる...</xliff:target>
+        <xliff:target state="translated">「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはぐあむのはっぱをもってる...</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Guam in a box
@@ -20115,7 +20115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21412">
         <xliff:source>'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Seaweed...</xliff:source>
-        <xliff:target state="translated">「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはのりをもちってる...</xliff:target>
+        <xliff:target state="translated">「ざいりょう；ひいたぐあむとひいたのり」。まあ、ぼくはのりをもってる...</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Seaweed in a box
@@ -20707,7 +20707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21486">
         <xliff:source>An ancient key from the shrine in Nardah (Allows access to the Water Ravine Dungeon from the Spirits of the Elid quest).</xliff:source>
-        <xliff:target state="translated">ナルダーのじんしゃからのいにしえのかぎ（エリドのせいれいくえすとからウォーターラビーンダンジョンへのアクセスをゆるす）。</xliff:target>
+        <xliff:target state="translated">ナルダーのじんしゃからのいにしえのかぎ（エリドのせいれいクエストからウォーターラビーンダンジョンへのアクセスをゆるす）。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Ancestral key
@@ -22163,7 +22163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21668">
         <xliff:source>I think it is eating through the bottle.</xliff:source>
-        <xliff:target state="translated">ぼくはそれがびんをとおしてたべてるとおもいう。</xliff:target>
+        <xliff:target state="translated">ぼくはそれがびんをとおしてたべてるとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Braindeath 'rum'
@@ -22555,7 +22555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21717">
         <xliff:source>Looks like it's non-stick too!</xliff:source>
-        <xliff:target state="translated">それもくっつかないようにみえる！</xliff:target>
+        <xliff:target state="translated">it's non-stick too!のようだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Frying pan
@@ -22739,7 +22739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21740">
         <xliff:source>Allows for equal distribution of spice.</xliff:source>
-        <xliff:target state="translated">スパイスのひとしいはいぶんをゆるす。</xliff:target>
+        <xliff:target state="translated">こうしんを、ひとしく、さばくことができる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Red spice (4)
@@ -22891,7 +22891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21759">
         <xliff:source>A rock.</xliff:source>
-        <xliff:target state="translated">いし。</xliff:target>
+        <xliff:target state="translated">いわ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rock
@@ -23315,7 +23315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21812">
         <xliff:source>I think they look a bit silly.</xliff:source>
-        <xliff:target state="translated">そのぎゅうとうはちょっとばかばかしくみえるとおもいう。</xliff:target>
+        <xliff:target state="translated">そのぎゅうとうはちょっとばかばかしくみえるとおもう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Boxing gloves
@@ -23987,7 +23987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21896">
         <xliff:source>A ring given to you by the Easter Bunny.</xliff:source>
-        <xliff:target state="translated">いーすたーウサギにもらったゆびわ。</xliff:target>
+        <xliff:target state="translated">いーすたーうさぎにもらったゆびわ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Easter ring
@@ -24283,7 +24283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21933">
         <xliff:source>A portrait of King Arthur.</xliff:source>
-        <xliff:target state="translated">キングアーサーのしょうぞう。</xliff:target>
+        <xliff:target state="translated">のおう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Arthur portrait
@@ -24291,7 +24291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21934">
         <xliff:source>A portrait of Elena.</xliff:source>
-        <xliff:target state="translated">エレーナのしょうぞう。</xliff:target>
+        <xliff:target state="translated">の。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Elena portrait
@@ -24299,7 +24299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21935">
         <xliff:source>A painting of the statue of King Alvis of Keldagrim.</xliff:source>
-        <xliff:target state="translated">ケルダグリムのキングアルビスのぞうのが。</xliff:target>
+        <xliff:target state="translated">ののおうの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Keldagrim portrait
@@ -24307,7 +24307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21936">
         <xliff:source>A portrait of Prince Brand and Princess Astrid of Miscellania.</xliff:source>
-        <xliff:target state="translated">ミセラニアのプリンスブランドとプリンセスアストリッドのしょうぞう。</xliff:target>
+        <xliff:target state="translated">のおうじとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Misc. portrait
@@ -24323,7 +24323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21938">
         <xliff:source>The exotic land of the Elves.</xliff:source>
-        <xliff:target state="translated">えるぶのクニのえごき。</xliff:target>
+        <xliff:target state="translated">the Elvesの exotic landだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Isafdar painting
@@ -24331,7 +24331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21939">
         <xliff:source>The tropical coast of Karamja.</xliff:source>
-        <xliff:target state="translated">カラムジャのねったいかいがん。</xliff:target>
+        <xliff:target state="translated">Karamjaの tropical coastだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Karamja painting
@@ -24339,7 +24339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21940">
         <xliff:source>Oxtable's famous painting of the Lumbridge water mill.</xliff:source>
-        <xliff:target state="translated">オックステーブルのラムブリッジすいしのゆうめいなが。</xliff:target>
+        <xliff:target state="translated">のみず。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Lumbridge painting
@@ -24347,7 +24347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21941">
         <xliff:source>A painting of the spooky forests of Morytania.</xliff:source>
-        <xliff:target state="translated">モリテニアのおそろしいもりのが。</xliff:target>
+        <xliff:target state="translated">the spooky forests of Morytaniaの paintingだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Morytania painting
@@ -24355,7 +24355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21942">
         <xliff:source>A small map of Gielinor.</xliff:source>
-        <xliff:target state="translated">ぎえりのーるのちいさいちず。</xliff:target>
+        <xliff:target state="translated">ギエリノーるのちいさいちず。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Small map
@@ -24363,7 +24363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21943">
         <xliff:source>A medium map of Gielinor.</xliff:source>
-        <xliff:target state="translated">ぎえりのーるのちゅうくらいのちず。</xliff:target>
+        <xliff:target state="translated">ギエリノーるのちゅうくらいのちず。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Medium map
@@ -24371,7 +24371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21944">
         <xliff:source>A large map of Gielinor.</xliff:source>
-        <xliff:target state="translated">ぎえりのーるのおおきいちず。</xliff:target>
+        <xliff:target state="translated">ギエリノーるのおおきいちず。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Large map
@@ -24747,7 +24747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="21991">
         <xliff:source>Icon of Bob the Cat</xliff:source>
-        <xliff:target state="translated">ネコのボブのしょうぞう</xliff:target>
+        <xliff:target state="translated">ねこのボブのしょうぞう</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bob icon
@@ -26131,7 +26131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22164">
         <xliff:source>Cat blanket</xliff:source>
-        <xliff:target state="translated">ネコのもうふ</xliff:target>
+        <xliff:target state="translated">ねこのもうふ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cat blanket
@@ -26139,7 +26139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22165">
         <xliff:source>Cat basket</xliff:source>
-        <xliff:target state="translated">ネコのバスケット</xliff:target>
+        <xliff:target state="translated">ねこのバスケット</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cat basket
@@ -26147,7 +26147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22166">
         <xliff:source>Cushioned cat basket</xliff:source>
-        <xliff:target state="translated">クッションつきのネコのバスケット</xliff:target>
+        <xliff:target state="translated">クッションつきのねこのバスケット</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cushioned basket
@@ -27635,7 +27635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22352">
         <xliff:source>A shield with the symbol of Arrav.</xliff:source>
-        <xliff:target state="translated">あるラウのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27643,7 +27643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22353">
         <xliff:source>A shield with the symbol of Asgarnia.</xliff:source>
-        <xliff:target state="translated">アスガルニアのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27659,7 +27659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22355">
         <xliff:source>A shield with a picture of a dragon.</xliff:source>
-        <xliff:target state="translated">ドラゴンのしゃしんがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとのりゅう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27667,7 +27667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22356">
         <xliff:source>A shield with a picture of a fairy.</xliff:source>
-        <xliff:target state="translated">ようせいのしゃしんがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27675,7 +27675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22357">
         <xliff:source>A shield with the symbol of Guthix.</xliff:source>
-        <xliff:target state="translated">ガシックスのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27683,7 +27683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22358">
         <xliff:source>A shield with the symbol of the HAM cult.</xliff:source>
-        <xliff:target state="translated">ハムしゅうきょうのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27691,7 +27691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22359">
         <xliff:source>A shield with a picture of the mythical 'horse'.</xliff:source>
-        <xliff:target state="translated">でんせつの「うま」のしゃしんがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27707,7 +27707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22361">
         <xliff:source>A shield with the symbol of Kandarin.</xliff:source>
-        <xliff:target state="translated">カンダリンのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27715,7 +27715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22362">
         <xliff:source>A shield with the symbol of Misthalin.</xliff:source>
-        <xliff:target state="translated">ミスタリンのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27731,7 +27731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22364">
         <xliff:source>A shield with the symbol of Saradomin.</xliff:source>
-        <xliff:target state="translated">サラドミンのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとのサラドミン。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27739,7 +27739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22365">
         <xliff:source>A shield with a picture of a skull.</xliff:source>
-        <xliff:target state="translated">くしゃどくろのしゃしんがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとのしゃれこうべ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27747,7 +27747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22366">
         <xliff:source>A shield with the symbol of Varrock.</xliff:source>
-        <xliff:target state="translated">ヴァーロックのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27755,7 +27755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22367">
         <xliff:source>A shield with the symbol of Zamorak.</xliff:source>
-        <xliff:target state="translated">ザモラクのしんごうがついたたて。</xliff:target>
+        <xliff:target state="translated">たてとのザモラック。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune kiteshield
@@ -27963,7 +27963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22393">
         <xliff:source>Good if you have a bone crossbow!</xliff:source>
-        <xliff:target state="translated">ほねクロスボウをもちってたらいい！</xliff:target>
+        <xliff:target state="translated">ほねクロスボウをもってたらいい！</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bone bolts
@@ -31883,7 +31883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22883">
         <xliff:source>A simple bird catcher.</xliff:source>
-        <xliff:target state="translated">simple bird catcherだ。</xliff:target>
+        <xliff:target state="translated">かんたんな bird catcherだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bird snare
@@ -31891,7 +31891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22884">
         <xliff:source>If a creature goes inside, the box should then slam shut.</xliff:source>
-        <xliff:target state="translated">If a creature goes inside, the box should then slam shut。</xliff:target>
+        <xliff:target state="translated">もしいきものいくなか,はこすべきそれなら。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Box trap
@@ -31955,7 +31955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22892">
         <xliff:source>A magical catching box.</xliff:source>
-        <xliff:target state="translated">まほうのもの。</xliff:target>
+        <xliff:target state="translated">まほうの catching boxだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Magic box
@@ -31987,7 +31987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22896">
         <xliff:source>The snare will tighten around animals passing through.</xliff:source>
-        <xliff:target state="translated">The snare will tighten around animals passing through。</xliff:target>
+        <xliff:target state="translated">のまわりをとおりじて。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rabbit snare
@@ -33171,7 +33171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23044">
         <xliff:source>Shiny!</xliff:source>
-        <xliff:target state="translated">Shiny!。</xliff:target>
+        <xliff:target state="translated">ぴかぴかした!!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Polished buttons
@@ -36475,7 +36475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23457">
         <xliff:source>For play-fighting.</xliff:source>
-        <xliff:target state="translated">For play-fighting。</xliff:target>
+        <xliff:target state="translated">あそびで たたかう おもちゃだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Beach boxing gloves
@@ -39091,7 +39091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23784">
         <xliff:source>Wouldn't want that sleeping at the end of my bed.</xliff:source>
-        <xliff:target state="translated">Wouldn't want that sleeping at the end of my bed。</xliff:target>
+        <xliff:target state="translated">だろうあれでのわたしのベッド。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Pet dagannoth supreme
@@ -39115,7 +39115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23787">
         <xliff:source>Keep Molin', molin' molin' molin'!</xliff:source>
-        <xliff:target state="translated">Keep Molin', molin' molin' molin'!。</xliff:target>
+        <xliff:target state="translated">たもつ!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Baby mole
@@ -39123,7 +39123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23788">
         <xliff:source>Suggests there's a king nearby.</xliff:source>
-        <xliff:target state="translated">Suggests there's a king nearby。</xliff:target>
+        <xliff:target state="translated">ていあんするおう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Kalphite princess
@@ -39131,7 +39131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23789">
         <xliff:source>*cough*</xliff:source>
-        <xliff:target state="translated">*cough*。</xliff:target>
+        <xliff:target state="translated">ゴホン。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Pet smoke devil
@@ -40523,7 +40523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="23963">
         <xliff:source>A small boisterous bird, a delicacy for ogres.</xliff:source>
-        <xliff:target state="translated">ogresの ための small boisterous bird, a delicacyだ。</xliff:target>
+        <xliff:target state="translated">ちいさいとり,。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Chompy chick
@@ -41171,7 +41171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24044">
         <xliff:source>A book left for you by the Overseer.</xliff:source>
-        <xliff:target state="translated">のこす ため に.</xliff:target>
+        <xliff:target state="translated">ほんひだりあなたで。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Overseer's book
@@ -41507,7 +41507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24086">
         <xliff:source>An enervated relic of the ancient times of Kourend.</xliff:source>
-        <xliff:target state="translated">クーレンドのいにしえじだいのよわきって iぶつ。</xliff:target>
+        <xliff:target state="translated">the ancient times of Kourendの enervated relicだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Xeric's talisman
@@ -43347,7 +43347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24316">
         <xliff:source>A ring shaped like the nature rune symbol.</xliff:source>
-        <xliff:target state="translated">しぜん の るーん の かたち を した ゆびわ。</xliff:target>
+        <xliff:target state="translated">しぜん の ルーン の かたち を した ゆびわ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Ring of nature
@@ -43723,7 +43723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24363">
         <xliff:source>A rune tipped spear with gold plate.</xliff:source>
-        <xliff:target state="translated">きんいろ で めっき された るーん の さき の やり。</xliff:target>
+        <xliff:target state="translated">きんいろ で めっき された ルーン の さき の やり。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Gilded spear
@@ -43731,7 +43731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24364">
         <xliff:source>A rune-tipped, one-handed hasta, with gold plate.</xliff:source>
-        <xliff:target state="translated">きんいろ で めっき された るーん の さき の あすた。</xliff:target>
+        <xliff:target state="translated">きんいろ で めっき された ルーン の さき の あすた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Gilded hasta
@@ -43939,7 +43939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24390">
         <xliff:source>For whom?</xliff:source>
-        <xliff:target state="translated">たれ の ため に？</xliff:target>
+        <xliff:target state="translated">?</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Crier bell
@@ -44019,7 +44019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24400">
         <xliff:source>An adamant shield shaped like a cabbage.</xliff:source>
-        <xliff:target state="translated">キャベツ の かたち の あだまんと たて。</xliff:target>
+        <xliff:target state="translated">キャベツ の かたち の アダマント たて。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cabbage round shield
@@ -44307,7 +44307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24436">
         <xliff:source>A pack containing 50 of each high-level catalytic rune.</xliff:source>
-        <xliff:target state="translated">こうレベル の ふれきょう ぱわー るーん 50 こ かくしを ふくむ パック。</xliff:target>
+        <xliff:target state="translated">こうレベル の ふれきょう ぱわー ルーン 50 こ かくしを ふくむ パック。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Catalytic rune pack
@@ -44315,7 +44315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24437">
         <xliff:source>A pack containing 100 of each elemental rune.</xliff:source>
-        <xliff:target state="translated">げんそてき るーん 100 こ かくしを ふくむ パック。</xliff:target>
+        <xliff:target state="translated">げんそてき ルーン 100 こ かくしを ふくむ パック。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Elemental rune pack
@@ -44475,7 +44475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24457">
         <xliff:source>A pack containing 50 rune arrows.</xliff:source>
-        <xliff:target state="translated">るーん ぎ 50 ほん を ふくむ パック。</xliff:target>
+        <xliff:target state="translated">ルーン ぎ 50 ほん を ふくむ パック。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune arrow pack
@@ -44795,7 +44795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24497">
         <xliff:source>A giant squirrel with beautiful markings.</xliff:source>
-        <xliff:target state="translated">うつくしい もよう の おおきな りす。</xliff:target>
+        <xliff:target state="translated">とうつくしい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Giant squirrel
@@ -44803,7 +44803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24498">
         <xliff:source>Don't be hasty.</xliff:source>
-        <xliff:target state="translated">あたふた しないで。</xliff:target>
+        <xliff:target state="translated">ないである。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Tangleroot
@@ -45267,7 +45267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24556">
         <xliff:source>A power emanates from the crystal.</xliff:source>
-        <xliff:target state="translated">くりすたる から ちから が でている。</xliff:target>
+        <xliff:target state="translated">からすいしょうの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Keystone crystal
@@ -45291,7 +45291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24559">
         <xliff:source>The ancient writings of a crazed mage.</xliff:source>
-        <xliff:target state="translated">きちがい じった まほうし の ふるい かきもの。</xliff:target>
+        <xliff:target state="translated">a crazed mageの ancient writingsだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Nistirio's manifesto
@@ -45299,7 +45299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24560">
         <xliff:source>Scrawled jottings of a diminished mind.</xliff:source>
-        <xliff:target state="translated">げげんした あたま の なぐりがき のかき。</xliff:target>
+        <xliff:target state="translated">Scrawled jottings of a diminished mind。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Tekton's journal
@@ -45315,7 +45315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24562">
         <xliff:source>Ancient notes on transdimensional travel.</xliff:source>
-        <xliff:target state="translated">あいあいてき たびについての ふるい めも。</xliff:target>
+        <xliff:target state="translated">のじょうに。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Transdimensional notes
@@ -45331,7 +45331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24564">
         <xliff:source>Confessions of a troubled soul.</xliff:source>
-        <xliff:target state="translated">なやんでいる たましい の はくじ。</xliff:target>
+        <xliff:target state="translated">Confessions of a troubled soul。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Houndmaster's diary
@@ -45795,7 +45795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24622">
         <xliff:source>Aids the user against vampyres.</xliff:source>
-        <xliff:target state="translated">ゆーざー を ばんぱいあ に たいして たすける。</xliff:target>
+        <xliff:target state="translated">ゆーざー を バンパイア に たいして たすける。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Efaritay's aid
@@ -45891,7 +45891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24634">
         <xliff:source>Special guests for the 4th Old School RuneScape birthday party!</xliff:source>
-        <xliff:target state="translated">だい よん とてね るーんすけーぷ しょうねん かい の とくべつな ゲスト！</xliff:target>
+        <xliff:target state="translated">だい よん とてね ルーンすけーぷ しょうねん かい の とくべつな ゲスト！</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Invitation list
@@ -46091,7 +46091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24659">
         <xliff:source>Golden rabbit droppings.</xliff:source>
-        <xliff:target state="translated">きんいろ の ウサギ のふん。</xliff:target>
+        <xliff:target state="translated">きんいろ の うさぎ のふん。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Gold fragment
@@ -46411,7 +46411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24699">
         <xliff:source>These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.</xliff:source>
-        <xliff:target state="translated">これらは わたし が みすりる と あだまんたいと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん の さいこう を きゅうしん する。</xliff:target>
+        <xliff:target state="translated">これらは わたし が ミスリル と あだまんたいと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん の さいこう を きゅうしん する。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Superior mining gloves
@@ -46459,7 +46459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24705">
         <xliff:source>These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.</xliff:source>
-        <xliff:target state="translated">これらは わたし が すないし、るーないと、あめじすと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん、みすりる、あだまんたいと の さいこう を きゅうしん する。</xliff:target>
+        <xliff:target state="translated">これらは わたし が すないし、るーないと、あめじすと を ほるのを たすける だろう。 また、てつ、ぎん、たんたん、きん、ミスリル、あだまんたいと の さいこう を きゅうしん する。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Expert mining gloves
@@ -46659,7 +46659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24730">
         <xliff:source>A broken up piece of Mithril ore.</xliff:source>
-        <xliff:target state="translated">こわれた みすりるこうぶつ のぴーす。</xliff:target>
+        <xliff:target state="translated">こわれた ミスリルこうぶつ のぴーす。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mithril ore fragment
@@ -48003,7 +48003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24898">
         <xliff:source>It looks very old.</xliff:source>
-        <xliff:target state="translated">ひじょうに ふるくみえる。</xliff:target>
+        <xliff:target state="translated">それ みえる とても ふるい.</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Aivas' diary
@@ -48187,7 +48187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24921">
         <xliff:source>A strange key. It seems to be made out of various metals, including mithril.</xliff:source>
-        <xliff:target state="translated">へんな かぎ。 みすりる を ふくめた さまざま な きんぞく で できているみたい。</xliff:target>
+        <xliff:target state="translated">へんな かぎ。 ミスリル を ふくめた さまざま な きんぞく で できているみたい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Ancient key
@@ -48267,7 +48267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24931">
         <xliff:source>The cape worn by members of the Myths' Guild.</xliff:source>
-        <xliff:target state="translated">ミス ギルド の メンバー が きていた マント。</xliff:target>
+        <xliff:target state="translated">すりへったでの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mythical cape
@@ -48507,7 +48507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24961">
         <xliff:source>A solid willow shield covered in snakeskin leather.</xliff:source>
-        <xliff:target state="translated">ヘビ かわ かわ で おおわれた ぎっしりした ヤナギ の たて。</xliff:target>
+        <xliff:target state="translated">へび かわ かわ で おおわれた ぎっしりした ヤナギ の たて。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Snakeskin shield
@@ -48635,7 +48635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24977">
         <xliff:source>Eww!</xliff:source>
-        <xliff:target state="translated">あ！</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rotten cabbage
@@ -48651,7 +48651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24979">
         <xliff:source>A razor sharp rapier, smeared with vampyric blood.</xliff:source>
-        <xliff:target state="translated">ばんぱいあ の ち で ぬられた かみそり のような するどい らぴあ。</xliff:target>
+        <xliff:target state="translated">バンパイア の ち で ぬられた かみそり のような するどい らぴあ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Ghrazi rapier
@@ -48819,7 +48819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25000">
         <xliff:source>The son of a former High Priest, fused with the rock and bound to the dark crystals.</xliff:source>
-        <xliff:target state="translated">さきの だいそうりょう の むすこ。 がん と くっつき, くろい くりすたる に しばられた。</xliff:target>
+        <xliff:target state="translated">むすこのもとのたかいといわとへくらい。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Vasa minirio
@@ -48843,7 +48843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25003">
         <xliff:source>Awarded for completing 100 Chambers of Xeric in challenge mode.</xliff:source>
-        <xliff:target state="translated">チャレンジ もーど で ザリック の チャンバー 100 を かんりょう したため に ほうしゅう された。</xliff:target>
+        <xliff:target state="translated">Awarded for completing 100 Chambers of Xeric in challenge mode。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Xeric's guard
@@ -48851,7 +48851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25004">
         <xliff:source>Awarded for completing 500 Chambers of Xeric in challenge mode.</xliff:source>
-        <xliff:target state="translated">チャレンジ もーど で ザリック の チャンバー 500 を かんりょう したため に ほうしゅう された。</xliff:target>
+        <xliff:target state="translated">Awarded for completing 500 Chambers of Xeric in challenge mode。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Xeric's warrior
@@ -48859,7 +48859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25005">
         <xliff:source>Awarded for completing 1000 Chambers of Xeric in challenge mode.</xliff:source>
-        <xliff:target state="translated">チャレンジ もーど で ザリック の チャンバー 1000 を かんりょう したため に ほうしゅう された。</xliff:target>
+        <xliff:target state="translated">Awarded for completing 1000 Chambers of Xeric in challenge mode。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Xeric's sentinel
@@ -48867,7 +48867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25006">
         <xliff:source>Awarded for completing 1500 Chambers of Xeric in challenge mode.</xliff:source>
-        <xliff:target state="translated">チャレンジ もーど で ザリック の チャンバー 1500 を かんりょう したため に ほうしゅう された。</xliff:target>
+        <xliff:target state="translated">Awarded for completing 1500 Chambers of Xeric in challenge mode。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Xeric's general
@@ -48875,7 +48875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25007">
         <xliff:source>Awarded for completing 2000 Chambers of Xeric in challenge mode.</xliff:source>
-        <xliff:target state="translated">チャレンジ もーど で ザリック の チャンバー 2000 を かんりょう したため に ほうしゅう された。</xliff:target>
+        <xliff:target state="translated">Awarded for completing 2000 Chambers of Xeric in challenge mode。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Xeric's champion
@@ -49155,7 +49155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25042">
         <xliff:source>What has eight legs and runs a Vampyric Theatre?</xliff:source>
-        <xliff:target state="translated">8 ほん の あし を もち，ばんぱいあ シアター を はしる ものは？</xliff:target>
+        <xliff:target state="translated">8 ほん の あし を もち，バンパイア シアター を はしる ものは？</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Lil' zik
@@ -49459,7 +49459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25080">
         <xliff:source>Don't alch him.</xliff:source>
-        <xliff:target state="translated">かれ を あるけみー しない で。</xliff:target>
+        <xliff:target state="translated">ないかれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Old man's coffin
@@ -49747,7 +49747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25116">
         <xliff:source>Boo!</xliff:source>
-        <xliff:target state="translated">ぶー！</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Clown mask
@@ -50891,7 +50891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25259">
         <xliff:source>Use on the rune defender to trim it with gold.</xliff:source>
-        <xliff:target state="translated">るーん ぼうぎょしゃ に つかう。 きん で かざる。</xliff:target>
+        <xliff:target state="translated">ルーン ぼうぎょしゃ に つかう。 きん で かざる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune defender ornament kit
@@ -51003,7 +51003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25273">
         <xliff:source>Cute frog slippers.</xliff:source>
-        <xliff:target state="translated">かわいい カエル スリッパ。</xliff:target>
+        <xliff:target state="translated">かわいい かえる スリッパ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Frog slippers
@@ -51075,7 +51075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25282">
         <xliff:source>Use on a rune scimitar to make it look fancier!</xliff:source>
-        <xliff:target state="translated">るーん しゃもじ に つかう。 もっと しゃれに する！</xliff:target>
+        <xliff:target state="translated">ルーン しゃもじ に つかう。 もっと しゃれに する！</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rune scimitar ornament kit (guthix)
@@ -51195,7 +51195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25297">
         <xliff:source>Adamant platebody with a heraldic design.</xliff:source>
-        <xliff:target state="translated">ごくれいてき な さされた そうしょく で の あだまんと どう。</xliff:target>
+        <xliff:target state="translated">ごくれいてき な さされた そうしょく で の アダマント どう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Adamant platebody (h1)
@@ -51651,7 +51651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25354">
         <xliff:source>Not so threatening at this size.</xliff:source>
-        <xliff:target state="translated">このおおきさ では，そこまで きょういいていない。</xliff:target>
+        <xliff:target state="translated">ないでこれ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Smolcano
@@ -52139,7 +52139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25415">
         <xliff:source>A crystalline sceptre with some magical properties.</xliff:source>
-        <xliff:target state="translated">いくつかの まほうてき な はせき を つけた くりすたれる しゃくしょく。</xliff:target>
+        <xliff:target state="translated">といくつか。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Crystal sceptre
@@ -52603,7 +52603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25473">
         <xliff:source>A stylish rune full helm inlaid with dragonstones.</xliff:source>
-        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた るーん ぜんめん かぶと。</xliff:target>
+        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた ルーン ぜんめん かぶと。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dragonstone full helm
@@ -52611,7 +52611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25474">
         <xliff:source>A stylish rune platebody inlaid with dragonstones.</xliff:source>
-        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた るーん どう。</xliff:target>
+        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた ルーン どう。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dragonstone platebody
@@ -52619,7 +52619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25475">
         <xliff:source>A stylish pair of rune platelegs inlaid with dragonstones.</xliff:source>
-        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた るーん ズボン。</xliff:target>
+        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた ルーン ズボン。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dragonstone platelegs
@@ -52627,7 +52627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25476">
         <xliff:source>A stylish pair of rune boots inlaid with dragonstones.</xliff:source>
-        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた るーん ぶーつ。</xliff:target>
+        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた ルーン ぶーつ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dragonstone boots
@@ -52635,7 +52635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25477">
         <xliff:source>A stylish pair of rune gauntlets inlaid with dragonstones.</xliff:source>
-        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた るーん てぶくろ。</xliff:target>
+        <xliff:target state="translated">ドラゴンすとーん を うめこんだ しゃれた ルーン てぶくろ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dragonstone gauntlets
@@ -52875,7 +52875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25507">
         <xliff:source>An icon of the god of Balance that has been stylised in the form of a snake.</xliff:source>
-        <xliff:target state="translated">つりあい の かみがみ の あいこん。 ヘビ の すがた に しゃれた。</xliff:target>
+        <xliff:target state="translated">つりあい の かみがみ の あいこん。 へび の すがた に しゃれた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Guthixian icon
@@ -52899,7 +52899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25510">
         <xliff:source>Advertise your house here.</xliff:source>
-        <xliff:target state="translated">ここで あなた の いえ を こうこく する。</xliff:target>
+        <xliff:target state="translated">あなたのいえここ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: House advertisement
@@ -53603,7 +53603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25598">
         <xliff:source>Sacrifice items to pay down item reclamation fees.</xliff:source>
-        <xliff:target state="translated">あいてむ の かいしゅう りょうきん を さげるために あいてむ を ぎせい する。</xliff:target>
+        <xliff:target state="translated">へしたぶつひん。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Death's coffer
@@ -53723,7 +53723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25613">
         <xliff:source>A rabbit's favourite snack.</xliff:source>
-        <xliff:target state="translated">ウサギ の お きに いり の おやつ。</xliff:target>
+        <xliff:target state="translated">うさぎ の お きに いり の おやつ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Carrot
@@ -53987,7 +53987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25646">
         <xliff:source>Lets you dress like a vampyre noble.</xliff:source>
-        <xliff:target state="translated">あなた を ばんぱいあ きぞく のように まう ことを ゆるす。</xliff:target>
+        <xliff:target state="translated">あなた を バンパイア きぞく のように まう ことを ゆるす。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Vyre noble top
@@ -53995,7 +53995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25647">
         <xliff:source>An old note found in the Darkmeyer Arboretum.</xliff:source>
-        <xliff:target state="translated">ダークマイヤー じゅもくえん で みつかった ふるい めも。</xliff:target>
+        <xliff:target state="translated">ダーくまイヤー じゅもくえん で みつかった ふるい めも。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Old note
@@ -54075,7 +54075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25657">
         <xliff:source>Scary!</xliff:source>
-        <xliff:target state="translated">こわい！</xliff:target>
+        <xliff:target state="translated">!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Vyre
@@ -54147,7 +54147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25666">
         <xliff:source>Reduces the amount of vampyre dust to sacrifice within the Hallowed Sepulchre.</xliff:source>
-        <xliff:target state="translated">ハローウッド セプルコア のなか で ぎせい する べき ばんぱいあ ほこり の りょう を へらす。</xliff:target>
+        <xliff:target state="translated">ハローウッド セプルコア のなか で ぎせい する べき バンパイア ほこり の りょう を へらす。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Hallowed symbol
@@ -54435,7 +54435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25702">
         <xliff:source>A basic wooden dining table.</xliff:source>
-        <xliff:target state="translated">きほんてき な もくせい の たべもの テーブル。</xliff:target>
+        <xliff:target state="translated">もくせいのテーブル。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Wooden table
@@ -54443,7 +54443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25703">
         <xliff:source>A basic oak dining table.</xliff:source>
-        <xliff:target state="translated">きほんてき な コナラ の たべもの テーブル。</xliff:target>
+        <xliff:target state="translated">テーブル。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Oak table
@@ -54451,7 +54451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25704">
         <xliff:source>A teak dining table.</xliff:source>
-        <xliff:target state="translated">チーク の たべもの テーブル。</xliff:target>
+        <xliff:target state="translated">テーブル。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Teak table
@@ -54459,7 +54459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25705">
         <xliff:source>An expensive mahogany table.</xliff:source>
-        <xliff:target state="translated">こうい な マホガニー テーブル。</xliff:target>
+        <xliff:target state="translated">たかいテーブル。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mahogany table
@@ -54699,7 +54699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25735">
         <xliff:source>A basic oak chair.</xliff:source>
-        <xliff:target state="translated">きほんてき な コナラ の いす。</xliff:target>
+        <xliff:target state="translated">いす。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Oak chair
@@ -54739,7 +54739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25740">
         <xliff:source>A teak cupboard.</xliff:source>
-        <xliff:target state="translated">チーク の なわだな。</xliff:target>
+        <xliff:target state="translated">チークのひきだしだ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Teak cupboard
@@ -54883,7 +54883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25758">
         <xliff:source>Filled with candy.</xliff:source>
-        <xliff:target state="translated">あめ で いっぱい。</xliff:target>
+        <xliff:target state="translated">と。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Pumpkin
@@ -55003,7 +55003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25773">
         <xliff:source>A Rune trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).</xliff:source>
-        <xliff:target state="translated">りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのるーん とろふぃー。</xliff:target>
+        <xliff:target state="translated">りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのルーン とろふぃー。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Trailblazer rune trophy
@@ -55011,7 +55011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25774">
         <xliff:source>An Adamant trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).</xliff:source>
-        <xliff:target state="translated">りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのあだまんと とろふぃー。</xliff:target>
+        <xliff:target state="translated">りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのアダマント とろふぃー。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Trailblazer adamant trophy
@@ -55019,7 +55019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25775">
         <xliff:source>A Mithril trophy for competing in Leagues II - Trailblazer (28th Oct 2020 to 6th Jan 2021).</xliff:source>
-        <xliff:target state="translated">りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのみすりる とろふぃー。</xliff:target>
+        <xliff:target state="translated">りーぐす 2 - とれいるぶれーざー (10がつ 28にち 2020ねん から 1がつ 6にち 2021ねん) に さんか した ためのミスリル とろふぃー。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Trailblazer mithril trophy
@@ -55515,7 +55515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25837">
         <xliff:source>I wonder what's inside?</xliff:source>
-        <xliff:target state="translated">なに が なか に あるか かしら？</xliff:target>
+        <xliff:target state="translated">なかに なにが あるんだろう？</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Spoils of war
@@ -56163,7 +56163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="25918">
         <xliff:source>Hold the door!</xliff:source>
-        <xliff:target state="translated">ど を もて！</xliff:target>
+        <xliff:target state="translated">もつ その ドア!</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Gregg's eastdoor
@@ -61467,7 +61467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26581">
         <xliff:source>People won't stop chicken you out.</xliff:source>
-        <xliff:target state="translated">ニワトリ だす.</xliff:target>
+        <xliff:target state="translated">にわとり だす.</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Nest hat
@@ -62331,7 +62331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26689">
         <xliff:source>Keeps the shadows at bay.</xliff:source>
-        <xliff:target state="translated">で.</xliff:target>
+        <xliff:target state="translated">たもつで。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Shadow blocker
@@ -62339,7 +62339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26690">
         <xliff:source>Helps to protect you from the influence of the Shadow Realm.</xliff:source>
-        <xliff:target state="translated">へ まもる から の.</xliff:target>
+        <xliff:target state="translated">へあなたからのかげ。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Revitalising idol
@@ -62347,7 +62347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26691">
         <xliff:source>A strange magical portal.</xliff:source>
-        <xliff:target state="translated">ほうじゅつ.</xliff:target>
+        <xliff:target state="translated">へんなぽーたる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Anima portal
@@ -63243,7 +63243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26803">
         <xliff:source>An eternal flame of rejuvination.</xliff:source>
-        <xliff:target state="translated">の.</xliff:target>
+        <xliff:target state="translated">ほのおの。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Trailblazer reloaded rejuvenation pool
@@ -63843,7 +63843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26878">
         <xliff:source>Everything you might need to build a camp.</xliff:source>
-        <xliff:target state="translated">かもしれない へ つくる.</xliff:target>
+        <xliff:target state="translated">あなたかもしれないひつようへたてる。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Building supplies
@@ -65018,7 +65018,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Enriched snapdragon seed
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29538</xliff:note></xliff:trans-unit><xliff:trans-unit id="27036"><xliff:source>Part of a stone circle.</xliff:source>
-        <xliff:target state="translated">ぶひん の いし.</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">ぶひんのいし。</xliff:target><xliff:note>category: examine
 sub_category: item
 source: Agility dolmen
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29539</xliff:note></xliff:trans-unit><xliff:trans-unit id="27037"><xliff:source>An elemental block of air.</xliff:source>
@@ -66066,7 +66066,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Raging echoes portal scroll
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30461</xliff:note></xliff:trans-unit><xliff:trans-unit id="27298"><xliff:source>A fearsome yet stylish souvenir from Leagues V: Raging Echoes.</xliff:source>
-        <xliff:target state="translated">から :.</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">まだから。</xliff:target><xliff:note>category: examine
 sub_category: item
 source: Raging echoes nexus rug
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30463</xliff:note></xliff:trans-unit><xliff:trans-unit id="27299"><xliff:source>A Dragon Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source>

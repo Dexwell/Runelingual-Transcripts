@@ -742,8 +742,8 @@ Leave Tomb	おはかをでる	actions	object	Tomb Door
 Quick-leave	すぐにでる	actions	object	Tomb Door
 Tread-softly	そっとあるく	actions	object	Icicles
 Convert	かえる	actions	object	Collector Converter
-Check for Snakes	ヘビをさがす	actions	object	Urn
-Charm Snake	ヘビをなだめる	actions	object	Urn
+Check for Snakes	へびをさがす	actions	object	Urn
+Charm Snake	へびをなだめる	actions	object	Urn
 Cut-wood	きをきる	actions	object	Woodcutting stump
 Cross-bridge	はしをわたる	actions	object	Rope bridge
 Exit-cave	ほらあなをでる	actions	object	Exit cavern

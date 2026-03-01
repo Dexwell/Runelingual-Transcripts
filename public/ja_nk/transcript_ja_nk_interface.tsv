@@ -93,28 +93,28 @@ Healing	かいふく	interface	generalUI	skillGuide
 Equipment	そうび	interface	generalUI	skillGuide
 Purple Sweets: Restores <Num0>-<Num1> Hitpoints (Members)	むらさきのアメ：たいりょくを<Num0>-<Num1>かいふく（かいいん）	interface	generalUI	skillGuide
 Anchovies: Restores <Num0> Hitpoint	アンチョビ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
-Shrimp: Restores <Num0> Hitpoints	エビ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
+Shrimp: Restores <Num0> Hitpoints	えび：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Cooked chicken: Restores <Num0> Hitpoints	やきけたけいにく：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Sardine: Restores <Num0> Hitpoints	イワシ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Cooked meat: Restores <Num0> Hitpoints	やきけたにく：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Cooked mystery meat: Restores <Num0> Hitpoints	やきけたなぞのにく：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Bread: Restores <Num0> Hitpoints	パン：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Herring: Restores <Num0> Hitpoints	ニシン：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
-Cooked Rabbit: Restores <Num0> Hitpoints (Members)	やきけたウサギ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
+Cooked Rabbit: Restores <Num0> Hitpoints (Members)	やきけたうさぎ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Steak Sandwich: Restores <Num0> Hitpoints	ステーキサンド：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Mackerel: Restores <Num0> Hitpoints (Members)	サバ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Botanical Pie: Restores <Num0> Hitpoints (Members)	しょくぶつパイ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Slimy Eel: Restores <Num0>-<Num1> Hitpoints (Members)	なめらかりウナギ：たいりょくを<Num0>-<Num1>かいふく（かいいん）	interface	generalUI	skillGuide
 Trout: Restores <Num0> Hitpoints	マス：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Cod: Restores <Num0> Hitpoints (Members)	タラ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
-Roast Rabbit: Restores <Num0> Hitpoints (Members)	やきウサギ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
+Roast Rabbit: Restores <Num0> Hitpoints (Members)	やきうさぎ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Cave Eel: Restores <Num0>-<Num1> Hitpoints (Members)	どうくつウナギ：たいりょくを<Num0>-<Num1>かいふく（かいいん）	interface	generalUI	skillGuide
 Pike: Restores <Num0> Hitpoints	パイク：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Wild kebbit: Restores <Num0> Hitpoints (Members)	やせいケビット：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
-Salmon: Restores <Num0> Hitpoints	サケ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
+Salmon: Restores <Num0> Hitpoints	さけ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Redberry pie: Restores <Num0> Hitpoints	レッドベリーパイ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
-Tuna: Restores <Num0> Hitpoints	マグロ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
-Crab meat: Restores <Num0> Hitpoints (Members)	カニにく：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
+Tuna: Restores <Num0> Hitpoints	まぐろ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
+Crab meat: Restores <Num0> Hitpoints (Members)	かににく：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Cooked fishcake: Restores <Num0> Hitpoints (Members)	やきけたフィッシュケーキ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Jug of wine: Restores <Num0> Hitpoints	ワインのピッチャー：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
 Meat pie: Restores <Num0> Hitpoints	にくパイ：たいりょくを<Num0>かいふく	interface	generalUI	skillGuide
@@ -148,7 +148,7 @@ Mushroom Potato: Restores <Num0> Hitpoints (Members)	じゃがキノコ：たい
 Sea Turtle: Restores <Num0> Hitpoints (Members)	ウミガメ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Sunlight antelope: Restores <Num0> Hitpoints (Members)	にっこうアンテロープ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Manta Ray: Restores <Num0> Hitpoints (Members)	マンタ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
-Dark Crab: Restores <Num0> Hitpoints (Members)	あんこくのカニ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
+Dark Crab: Restores <Num0> Hitpoints (Members)	あんこくのかに：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Tuna Potato: Restores <Num0> Hitpoints (Members)	じゃがツナ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Wild pie: Restores <Num0> Hitpoints (Members)	ワイルドパイ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
 Summer pie: Restores <Num0> Hitpoints (Members)	サマーパイ：たいりょくを<Num0>かいふく（かいいん）	interface	generalUI	skillGuide
@@ -193,9 +193,9 @@ Members: Tainted essence chunk	かいいん：ふはいしたエッセンスの�
 Members: Lovakite ore	かいいん：ロヴァカイトこうせき	interface	generalUI	skillGuide
 Adamantite ore	アダマンタイトこうせき	interface	generalUI	skillGuide
 Members: Soft clay	かいいん：やわらかいねんど	interface	generalUI	skillGuide
-Members: Te Salt	かいいん：テしお	interface	generalUI	skillGuide
+Members: Te Salt	かいいん：てしお	interface	generalUI	skillGuide
 Members: Efh Salt	かいいん：エフフしお	interface	generalUI	skillGuide
-Members: Urt Salt	かいいん：ウルトしお	interface	generalUI	skillGuide
+Members: Urt Salt	かいいん：うるとしお	interface	generalUI	skillGuide
 Members: Basalt	かいいん：げんぶがん	interface	generalUI	skillGuide
 Members: Ancient essence (after Secrets of the North)	かいいん：こだいのエッセンス（「きたりくのひみつ」あと）	interface	generalUI	skillGuide
 Runite ore	ルーナイトこうせき	interface	generalUI	skillGuide
@@ -272,8 +272,8 @@ Enter the Bandos area of the God Wars Dungeon	かみせんダンジョンのバ�
 Barbarian - Members Only	ばんぞく：かいいんかぎさだめ	interface	generalUI	skillGuide
 To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	ばんぞくりゅうのつりをまなびぶにはつり<Num0>・うんどうしんけい<Num1>・わんりょく<Num2>になったらオットー・ゴッドプレスドにはなしそう	interface	generalUI	skillGuide
 Leaping trout (with <Num0> Agility & <Num1> Fishing)	みなみドーゲシュ・カーンどうくつつうか（うんどうしんけい<Num0>・わんりょく<Num1>と「ドーゲシューンにしを」あと）	interface	generalUI	skillGuide
-Leaping salmon (with <Num0> Agility & <Num1> Fishing)	とびサケ（うんどうしんけい<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
-Tuna (with <Num0> Fishing)	マグロ（つり<Num0>も）	interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Agility & <Num1> Fishing)	とびさけ（うんどうしんけい<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
+Tuna (with <Num0> Fishing)	まぐろ（つり<Num0>も）	interface	generalUI	skillGuide
 Harpoonfish (with <Num0> Fishing)	もりうお（つり<Num0>も）	interface	generalUI	skillGuide
 Leaping sturgeon (with <Num0> Agility & <Num1> Fishing)	とびチョウザメ（うんどうしんけい<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
 Swordfish (with <Num0> Fishing)	カジキ（つり<Num0>も）	interface	generalUI	skillGuide
@@ -427,7 +427,7 @@ Viyeldi Caves cliff climb	ヴィーエルディどうくつのがけのぼり	in
 Meiyerditch Laboratories advanced shortcut.	メイヤーディッチけんきゅうしつののこうどなちかくみち	interface	generalUI	skillGuide
 Viyeldi caves crevice (after completing the Legends' Quest)	ヴィーエルディどうくつのかめさけ（「レジェンド・クエスト」あと）	interface	generalUI	skillGuide
 Leaping trout (with <Num0> Strength & <Num1> Fishing)	とびマス（わんりょく<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
-Leaping salmon (with <Num0> Strength & <Num1> Fishing)	とびサケ（わんりょく<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Strength & <Num1> Fishing)	とびさけ（わんりょく<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
 Leaping sturgeon (with <Num0> Strength & <Num1> Fishing)	とびチョウザメ（わんりょく<Num0>とつり<Num1>も）	interface	generalUI	skillGuide
 Other - Members Only	そのほか：かいいんかぎさだめ	interface	generalUI	skillGuide
 Crystal weaponry (with <Num0> Attack)	かいいん：すいしょうのぶき（こうげきりょく<Num0>も）	interface	generalUI	skillGuide
@@ -471,7 +471,7 @@ Bronze square shields <Num0> bars	せいどうのつのたて：えんべぼう<
 Bronze warhammers <Num0> bars	せいどうのせんつい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Bronze battleaxes <Num0> bars	せいどうのせんぷ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Bronze chainbodies <Num0> bars	せいどうのくさりよろい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
-Bronze kiteshields <Num0> bars	せいどうのタコたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
+Bronze kiteshields <Num0> bars	せいどうのたこたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Bronze claws <Num0> bars	かいいん：せいどうのかぎづめ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Bronze two-handed swords <Num0> bars	せいどうのりょうてけん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Bronze platelegs <Num0> bars	せいどうのきゃっこう：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
@@ -505,7 +505,7 @@ Iron warhammers <Num0> bars	てつのせんつい：えんべぼう<Num0>ほん	
 Iron battleaxes <Num0> bars	てつのせんぷ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Iron chainbodies <Num0> bars	てつのくさりよろい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Oil lantern frames <Num0> bar	かいいん：せきゆランタンのフレーム：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
-Iron kiteshields <Num0> bars	てつのタコたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
+Iron kiteshields <Num0> bars	てつのたこたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Iron claws <Num0> bars	かいいん：てつのかぎづめ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Iron two-handed swords <Num0> bars	てつのりょうてけん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Iron platelegs <Num0> bars	てつのきゃっこう：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
@@ -535,7 +535,7 @@ Steel square shields <Num0> bars	こうてつのつのたて：えんべぼう<N
 Steel warhammers <Num0> bars	こうてつのせんつい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Steel battleaxes <Num0> bars	こうてつのせんぷ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Steel chainbodies <Num0> bars	こうてつのくさりよろい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
-Steel kiteshields <Num0> bars	こうてつのタコたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
+Steel kiteshields <Num0> bars	こうてつのたこたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Steel claws <Num0> bars	かいいん：こうてつのかぎづめ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Steel two-handed swords <Num0> bars	こうてつのりょうてけん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Steel platelegs <Num0> bars	こうてつのきゃっこう：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
@@ -565,7 +565,7 @@ Mithril warhammers <Num0> bars	ミスリルのせんつい：えんべぼう<Num
 Members: Mithril crossbow grapple tips <Num0> bar	かいいん：ミスリルのようきゅうじゅうのグラップルせんたん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Mithril battleaxes <Num0> bars	ミスリルのせんぷ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Mithril chainbodies <Num0> bars	ミスリルのくさりよろい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
-Mithril kiteshields <Num0> bars	ミスリルのタコたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
+Mithril kiteshields <Num0> bars	ミスリルのたこたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Mithril claws <Num0> bars	かいいん：ミスリルのかぎづめ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Mithril two-handed swords <Num0> bars	ミスリルのりょうてけん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Mithril platelegs <Num0> bars	ミスリルのきゃっこう：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
@@ -593,7 +593,7 @@ Adamant square shields <Num0> bars	アダマントのつのたて：えんべぼ
 Adamant warhammers <Num0> bars	アダマントのせんつい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Adamant battleaxes <Num0> bars	アダマントのせんぷ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Adamant chainbodies <Num0> bars	アダマントのくさりよろい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
-Adamant kiteshields <Num0> bars	アダマントのタコたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
+Adamant kiteshields <Num0> bars	アダマントのたこたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Adamant claws <Num0> bars	かいいん：アダマントのかぎづめ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Adamant two-handed swords <Num0> bars	アダマントのりょうてけん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Adamant platelegs <Num0> bars	アダマントのきゃっこう：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
@@ -621,7 +621,7 @@ Rune square shields <Num0> bars	ルーンのつのたて：えんべぼう<Num0>
 Rune warhammers <Num0> bars	ルーンのせんつい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Rune battleaxes <Num0> bars	ルーンのせんぷ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Rune chainbodies <Num0> bars	ルーンのくさりよろい：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
-Rune kiteshields <Num0> bars	ルーンのタコたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
+Rune kiteshields <Num0> bars	ルーンのたこたて：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Members: Rune claws <Num0> bars	かいいん：ルーンのかぎづめ：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Rune two-handed swords <Num0> bars	ルーンのりょうてけん：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
 Rune platelegs <Num0> bars	ルーンのきゃっこう：えんべぼう<Num0>ほん	interface	generalUI	skillGuide
@@ -756,7 +756,7 @@ Guthix balance potion Restore potion, garlic & silver dust	ガシックスのへ
 Energy potion Harralander & chocolate dust	エネルギーのやくえき：ハラランダー＆チョコのこな	interface	generalUI	skillGuide
 Defence potion Ranarr weed & white berries	しゅびりょくのぞうきょうやく：ラナー＆しろいベリー	interface	generalUI	skillGuide
 Marrentill tar Marrentill & swamp tar	マレンテルのタール：マレンテル＆ぬまタール	interface	generalUI	skillGuide
-Agility potion Toadflax & toad legs	うんどうしんけいのぞうきょうやく：トードフラックス＆カエルのあし	interface	generalUI	skillGuide
+Agility potion Toadflax & toad legs	うんどうしんけいのぞうきょうやく：トードフラックス＆かえるのあし	interface	generalUI	skillGuide
 Combat potion Harralander & ground desert goat horn	せんとうりょくのぞうきょうやく：ハラランダー＆ひかれたさばくヤギのつの	interface	generalUI	skillGuide
 Prayer restore potion Ranarr weed & snape grass	きとうのやくえき：ラナー＆スネイプくさ	interface	generalUI	skillGuide
 Moonlight Potion Vial of water & Moonlight grub paste	げっこうのやくえき：みずいりしやくびん＆げっこうのうじむしのペースト	interface	generalUI	skillGuide
@@ -895,7 +895,7 @@ Mixalot (Mastering Mixology).	ミクサロット（ミクソロジ・マスタ�
 Use the Secondary Pouch reward item, purchased from the Mastering Mixology activity.	しやくポーチをしよう：ミクスロジ・マスターでこうにゅうできるアイテム。	interface	generalUI	skillGuide
 Fishing	つり	interface	generalUI	skillGuide
 Small Net	しょうさいぎょもうでつりる	interface	generalUI	skillGuide
-Shrimp - Small fishing net	エビ：しょうさいぎょもう	interface	generalUI	skillGuide
+Shrimp - Small fishing net	えび：しょうさいぎょもう	interface	generalUI	skillGuide
 Members: Karambwanji - Small fishing net	かいいん：カラムワンジ：しょうさいぎょもう	interface	generalUI	skillGuide
 Guppy - Small fishing net (After Below Ice Mountain)	グッピー：しょうさいぎょもう（「こおりやまのちか」あと）	interface	generalUI	skillGuide
 Anchovies - Small fishing net	アンチョビ：しょうさいぎょもう	interface	generalUI	skillGuide
@@ -921,14 +921,14 @@ Herring - Fishing rod & Fishing bait	ニシン：つりさお＆つりエサ	int
 Trout - Fly fishing rod & Feathers	マス：フライロッド＆はね	interface	generalUI	skillGuide
 Pike - Fishing rod & Fishing bait	パイク：つりさお＆つりエサ	interface	generalUI	skillGuide
 Members: Slimy eel - Fishing rod & Fishing bait	かいいん：なめらかりウナギ：つりさお＆つりエサ	interface	generalUI	skillGuide
-Salmon - Fly fishing rod & feathers	サケ：フライロッド＆はね	interface	generalUI	skillGuide
+Salmon - Fly fishing rod & feathers	さけ：フライロッド＆はね	interface	generalUI	skillGuide
 Members: Rainbow fish - Fly fishing rod & Stripy feathers	かいいん：にじいろのさかな：フライロッド＆はね	interface	generalUI	skillGuide
 Members: Cave eel - Fishing rod & Fishing bait	かいいん：どうくつウナギ：つりさお＆つりエサ	interface	generalUI	skillGuide
 Members: Lava eel - Oily fishing rod & Fishing bait	かいいん：ようがんウナギ：つりさお＆つりエサ	interface	generalUI	skillGuide
 Members: Infernal eel - Oily fishing rod & Fishing bait	かいいん：ごくえんのウナギ：つりさお＆つりエサ	interface	generalUI	skillGuide
 Members: Anglerfish - Fishing rod & Sandworms	かいいん：ペリカンアンコウ：つりさお＆ゴカイ	interface	generalUI	skillGuide
 Members: Sacred eel - Fishing rod & Fishing bait	かいいん：しんせいなウナギ：つりさお＆つりエサ	interface	generalUI	skillGuide
-Tuna - Harpoon	マグロ：もり	interface	generalUI	skillGuide
+Tuna - Harpoon	まぐろ：もり	interface	generalUI	skillGuide
 Swordfish - Harpoon	カジキ：もり	interface	generalUI	skillGuide
 Members: Shark - Harpoon	かいいん：サメ：もり	interface	generalUI	skillGuide
 Aerial - Members Only	くうちゅうつり：かいいんかぎさだめ	interface	generalUI	skillGuide
@@ -937,11 +937,11 @@ Members: Common tench - Aerial fishing (With <Num0> hunter)	かいいん：コ�
 Members: Mottled eel - Aerial fishing (With <Num0> hunter)	かいいん：まだらウナギ：くうちゅうつり（かりゅうど<Num0>も）	interface	generalUI	skillGuide
 Members: Greater siren - Aerial fishing (With <Num0> hunter)	かいいん：オオサイレン：くうちゅうつり（かりゅうど<Num0>も）	interface	generalUI	skillGuide
 Lobster - Lobster pot	ロブスター：ロブスターのカゴ	interface	generalUI	skillGuide
-Members: Dark crab - Lobster pot & Dark fishing bait	かいいん：あんこくのカニ：ロブスターのカゴ＆あんこくのつりエサ	interface	generalUI	skillGuide
+Members: Dark crab - Lobster pot & Dark fishing bait	かいいん：あんこくのかに：ロブスターのカゴ＆あんこくのつりエサ	interface	generalUI	skillGuide
 Leaping trout - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	とびマス：ばんぞくのつりさお＆たいはんのエサ（うんどうしんけい<Num0>とわんりょく<Num1>も）	interface	generalUI	skillGuide
-Tuna (with <Num0> Strength)	マグロ（わんりょく<Num0>も）	interface	generalUI	skillGuide
+Tuna (with <Num0> Strength)	まぐろ（わんりょく<Num0>も）	interface	generalUI	skillGuide
 Harpoonfish (with <Num0> Strength)	もりうお（わんりょく<Num0>）	interface	generalUI	skillGuide
-Leaping salmon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	とびサケ：ばんぞくのつりさお＆たいはんのエサ（うんどうしんけい<Num0>とわんりょく<Num1>も）	interface	generalUI	skillGuide
+Leaping salmon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	とびさけ：ばんぞくのつりさお＆たいはんのエサ（うんどうしんけい<Num0>とわんりょく<Num1>も）	interface	generalUI	skillGuide
 Leaping sturgeon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	とびチョウザメ：ばんぞくのつりさお＆たいはんのエサ（うんどうしんけい<Num0>とわんりょく<Num1>も）	interface	generalUI	skillGuide
 Swordfish (with <Num0> Strength)	カジキ（わんりょく<Num0>も）	interface	generalUI	skillGuide
 Shark (with <Num0> Strength)	サメ（わんりょく<Num0>も）	interface	generalUI	skillGuide
@@ -1035,7 +1035,7 @@ Studded leather body (with <Num0> Defence)	トゲつきのボディ（しゅび�
 Studded leather chaps	トゲつきチャップス	interface	generalUI	skillGuide
 Coif	コイフ	interface	generalUI	skillGuide
 Members: Hard leather shield  (with <Num0> Defence)	かいいん：かたかわのたて（しゅびりょく<Num0>も）	interface	generalUI	skillGuide
-Members: Frog-leather  (with <Num0> Defence)	かいいん：カエルかわ（しゅびりょく<Num0>も）	interface	generalUI	skillGuide
+Members: Frog-leather  (with <Num0> Defence)	かいいん：かえるかわ（しゅびりょく<Num0>も）	interface	generalUI	skillGuide
 Members: Snakeskin armour (with <Num0> Defence)	かいいん：へびかわのぼうぐ（しゅびりょく<Num0>も）	interface	generalUI	skillGuide
 Members: Snakeskin shield  (with <Num0> Defence)	かいいん：へびかわのたて（しゅびりょく<Num0>）	interface	generalUI	skillGuide
 Members: Ava's attractor (after Animal Magnetism)	かいいん：アヴァのアトラクター（「どうぶつのじせい」あと）	interface	generalUI	skillGuide
@@ -1119,7 +1119,7 @@ Hero	ヒーロー	interface	generalUI	skillGuide
 Vyre	ヴァイヤー	interface	generalUI	skillGuide
 Elf	エルフ	interface	generalUI	skillGuide
 TzHaar	ツザー	interface	generalUI	skillGuide
-Pickpocket	ぬすみむ	interface	generalUI	skillGuide
+Pickpocket	ぬすむ	interface	generalUI	skillGuide
 Stalls	やだい	interface	generalUI	skillGuide
 Chests	たからばこ	interface	generalUI	skillGuide
 Stalls - Members Only	やだい：かいいんかぎさだめ	interface	generalUI	skillGuide
@@ -1155,7 +1155,7 @@ Ardougne Castle	アルドインしろ	interface	generalUI	skillGuide
 Dorgesh-Kaan (rich chests)	ドーゲシュ・カーン（ゆたなたからばこ）	interface	generalUI	skillGuide
 Wilderness Rogues' Castle	ウィルダネスのローグのしろ	interface	generalUI	skillGuide
 Sorceress's Garden minigame - Winter Al Kharid region	ソーサーレスのにわ：ふゆ（アル・カリッドちいき）	interface	generalUI	skillGuide
-Can steal cowbells from dairy cows	ちちうしからすずをぬすみむことができる	interface	generalUI	skillGuide
+Can steal cowbells from dairy cows	ちちうしからすずをぬすむことができる	interface	generalUI	skillGuide
 Pyramid Plunder minigame - Room <Num0> In the Jalsavrah Pyramid in Sophanem	りゃくだつのピラミッド：へや<Num0>（ソファネム）	interface	generalUI	skillGuide
 Sorceress's Garden minigame - Spring Al Kharid region	ソーサーレスのにわ：はる（アル・カリッドちいき）	interface	generalUI	skillGuide
 Pyramid Plunder - Room <Num0>	りゃくだつのピラミッド：へや<Num0>	interface	generalUI	skillGuide
@@ -1171,9 +1171,9 @@ Cooking	りょうり	interface	generalUI	skillGuide
 Meats	にく	interface	generalUI	skillGuide
 Meat	にく	interface	generalUI	skillGuide
 Members: Sinew (made by drying beef or bear meat on a range)	かいいん：ケン（コンロでやきけたにくをかわきかす）	interface	generalUI	skillGuide
-Shrimp	エビ	interface	generalUI	skillGuide
-Chicken	ニワトリ	interface	generalUI	skillGuide
-Members: Rabbit	かいいん：ウサギ	interface	generalUI	skillGuide
+Shrimp	えび	interface	generalUI	skillGuide
+Chicken	にわとり	interface	generalUI	skillGuide
+Members: Rabbit	かいいん：うさぎ	interface	generalUI	skillGuide
 Anchovies	アンチョビ	interface	generalUI	skillGuide
 Sardine	イワシ	interface	generalUI	skillGuide
 Members: Karambwan	かいいん:カラムワン	interface	generalUI	skillGuide
@@ -1184,17 +1184,17 @@ Members: Roasted bird meat	かいいん：ローストのけいにく	interface	
 Members: Thin snail	かいいん：うすいカタツムリ	interface	generalUI	skillGuide
 Trout	マス	interface	generalUI	skillGuide
 Members: Spider	かいいん：クモ	interface	generalUI	skillGuide
-Members: Roasted rabbit	かいいん：ローストウサギ	interface	generalUI	skillGuide
+Members: Roasted rabbit	かいいん：ローストうさぎ	interface	generalUI	skillGuide
 Members: Lean snail	かいいん：やせたカタツムリ	interface	generalUI	skillGuide
 Members: Cod	かいいん:タラ	interface	generalUI	skillGuide
 Pike	パイク	interface	generalUI	skillGuide
 Members: Roasted beast meat	かいいん：ローストのじゅうにく	interface	generalUI	skillGuide
-Members: Giant crab meat	かいいん：きょだいなカニにく	interface	generalUI	skillGuide
+Members: Giant crab meat	かいいん：きょだいなかににく	interface	generalUI	skillGuide
 Members: Fat snail	かいいん：ふとったカタツムリ	interface	generalUI	skillGuide
 Members: Wild kebbit	かいいん：やせいケビット	interface	generalUI	skillGuide
-Salmon	サケ	interface	generalUI	skillGuide
+Salmon	さけ	interface	generalUI	skillGuide
 Members: Slimy eel	かいいん:なめらかりウナギ	interface	generalUI	skillGuide
-Tuna	マグロ	interface	generalUI	skillGuide
+Tuna	まぐろ	interface	generalUI	skillGuide
 Members: Roasted chompy	かいいん：ローストされたチョンピー	interface	generalUI	skillGuide
 Members: Mossy Lizard	かいいん：コケトカゲ	interface	generalUI	skillGuide
 Members: Bream	かいいん：タイ	interface	generalUI	skillGuide
@@ -1219,7 +1219,7 @@ Members: Shark	かいいん：サメ	interface	generalUI	skillGuide
 Members: Sea turtle	かいいん：ウミガメ	interface	generalUI	skillGuide
 Members: Dashing kebbit	かいいん:すばやいケビット	interface	generalUI	skillGuide
 Members: Anglerfish	かいいん：ペリカンアンコウ	interface	generalUI	skillGuide
-Members: Dark crab	かいいん：あんこくのカニ	interface	generalUI	skillGuide
+Members: Dark crab	かいいん：あんこくのかに	interface	generalUI	skillGuide
 Members: Manta ray	かいいん：マンタ	interface	generalUI	skillGuide
 Members: Moonlight antelope	かいいん：げっこうアンテロープ	interface	generalUI	skillGuide
 Bread	パン	interface	generalUI	skillGuide
@@ -1237,7 +1237,7 @@ Members: Pitta bread	かいいん：ピッタパン	interface	generalUI	skillGui
 <Num0>. Pick some grain and take it to a windmill to make flour.	<Num0>こくもつをつんでかぜくるまでそれをこむぎこにします。	interface	generalUI	skillGuide
 <Num0>. Use a pot to collect the flour you have made.	<Num0>どなべにこむぎこをいりれます。	interface	generalUI	skillGuide
 <Num0>. Fill a bucket or jug with water from a sink or fountain.	<Num0>シンクかふんすいでバケツかみずさしにみずをいりれます。	interface	generalUI	skillGuide
-<Num0>. Mix the flour and water to make some bread dough.	<Num0>こむぎこにみずをこみぜてパンきじをさくります。	interface	generalUI	skillGuide
+<Num0>. Mix the flour and water to make some bread dough.	<Num0>こむぎこにみずをまぜてパンきじをつくります。	interface	generalUI	skillGuide
 <Num0>. Cook the dough by using it with a stove.	<Num0>パンきじをストーブでやきます。	interface	generalUI	skillGuide
 Redberry pie	レッドベリーパイ	interface	generalUI	skillGuide
 Meat pie	にくパイ	interface	generalUI	skillGuide
@@ -1252,7 +1252,7 @@ Members: Dragonfruit pie	かいいん：ドラゴンフルーツのパイ	interf
 Members: Wild pie	かいいん：ワイルドパイ	interface	generalUI	skillGuide
 Members: Summer pie	かいいん：サマーパイ	interface	generalUI	skillGuide
 To make a pie:	パイをさくるには	interface	generalUI	skillGuide
-<Num0>. Mix flour and water to make pastry dough.	<Num0>こむぎこにみずをこみぜてパイきじをさくります。	interface	generalUI	skillGuide
+<Num0>. Mix flour and water to make pastry dough.	<Num0>こむぎこにみずをまぜてパイきじをつくります。	interface	generalUI	skillGuide
 <Num0>. Place the dough in an empty pie dish.	<Num0>きじをパイさらにしく。	interface	generalUI	skillGuide
 <Num0>. Use your choice of filling with the empty pie (refer to pie recipe book).	<Num0>パイさらにすきみのぐをのせる（パイのレシピほんをさんしょう）	interface	generalUI	skillGuide
 <Num0>. Cook the pie by using it with a stove.	<Num0>ストーブでパイをわけ	interface	generalUI	skillGuide
@@ -1261,7 +1261,7 @@ Members: Curry	かいいん：カレー	interface	generalUI	skillGuide
 To make stew:	シチューをさくるには	interface	generalUI	skillGuide
 <Num0>. Obtain a bowl and fill it with water from a sink or fountain.	<Num0>ボールにシンクかふんすいからみずをいりれる	interface	generalUI	skillGuide
 <Num0>. Pick a potato and place it in the bowl.	<Num0>ジャガイモをとりってボールにいりれる	interface	generalUI	skillGuide
-<Num0>. Cook some meat and place it in the bowl.	<Num0>にくをやきいてボールにいりれる	interface	generalUI	skillGuide
+<Num0>. Cook some meat and place it in the bowl.	<Num0>にくをやいてボールにいりれる	interface	generalUI	skillGuide
 <Num0>. Cook the stew by using it with a stove or fire.	<Num0>ストーブかひでシチューをちょうりする	interface	generalUI	skillGuide
 After completing Evil Dave's miniquest from Recipe for Disaster, I can add spices to cooked stew.	「さいむずかしいのレシピ：じゃあくなデーヴ」あとはスパイスがついかかのう	interface	generalUI	skillGuide
 To make curry: make uncooked stew as above. Before cooking, add some spices or <Num0> curry leaves.	カレーをさくるにはちょうりまえシチューをよういするちょうりまえに、スパイスかカレーのは<Num0>まいをいりれる	interface	generalUI	skillGuide
@@ -1270,7 +1270,7 @@ Meat pizza	にくピザ	interface	generalUI	skillGuide
 Anchovy pizza	アンチョビピザ	interface	generalUI	skillGuide
 Members: Pineapple pizza	かいいん：パイナップルピザ	interface	generalUI	skillGuide
 To make a pizza:	ピザをさくるには	interface	generalUI	skillGuide
-<Num0>. Mix flour and water to make a pizza base.	<Num0>こむぎこにみずをこみぜてピザきじをさくります。	interface	generalUI	skillGuide
+<Num0>. Mix flour and water to make a pizza base.	<Num0>こむぎこにみずをまぜてピザきじをつくります。	interface	generalUI	skillGuide
 <Num0>. Add a tomato to the pizza.	<Num0>トマトをくわえます	interface	generalUI	skillGuide
 <Num0>. Add some cheese to the pizza.	<Num0>チーズをくわえます	interface	generalUI	skillGuide
 <Num0>. Cook the pizza by using it with a stove.	<Num0>なまピザをストーブでやきます	interface	generalUI	skillGuide
@@ -1278,7 +1278,7 @@ To make a pizza:	ピザをさくるには	interface	generalUI	skillGuide
 Cake	ケーキ	interface	generalUI	skillGuide
 Chocolate cake	チョコケーキ	interface	generalUI	skillGuide
 To make a cake:	ケーキをさくるには	interface	generalUI	skillGuide
-<Num0>. Mix flour, eggs and milk together in a cake tin.	<Num0>しょうむぎ＆たまご＆ぎゅうにゅうをこみぜてケーキのかんにいりれます	interface	generalUI	skillGuide
+<Num0>. Mix flour, eggs and milk together in a cake tin.	<Num0>しょうむぎ＆たまご＆ぎゅうにゅうをまぜてケーキのかんにいりれます	interface	generalUI	skillGuide
 <Num0>. Cook the cake by using it with a stove.	<Num0>ストーブでやきます	interface	generalUI	skillGuide
 <Num0>. Optional: Buy some chocolate and add it to the cake to make a chocolate cake.	<Num0>チョコレートをかいっていりれればチョコケーキになります	interface	generalUI	skillGuide
 Members: Wine of Zamorak	かいいん：ザモラックのワイン	interface	generalUI	skillGuide
@@ -1307,7 +1307,7 @@ Axeman's Folly <Num0> Oak root	おのつかいのフォリー：かしのね<Num
 Chef's Delight <Num0> Portions of chocolate dust	シェフのかんき：チョコのこな<Num0>つまみ	interface	generalUI	skillGuide
 Slayer's Respite <Num0> Wildblood hops	とうばつしゃのしょうきゅうし：ワイルドブラッド・ホップ<Num0>こ	interface	generalUI	skillGuide
 Vegetable - Members Only	やさい：かいいんかぎさだめ	interface	generalUI	skillGuide
-Baked potato	やきいたジャガイモ	interface	generalUI	skillGuide
+Baked potato	やいたジャガイモ	interface	generalUI	skillGuide
 Spicy sauce (topping ingredient)	からいソース（トッピングそざい）	interface	generalUI	skillGuide
 Chilli con carne (topping)	チリコンカーン（トッピング）	interface	generalUI	skillGuide
 Scrambled egg (topping ingredient)	スクランブルエッグ（トッピングそざい）	interface	generalUI	skillGuide
@@ -1318,7 +1318,7 @@ Baked potato with chilli con carne	じゃがバタとチリコンカーン	inter
 Fried onion (topping ingredient)	あげたまねぎ（トッピングそざい）	interface	generalUI	skillGuide
 Fried mushroom (topping ingredient)	あげキノコ（トッピングそざい）	interface	generalUI	skillGuide
 Baked potato with butter and cheese	じゃがバタとチーズ	interface	generalUI	skillGuide
-Baked potato with egg and tomato	やきいたジャガイモとたまごとトマト	interface	generalUI	skillGuide
+Baked potato with egg and tomato	やいたジャガイモとたまごとトマト	interface	generalUI	skillGuide
 Fried mushroom and onion (topping)	あげキノコとたまねぎ（トッピング）	interface	generalUI	skillGuide
 Baked potato with mushroom and onion	ジャガイモとキノコとたまねぎ	interface	generalUI	skillGuide
 Tuna and sweetcorn (topping)	ツナとコーン（トッピング）	interface	generalUI	skillGuide
@@ -1331,7 +1331,7 @@ Ingredients for toppings:	トッピングのそざい	interface	generalUI	skillG
 <Num0>. Chilli con carne: meat & spicy sauce (made from garlic and gnome spice)	<Num0>チリコンカーン：にくとこうしんりょう（ニンニクとノームのこうしんりょうでさくる）	interface	generalUI	skillGuide
 <Num0>. Egg and tomato: scrambled egg & tomato	<Num0>たまごとトマト：スクランブルエッグとトマト	interface	generalUI	skillGuide
 <Num0>. Mushroom and onion: fried bittercap mushroom & fried onion	<Num0>キノコとたまねぎ：あげたビタキャップダケ＆あげたまねぎ	interface	generalUI	skillGuide
-<Num0>. Tuna and sweetcorn: tuna & cooked sweetcorn	<Num0>ツナとコーン：マグロ＆やきいたコーン	interface	generalUI	skillGuide
+<Num0>. Tuna and sweetcorn: tuna & cooked sweetcorn	<Num0>ツナとコーン：まぐろ＆やいたコーン	interface	generalUI	skillGuide
 Dairy - Members Only	ちちせいしな：かいいんかぎさだめ	interface	generalUI	skillGuide
 Cream	クリーム	interface	generalUI	skillGuide
 Butter	バター	interface	generalUI	skillGuide
@@ -1454,7 +1454,7 @@ Leather vambraces	かわのうでよろい	interface	generalUI	skillGuide
 Leather body	かわのボディ	interface	generalUI	skillGuide
 Members: Xerician hat	かいいん：ゼリックのぼうし	interface	generalUI	skillGuide
 Members: Snail helmet	かいいん：カタツムリのヘルメット	interface	generalUI	skillGuide
-Members: Crab shell armour	かいいん：カニのぼうぐ	interface	generalUI	skillGuide
+Members: Crab shell armour	かいいん：かにのぼうぐ	interface	generalUI	skillGuide
 Members: Xerician robe	かいいん：ゼリックのローブ	interface	generalUI	skillGuide
 Leather chaps	かわのチャップス	interface	generalUI	skillGuide
 Members: Xerician top	かいいん：ゼリックのトップ	interface	generalUI	skillGuide
@@ -1548,7 +1548,7 @@ Members: Red topaz necklace	かいいん：あかトパーズのネックレス	
 Cut ruby	ルビーをくわえこう	interface	generalUI	skillGuide
 Ruby ring	ルビーのゆびわ	interface	generalUI	skillGuide
 Members: Jade amulet	かいいん：ヒスイのアミュレット	interface	generalUI	skillGuide
-Members: Rabbit-foot necklaces	かいいん：ひもがついたウサギのあし	interface	generalUI	skillGuide
+Members: Rabbit-foot necklaces	かいいん：ひもがついたうさぎのあし	interface	generalUI	skillGuide
 Members: Red topaz bracelet	かいいん：あかトパーズのうでわ	interface	generalUI	skillGuide
 Ruby necklace	ルビーのネックレス	interface	generalUI	skillGuide
 Members: Ruby bracelet	かいいん：ルビーのうでわ	interface	generalUI	skillGuide
@@ -2208,7 +2208,7 @@ Killerwatts	キラーワット	interface	generalUI	skillGuide
 Vyres	ヴァイヤー	interface	generalUI	skillGuide
 Molanisks	モラニスク	interface	generalUI	skillGuide
 Basilisks	バジリスク	interface	generalUI	skillGuide
-Sea snakes	ウミヘビ	interface	generalUI	skillGuide
+Sea snakes	ウミへび	interface	generalUI	skillGuide
 Terror dogs	テラー・ドッグ	interface	generalUI	skillGuide
 Fever spiders	ねつびょうグモ	interface	generalUI	skillGuide
 Sulphur and Grimy Lizards	いおうとよごれたトカゲ	interface	generalUI	skillGuide
@@ -2647,7 +2647,7 @@ Mounted Digsite Pendant	そうちゃくされたはっくつげんばのくび�
 Mounted Vorkath head	そうちゃくされたヴォーカスのあたま	interface	generalUI	skillGuide
 Mounted Alchemical Hydra head	そうちゃくされたれんきんじゅつヒドラのとうぶ	interface	generalUI	skillGuide
 Mahogany adventure log	マホガニーのぼうけんかログ	interface	generalUI	skillGuide
-Wall-mounted kiteshield	そうちゃくされたタコたて	interface	generalUI	skillGuide
+Wall-mounted kiteshield	そうちゃくされたたこたて	interface	generalUI	skillGuide
 Boss lair display	ボスせいそくちのてんじ	interface	generalUI	skillGuide
 Gilded adventure log	おうごんのぼうけんかログ	interface	generalUI	skillGuide
 Marble adventure log	だいりせきのぼうけんかログ	interface	generalUI	skillGuide
@@ -2814,7 +2814,7 @@ Chapel organ	チャペルのオルガン	interface	generalUI	skillGuide
 Decorative chapel window	チャペルのそうしょくされたまど	interface	generalUI	skillGuide
 Marble incense burner	だいりせきのこうろ	interface	generalUI	skillGuide
 Marble altar	だいりせきのさいだん	interface	generalUI	skillGuide
-Icon of Bob the Cat	ネコのボブのしょうぞう	interface	generalUI	skillGuide
+Icon of Bob the Cat	ねこのボブのしょうぞう	interface	generalUI	skillGuide
 Gilded marble altar	おうごんのさいだん	interface	generalUI	skillGuide
 Large chapel statue	チャペルのだいきなぞう	interface	generalUI	skillGuide
 Stained-glass chapel window	チャペルのステンドグラスのまど	interface	generalUI	skillGuide
@@ -2823,15 +2823,15 @@ Medium storage unit	ふつうのしゅうのうユニット	interface	generalUI	
 Large storage unit	だいきなしゅうのうユニット	interface	generalUI	skillGuide
 Massive storage unit	きょだいなしゅうのうユニット	interface	generalUI	skillGuide
 Mahogany Homes (beginner)	マホガニー・ホーム（にゅうもん）	interface	generalUI	skillGuide
-Cat blanket	ネコのもうふ	interface	generalUI	skillGuide
+Cat blanket	ねこのもうふ	interface	generalUI	skillGuide
 STASH units (beginner)	かくしばしょ（にゅうもん）	interface	generalUI	skillGuide
-Cat basket	ネコのバスケット	interface	generalUI	skillGuide
+Cat basket	ねこのバスケット	interface	generalUI	skillGuide
 Mahogany Homes (novice)	マホガニー・ホーム（しんまい）	interface	generalUI	skillGuide
 Rope bell pull	ベルひきつな	interface	generalUI	skillGuide
 Oak staircase	かしのかいだん	interface	generalUI	skillGuide
 STASH units (easy)	かくしばしょ（しょきゅう）	interface	generalUI	skillGuide
 Repair Piscarilius fishing cranes (with <Num0> Crafting)	ピスカリリウスのさかなのクレーンをちょくす（こうさく<Num0>も）	interface	generalUI	skillGuide
-Cushioned cat basket	クッションつきのネコのバスケット	interface	generalUI	skillGuide
+Cushioned cat basket	クッションつきのねこのバスケット	interface	generalUI	skillGuide
 Fire of Eternal Light (with <Num0> Firemaking)	ふめつのひかりのひ（ひおこし<Num0>）	interface	generalUI	skillGuide
 Fire of Nourishment (with <Num0> Firemaking)	じようのひ（ひおこし<Num0>も）	interface	generalUI	skillGuide
 Teak bell pull	ベルひき	interface	generalUI	skillGuide
@@ -2987,7 +2987,7 @@ Net butterflies	むしあみ	interface	generalUI	skillGuide
 Lay up to <Num0> traps at a time	わなをいちどに<Num0>こしかける	interface	generalUI	skillGuide
 Set a deadfall trap (limit of <Num0>)	おちとしわなをしかける（<Num0>かところまで）	interface	generalUI	skillGuide
 Set a box trap (After Eagles' Peak quest)	はこわなをしかける（「ワシのみね」あと）	interface	generalUI	skillGuide
-Set a rabbit snare	ウサギのわなをしかける	interface	generalUI	skillGuide
+Set a rabbit snare	うさぎのわなをしかける	interface	generalUI	skillGuide
 Set a net trap	あみのわなをしかける	interface	generalUI	skillGuide
 Set a pitfall trap	おちとしあなをしかける	interface	generalUI	skillGuide
 Use smoke to mask the scent on a trap	けむりでわなのにおいをかききえす	interface	generalUI	skillGuide
@@ -2998,7 +2998,7 @@ Polar kebbit fur clothing (snow)	きょくちケビットのけがわのふく�
 Common kebbit fur clothing (woodland)	いっぱんてきなケビットのけがわのふくそう（はやしち）	interface	generalUI	skillGuide
 Feldip weasel fur clothing (jungle)	フェルディップウィーゼルのけがわのふくそう（ジャングル）	interface	generalUI	skillGuide
 Desert devil fur clothing (desert)	さばくデビルのけがわのふくそう（さばく）	interface	generalUI	skillGuide
-Lucky rabbit's foot	ひもがついたウサギのあし	interface	generalUI	skillGuide
+Lucky rabbit's foot	ひもがついたうさぎのあし	interface	generalUI	skillGuide
 Larupia fur clothing	ラルピアのけがわのふくそう	interface	generalUI	skillGuide
 Graahk hide clothing	グラークのかわのふくそう	interface	generalUI	skillGuide
 Spotted capes	はんてんのあるマント	interface	generalUI	skillGuide
@@ -3019,7 +3019,7 @@ Redwood Birdhouse Trap	セコイアのとりこや	interface	generalUI	skillGuid
 Dig for sandworms (Piscarillius Beach)	ゴカイをほりです（ピスカリリウスのかいがん）	interface	generalUI	skillGuide
 Mossy Lizards traps (Neypotzli)	コケトカゲ（ネイポズリ）	interface	generalUI	skillGuide
 Giant eagles(various)	きょだいなワシ（かくち）	interface	generalUI	skillGuide
-White rabbits (woodland) Use a ferret to flush the rabbit out of its hole	しろウサギ（はやしち）：フェレットですからさそいでせる	interface	generalUI	skillGuide
+White rabbits (woodland) Use a ferret to flush the rabbit out of its hole	しろうさぎ（はやしち）：フェレットですからさそいでせる	interface	generalUI	skillGuide
 Accessing drift net fishing on Fossil Island (with <Num0> Fishing)	かせきじまでりゅうしあみりょう（つり<Num0>も）	interface	generalUI	skillGuide
 Access to the Hunter Guild & Basic Hunters' Rumours	かりゅうどギルド＆しんまいかりゅうどのルーマー	interface	generalUI	skillGuide
 Equip the Sunlight hunters' crossbow (with <Num0> Ranged)	かりゅうどのにっこうのようきゅうじゅうをそうび（えんしゃ<Num0>も）	interface	generalUI	skillGuide
@@ -3403,7 +3403,7 @@ Category: Gun	カテゴリ：じゅう	interface	mainTabs	combatOptionsTab
 Category: Bladed Staff	カテゴリ：やいばつきつえ	interface	mainTabs	combatOptionsTab
 Category: Salamander	カテゴリ：サラマンダ	interface	mainTabs	combatOptionsTab
 Category: Multi-style	カテゴリ：おおいスタイル	interface	mainTabs	combatOptionsTab
-Total level: <Num0>	そうごうれべる: <Num0>	interface	mainTabs	skillsTab
+Total level: <Num0>	そうごうレベル: <Num0>	interface	mainTabs	skillsTab
 Attack XP:	こうげきりょくXP：	interface	mainTabs	skillsTab
 Hitpoints XP:	たいりょくXP：	interface	mainTabs	skillsTab
 Mining XP:	さいくつXP：	interface	mainTabs	skillsTab
@@ -3975,7 +3975,7 @@ A very high level Fire missile<br><colNum0>Members Only</col>	とくきゅうひ
 <colNum0>Construction:</col>	<colNum0>けんちく：</col>	interface	mainTabs	skillsTab
 <colNum0>Members Only</col>	<colNum0>かいいんかぎさだめ</col>	interface	mainTabs	skillsTab
 <colNum0>Hunter:</col>	<colNum0>かりゅうど：</col>	interface	mainTabs	skillsTab
-Free Total Level:	ふりー そうごうれべる:	interface	mainTabs	skillsTab
+Free Total Level:	ふりー そうごうレベル:	interface	mainTabs	skillsTab
 <colNum0>Farming:</col>	<colNum0>のうぎょう：</col>	interface	mainTabs	skillsTab
 <colNum0>Slayer:</col>	<colNum0>とうばつ：</col>	interface	mainTabs	skillsTab
 <colNum0>Fletching:</col>	<colNum0>もくざいかこう：</col>	interface	mainTabs	skillsTab
@@ -4096,7 +4096,7 @@ Slap Head	あたまペチン	interface	mainTabs	emotesTab
 Zombie Walk	ゾンビあるき	interface	mainTabs	emotesTab
 Zombie Dance	ゾンビダンス	interface	mainTabs	emotesTab
 Scared	おびえる	interface	mainTabs	emotesTab
-Rabbit Hop	ウサギだピョン	interface	mainTabs	emotesTab
+Rabbit Hop	うさぎだピョン	interface	mainTabs	emotesTab
 Sit up	じょうからだおきこし	interface	mainTabs	emotesTab
 Push up	うでたてふせ	interface	mainTabs	emotesTab
 Star jump	スタージャンプ	interface	mainTabs	emotesTab
@@ -4188,7 +4188,7 @@ Breeze	そよかぜ	interface	mainTabs	musicTab
 Brew Hoo Hoo!	じょうぞうジョージョー！	interface	mainTabs	musicTab
 Brimstail's Scales	ブリムステイルのうろこ	interface	mainTabs	musicTab
 Bubble and Squeak	バブル＆スクイーク	interface	mainTabs	musicTab
-Bunny's Sugar Rush	ウサギのシュガーラッシュ	interface	mainTabs	musicTab
+Bunny's Sugar Rush	うさぎのシュガーラッシュ	interface	mainTabs	musicTab
 Burning Desire	もえるほしいのぞみ	interface	mainTabs	musicTab
 Cabin Fever	ふねしつびょう	interface	mainTabs	musicTab
 The Ruins of Camdozaal	カムドザールのはいきょ	interface	mainTabs	musicTab
@@ -4658,7 +4658,7 @@ Spooky <Num0>	ぶきみ<<Num0>	interface	mainTabs	musicTab
 Spooky Jungle	ぶきみなジャングル	interface	mainTabs	musicTab
 The Spymaster	スパイマスター	interface	mainTabs	musicTab
 Stagnant	ていたい	interface	mainTabs	musicTab
-Stand Up and Be Counted	どう々といみをいいう	interface	mainTabs	musicTab
+Stand Up and Be Counted	どう々といみをいう	interface	mainTabs	musicTab
 Starlight	スターライト	interface	mainTabs	musicTab
 Start	かいし	interface	mainTabs	musicTab
 Still Night	しずかなよる	interface	mainTabs	musicTab
@@ -4905,7 +4905,7 @@ Rand	ちゅうえらび	interface	mainTabs	musicTab
 Controls Settings	そうさせってい	interface	mainTabs	settingsTab
 PK Skull Prevention	PKドクロぼうし	interface	mainTabs	settingsTab
 Left-click where available	かのうならひだりクリック	interface	mainTabs	settingsTab
-Player 'Attack' options:	たいプレイヤこうげきせってい	interface	mainTabs	settingsTab
+Player 'Attack' options:	たいぷレイヤこうげきせってい	interface	mainTabs	settingsTab
 NPC 'Attack' options:	たいNPCこうげきせってい	interface	mainTabs	settingsTab
 PK Skull Prevention (currently on)	PK ほねずがり ぼうし (いま おん)	interface	mainTabs	settingsTab
 Depends on combat levels	せんとうレベルいぞん	interface	mainTabs	settingsTab
@@ -4946,15 +4946,15 @@ Unlocked	ひらきはなしすみ	interface	mainTabs	musicTab
 Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.	こうげきりょくスキルはきんせつこうげきのめいちゅうりつのけいさんにつかいわれ、レベルがこういほどめいちゅうりつもこうくなります。	interface	generalUI	skillGuide
 Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.	こうげきりょくレベルがこういとよりきょうりょくなぶきがそうびかのうになります。こうげきりょくボーナスがこういぶきをつかいうことでもきんせつこうげきのめいちゅうりつをじょうげることができます。こうげきりょくボーナスは「そうびしなのステータス」からかくにんかのうです。	interface	generalUI	skillGuide
 You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.	こうげきスタイルは、せんとうオプションのタブからせんたくできます。てきによってとくていのこうげきスタイルがじゃくてんだったりたいせいがあったりするのでしんちょうにえらびましょう。	interface	generalUI	skillGuide
-As with any skill, you will restore <Num0> missing Hitpoint every minute, but the best way of recovering Hitpoints is by eating food.	ほかのスキルとどうよう、まいふん<Num0>のたいりょくをじどうかいふくしますがしょくべものをしょくべることですぐにかいふくできます。	interface	generalUI	skillGuide
+As with any skill, you will restore <Num0> missing Hitpoint every minute, but the best way of recovering Hitpoints is by eating food.	ほかのスキルとどうよう、まいふん<Num0>のたいりょくをじどうかいふくしますがしょくべものをたべることですぐにかいふくできます。	interface	generalUI	skillGuide
 Mining allows you to get various minerals from the world, for use in other skills; primarily Smithing.	さいくつはかくちでさま々なこうぶつをとりとりすることをかのうにし、それらをほかのスキル、ぬしにかじでしようするためのスキルです。	interface	generalUI	skillGuide
-To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.	いわをさいくつするには、レベルじょうけんをまんたしているツルハシをもちっていわをクリックします。しばらくするとこうせきをにゅうしゅし、いわはかわします。ていレベルのいわはくらべかくてきはやいくさいせいしますが、こうレベルのいわほどさいせいにじかんがかかります。	interface	generalUI	skillGuide
+To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.	いわをさいくつするには、レベルじょうけんをまんたしているツルハシをもっていわをクリックします。しばらくするとこうせきをにゅうしゅし、いわはかわします。ていレベルのいわはくらべかくてきはやいくさいせいしますが、こうレベルのいわほどさいせいにじかんがかかります。	interface	generalUI	skillGuide
 At higher mining levels, you'll have an increased chance of successfully mining a rock. You'll also be able to use more powerful pickaxes, which decrease the amount of time between mining attempts.	さいくつレベルがじょうがると、いわをさいくつするせいこうりつがむかいじょうします。また、よりこうレベルなツルハシをしようできるようになり、さいくつのためしいきあいだのじかんがたんちぢみされます。	interface	generalUI	skillGuide
 Note that while most pickaxes have an Attack level requirement to equip them, you're still able to use them from within your inventory if you have the required Mining level.	ほとんどのツルハシはそうびするためにこうげきりょくレベルのじょうけんがひつようですが、ひつようなさいくつレベルをまんたしていれば、カバンからしようすることがかのうです。	interface	generalUI	skillGuide
 Your Strength level determines your max hit in combat. Whenever you hit your opponent, you will deal a random amount of damage up to your max hit.	わんりょくレベルは、きんせつこうげきであたえるさいだいダメージをけっていします。てきにこうげきがいのちちゅうするたびに、さいだいダメージまでのランダムなダメージをあたえます。	interface	generalUI	skillGuide
 Most weapons have a Strength bonus that will also increase your max hit. You can view your Strength bonus (and all of your equipment's stats) by selecting 'View equipment stats' under the Worn Equipment side panel.	おおいくのぶきにはわんりょくボーナスがあり、それもさいだいダメージをふやします。わんりょくボーナス（およびそうびしなのすべてのステータス）は、そうびしなタブで「そうびしなのステータスをひょうじ」からかくにんできます。	interface	generalUI	skillGuide
 Agility - Members Only	うんどうしんけい：かいいんかぎさだめ	interface	generalUI	skillGuide
-Agility both increases the rate at which your Run Energy replenishes while not running and decreases the rate at which it drains while you run.	うんどうしんけいは、はしりっていないときのはしりちからのかいふくはやいどをじょうのぼりさせ、はしりっているときのはしりちからきえひはやいどをへすこしさせます。	interface	generalUI	skillGuide
+Agility both increases the rate at which your Run Energy replenishes while not running and decreases the rate at which it drains while you run.	うんどうしんけいは、はしっていないときのはしりちからのかいふくはやいどをじょうのぼりさせ、はしっているときのはしりちからきえひはやいどをへすこしさせます。	interface	generalUI	skillGuide
 You will also gain access to useful shortcuts across Gielinor; these are marked with a green arrow on your map.	また、ギレノーぜんいきにあるべんりなちかくみちをりようできるようになります。これらはマップじょうでみどりのやしるしでひょうじされています。	interface	generalUI	skillGuide
 In order to train your Agility skill, you will need an Agility course; these are a series of obstacles that reward experience upon completion.	うんどうしんけいスキルをじょうげるには、「コース」できたえます。これらはいちつのしょうがいぶつでかまなりされており、かんりょうすることでけいけんちがえられます。	interface	generalUI	skillGuide
 Smithing lets you convert raw ores into useful metals, then use those metals to make your own weapons and armour.	かじスキルはこうせきをみようてきなきんぞくにへんかんし、そのきんぞくをつかいってじぶんのぶきやぼうぐをさくることができるスキルです。	interface	generalUI	skillGuide
@@ -4965,19 +4965,19 @@ Your Defence level determines how likely you are to block enemy attacks. The cha
 Additionally, a higher Defence level will allow you to equip more powerful shields and armour. As well as giving you better defensive stats, some armour will also increase your Attack or Strength bonuses as well.	さらにぼうぎょちからレベルがこういほど、よりきょうりょくなぼうぐがそうびかのうになります。ぼうぎょステータスをむかいじょうさせるだけでなく、いちぶのぼうぐはこうげきりょくやわんりょくボーナスもふくわえさせます。	interface	generalUI	skillGuide
 Herblore - Members Only	ちょうごう：かいいんかぎさだめ	interface	generalUI	skillGuide
 Herblore allows you to make potions with herbs and ingredients found across Gielinor.	ちょうごうスキルでギレノーかくちでにゅうしゅできるやくそうとうをつかいってやくえきをさくることができます。	interface	generalUI	skillGuide
-To make a potion, you first need to clean a grimy herb, then combine it with a vial of water to make an unfinished potion. You can then add the secondary ingredient(s) to complete the potion.	やくえきをさくるには、まずよごれたやくそうをきれいにし、それをみずいりしやくびんとくみあわせてみかんせいのやくえきをさくります。そのあと、ほたすけそざいをくわえることでやくえきをかんせいさせることができます。	interface	generalUI	skillGuide
+To make a potion, you first need to clean a grimy herb, then combine it with a vial of water to make an unfinished potion. You can then add the secondary ingredient(s) to complete the potion.	やくえきをさくるには、まずよごれたやくそうをきれいにし、それをみずいりしやくびんとくみあわせてみかんせいのやくえきをつくります。そのあと、ほたすけそざいをくわえることでやくえきをかんせいさせることができます。	interface	generalUI	skillGuide
 Fishing allows you to gather fish at various points across Gielinor. Typically, these will be indicated by moving bubbles on the surface of the water.	つりスキルはギレノーかくちでさかなをつりるためのスキルです。つうじょう、さかなはみずめんのあわでばしょがとくていできます。	interface	generalUI	skillGuide
-Different fish require different equipment to catch; for instance, you need a fishing net to catch shrimp, but a fishing rod and bait to catch sardines.	ことなるさかなをつりるには、それぞれことなるどうぐがひつようです。れいえば、エビをつりるにはぎょもうがひつようですが、イワシをつりるにはつりさおとエサがひつようです。	interface	generalUI	skillGuide
+Different fish require different equipment to catch; for instance, you need a fishing net to catch shrimp, but a fishing rod and bait to catch sardines.	ことなるさかなをつりるには、それぞれことなるどうぐがひつようです。れいえば、えびをつりるにはぎょもうがひつようですが、イワシをつりるにはつりさおとエサがひつようです。	interface	generalUI	skillGuide
 As your Fishing level increases, you'll gain access to more varieties of fish to catch, as well as having a higher chance of successfully catching fish when you try.	つりレベルがじょうがると、つりれるさかなのしゅるいがふえるだけでなく、つりのせいこうりつもじょうがります。	interface	generalUI	skillGuide
 Your Ranged level determines how accurate you are with ranged weapons, as well as how much damage they do. A higher Ranged level will result in more hits that do more damage.	えんしゃレベルは、とおいきょりぶきのめいちゅうりつとあたえるダメージをけっていします。えんしゃレベルがこういほど、よりおおいくのこうげきがいのちちゅうし、よりだいきなダメージをあたえることができます。	interface	generalUI	skillGuide
 Most ranged weapons will need a specific kind of ammunition to go with them; for instance, bows will need arrows and crossbows will need bolts.	ほとんどのとおいへだぶきをつかいうにはとくていのしゅるいのだんがひつようです。れいえば、ゆみにはやが、クロスボウにはボルトがひつようです。	interface	generalUI	skillGuide
 As your Ranged level increases, you will also get access to more powerful weapons and ammunition. Typically, each ranged weapon can only handle ammo up to a certain level; for instance, an oak bow can only fire bronze, iron or steel arrows, but not mithril.	えんしゃレベルがじょうがると、よりきょうりょくなぶきやだんくすりをしようできるようになります。つうじょう、かくとおいへだぶきはとくていのレベルまでのだんしかしようできません。れいえば、かしのゆみはせいどう、てつ、こうてつのやをしゃることはできますが、ミスリルのやはしようできません。	interface	generalUI	skillGuide
 Thieving - Members Only	ぬすみ：かいいんかぎさだめ	interface	generalUI	skillGuide
-Thieving lets you steal items from various people and stalls. Be careful, as people won't take too kindly to you going through their pockets, and might call the guards on you, or may take matters into their own hands.	ぬすみは、さま々なひとややだいからアイテムをぬすみむことができるスキルです。ちゅういしてください。ひと々はポケットをさがしられることをかいくおもいわず、えいへいをよびばれることもあれば、じぶんでたいしょしようとすることもあります。	interface	generalUI	skillGuide
+Thieving lets you steal items from various people and stalls. Be careful, as people won't take too kindly to you going through their pockets, and might call the guards on you, or may take matters into their own hands.	ぬすみは、さま々なひとややだいからアイテムをぬすむことができるスキルです。ちゅういしてください。ひと々はポケットをさがしられることをかいくおもいわず、えいへいをよびばれることもあれば、じぶんでたいしょしようとすることもあります。	interface	generalUI	skillGuide
 As your Thieving level increases, the odds of you successfully stealing from your target will increase. You will also gain access to more lucrative targets with more valuable loot.	ぬすみレベルがじょうがると、ターゲットからのぬすみにせいこうするたしかりつがこうくなります。また、よりかちのあるぶっしをもちつ、よりりえきのだいきいターゲットからぬすみめるようになります。	interface	generalUI	skillGuide
 Cooking is a skill that lets you make all kinds of delicious food that will typically restore your Hitpoints, amongst providing other benefits.	りょうりスキルは、さまざまなびあじしいしょくべものをさくることができるスキルで、つうじょうはたいりょくをかいふくするほか、さまざまなこうかをもたらします。	interface	generalUI	skillGuide
-At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.	りょうりのきほんてきなほうほうは、なまのにくやさかなをひまたはコンロにもちっていくだけでいきえます。コンロでちょうりしたほうがこげがしにくいです。	interface	generalUI	skillGuide
-Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.	いちぶのしょくべものは、ちょうりするまえにざいりょうをじゅんびするひつようがあります。れいえば、パンはやきくまえに、こむぎことみずをこみぜてきじをさくるひつようがあります。	interface	generalUI	skillGuide
+At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.	りょうりのきほんてきなほうほうは、なまのにくやさかなをひまたはコンロにもっていくだけでいきえます。コンロでちょうりしたほうがこげがしにくいです。	interface	generalUI	skillGuide
+Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.	いちぶのしょくべものは、ちょうりするまえにざいりょうをじゅんびするひつようがあります。れいえば、パンはやきくまえに、こむぎことみずをまぜてきじをさくるひつようがあります。	interface	generalUI	skillGuide
 As your Cooking level increases, you'll get access to an increasing list of recipes. You'll also find that you accidentally burn your food less of the time as well.	りょうりレベルがじょうがると、ちょうりかのうなしょくべものやレシピがふえていきます。また、しょくべものをあやまってこげがしてしまうことがすこしなくなるでしょう。	interface	generalUI	skillGuide
 Prayer allows you to access different prayers, available from the Prayer side panel. Each prayer offers a different powerful benefit.	いのりスキルは、いのりタブからせんたくかのうなさま々ないのりささげることができるようになるスキルです。かくいのりは、それぞれことなるきょうりょくなこうかをもたらします。	interface	generalUI	skillGuide
 Using prayers will drain your prayer points over time. Once you run out of prayer points, you will be unable to use any prayers. You can restore your prayer points by praying at an altar.	いのりをしようすると、じょ々に「いのりりょく（きりょく）ポイント」がへります。いのりポイントがなくなると、いのりをしようできなくなります。いのりりょくポイントはさいだんでかいふくできます。	interface	generalUI	skillGuide
@@ -4985,9 +4985,9 @@ Some pieces of equipment will grant you a Prayer bonus, which will reduce the ra
 The most common way to increase your Prayer level is to offer the remains of the enemies you kill. Burying their bones and scattering their ashes will award you Prayer experience.	いのりレベルをじょうげるもっともいっぱんてきなほうほうは、たおれしたてきのいがいをささげることです。それらのほねをうめたり、はいをまいたりすることで、いのりスキルのけいけんちをかくとくできます。	interface	generalUI	skillGuide
 Crafting - Members Only	こうさく：いちぶかいいんかぎさだめ	interface	generalUI	skillGuide
 Crafting is a wide-ranging skill that allows you to create various pieces of armour, jewellery, equipment and more.	こうさくははばひろいスキルで、さまざまなぼうぐ、ほうしょくひん、そうびしなどをさくなりすることができます。	interface	generalUI	skillGuide
-To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.	どうぶつのかわからぼうぐをさくるには、つうじょう、まずかわをタンナーのところにもちっていき、なしてもらうひつようがあります。そのあと、はりといとをつかいってくわえこうします。はりといとは、とくていのこうさくみせでにゅうしゅできます。	interface	generalUI	skillGuide
-To make pottery, you'll need to obtain some soft clay, obtained by adding water to clay. You can then use a pottery wheel to shape the clay into an unfired item, which you can then finish in a pottery oven.	とうきをさくるには、ねんどにみずをくわえてえられるやわらかいねんどをよういするひつようがあります。そのあと、とうげいようのろくろをつかいってねんどをかたちさくり、みしょうせいのアイテムをさくります。それをとうげいようのかまでやきじょうげてかんせいさせることができます。	interface	generalUI	skillGuide
-To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!	ほうしょくひんをさくるには、まずクラフティングようのいがたをてにいりれるひつようがあります。いがたときんまたはぎんのえんべぼうをろにもちっていきくことで、ほうしょくひんをさくることができます。こうさくレベルがじょうがると、ほうせきをカットしながらかたにいりれてくわえこうし、まほうふよかのうなほうしょくひんをさくれるようになります！	interface	generalUI	skillGuide
+To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.	どうぶつのかわからぼうぐをさくるには、つうじょう、まずかわをタンナーのところにもっていき、なしてもらうひつようがあります。そのあと、はりといとをつかいってくわえこうします。はりといとは、とくていのこうさくみせでにゅうしゅできます。	interface	generalUI	skillGuide
+To make pottery, you'll need to obtain some soft clay, obtained by adding water to clay. You can then use a pottery wheel to shape the clay into an unfired item, which you can then finish in a pottery oven.	とうきをさくるには、ねんどにみずをくわえてえられるやわらかいねんどをよういするひつようがあります。そのあと、とうげいようのろくろをつかいってねんどをかたちさくり、みしょうせいのアイテムをつくります。それをとうげいようのかまでやきじょうげてかんせいさせることができます。	interface	generalUI	skillGuide
+To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!	ほうしょくひんをさくるには、まずクラフティングようのいがたをてにいりれるひつようがあります。いがたときんまたはぎんのえんべぼうをろにもっていきくことで、ほうしょくひんをさくることができます。こうさくレベルがじょうがると、ほうせきをカットしながらかたにいりれてくわえこうし、まほうふよかのうなほうしょくひんをさくれるようになります！	interface	generalUI	skillGuide
 Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.	ひおこしスキルは、ひをおきこすためのスキルです。ひくちばこをまるたにつかいうことで、ひをつけようとしはじめます。	interface	generalUI	skillGuide
 Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.	レベルがじょうがると、よりおおいくのけいけんちをえられるまるたをもえやせるようになり、さらにすばやいくもえやせるようになります。	interface	generalUI	skillGuide
 Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.	まほうスキルはさま々なじゅもんをしようかのうにします。かくじゅもんをとなえるには、とくていのしゅるいのルーンがひつようです。ひつようなルーンは、じゅもんタブやこのスキルガイドのタブでじゅもんをかくにんすることでかくにんできます。	interface	generalUI	skillGuide
@@ -5018,7 +5018,7 @@ If you're worried about your crops becoming diseased, most crops can be protecte
 As your Farming level increases, you'll gain access to more crops to grow, as well as obtaining greater yields when harvesting.	のうぎょうレベルがじょうがると、そだてられるさくものしゅるいがふえるだけでなく、しゅうかくときにえられるしゅうかくりょうもふくわえします。	interface	generalUI	skillGuide
 Construction - Members Only	けんちく：かいいんかぎさだめ	interface	generalUI	skillGuide
 Construction gives you access to your very owned Player-Owned House. To get started, you'll need to buy a house from an Estate agent.	けんちくは、プレイヤーせんようのいえをところあすることをかのうにするスキルです。まずふどうさんぎょうものからいえをこうにゅうするひつようがあります。	interface	generalUI	skillGuide
-Once you have a house, you'll need to build furniture. Most furniture can be built with planks, which can be obtained via taking logs to a sawmill.	いえをてにいりれたら、いえぐをさくるひつようがあります。ほとんどのいえぐはいたでさくることができ、これらはまるたをせいざいしょにもちっていくことでにゅうしゅできます。	interface	generalUI	skillGuide
+Once you have a house, you'll need to build furniture. Most furniture can be built with planks, which can be obtained via taking logs to a sawmill.	いえをてにいりれたら、いえぐをさくるひつようがあります。ほとんどのいえぐはいたでさくることができ、これらはまるたをせいざいしょにもっていくことでにゅうしゅできます。	interface	generalUI	skillGuide
 To build furniture, grab a hammer and a saw, enter your house in build mode, select a hotspot and select the furniture you want to build.	いえぐをさくるには、ハンマーとノコギリをもち、けんちくモードでじぶんのいえにいり、ホットスポットをせんたくしてさくりたいいえぐをえらびます。	interface	generalUI	skillGuide
 As your Construction level increases, you'll be able to build bigger houses, gain access to more kinds of room in your house, and be able to build fancier furniture.	けんちくレベルがじょうがると、よりだいきないえをたてられるようになり、いえのちゅうについかできるへやのしゅるいがふえたり、よりごうかないえぐをさくれるようになります。	interface	generalUI	skillGuide
 Hunter - Members Only	かりゅうど：かいいんかぎさだめ	interface	generalUI	skillGuide
@@ -5037,9 +5037,9 @@ How much did you enjoy playing Old School RuneScape today?	オールドスクー
 <colNum0>Loading...</col>	<colNum0>ロードちゅう...</col>	interface	mainTabs	worldSwitcherTab
 Right-click on worlds to set them as Favourites.	せかいをみぎクリックするとおきにいりついかできます。	interface	mainTabs	worldSwitcherTab
 Current world - <Num0>	いまいるせかい：<Num0>	interface	mainTabs	worldSwitcherTab
-<Num0> skill to...	<Num0> すきる に...	interface	mainTabs	worldSwitcherTab
-<Num0> skill t...	<Num0> すきる t...	interface	mainTabs	worldSwitcherTab
-<Num0> skill total	<Num0> すきる そうけい	interface	mainTabs	worldSwitcherTab
+<Num0> skill to...	<Num0> スキル に...	interface	mainTabs	worldSwitcherTab
+<Num0> skill t...	<Num0> スキル t...	interface	mainTabs	worldSwitcherTab
+<Num0> skill total	<Num0> スキル そうけい	interface	mainTabs	worldSwitcherTab
 Agility Train...	はこびうごき	interface	mainTabs	worldSwitcherTab
 Barbarian A...	バーバアサ	interface	mainTabs	worldSwitcherTab
 Blast Furnace	ブラファ	interface	mainTabs	worldSwitcherTab
@@ -5173,35 +5173,35 @@ Group 	 グル 	interface	chatButtons
  <colNum0>Filtered</col>	 <colNum0>しぼ</col>  	interface	chatButtons	
  <colNum0>Hide</col>	 <colNum0>かくし</col>  	interface	chatButtons	
  <colNum0>Off</col>	 <colNum0>む</col>  	interface	chatButtons	
-Level <Num0><br>Redemption<br>Heals you when damaged<br>and health falls<br>below <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>さいせい<br>ダメージを うけた とき いやす<br>そして けんこうが <Num1>% いか に なった とき<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Protect Item<br>Keep <Num1> extra item if you die.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>あいてむを ふせぐ<br>もし しぬ ならば <Num1> このアイテムを のこす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Incredible Reflexes<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>きわまった はんのう<br>あなたの こうげきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Sharp Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>するどい め<br>あなたの とうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Mystic Will<br>Increases your magical attack and defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>みこんの いし<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Thick Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>あつい あぶら<br>あなたの ぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Protect from Melee<br>Protection from close attacks.<br>(Drain: <Num1>pt per <Num2>s)	れべる <Num0><br>みりょうから ふせぐ<br>ちかい こうげきから ふせぎ。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Protect from Missiles<br>Protection from ranged attacks.<br>(Drain: <Num1>pt per <Num2>s)	れべる <Num0><br>みさいるから ふせぐ<br>とうえきから ふせぎ。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Rock Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>いし はだ<br>あなたの ぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Retribution<br>Inflicts damage to nearby<br>targets if you die.<br>(Drain: <Num1>pt per <Num2>s)	れべる <Num0><br>ばつ<br>もし しぬ ならば きんじょの てきに ダメージを あたえます。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Eagle Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>わしの め<br>あなたの とうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Piety<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	れべる <Num0><br>けいけん<br>あなたの ぼうえきを <Num1>%, ちからを <Num2>%, こうげきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Ultimate Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>きゅうきょくの ちから<br>あなたの ちからを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Improved Reflexes<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>かいぜんされた はんのう<br>あなたの こうげきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Burst of Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>ちからの ばくはつ<br>あなたの ちからを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Mystic Lore<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	れべる <Num0><br>みこんの ちしき<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす、また あなたの ましくの ちからを <Num2>%ぞうやす。<br>(すいしゅつ: <Num3>ぽいんと すべての <Num4>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Augury<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>% and your defence by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	れべる <Num0><br>ぜんきょう<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす、また あなたの ましくの ちからを <Num2>% とぼうえきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Hawk Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>たかの め<br>あなたの とうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Chivalry<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	れべる <Num0><br>きしの こころ<br>あなたの ぼうえきを <Num1>%, ちからを <Num2>%, こうげきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Superhuman Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>ちょうじんてきな ちから<br>あなたの ちからを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Rigour<br>Increases your ranged attack by <Num1>% and damage by <Num2>%, and your defence by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	れべる <Num0><br>げんい<br>あなたの とうえきを <Num1>% とダメージを <Num2>%ぞうやす、そして ぼうえきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Smite<br><Num1>/<Num2> of damage dealt is<br>also removed from<br>opponent's Prayer.<br>(Drain: <Num3>pt per <Num4>s)	れべる <Num0><br>たちうち<br><Num1>/<Num2> の あたえたダメージは<br>また あいてのいのりから<br>とりのぞかれます。<br>(すいしゅつ: <Num3>ぽいんと すべての <Num4>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Preserve<br>Boosted stats last <Num1>% longer.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>ほごん<br>ぶーすとされた のうりょくは <Num1>% ながくつづく。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Steel Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>はがね はだ<br>あなたの ぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Rapid Restore<br><Num1>x restore rate for all stats<br>except Hitpoints and Prayer.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>きゅうそく かいふく<br><Num1>ばいの かいふくりつ すべての のうりょくに<br>HP とこういのぞく。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Clarity of Thought<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>しこうの あきらかさ<br>あなたの こうげきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Protect from Magic<br>Protection from magical attacks.<br>(Drain: <Num1>pt per <Num2>s)	れべる <Num0><br>ましくから ふせぐ<br>ましくこうげきから ふせぎ。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Mystic Might<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	れべる <Num0><br>みこんの ちから<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす、また あなたの ましくの ちからを <Num2>%ぞうやす。<br>(すいしゅつ: <Num3>ぽいんと すべての <Num4>びょう)	interface	mainTabs	prayerTab
-Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.<br>(Drain: <Num2>pt per <Num3>s)	れべる <Num0><br>きゅうそく かいふく<br><Num1>ばいの かいふくりつ<br>HP ひょう。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Redemption<br>Heals you when damaged<br>and health falls<br>below <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>さいせい<br>ダメージを うけた とき いやす<br>そして けんこうが <Num1>% いか に なった とき<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Protect Item<br>Keep <Num1> extra item if you die.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>あいてむを ふせぐ<br>もし しぬ ならば <Num1> このアイテムを のこす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Incredible Reflexes<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>きわまった はんのう<br>あなたの こうげきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Sharp Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>するどい め<br>あなたの とうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Will<br>Increases your magical attack and defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>みこんの いし<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Thick Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>あつい あぶら<br>あなたの ぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Melee<br>Protection from close attacks.<br>(Drain: <Num1>pt per <Num2>s)	レベル <Num0><br>みりょうから ふせぐ<br>ちかい こうげきから ふせぎ。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Missiles<br>Protection from ranged attacks.<br>(Drain: <Num1>pt per <Num2>s)	レベル <Num0><br>みさいるから ふせぐ<br>とうえきから ふせぎ。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Rock Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>いし はだ<br>あなたの ぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Retribution<br>Inflicts damage to nearby<br>targets if you die.<br>(Drain: <Num1>pt per <Num2>s)	レベル <Num0><br>ばつ<br>もし しぬ ならば きんじょの てきに ダメージを あたえます。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Eagle Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>わしの め<br>あなたの とうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Piety<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	レベル <Num0><br>けいけん<br>あなたの ぼうえきを <Num1>%, ちからを <Num2>%, こうげきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Ultimate Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>きゅうきょくの ちから<br>あなたの ちからを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Improved Reflexes<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>かいぜんされた はんのう<br>あなたの こうげきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Burst of Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>ちからの ばくはつ<br>あなたの ちからを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Lore<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	レベル <Num0><br>みこんの ちしき<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす、また あなたの ましくの ちからを <Num2>%ぞうやす。<br>(すいしゅつ: <Num3>ぽいんと すべての <Num4>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Augury<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>% and your defence by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	レベル <Num0><br>ぜんきょう<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす、また あなたの ましくの ちからを <Num2>% とぼうえきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Hawk Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>たかの め<br>あなたの とうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Chivalry<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	レベル <Num0><br>きしの こころ<br>あなたの ぼうえきを <Num1>%, ちからを <Num2>%, こうげきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Superhuman Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>ちょうじんてきな ちから<br>あなたの ちからを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Rigour<br>Increases your ranged attack by <Num1>% and damage by <Num2>%, and your defence by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	レベル <Num0><br>げんい<br>あなたの とうえきを <Num1>% とダメージを <Num2>%ぞうやす、そして ぼうえきを <Num3>%ぞうやす。<br>(すいしゅつ: <Num4>ぽいんと すべての <Num5>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Smite<br><Num1>/<Num2> of damage dealt is<br>also removed from<br>opponent's Prayer.<br>(Drain: <Num3>pt per <Num4>s)	レベル <Num0><br>たちうち<br><Num1>/<Num2> の あたえたダメージは<br>また あいてのいのりから<br>とりのぞかれます。<br>(すいしゅつ: <Num3>ぽいんと すべての <Num4>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Preserve<br>Boosted stats last <Num1>% longer.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>ほごん<br>ぶーすとされた のうりょくは <Num1>% ながくつづく。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Steel Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>はがね はだ<br>あなたの ぼうえきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Rapid Restore<br><Num1>x restore rate for all stats<br>except Hitpoints and Prayer.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>きゅうそく かいふく<br><Num1>ばいの かいふくりつ すべての のうりょくに<br>HP とこういのぞく。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Clarity of Thought<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>しこうの あきらかさ<br>あなたの こうげきを <Num1>%ぞうやす。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Magic<br>Protection from magical attacks.<br>(Drain: <Num1>pt per <Num2>s)	レベル <Num0><br>ましくから ふせぐ<br>ましくこうげきから ふせぎ。<br>(すいしゅつ: <Num1>ぽいんと すべての <Num2>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Might<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	レベル <Num0><br>みこんの ちから<br>あなたの ましくこうげき とぼうえきを <Num1>%ぞうやす、また あなたの ましくの ちからを <Num2>%ぞうやす。<br>(すいしゅつ: <Num3>ぽいんと すべての <Num4>びょう)	interface	mainTabs	prayerTab
+Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.<br>(Drain: <Num2>pt per <Num3>s)	レベル <Num0><br>きゅうそく かいふく<br><Num1>ばいの かいふくりつ<br>HP ひょう。<br>(すいしゅつ: <Num2>ぽいんと すべての <Num3>びょう)	interface	mainTabs	prayerTab
 Welcome to Old School RuneScape	おーるど すくーる ルーンスケープ へ ようこそ	interface	loginScreen	
 You last logged in a minute ago.	もっともおわりログインは１ぶんまえです。	interface	loginScreen	
 You have <colNum0><Num0></col> days of membership left.	かいいんけんはのこり<colNum0><Num0></col>にちです。	interface	loginScreen	
@@ -5442,7 +5442,7 @@ Chaos Elemental Veteran	こんとんエレメンタルのベテラン	interface	
 Corporeal Beast Veteran	コーポリアルけものベテラン	interface	combAchvmt	
 Hot on Your Feet	きびんなあしはこび	interface	combAchvmt	
 Finding the Weak Spot	じゃくてんさがし	interface	combAchvmt	
-Chicken Killer	ニワトリころし	interface	combAchvmt	
+Chicken Killer	にわとりころし	interface	combAchvmt	
 If Gorillas Could Fly	もしもゴリラがとびべたら	interface	combAchvmt	
 Hitting Them Where It Hurts	やつらのきゅうところをねらう	interface	combAchvmt	
 Galvek Speed-Trialist	ガルヴェックのはしりもの	interface	combAchvmt	
@@ -5485,7 +5485,7 @@ Scorpia Veteran	スコーピアのベテラン	interface	combAchvmt
 Fragment of Seren Speed-Trialist	セレンのかけらのはしりもの	interface	combAchvmt	
 Zulrah Veteran	ズルラのベテラン	interface	combAchvmt	
 Snake Rebound	へびのはんうごき	interface	combAchvmt	
-Snake. Snake!? Snaaaaaake!	ヘビ。ヘビ？！ヘビだーー！	interface	combAchvmt	
+Snake. Snake!? Snaaaaaake!	へび。へび？！へびだーー！	interface	combAchvmt	
 Zulrah Speed-Trialist	ズルラのはしりもの	interface	combAchvmt	
 Death to the Archer King	アーチャーのおうにしを	interface	combAchvmt	
 Rapid Succession	つつづきとうばつ	interface	combAchvmt	
@@ -5717,12 +5717,12 @@ Whisperer Speed-Chaser	ウィスパラー・しっかぜじんかみなり	inter
 Leviathan Speed-Chaser	リヴァイアサン・しっかぜじんかみなり	interface	combAchvmt	
 Cold Feet	つめたいあし	interface	combAchvmt	
 Perfect Duke Sucellus	スケラスこうしゃくにかんぜんしょうり	interface	combAchvmt	
-Serpentine Solo	ヘビ・ソロ	interface	combAchvmt	
+Serpentine Solo	へび・ソロ	interface	combAchvmt	
 Perfect Leviathan	リヴァイアサンにかんぜんしょうり	interface	combAchvmt	
 Budget Cutter	でひさくげん	interface	combAchvmt	
 Perfect Vardorvis	ヴァードーヴィスにかんぜんしょうり	interface	combAchvmt	
 Sportsmanship	スポーツマンシップ	interface	combAchvmt	
-I Brought Mine Too	わたしもそれもちってきました	interface	combAchvmt	
+I Brought Mine Too	わたしもそれもってきました	interface	combAchvmt	
 Showboating	ショウボーティング	interface	combAchvmt	
 One-off	いちどかぎり	interface	combAchvmt	
 Colosseum Speed-Chaser	とうぎじょう・しっかぜじんかみなり	interface	combAchvmt	
@@ -6064,7 +6064,7 @@ Description: <colNum0>Kill Dagannoth Rex and one other Dagannoth king at the exa
 Description: <colNum0>Kill Commander Zilyana in a privately rented instance with melee only.</col>	しょうさい：<colNum0>ジリアーナしれいかんをせんようインスタンスないできんせつぶきだけでたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill The Fragment of Seren in less than <Num0> minutes.</col>	しょうさい：<colNum0>セレンのかけらを<Num0>ぶんいないにたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Zulrah by using the Vengeance spell as the finishing blow.</col>	しょうさい：<colNum0>ズルラに「ふくしゅう」のまほうでとどめをさす。</col>	interface	combAchvmt	
-Description: <colNum0>Kill <Num0> Snakelings simultaneously.</col>	しょうさい：<colNum0>こヘビを<Num0>からだどうじにたおれす。</col>	interface	combAchvmt	
+Description: <colNum0>Kill <Num0> Snakelings simultaneously.</col>	しょうさい：<colNum0>こへびを<Num0>からだどうじにたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Zulrah in less than <Num0> minute <Num1> seconds, without a slayer task.</col>	しょうさい：<colNum0>ズルラを、とうばついらいでないときに、<Num0>ぶん<Num1>びょういないにたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.</col>	しょうさい：<colNum0>ダガノス・プライムとレックスにこうげきされながらスプリームをたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill all three Dagannoth Kings within <Num0> seconds of the first one.</col>	しょうさい：<colNum0>ダガノス・キングぜん３からだを、さいしょのいちからだのとうばつときこくから<Num0>びょういないにたおれす。	interface	combAchvmt	
@@ -6179,7 +6179,7 @@ Description: <colNum0>Complete the Fight Caves without being attacked by a Tz-Ki
 Description: <colNum0>Complete the Fight Caves in less than <Num0> minutes.</col>	しょうさい：<colNum0>ファイト・ケーヴズを<Num0>ぶんいないにこうりゃくする。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.</col>	しょうさい：<colNum0>ザ・ナイトメアを、あくむのさけめ・みちゆのきせいちゅうのはさけ・したいのはな・あくむのサージからだれもダメージをうけずにたおれす。また、だれもぼうぎょのいのりたいしょうそとのこうげきをうけず、あくむのほうしによりこうげきはやいどをていしたされないこと。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Commander Zilyana in a privately rented instance without attacking her directly.</col>	しょうさい：<colNum0>ジリアーナしれいかんをせんようインスタンスないでちょくせつこうげきせずにたおれす。</col>	interface	combAchvmt	
-Description: <colNum0>Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.</col>	しょうさい：<colNum0>ズルラを、こヘビ、もうどくのきり、ズルラがみどりかあかのフェーズのどれからもダメージをうけずにたおれす。</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.</col>	しょうさい：<colNum0>ズルラを、こへび、もうどくのきり、ズルラがみどりかあかのフェーズのどれからもダメージをうけずにたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Zulrah in less than <Num0> minute, without a slayer task.</col>	しょうさい：<colNum0>ズルラを<Num0>ぶんいないにとうばついらいなしでたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.</col>	しょうさい：<colNum0>スガジンチのおとめをいのりりょくポイントをだれもきえひせずにたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.</col>	しょうさい：<colNum0>スガジンチのおとめを、ちのはらこのはつしゃからだとあとによるダメージをだれもうけずにたおれす。また、うけるこうげきはぜんてただしいいのりのぼうぎょでかるいへし、ニロカス・マトメノスにおとめをかいふくさせてはいけない。</col>	interface	combAchvmt	
@@ -6211,7 +6211,7 @@ Description: <colNum0>Kill the Great Olm in a solo raid without letting him use 
 Description: <colNum0>Kill Vasa Nistirio before he performs his teleport attack for the second time.</col>	しょうさい：<colNum0>ヴァサ・ニスチリオが２かいめのワープこうげきをするまえにそれをたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Tekton before he returns to his anvil for a second time after the fight begins.</col>	しょうさい：<colNum0>テクトンがせんとうかいしからかなとこに２かいもどりるまえにそれをたおれす。</col>	interface	combAchvmt	
 Description: <colNum0>Complete a Chambers of Xeric solo raid without dying.</col>	しょうさい：<colNum0>ゼリックのへやをソロでしなずにこうりゃくする。</col>	interface	combAchvmt	
-Description: <colNum0>Clear the Crystal Crabs room without wasting an orb after the first crystal has been activated.</col>	しょうさい：<colNum0>すいしょうのカニのへやを、さいしょのすいしょうがはつうごきしてから１つもむだにせずにこうりゃくする。</col>	interface	combAchvmt	
+Description: <colNum0>Clear the Crystal Crabs room without wasting an orb after the first crystal has been activated.</col>	しょうさい：<colNum0>すいしょうのかにのへやを、さいしょのすいしょうがはつうごきしてから１つもむだにせずにこうりゃくする。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.</col>	しょうさい：<colNum0>いだいなるオルムをソロで、つぎのひっさつわざによるダメージをうけずにたおれす：ワープのすいしょう、ひのかべ、かいふくのためまり、すいしょうばくだん、すいしょうのはさけ、いのりのオーブただし、オルムのかぎづめをふっかつさせてはならず、さらにおなじさんのためまりからダメージをつつづきでうけてはならない。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.</col>	しょうさい：<colNum0>いだいなるオルムをトリオで、つぎのひっさつわざによるダメージをうけずにたおれす：ワープのすいしょう、ひのかべ、かいふくのためまり、すいしょうばくだん、すいしょうのはさけ、いのりのオーブただし、オルムのかぎづめをふっかつさせてはならず、さらにおなじさんのためまりからダメージをつつづきでうけてはならない。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Tekton without taking any damage.</col>	しょうさい：<colNum0>テクトンを、ダメージをうけずにたおれす。</col>	interface	combAchvmt	
@@ -6426,14 +6426,14 @@ Combat Achievements - Corporeal Beast	せんとうじっせき：コーポリア
 The Corporeal Beast is a group boss that can be found residing in its cave found east of the Graveyard of Shadows in the Wilderness.  Attack Styles - Melee, Magic, Special. Immunities - Poison, Venom Slayer Categories - None	かがいてきけもうはぐるーぷボスであり、あらくちめのかげのぼえんひがしのあなにすんでいます。 こうげきすたいる - みりょう、ましく、くくす。 てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 There are no mandatory requirements to fight the Corporeal Beast.  Combat Achievement task difficulty: - Elite - Master	コーポリアル・ビーストとせんうためのかならずすじょうけんはない。<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Commander Zilyana	せんとうじっせき：ジリアーナしれいかん	interface	combAchvmt	
-Commander Zilyana represents Saradomin as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - None	しれいかんじりやなはさらどみんをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - みりょう、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+Commander Zilyana represents Saradomin as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - None	しれいかんじりやなはサラドミンをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - みりょう、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - <Num0> Agility - Rope  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	かならずすじょうけん：<br>-うんどうしんけいレベル<Num0><br>-ロープ<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Crystalline Hunllef	せんとうじっせき：けっしょうからだハンレフ	interface	combAchvmt	
-The Crystalline Hunllef is a boss located within The Gauntlet, an activity within the elven capital city of Prifddinas.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	けっしょうの ふんれふはぷりふぃでぃなすのえるふのしゅと のぐおんてっとないのボスです。 こうげきすたいる - とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+The Crystalline Hunllef is a boss located within The Gauntlet, an activity within the elven capital city of Prifddinas.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	けっしょうの ふんれふはぷりふぃでぃなすのエルフのしゅと のぐおんてっとないのボスです。 こうげきすたいる - とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Personal Best: <colNum0><Num0>:<Num1></col>	じこベスト：<colNum0><Num0>:<Num1></col>	interface	combAchvmt	
 Mandatory requirements: - Song of the Elves  Combat Achievement task difficulty: - Elite - Master - Grandmaster	かならずすじょうけん：<br>-クエスト「エルフのうた」<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Corrupted Hunllef	せんとうじっせき：へんいハンレフ	interface	combAchvmt	
-The Corrupted Hunllef is the boss located within The Corrupted Gauntlet, an activity within the elven capital city of Prifddinas.  Access to The Corrupted Gauntlet is unlocked by completing The Gauntlet.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	おせんされたふんれふはおせんされたぐおんてっとないのボスです。 これはぷりふぃでぃなすのえるふのしゅとないのかつどうです。 おせんされたぐおんてっとへのあくせすはぐおんてっとをかんりょうすることでまたロックがとかれます。 こうげきすたいる - とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+The Corrupted Hunllef is the boss located within The Corrupted Gauntlet, an activity within the elven capital city of Prifddinas.  Access to The Corrupted Gauntlet is unlocked by completing The Gauntlet.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	おせんされたふんれふはおせんされたぐおんてっとないのボスです。 これはぷりふぃでぃなすのエルフのしゅとないのかつどうです。 おせんされたぐおんてっとへのあくせすはぐおんてっとをかんりょうすることでまたロックがとかれます。 こうげきすたいる - とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Song of the Elves - Access to The Corrupted Gauntlet  Combat Achievement task difficulty: - Elite - Master - Grandmaster	かならずすじょうけん：<br>-クエスト「エルフのうた」<br>-つうじょうゴーントレットのこうりゃくにせいこうすること<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Dagannoth Prime	せんとうじっせき：ダガノス・プライム	interface	combAchvmt	
 Dagannoth Prime is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Supreme.  Attack Style - Magic Immunities - Venom Slayer Categories - Dagannoth	だがんのすぷらいむはわたーばーすあいらんどだんじょんのなかにいるさんにんのだがんのすおうのいっしん で、だがんのすれくすとだがんのすしゅぷりーむといっしょです。 こうげきすたいる - ましく てきまんのうせい - どくやま さけてきぶんるい - だがんのす	interface	combAchvmt	
@@ -6452,13 +6452,13 @@ Combat Achievements - Fortis Colosseum	せんとうじっせき：フォーテ�
 Sol Heredit is the final boss of the Fortis Colosseum, located in Civitas illa Fortis in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None	そるへれでぃとはばるらもあのしぶぃたすいらふぉーていすのふぉーておてあくぼせうむのさいしゅうボスです。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Children of the Sun	かならずすじょうけん：<br>-クエスト「たいようのこ」	interface	combAchvmt	
 Combat Achievements - General Graardor	せんとうじっせき：グラドーしょうぐん	interface	combAchvmt	
-General Graardor represents Bandos as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - None	そうしょうぐらーどおーはばんどすをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - みりょう、とうえき てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+General Graardor represents Bandos as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - None	そうしょうぐらーどおーはバンドスをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - みりょう、とうえき てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - <Num0> Strength - Hammer  Combat Achievement task difficulty: - Hard - Elite - Grandmaster	かならずすじょうけん：<br>-わんりょくレベル<Num0><br>-ハンマー<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Giant Mole	せんとうじっせき：きょだいモグラ	interface	combAchvmt	
 The Giant Mole is found within its lair, found underneath Falador Park.  Attack Style - Melee Immunities - Venom Slayer Categories - None	きょだいモグラはファラドーこうえんのちかにくらす。<br><br>こうげきスタイル：きんせつ<br>とくしゅたいせい：もうどく<br>とうばついらいのカテゴリ：なし	interface	combAchvmt	
 Mandatory requirements: - Light Source - Spade  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite	かならずすじょうけん：<br>-ひかりみなもと<br>-シャベル<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-しょきゅう<br>-ちゅうきゅう<br>-じょうきゅう<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Grotesque Guardians	せんとうじっせき：グロテスク・ガーディアン	interface	combAchvmt	
-The Grotesque Guardians, Dusk and Dawn, can be found on the Slayer Tower's rooftop, through the entrance on the upper floor.  In order to unlock access to the roof, a brittle key, obtained from killing a gargoyle whilst on a gargoyle slayer task, is required.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Gargoyle	きめつくもかみ、ゆうぐれとあけぼのは、さけてきたわーのおおやねにいます。 あぷぺあ えもんでいられます。 おおやねへのあくせスをまたロックすることでがるごいる の もじゃもじゃかぎがひつようです。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - がるごいる	interface	combAchvmt	
+The Grotesque Guardians, Dusk and Dawn, can be found on the Slayer Tower's rooftop, through the entrance on the upper floor.  In order to unlock access to the roof, a brittle key, obtained from killing a gargoyle whilst on a gargoyle slayer task, is required.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Gargoyle	きめつくもかみ、ゆうぐれとあけぼのは、さけてきたわーのおおやねにいます。 あぷぺあ えもんでいられます。 おおやねへのあくせすをまたロックすることでがるごいる の もじゃもじゃかぎがひつようです。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - がるごいる	interface	combAchvmt	
 Mandatory requirements: - <Num0> Slayer - A gargoyle slayer task - Access to the Slayer Tower roof  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	かならずすじょうけん：<br>-とうばつレベル<Num0><br>-ガーゴイルのとうばついらい<br>-とうばつのとうのやじょうのときはなし<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Hespori	せんとうじっせき : ヘスポリ	interface	combAchvmt	
 The Hespori is a rare carnivorous plant that becomes conscious and highly aggressive once fully grown.  In order to fight it, a Hespori seed must be planted and fully grown in the Hespori patch within the west wing of the Farming Guild.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - None	へすぽりはれあなぐるめしょくぶつで、さいしゅうてきにおおきくなるとしょうきができてきょうあくになります。 ひきょってきにするために、へすぽりのしぶきはのうぎょう れきしゅのにしぶぶんのへすぽりぱっちにうえてさいしゅうてきにおおきくする ひつようがあります。 こうげきすたいる - とうえき、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
@@ -6469,7 +6469,7 @@ Combat Achievements - Kalphite Queen	せんとうじっせき：じょおうカ�
 The Kalphite Queen is the strongest of the kalphites, residing in the Kalphite Lair within the Kharidian Desert.  Attack Styles - Melee, Ranged, Mage Immunities - Venom Slayer Categories - Kalphite	かるふぁいしょうおうはもっともつよいかるふぁいとであり、かりでぃあんさばくのかるふぁいらりーにすんでいます。 こうげきすたいる - みりょう、とうえき、ましく てきまんのうせい - どくやま さけてきぶんるい - かるふぁいと	interface	combAchvmt	
 Mandatory requirements: - Rope x<Num0>  Combat Achievement task difficulty: - Hard - Elite	かならずすじょうけん：<br>-ロープを<Num0>ほん<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - King Black Dragon	せんとうじっせき：くろりゅうおう	interface	combAchvmt	
-The King Black Dragon is a three-headed black dragon found in his lair, deep within the Wilderness, west of the Lava Maze.  Attack Styles - Melee, Dragonfire Immunities - None Slayer Categories - Black Dragon	おうけんのくろきりゅうはみあたまのくろきりゅうであり、あらくちめのふかいところにあるそこまちにいます。 こうげきすたいる - みりょう、どらごんふぁいあー てきまんのうせい - なし さけてきぶんるい - くろきりゅう	interface	combAchvmt	
+The King Black Dragon is a three-headed black dragon found in his lair, deep within the Wilderness, west of the Lava Maze.  Attack Styles - Melee, Dragonfire Immunities - None Slayer Categories - Black Dragon	おうけんのくろきりゅうはみあたまのくろきりゅうであり、あらくちめのふかいところにあるそこまちにいます。 こうげきすたいる - みりょう、ドラゴンふぁいあー てきまんのうせい - なし さけてきぶんるい - くろきりゅう	interface	combAchvmt	
 Mandatory requirements: - Dragon Slayer  Combat Achievement task difficulty: - Easy - Medium - Hard	かならずすじょうけん：<br>-クエスト「ドラゴン・スレイヤー」<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-しょきゅう<br>-ちゅうきゅう<br>-じょうきゅう	interface	combAchvmt	
 Combat Achievements - Kraken	せんとうじっせき : クラーケン	interface	combAchvmt	
 The Kraken is a stronger and larger cave kraken, found within Lieve's cave north of Eagles' Peak. It sleeps underwater until disturbed.  Attack Styles - Magic Immunities - Venom Slayer Categories - Cave Kraken	くらーけんはもっともつよい あなくらーけんであり、いーぐるすぴークきたのりーぶのあなないで みつかります。 よみずのしたで ねています。 こうげきすたいる - ましく てきまんのうせい - どくやま さけてきぶんるい - あなくらーけん	interface	combAchvmt	
@@ -6478,7 +6478,7 @@ Combat Achievements - Kree'arra	せんとうじっせき : クリアーラ	inter
 Kree'arra represents Armadyl as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Ranged, Ranged-based Magic, Melee Immunities - Melee, Poison, Venom Slayer Categories - Aviansie	くりーあっらはあるまでぃるをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - とうえき、とうえきもとましく、みりょう てきまんのうせい - みりょう、どく、どくやま さけてきぶんるい - えばうんしえ	interface	combAchvmt	
 Mandatory requirements: - <Num0> Ranged - Crossbow - Mithril Grapple  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	かならずすじょうけん：<br>-えんしゃレベル<Num0><br>-ようきゅうじゅう<br>-ミスリルのグラップル<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - K'ril Tsutsaroth	せんとうじっせき：クリル・ツツァロス	interface	combAchvmt	
-K'ril Tsutsaroth represents Zamorak as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - Greater Demon	けぃりるつつさろすはざもらくをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - みりょう、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - だいあくま	interface	combAchvmt	
+K'ril Tsutsaroth represents Zamorak as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - Greater Demon	けぃりるつつさろすはザモラクをあらわすしゃで、とろーるはいむきたのかみのたたかいだんじょんのよんしょうぐんのいっしん です。 こうげきすたいる - みりょう、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - だいあくま	interface	combAchvmt	
 Mandatory requirements: - <Num0> Hitpoints  Combat Achievement task difficulty: - Hard - Elite - Grandmaster	かならずすじょうけん：<br>-たいりょくレベル<Num0><br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう<br>-そうすい	interface	combAchvmt	
 Combat Achievements - The Leviathan	せんとうじっせき : リヴァイアサン	interface	combAchvmt	
 The Leviathan is a boss found within the Scar, which can be accessed through the Temple of the Eye.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None	ればいあさんはきずないに あるボスであり、めのしんでんをとおしてあくせスできます。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どくやま さけてきぶんるい - なし	interface	combAchvmt	
@@ -6498,7 +6498,7 @@ Combat Achievements - Phosanis Nightmare	せんとうじっせき : フォサー
 Phosani's Nightmare is a boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	ふぉさにのあくむはもりたにあのすりーぺのまちのしせいどせいどないで みつかったボスです。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Elite - Master - Grandmaster	かならずすじょうけん：<br>-モリタニアへのアクセス<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Obor	せんとうじっせき : オーボー	interface	combAchvmt	
-Obor the Hill Titan is the strongest of all the hill giants. His lair can be located behind a locked gate found within the hill giant area of the Edgeville Dungeon.  In order to access Obor's lair, a giant key, obtained from killing a Hill Giant, is required.  Attack Styles - Melee, Ranged Immunities - Venom Slayer Categories - Hill Giant	おぼーるのやまたいたんはすべてのやまおおおにのもっともつよいものです。 そのそこまちはえじびるだんじょんのやまおおおのくいきのなかのかぎのかかったもんのうしろにあります。 おぼーるのそこまちへのあくせスにはやまおおおのかぎがひつようです。 こうげきすたいる - みりょう、とうえき てきまんのうせい - どくやま さけてきぶんるい - やまおおお	interface	combAchvmt	
+Obor the Hill Titan is the strongest of all the hill giants. His lair can be located behind a locked gate found within the hill giant area of the Edgeville Dungeon.  In order to access Obor's lair, a giant key, obtained from killing a Hill Giant, is required.  Attack Styles - Melee, Ranged Immunities - Venom Slayer Categories - Hill Giant	おぼーるのやまたいたんはすべてのやまおおおにのもっともつよいものです。 そのそこまちはえじびるだんじょんのやまおおおのくいきのなかのかぎのかかったもんのうしろにあります。 おぼーるのそこまちへのあくせすにはやまおおおのかぎがひつようです。 こうげきすたいる - みりょう、とうえき てきまんのうせい - どくやま さけてきぶんるい - やまおおお	interface	combAchvmt	
 Mandatory requirements: - Giant key  Combat Achievement task difficulty: - Easy - Medium	かならずすじょうけん：<br>-きょだいなカギ<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-しょきゅう<br>-ちゅうきゅう	interface	combAchvmt	
 Combat Achievements - Phantom Muspah	せんとうじっせき：ファントム・マスパ	interface	combAchvmt	
 The Phantom Muspah is a boss found within Ghorrock Dungeon, deep beneath Weiss.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	ばけのむすぱはごろっくだんじょんないのボスであり、ぱいすのしたのふかいところにあります。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
@@ -6516,7 +6516,7 @@ Combat Achievements - Scorpia	せんとうじっせき : スコーピア	interfa
 Scorpia is a large scorpion that resides in a cave beneath the Scorpion Pit. The Scorpion Pit can be found deep within the Wilderness west of the Rogues' Castle.  Attack Styles - Melee Immunities - None Slayer Categories - Scorpion	すこるぴあはおおきなさそりであり、さそりあなのしたのあなにすんでいます。 さそりあなはあらくちめのふかいところのろーぐのしろにしにあります。 こうげきすたいる - みりょう てきまんのうせい - なし さけてきぶんるい - さそり	interface	combAchvmt	
 There are no mandatory requirements to fight the Scorpia.  Combat Achievement task difficulty: - Hard - Elite	スコーピアとせんうためのかならずすじょうけんはない。<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Skotizo	せんとうじっせき : スコティーゾ	interface	combAchvmt	
-Skotizo is a demonic boss located beneath the Catacombs of Kourend.  Accessing his lair requires the use of a dark totem on the altar found in the centre of the Catacombs.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Black Demon, Greater Demon.	すこてぃぞはくおーれんどのかたくぬもん のしたにいるあくまボスです。 そこまちへのあくせスにはかたくぬもんのちゅうおうのぶつだんのうえのくろいぐしが ひつようです。 こうげきすたいる - みりょう、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - くろいあくま、だいあくま。	interface	combAchvmt	
+Skotizo is a demonic boss located beneath the Catacombs of Kourend.  Accessing his lair requires the use of a dark totem on the altar found in the centre of the Catacombs.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Black Demon, Greater Demon.	すこてぃぞはくおーれんどのかたくぬもん のしたにいるあくまボスです。 そこまちへのあくせすにはかたくぬもんのちゅうおうのぶつだんのうえのくろいぐしが ひつようです。 こうげきすたいる - みりょう、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - くろいあくま、だいあくま。	interface	combAchvmt	
 Mandatory requirements: - A Dark Totem  Combat Achievement task difficulty: - Medium - Hard - Elite - Master	かならずすじょうけん：<br>-あんこくトーテム<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちゅうきゅう<br>-じょうきゅう<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Tempoross	せんとうじっせき : テンポロス	interface	combAchvmt	
 Tempoross is a skilling boss located off the coast of the Ruins of Unkah in the Kharidian Desert.  Attack Styles - Special Immunities - Special Slayer Categories - None	てんぽろすはかりでぃあんさばくのあんかーのいせきのなかのぎのうボスです。 こうげきすたいる - くくす てきまんのうせい - くくす さけてきぶんるい - なし	interface	combAchvmt	
@@ -6534,13 +6534,13 @@ Combat Achievements - Thermonuclear Smoke Devil	せんとうじっせき：ね�
 The Thermonuclear Smoke Devil is a stronger and larger smoke devil, found within Breive's cave south of Castle Wars.  Attack Styles - Magical Ranged Immunities - Poison, Venom Slayer Categories - Smoke Devil	ねつかくげんにほんのけむりおおおはもっともつよいけむりおおおであり、きゃすてるうぉーずみなみのぶれぃぶのあなにみつかります。 こうげきすたいる - ましくとうえき てきまんのうせい - どく、どくやま さけてきぶんるい - けむりおおお	interface	combAchvmt	
 Mandatory requirements: - <Num0> Slayer - A smoke devil slayer task - A face mask  Combat Achievement task difficulty: - Elite	かならずすじょうけん：<br>-とうばつレベル<Num0><br>-スモーク・デビルのとうばついらい<br>-マスク<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Tombs of Amascut: Entry Mode	せんとうじっせき：アマスカットのはか：しょしんしゃモード	interface	combAchvmt	
-The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then <Num2> considered an Entry raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	あますくとのぼぼ えもんはそふぁねむのみなみのこだいほおぼないに みつかります。 あますくとのぼぼ えもんは <Num0>-<Num1> ぷれいやーむけのこしゅうです。 あますくとのぼぼ えもんは しょうかんによってぐえきのはいどを へんせいできます。 このしょうかんはこしゅうれべるをへんかさせ、<Num2> みずにはいのこしゅうとして みなされます。 こうげきすたいる - ましく、とうえき、みりょう、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then <Num2> considered an Entry raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	あますくとのぼぼ えもんはそふぁねむのみなみのこだいほおぼないに みつかります。 あますくとのぼぼ えもんは <Num0>-<Num1> ぷれいやーむけのこしゅうです。 あますくとのぼぼ えもんは しょうかんによってぐえきのはいどを へんせいできます。 このしょうかんはこしゅうレベルをへんかさせ、<Num2> みずにはいのこしゅうとして みなされます。 こうげきすたいる - ましく、とうえき、みりょう、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Medium - Hard - Elite	かならずすじょうけん：<br>-クエスト「のろいわれたすなのした」<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちゅうきゅう<br>-じょうきゅう<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Tombs of Amascut	せんとうじっせき：アマスカットのはか	interface	combAchvmt	
-The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> to <Num3> considered a standard raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	あますくとのぼぼ えもんはそふぁねむのみなみのこだいほおぼないに みつかります。 あますくとのぼぼ えもんは <Num0>-<Num1> ぷれいやーむけのこしゅうです。 あますくとのぼぼ えもんは しょうかんによってぐえきのはいどを へんせいできます。 このしょうかんはこしゅうれべるをへんかさせ、<Num2> から <Num3> のこしゅうれべるは ひょうじゅんこしゅうとして みなされます。 こうげきすたいる - ましく、とうえき、みりょう、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> to <Num3> considered a standard raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	あますくとのぼぼ えもんはそふぁねむのみなみのこだいほおぼないに みつかります。 あますくとのぼぼ えもんは <Num0>-<Num1> ぷれいやーむけのこしゅうです。 あますくとのぼぼ えもんは しょうかんによってぐえきのはいどを へんせいできます。 このしょうかんはこしゅうレベルをへんかさせ、<Num2> から <Num3> のこしゅうレベルは ひょうじゅんこしゅうとして みなされます。 こうげきすたいる - ましく、とうえき、みりょう、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Elite - Master - Grandmaster	かならずすじょうけん：<br>-クエスト「のろいわれたすなのした」<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Tombs of Amascut: Expert Mode	せんとうじっせき：アマスカットのはか：せんもんかモード	interface	combAchvmt	
-The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	あますくとのぼぼ えもんはそふぁねむのみなみのこだいほおぼないに みつかります。 あますくとのぼぼ えもんは <Num0>-<Num1> ぷれいやーむけのこしゅうです。 あますくとのぼぼ えもんは しょうかんによってぐえきのはいどを へんせいできます。 このしょうかんはこしゅうれべるをへんかさせ、<Num2> いじょうのこしゅうれべるは こんめいこしゅうとして みなされます。 こうげきすたいる - ましく、とうえき、みりょう、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	あますくとのぼぼ えもんはそふぁねむのみなみのこだいほおぼないに みつかります。 あますくとのぼぼ えもんは <Num0>-<Num1> ぷれいやーむけのこしゅうです。 あますくとのぼぼ えもんは しょうかんによってぐえきのはいどを へんせいできます。 このしょうかんはこしゅうレベルをへんかさせ、<Num2> いじょうのこしゅうレベルは こんめいこしゅうとして みなされます。 こうげきすたいる - ましく、とうえき、みりょう、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Combat Achievements - TzHaar-Ket-Rak's Challenges	せんとうじっせき：ツザー・ケット・ラクのちょうせん	interface	combAchvmt	
 TzHaar-Ket-Rak's is an elite Tzhaar warrior found within the inner city of Mor Ul Rek.  TzHaar-Ket-Rak offers a number of challenges where those who have proven themselves within the Fight Caves or the Inferno can go up against an ever increasing number of JalTok-Jads.	つぃはあ-けっと-らっくはもるうるれっくのないぶしないのえりーとつぃはあせんしです。 つぃはあ-けっと-らっくはふぁいときあずまたはいんふぇるのないで じっしょうしたものが どんどんふえてゆくじゃるとくじゃどのすうと たたかうことができるしょうきんをごていきょうします。	interface	combAchvmt	
 Mandatory requirements:  TzHaar-Ket-Rak's First and Second Challenges - <Num0> Fight Caves completion  TzHaar-Ket-Rak's Third to Sixth Challenges - <Num1> Inferno completion  Combat Achievement task difficulty: - Elite - Master - Grandmaster	かならずすじょうけん：<br><br>ツザー・ケット・ラクのさいしょと２ばんめのちょうせん<br>-ファイト・ケーヴズのこうりゃく<Num0>かい<br><br>ツザー・ケット・ラクの３から６ばんめのちょうせん<br>-インフェルノのこうりゃく<Num1>かい<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
@@ -6556,10 +6556,10 @@ Combat Achievements - Venenatis	せんとうじっせき : ヴェネナティス
 Venenatis is a large poison spider that resides east of the Bone Yard in the Wilderness.  Attack Styles - Melee, Special Immunities - Poison, Venom, Magic Slayer Categories - Spider	べねなてぃすはおおきなどくくもであり、あらくちめのほねにわのひがしにすんでいます。 こうげきすたいる - みりょう、くくす てきまんのうせい - どく、どくやま、ましく さけてきぶんるい - くも	interface	combAchvmt	
 There are no mandatory requirements to fight Venenatis.  Combat Achievement task difficulty: - Hard - Elite	ヴェネナティスとせんうためのかならずすじょうけんはない。<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Vet'ion	せんとうじっせき : ヴェティオン	interface	combAchvmt	
-Vet'ion is a Zamorakian skeletal champion that resides north of the Bone Yard and south of Lava Dragon Isle in the Wilderness.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Skeleton	べてぃおんはざもらくのほねほねいのちゃんぴおんであり、あらくちめのほねにわきたとようがんりゅうじまみなみの いりょう にすんでいます。 こうげきすたいる - みりょう、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - ほねほねいの	interface	combAchvmt	
+Vet'ion is a Zamorakian skeletal champion that resides north of the Bone Yard and south of Lava Dragon Isle in the Wilderness.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Skeleton	べてぃおんはザモラクのほねほねいのちゃんぴおんであり、あらくちめのほねにわきたとようがんりゅうじまみなみの いりょう にすんでいます。 こうげきすたいる - みりょう、ましく てきまんのうせい - どく、どくやま さけてきぶんるい - ほねほねいの	interface	combAchvmt	
 There are no mandatory requirements to fight Vet'ion.  Combat Achievement task difficulty: - Hard - Elite	ヴェティオンとせんうためのかならずすじょうけんはない。<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Vorkath	せんとうじっせき : ヴォーカス	interface	combAchvmt	
-Vorkath is an undead blue dragon boss found in the crater on the island of Ungael north of the Fremennik Province.  Attack Styles - Melee, Ranged, Magic, Special, Dragonfire Immunities - Poison, Venom Slayer Categories - Blue Dragon, Zombie	ぼるかすはふれむえんぷろびんすきたのあんげーるじまのくぼちにいるしかばねあおきりゅうボスです。 こうげきすたいる - みりょう、とうえき、ましく、くくす、どらごんふぁいあー てきまんのうせい - どく、どくやま さけてきぶんるい - あおきりゅう、しかばね	interface	combAchvmt	
+Vorkath is an undead blue dragon boss found in the crater on the island of Ungael north of the Fremennik Province.  Attack Styles - Melee, Ranged, Magic, Special, Dragonfire Immunities - Poison, Venom Slayer Categories - Blue Dragon, Zombie	ぼるかすはふれむえんぷろびんすきたのあんげーるじまのくぼちにいるしかばねあおきりゅうボスです。 こうげきすたいる - みりょう、とうえき、ましく、くくす、ドラゴンふぁいあー てきまんのうせい - どく、どくやま さけてきぶんるい - あおきりゅう、しかばね	interface	combAchvmt	
 Mandatory requirements: - Dragon Slayer II  Combat Achievement task difficulty: - Elite - Master - Grandmaster	かならずすじょうけん：<br>-クエスト「ドラゴン・スレイヤー２」<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - The Whisperer	せんとうじっせき : ザ・ウィスパラー	interface	combAchvmt	
 The Whisperer is a boss found within the Lassar Undercity, deep beneath Ice Mountain.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	さやきひとはあいすまうんてんのしたのふかいところのらっさー あんだーしてぃないのボスです。 こうげきすたいる - みりょう、とうえき、ましく、くくす てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
@@ -6567,10 +6567,10 @@ Combat Achievements - Wintertodt	せんとうじっせき : ウィンタート�
 The Wintertodt is a skilling boss located in the Northern Tundras of Great Kourend, east of the Fishing Hamlet.  Attack Styles - Special Immunities - Special Slayer Categories - None	ふゆうさんは ぐれーとこうれんどのきたつんどらのぎのうボスであり、ぎょぎょあきらのひがしにあります。 こうげきすたいる - くくす てきまんのうせい - くくす さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - <Num0> Firemaking  Combat Achievement task difficulty: - Easy - Medium - Hard	かならずすじょうけん：<br>-ひおこしレベル<Num0><br><br>せんとうじっせきタスクのむずかしいえきど：<br>-しょきゅう<br>-ちゅうきゅう<br>-じょうきゅう	interface	combAchvmt	
 Combat Achievements - Zalcano	せんとうじっせき : ザルカーノ	interface	combAchvmt	
-Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  Attack Styles - Special Immunities - Special Slayer Categories - None	ざるかのはぷりふぃでぃなすのえるふしゅとのしたにとらわれているあくまぎのうボスです。 こうげきすたいる - くくす てきまんのうせい - くくす さけてきぶんるい - なし	interface	combAchvmt	
+Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  Attack Styles - Special Immunities - Special Slayer Categories - None	ざるかのはぷりふぃでぃなすのエルフしゅとのしたにとらわれているあくまぎのうボスです。 こうげきすたいる - くくす てきまんのうせい - くくす さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Song of the Elves - A pickaxe  Combat Achievement task difficulty: - Elite	かならずすじょうけん：<br>-クエスト「エルフのうた」<br>-ツルハシ<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-ちょうきゅう	interface	combAchvmt	
 Combat Achievements - Zulrah	せんとうじっせき : ズルラ	interface	combAchvmt	
-Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None	ずぅらはいさふだみなみのどくぬまのなかのしんしゃいないのへびボスです。 ずぅ-あんどらの しんじゃたちはぼーとで しんしゃへのあくせスをてきょうしています。 こうげきすたいる - みりょう、とうえき、ましく。 てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
+Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None	ずぅらはいさふだみなみのどくぬまのなかのしんしゃいないのへびボスです。 ずぅ-あんどらの しんじゃたちはぼーとで しんしゃへのあくせすをてきょうしています。 こうげきすたいる - みりょう、とうえき、ましく。 てきまんのうせい - どく、どくやま さけてきぶんるい - なし	interface	combAchvmt	
 Mandatory requirements: - Regicide  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	かならずすじょうけん：<br>-クエスト「くにおうころし」<br><br>せんとうじっせきタスクのむずかしいえきど：<br>-じょうきゅう<br>-ちょうきゅう<br>-たつじん<br>-そうすい	interface	combAchvmt	
 Combat Achievements - Rewards	せんとうじっせきのほうしゅう	interface	combAchvmt	
 <Num0>k XP lamp (minimum skill requirement: <Num1>)	<Num0>k XP（レベル<Num1>いじょうのスキルかぎさだめ）	interface	combAchvmt	

@@ -191,15 +191,15 @@ Fly fishing rod	フライロッド	name	item	Fly fishing rod
 Harpoon	もり	name	item	Harpoon
 Fishing bait	つりエサ	name	item	Fishing bait
 Feather	はね	name	item	Feather
-Shrimps	エビ	name	item	Shrimps
-Raw shrimps	なまエビ	name	item	Raw shrimps
+Shrimps	えび	name	item	Shrimps
+Raw shrimps	なまえび	name	item	Raw shrimps
 Anchovies	アンチョビ	name	item	Anchovies
 Raw anchovies	なまのアンチョビ	name	item	Raw anchovies
 Burnt fish	こげたさかな	name	item	Burnt fish
 Sardine	イワシ	name	item	Sardine
 Raw sardine	なまのイワシ	name	item	Raw sardine
-Salmon	サケ	name	item	Salmon
-Raw salmon	なまのサケ	name	item	Raw salmon
+Salmon	さけ	name	item	Salmon
+Raw salmon	なまのさけ	name	item	Raw salmon
 Trout	マス	name	item	Trout
 Raw trout	なまのマス	name	item	Raw trout
 Giant carp	きょだいなこい	name	item	Giant carp
@@ -212,8 +212,8 @@ Raw pike	なまのパイク	name	item	Raw pike
 Pike	パイク	name	item	Pike
 Raw mackerel	なまのサバ	name	item	Raw mackerel
 Mackerel	サバ	name	item	Mackerel
-Raw tuna	なまのマグロ	name	item	Raw tuna
-Tuna	マグロ	name	item	Tuna
+Raw tuna	なまのまぐろ	name	item	Raw tuna
+Tuna	まぐろ	name	item	Tuna
 Raw bass	なまのバス	name	item	Raw bass
 Bass	バス	name	item	Bass
 Raw swordfish	なまのカジキ	name	item	Raw swordfish
@@ -680,13 +680,13 @@ Mithril sq shield	ミスリルのつのたて	name	item	Mithril sq shield
 Adamant sq shield	アダマントのつのたて	name	item	Adamant sq shield
 Rune sq shield	ルーンのつのたて	name	item	Rune sq shield
 Dragon sq shield	りゅうてつのつのたて	name	item	Dragon sq shield
-Bronze kiteshield	せいどうのタコたて	name	item	Bronze kiteshield
-Iron kiteshield	てつのタコたて	name	item	Iron kiteshield
-Steel kiteshield	こうてつのタコたて	name	item	Steel kiteshield
-Black kiteshield	くろがねのタコたて	name	item	Black kiteshield
-Mithril kiteshield	ミスリルのタコたて	name	item	Mithril kiteshield
-Adamant kiteshield	アダマントのタコたて	name	item	Adamant kiteshield
-Rune kiteshield	ルーンのタコたて	name	item	Rune kiteshield
+Bronze kiteshield	せいどうのたこたて	name	item	Bronze kiteshield
+Iron kiteshield	てつのたこたて	name	item	Iron kiteshield
+Steel kiteshield	こうてつのたこたて	name	item	Steel kiteshield
+Black kiteshield	くろがねのたこたて	name	item	Black kiteshield
+Mithril kiteshield	ミスリルのたこたて	name	item	Mithril kiteshield
+Adamant kiteshield	アダマントのたこたて	name	item	Adamant kiteshield
+Rune kiteshield	ルーンのたこたて	name	item	Rune kiteshield
 Iron dagger	てつのたんけん	name	item	Iron dagger
 Bronze dagger	せいどうのたんけん	name	item	Bronze dagger
 Steel dagger	こうてつのたんけん	name	item	Steel dagger
@@ -818,7 +818,7 @@ Death talisman	しのタリスマン	name	item	Death talisman
 Law talisman	ほうのタリスマン	name	item	Law talisman
 Nature talisman	しぜんのタリスマン	name	item	Nature talisman
 Archery ticket	アーチェリーのチケット	name	item	Archery ticket
-Sea slug	ウミウシ	name	item	Sea slug
+Sea slug	ウミうし	name	item	Sea slug
 Damp sticks	しめりったぼう	name	item	Damp sticks
 Dry sticks	かわきいたぼう	name	item	Dry sticks
 Red bead	あかいつぶ	name	item	Red bead
@@ -830,7 +830,7 @@ Orb of light	ひかりのオーブ	name	item	Orb of light
 Oily cloth	あぶらぎったぬの	name	item	Oily cloth
 Piece of railing	てすりのいちぶ	name	item	Piece of railing
 Paladin's badge	ぎきょうのしのバッジ	name	item	Paladin's badge
-Witch's cat	まじょのネコ	name	item	Witch's cat
+Witch's cat	まじょのねこ	name	item	Witch's cat
 Doll of iban	アイバンのにんぎょう	name	item	Doll of iban
 Old journal	ふるいにっき	name	item	Old journal
 History of iban	アイバンのれきし	name	item	History of iban
@@ -1148,7 +1148,7 @@ Equa leaves	エクアは	name	item	Equa leaves
 Pot of cream	クリームのどなべ	name	item	Pot of cream
 Raw beef	なまのぎゅうにく	name	item	Raw beef
 Raw rat meat	なまのネズミにく	name	item	Raw rat meat
-Raw bear meat	なまのクマにく	name	item	Raw bear meat
+Raw bear meat	なまのくまにく	name	item	Raw bear meat
 Raw chicken	なまのけいにく	name	item	Raw chicken
 Cooked chicken	やきけたけいにく	name	item	Cooked chicken
 Cooked meat	やきけたにく	name	item	Cooked meat
@@ -1162,7 +1162,7 @@ Equa toad's legs	エクアアマガエルのあし	name	item	Equa toad's legs
 Spicy toad's legs	からいアマガエルのあし	name	item	Spicy toad's legs
 Seasoned legs	あじつけけしたあし	name	item	Seasoned legs
 Spicy worm	からいむし	name	item	Spicy worm
-King worm	おうさまミミズ	name	item	King worm
+King worm	おうさまミみず	name	item	King worm
 Batta tin	バッタのかん	name	item	Batta tin
 Crunchy tray	クランチートレイ	name	item	Crunchy tray
 Gnomebowl mould	ノームボールのかた	name	item	Gnomebowl mould
@@ -1376,27 +1376,27 @@ Robin hood hat	ロビン・フッドのぼうし	name	item	Robin hood hat
 Black platebody (t)	くろがねのむなよろい（えん）	name	item	Black platebody (t)
 Black platelegs (t)	くろがねのきゃっこう（えん）	name	item	Black platelegs (t)
 Black full helm (t)	くろがねのぜんとうこう（えん）	name	item	Black full helm (t)
-Black kiteshield (t)	くろがねのタコたて（えん）	name	item	Black kiteshield (t)
+Black kiteshield (t)	くろがねのたこたて（えん）	name	item	Black kiteshield (t)
 Black platebody (g)	くろがねのむなよろい（きん）	name	item	Black platebody (g)
 Black platelegs (g)	くろがねのきゃっこう（きん）	name	item	Black platelegs (g)
 Black full helm (g)	くろがねのぜんとうこう（きん）	name	item	Black full helm (g)
-Black kiteshield (g)	くろがねのタコたて（きん）	name	item	Black kiteshield (g)
+Black kiteshield (g)	くろがねのたこたて（きん）	name	item	Black kiteshield (g)
 Adamant platebody (t)	アダマントのむなよろい（えん）	name	item	Adamant platebody (t)
 Adamant platelegs (t)	アダマントのきゃっこう（えん）	name	item	Adamant platelegs (t)
-Adamant kiteshield (t)	アダマントのタコたて（えん）	name	item	Adamant kiteshield (t)
+Adamant kiteshield (t)	アダマントのたこたて（えん）	name	item	Adamant kiteshield (t)
 Adamant full helm (t)	アダマントのぜんとうこう（えん）	name	item	Adamant full helm (t)
 Adamant platebody (g)	アダマントのむなよろい（きん）	name	item	Adamant platebody (g)
 Adamant platelegs (g)	アダマントのきゃっこう（きん）	name	item	Adamant platelegs (g)
-Adamant kiteshield (g)	アダマントのタコたて（きん）	name	item	Adamant kiteshield (g)
+Adamant kiteshield (g)	アダマントのたこたて（きん）	name	item	Adamant kiteshield (g)
 Adamant full helm (g)	アダマントのぜんとうこう（きん）	name	item	Adamant full helm (g)
 Rune platebody (g)	ルーンのむなよろい（きん）	name	item	Rune platebody (g)
 Rune platelegs (g)	ルーンのきゃっこう（きん）	name	item	Rune platelegs (g)
 Rune full helm (g)	ルーンのぜんとうこう（きん）	name	item	Rune full helm (g)
-Rune kiteshield (g)	ルーンのタコたて（きん）	name	item	Rune kiteshield (g)
+Rune kiteshield (g)	ルーンのたこたて（きん）	name	item	Rune kiteshield (g)
 Rune platebody (t)	ルーンのむなよろい（えん）	name	item	Rune platebody (t)
 Rune platelegs (t)	ルーンのきゃっこう（えん）	name	item	Rune platelegs (t)
 Rune full helm (t)	ルーンのぜんとうこう（えん）	name	item	Rune full helm (t)
-Rune kiteshield (t)	ルーンのタコたて（えん）	name	item	Rune kiteshield (t)
+Rune kiteshield (t)	ルーンのたこたて（えん）	name	item	Rune kiteshield (t)
 Highwayman mask	ハイウェイマンのかめん	name	item	Highwayman mask
 Blue beret	あおいベレーぼう	name	item	Blue beret
 Black beret	くろいベレーぼう	name	item	Black beret
@@ -1411,15 +1411,15 @@ Pirate's hat	かいぞくのぼうし	name	item	Pirate's hat
 Zamorak platebody	ザモラックのむなよろい	name	item	Zamorak platebody
 Zamorak platelegs	ザモラックのきゃっこう	name	item	Zamorak platelegs
 Zamorak full helm	ザモラックのぜんとうこう	name	item	Zamorak full helm
-Zamorak kiteshield	ザモラックのタコたて	name	item	Zamorak kiteshield
+Zamorak kiteshield	ザモラックのたこたて	name	item	Zamorak kiteshield
 Saradomin platebody	サラドミンのむなよろい	name	item	Saradomin platebody
 Saradomin platelegs	サラドミンのきゃっこう	name	item	Saradomin platelegs
 Saradomin full helm	サラドミンのぜんとうこう	name	item	Saradomin full helm
-Saradomin kiteshield	サラドミンのタコたて	name	item	Saradomin kiteshield
+Saradomin kiteshield	サラドミンのたこたて	name	item	Saradomin kiteshield
 Guthix platebody	ガシックスのむなよろい	name	item	Guthix platebody
 Guthix platelegs	ガシックスのきゃっこう	name	item	Guthix platelegs
 Guthix full helm	ガシックスのぜんとうこう	name	item	Guthix full helm
-Guthix kiteshield	ガシックスのタコたて	name	item	Guthix kiteshield
+Guthix kiteshield	ガシックスのたこたて	name	item	Guthix kiteshield
 Clue scroll (easy)	たからさがししのまきもの（しょきゅう）	name	item	Clue scroll (easy)
 Casket (easy)	きばこ（しょきゅう）	name	item	Casket (easy)
 Clue scroll (hard)	たからさがししのまきもの（じょうきゅう）	name	item	Clue scroll (hard)
@@ -1615,8 +1615,8 @@ Barrel of coal tar	コールタールのたる	name	item	Barrel of coal tar
 Barrel of naphtha	ナフサのたる	name	item	Barrel of naphtha
 Naphtha mix	ナフサのミックス	name	item	Naphtha mix
 Strip of cloth	ぬのきれれ	name	item	Strip of cloth
-Raw rabbit	なまのウサギ	name	item	Raw rabbit
-Cooked rabbit	やきけたウサギ	name	item	Cooked rabbit
+Raw rabbit	なまのうさぎ	name	item	Raw rabbit
+Cooked rabbit	やきけたうさぎ	name	item	Cooked rabbit
 Big book of bangs	ばくはつのたいちょ	name	item	Big book of bangs
 Symbol	シンボル	name	item	Symbol
 Bark	じゅひ	name	item	Bark
@@ -1732,7 +1732,7 @@ Gilded platebody	おうごんのむなよろい	name	item	Gilded platebody
 Gilded platelegs	おうごんのきゃっこう	name	item	Gilded platelegs
 Gilded plateskirt	おうごんのくさずりよろい	name	item	Gilded plateskirt
 Gilded full helm	おうごんのぜんとうこう	name	item	Gilded full helm
-Gilded kiteshield	おうごんのタコたて	name	item	Gilded kiteshield
+Gilded kiteshield	おうごんのたこたて	name	item	Gilded kiteshield
 Boss helper tool	ボスのてつだいいツール	name	item	Boss helper tool
 Flamtaer hammer	フラムテアのハンマー	name	item	Flamtaer hammer
 Shoe	くつ	name	item	Shoe
@@ -1892,7 +1892,7 @@ Castle wars ticket	キャッスルウォーズのチケット	name	item	Castle w
 Decorative sword	そうしょくされたけん	name	item	Decorative sword
 Decorative armour	そうしょくされたアーマー	name	item	Decorative armour
 Decorative helm	そうしょくされたかぶと	name	item	Decorative helm
-Decorative shield	そうしょくされたタコたて	name	item	Decorative shield
+Decorative shield	そうしょくされたたこたて	name	item	Decorative shield
 Damp tinderbox	しめりったひくちばこ	name	item	Damp tinderbox
 Glowing fungus	ひかりるキノコ	name	item	Glowing fungus
 Crystal-mine key	すいしょうこうざんのカギ	name	item	Crystal-mine key
@@ -2114,7 +2114,7 @@ Airtight pot	みっぺいされたどなべ	name	item	Airtight pot
 Unfired pot lid	みしょうせいのどなべのフタ	name	item	Unfired pot lid
 Pot lid	どなべのフタ	name	item	Pot lid
 Breathing salts	こきゅうようえん	name	item	Breathing salts
-Chicken cage	ニワトリのおり	name	item	Chicken cage
+Chicken cage	にわとりのおり	name	item	Chicken cage
 Sharpened axe	けんいだおの	name	item	Sharpened axe
 Red mahogany log	あかマホガニーのまるた	name	item	Red mahogany log
 Steel key ring	こうてつのキーホルダー	name	item	Steel key ring
@@ -2137,7 +2137,7 @@ Broken pole	わりれたポール	name	item	Broken pole
 Bearhead	ベアヘッド	name	item	Bearhead
 Castlewars hood	キャッスルウォーズのフード	name	item	Castlewars hood
 Castlewars cloak	キャッスルウォーズのマント	name	item	Castlewars cloak
-Giant frog legs	きょだいなカエルのあし	name	item	Giant frog legs
+Giant frog legs	きょだいなかえるのあし	name	item	Giant frog legs
 Swamp wallbeast	ぬまのかべのけもの	name	item	Swamp wallbeast
 Swamp cave slime	ぬまのどうくつスライム	name	item	Swamp cave slime
 Swamp cave bug	ぬまのドウクツムシ	name	item	Swamp cave bug
@@ -2161,7 +2161,7 @@ Red sweets	あかいアメ<	name	item	Red sweets
 Green sweets	みどりのアメ<	name	item	Green sweets
 Pink sweets	ピンクのアメ<	name	item	Pink sweets
 Easter basket	イースターのカゴ	name	item	Easter basket
-Rubber chicken	ゴムのニワトリ	name	item	Rubber chicken
+Rubber chicken	ゴムのにわとり	name	item	Rubber chicken
 Gold helmet	おうごんのかぶと	name	item	Gold helmet
 Dwarven lore	ドワーフのでんしょう	name	item	Dwarven lore
 Book page 1	ほんのページ1	name	item	Book page 1
@@ -2220,7 +2220,7 @@ Smoke diamond	けむりのダイヤ	name	item	Smoke diamond
 Shadow diamond	かげのダイヤ	name	item	Shadow diamond
 Gilded cross	おうごんのクロス	name	item	Gilded cross
 Ancient staff	こだいのつえ	name	item	Ancient staff
-Catspeak amulet	ネコはなしのアミュレット	name	item	Catspeak amulet
+Catspeak amulet	ねこはなしのアミュレット	name	item	Catspeak amulet
 Canopic jar	カノプスのつぼ	name	item	Canopic jar
 Linen	リネン	name	item	Linen
 Embalming manual	ぼうふしょりのせつめいしょ	name	item	Embalming manual
@@ -2427,7 +2427,7 @@ Verac's plateskirt 0	ヴェラックのくさずりよろい0	name	item	Verac's 
 Raw cave eel	なまのどうくつウナギ	name	item	Raw cave eel
 Burnt cave eel	こげたどうくつウナギ	name	item	Burnt cave eel
 Cave eel	どうくつウナギ	name	item	Cave eel
-Frog spawn	カエルのはらこ	name	item	Frog spawn
+Frog spawn	かえるのはらこ	name	item	Frog spawn
 Brooch	ブローチ	name	item	Brooch
 Goblin symbol book	ゴブリンシのしょうのしょもつ	name	item	Goblin symbol book
 Silverware	ぎんしょっき	name	item	Silverware
@@ -2453,7 +2453,7 @@ Master farmer	えらいのうみん	name	item	Master farmer
 Bird nest	とりのす	name	item	Bird nest
 Bird's egg	とりのたまご	name	item	Bird's egg
 Varrock armour	ヴァロックのよろい	name	item	Varrock armour
-Sea snake	ウミヘビ	name	item	Sea snake
+Sea snake	ウミへび	name	item	Sea snake
 Morytania legs	モリタニアのきゃっこう	name	item	Morytania legs
 Explorer's ring	たんけんかのゆびわ	name	item	Explorer's ring
 Marigold seed	マリーゴールドのたね	name	item	Marigold seed
@@ -2684,7 +2684,7 @@ Alchemical notes	れんきんじゅつのノート	name	item	Alchemical notes
 ??? mixture	???こんごうぶつ	name	item	??? mixture
 Tin	スズ	name	item	Tin
 Fox	キツネ	name	item	Fox
-Chicken	ニワトリ	name	item	Chicken
+Chicken	にわとり	name	item	Chicken
 Hourglass	すなどけい	name	item	Hourglass
 Magic carpet	まほうのカーペット	name	item	Magic carpet
 Shaikahan bonemeal	シャイカハンのこっぷん	name	item	Shaikahan bonemeal
@@ -3022,12 +3022,12 @@ Raw pheasant	なまのキジ	name	item	Raw pheasant
 Lederhosen top	レーダーホーゼンのシャツ	name	item	Lederhosen top
 Lederhosen shorts	レーダーホーゼンのショーツ	name	item	Lederhosen shorts
 Lederhosen hat	レーダーホーゼンのハット	name	item	Lederhosen hat
-Frog token	カエルのトークン	name	item	Frog token
-Royal frog tunic	おうけカエルのうわぎ	name	item	Royal frog tunic
-Royal frog leggings	おうけカエルのレギンス	name	item	Royal frog leggings
-Royal frog blouse	おうけカエルのブラウス	name	item	Royal frog blouse
-Royal frog skirt	おうけカエルのスカート	name	item	Royal frog skirt
-Frog mask	カエルのかめん	name	item	Frog mask
+Frog token	かえるのトークン	name	item	Frog token
+Royal frog tunic	おうけかえるのうわぎ	name	item	Royal frog tunic
+Royal frog leggings	おうけかえるのレギンス	name	item	Royal frog leggings
+Royal frog blouse	おうけかえるのブラウス	name	item	Royal frog blouse
+Royal frog skirt	おうけかえるのスカート	name	item	Royal frog skirt
+Frog mask	かえるのかめん	name	item	Frog mask
 Mystery box	なぞのはこ	name	item	Mystery box
 Raw fishlike thing	なまのさかなっぽいなにか	name	item	Raw fishlike thing
 Fishlike thing	さかなっぽいなにか	name	item	Fishlike thing
@@ -3129,13 +3129,13 @@ Tzhaar-ket-om	ツザー・ケット・オム	name	item	Tzhaar-ket-om
 Tokkul	トックル	name	item	Tokkul
 Mouse toy	ネズミのおもちゃ	name	item	Mouse toy
 Present	プレゼント	name	item	Present
-Catspeak amulet(e)	ネコはなしのアミュレット（まほう）	name	item	Catspeak amulet(e)
+Catspeak amulet(e)	ねこはなしのアミュレット（まほう）	name	item	Catspeak amulet(e)
 Chores	かじ	name	item	Chores
 Recipe	レシピ	name	item	Recipe
 Doctor's hat	いしゃのぼうし	name	item	Doctor's hat
 Nurse hat	ナースのぼうし	name	item	Nurse hat
-Lazy cat	たいだなネコ	name	item	Lazy cat
-Wily cat	ずるけんいネコ	name	item	Wily cat
+Lazy cat	たいだなねこ	name	item	Lazy cat
+Wily cat	ずるけんいねこ	name	item	Wily cat
 Ahab's beer	アハブのビール	name	item	Ahab's beer
 Mud battlestaff	どろのせんじょう	name	item	Mud battlestaff
 Mystic mud staff	ひでんのどろのつえ	name	item	Mystic mud staff
@@ -3172,7 +3172,7 @@ White platelegs	はくてつのきゃっこう	name	item	White platelegs
 White plateskirt	はくてつのくさずりよろい	name	item	White plateskirt
 White gloves	はくてつのこて	name	item	White gloves
 White sq shield	はくてつのつのたて	name	item	White sq shield
-White kiteshield	はくてつのタコたて	name	item	White kiteshield
+White kiteshield	はくてつのたこたて	name	item	White kiteshield
 Commorb	コモーブ	name	item	Commorb
 Solus's hat	ソルスのぼうし	name	item	Solus's hat
 Dark beast	あんこくじゅう	name	item	Dark beast
@@ -3219,7 +3219,7 @@ Desert lizard	さばくトカゲ	name	item	Desert lizard
 Ice cooler	こおりクーラー	name	item	Ice cooler
 Pat of butter	バターのパット	name	item	Pat of butter
 Burnt potato	こげたジャガイモ	name	item	Burnt potato
-Baked potato	やきいたジャガイモ	name	item	Baked potato
+Baked potato	やいたジャガイモ	name	item	Baked potato
 Potato with butter	じゃがバター	name	item	Potato with butter
 Potato with cheese	じゃがチーズ	name	item	Potato with cheese
 Camulet	カミュレット	name	item	Camulet
@@ -3256,7 +3256,7 @@ Chest	たからばこ	name	item	Chest
 Guthix mjolnir	ガシックスのミョルニル	name	item	Guthix mjolnir
 Saradomin mjolnir	サラドミンのミョルニル	name	item	Saradomin mjolnir
 Zamorak mjolnir	ザモラックのミョルニル	name	item	Zamorak mjolnir
-Cat antipoison	ネコのげどくざい	name	item	Cat antipoison
+Cat antipoison	ねこのげどくざい	name	item	Cat antipoison
 Poisoned cheese	どくのチーズ	name	item	Poisoned cheese
 Music scroll	おんがくのまきもの	name	item	Music scroll
 Directions	みちじゅん	name	item	Directions
@@ -3440,9 +3440,9 @@ Part summer pie	サマーパイのいちぶ	name	item	Part summer pie
 Raw summer pie	なまのサマーパイ	name	item	Raw summer pie
 Summer pie	サマーパイ	name	item	Summer pie
 Half a summer pie	サマーパイのはんぶん	name	item	Half a summer pie
-Burnt rabbit	こげたウサギ	name	item	Burnt rabbit
-Roast rabbit	やきウサギ	name	item	Roast rabbit
-Skewered rabbit	ウサギのくし	name	item	Skewered rabbit
+Burnt rabbit	こげたうさぎ	name	item	Burnt rabbit
+Roast rabbit	やきうさぎ	name	item	Roast rabbit
+Skewered rabbit	うさぎのくし	name	item	Skewered rabbit
 Iron spit	てつのくし	name	item	Iron spit
 Burnt chompy	こげたチョンピー	name	item	Burnt chompy
 Skewered chompy	チョンピーのくし	name	item	Skewered chompy
@@ -3535,7 +3535,7 @@ Rune gloves	ルーンのこて	name	item	Rune gloves
 Dragon gloves	りゅうてつのこて	name	item	Dragon gloves
 Barrows gloves	バロウズのこて	name	item	Barrows gloves
 Cornflour	コーンフラワー	name	item	Cornflour
-Book on chickens	ニワトリにかんするほん	name	item	Book on chickens
+Book on chickens	にわとりにかんするほん	name	item	Book on chickens
 Vanilla pod	バニラのポッド	name	item	Vanilla pod
 Pot of cornflour	コーンフラワーのどなべ	name	item	Pot of cornflour
 Cornflour mixture	コーンフラワーのこんごうぶつ	name	item	Cornflour mixture
@@ -3543,7 +3543,7 @@ Milky mixture	にゅうじょうのこんごうぶつ	name	item	Milky mixture
 Cinnamon	シナモン	name	item	Cinnamon
 Brulee	ブリュレ	name	item	Brulee
 Brulee supreme	スプリームなブリュレ	name	item	Brulee supreme
-Evil chicken's egg	じゃあくなニワトリのたまご	name	item	Evil chicken's egg
+Evil chicken's egg	じゃあくなにわとりのたまご	name	item	Evil chicken's egg
 Dragon token	りゅうのトークン	name	item	Dragon token
 Spicy stew	からいシチュー	name	item	Spicy stew
 Red spice (4)	あかいこうしんりょう（４）	name	item	Red spice (4)
@@ -3573,10 +3573,10 @@ Dyed orange	そめまったオレンジ	name	item	Dyed orange
 Breadcrumbs	パンくず	name	item	Breadcrumbs
 Kelp	ケルプ	name	item	Kelp
 Ground kelp	ひかれたケルプ	name	item	Ground kelp
-Crab meat	なまのカニにく	name	item	Crab meat
-Burnt crab meat	こげたカニにく	name	item	Burnt crab meat
-Cooked crab meat	やきけたカニにく	name	item	Cooked crab meat
-Ground crab meat	ひかれたカニにく	name	item	Ground crab meat
+Crab meat	なまのかににく	name	item	Crab meat
+Burnt crab meat	こげたかににく	name	item	Burnt crab meat
+Cooked crab meat	やきけたかににく	name	item	Cooked crab meat
+Ground crab meat	ひかれたかににく	name	item	Ground crab meat
 Ground cod	ひかれたタラ	name	item	Ground cod
 Raw fishcake	なまのフィッシュケーキ	name	item	Raw fishcake
 Cooked fishcake	やきけたフィッシュケーキ	name	item	Cooked fishcake
@@ -3584,12 +3584,12 @@ Burnt fishcake	こげたフィッシュケーキ	name	item	Burnt fishcake
 Mudskipper hide	マッドスキッパーのかわ	name	item	Mudskipper hide
 Fishbowl helmet	きんぎょばちのヘルメット	name	item	Fishbowl helmet
 Diving apparatus	せんすいき	name	item	Diving apparatus
-Fresh crab claw	しんせんなカニのかぎづめ	name	item	Fresh crab claw
-Crab claw	カニのかぎづめ	name	item	Crab claw
-Fresh crab shell	しんせんなカニのから	name	item	Fresh crab shell
-Crab helmet	カニのかぶと	name	item	Crab helmet
-Broken crab claw	わりれたカニのかぎづめ	name	item	Broken crab claw
-Broken crab shell	わりれたカニのから	name	item	Broken crab shell
+Fresh crab claw	しんせんなかにのかぎづめ	name	item	Fresh crab claw
+Crab claw	かにのかぎづめ	name	item	Crab claw
+Fresh crab shell	しんせんなかにのから	name	item	Fresh crab shell
+Crab helmet	かにのかぶと	name	item	Crab helmet
+Broken crab claw	わりれたかにのかぎづめ	name	item	Broken crab claw
+Broken crab shell	わりれたかにのから	name	item	Broken crab shell
 Cake of guidance	しどうのケーキ	name	item	Cake of guidance
 Raw guide cake	なまのしどうのケーキ	name	item	Raw guide cake
 Enchanted egg	まほうのたまご	name	item	Enchanted egg
@@ -3603,14 +3603,14 @@ Red banana	あかバナナ	name	item	Red banana
 Tchiki monkey nuts	ツチキ・モンキー・ナッツ	name	item	Tchiki monkey nuts
 Sliced red banana	スライスされたあかバナナ	name	item	Sliced red banana
 Tchiki nut paste	ツチキ・ナッツのペースト	name	item	Tchiki nut paste
-Snake corpse	ヘビのしがい	name	item	Snake corpse
+Snake corpse	へびのしがい	name	item	Snake corpse
 Raw stuffed snake	なまのへびのはくせい	name	item	Raw stuffed snake
 Odd stuffed snake	きみょうなへびのはくせい	name	item	Odd stuffed snake
 Stuffed snake	へびのはくせい	name	item	Stuffed snake
-Snake over-cooked	やきかぎたヘビ	name	item	Snake over-cooked
+Snake over-cooked	やきかぎたへび	name	item	Snake over-cooked
 Overgrown hellcat	ろういたヘルキャット	name	item	Overgrown hellcat
 Hell cat	ヘルキャット	name	item	Hell cat
-Hell-kitten	ヘル・コネコ	name	item	Hell-kitten
+Hell-kitten	ヘル・コねこ	name	item	Hell-kitten
 Lazy hell cat	たいだなヘルキャット	name	item	Lazy hell cat
 Wily hellcat	ずるけんいヘルキャット	name	item	Wily hellcat
 Dummy	ダミー	name	item	Dummy
@@ -3675,7 +3675,7 @@ Toy doll	おもちゃのにんぎょう	name	item	Toy doll
 Toy doll (wound)	おもちゃのにんぎょう（まきずみ）	name	item	Toy doll (wound)
 Toy mouse	おもちゃのネズミ	name	item	Toy mouse
 Toy mouse (wound)	おもちゃのネズミ（まきずみ）	name	item	Toy mouse (wound)
-Toy cat	おもちゃのネコ	name	item	Toy cat
+Toy cat	おもちゃのねこ	name	item	Toy cat
 Reward token	ほうしゅうのトークン	name	item	Reward token
 Long vine	ながいツル	name	item	Long vine
 Short vine	たんいツル	name	item	Short vine
@@ -3697,7 +3697,7 @@ Jug of vinegar	すのピッチャー	name	item	Jug of vinegar
 Pot of vinegar	すのどなべ	name	item	Pot of vinegar
 Goblin skull	ゴブリンのずがいこつ	name	item	Goblin skull
 Bone in vinegar	すのほね	name	item	Bone in vinegar
-Bear ribs	クマのあばらほね	name	item	Bear ribs
+Bear ribs	くまのあばらほね	name	item	Bear ribs
 Ram skull	おひつじのずがいこつ	name	item	Ram skull
 Unicorn bone	ユニコーンのほね	name	item	Unicorn bone
 Giant rat bone	きょだいなネズミのほね	name	item	Giant rat bone
@@ -3712,7 +3712,7 @@ Zogre bone	ゾーガのほね	name	item	Zogre bone
 Mogre bone	モーガのほね	name	item	Mogre bone
 Monkey paw	サルのあし	name	item	Monkey paw
 Dagannoth ribs	ダガノスのあばらほね	name	item	Dagannoth ribs
-Snake spine	ヘビのせぼね	name	item	Snake spine
+Snake spine	へびのせぼね	name	item	Snake spine
 Zombie bone	ゾンビのほね	name	item	Zombie bone
 Werewolf bone	じんろうのほね	name	item	Werewolf bone
 Moss giant bone	コケのきょじんのほね	name	item	Moss giant bone
@@ -3724,11 +3724,11 @@ Troll bone	トロールのほね	name	item	Troll bone
 Seagull wing	カモメのつばさ	name	item	Seagull wing
 Undead cow ribs	アンデッドのうしのあばらほね	name	item	Undead cow ribs
 Experiment bone	じっけんたいのほね	name	item	Experiment bone
-Rabbit bone	ウサギのほね	name	item	Rabbit bone
+Rabbit bone	うさぎのほね	name	item	Rabbit bone
 Basilisk bone	バジリスクのほね	name	item	Basilisk bone
 Desert lizard bone	さばくトカゲのほね	name	item	Desert lizard bone
 Cave goblin skull	どうくつゴブリンのずがいこつ	name	item	Cave goblin skull
-Big frog leg	だいきなカエルのあし	name	item	Big frog leg
+Big frog leg	だいきなかえるのあし	name	item	Big frog leg
 Vulture wing	ハゲワシのつばさ	name	item	Vulture wing
 Jackal bone	ジャッカルのほね	name	item	Jackal bone
 Ram skull helm	おひつじのずがいこつのかぶと	name	item	Ram skull helm
@@ -3748,7 +3748,7 @@ Monkfish	アンコウ	name	item	Monkfish
 Burnt monkfish	こげたアンコウ	name	item	Burnt monkfish
 Bone seeds	ほねのたね	name	item	Bone seeds
 Herman's book	ヘーマンのほん	name	item	Herman's book
-Burnt shrimp	こげたエビ	name	item	Burnt shrimp
+Burnt shrimp	こげたえび	name	item	Burnt shrimp
 Mining prop	さいくつのしちゅう	name	item	Mining prop
 Heavy box	おもいはこ	name	item	Heavy box
 Empty box	くうのはこ	name	item	Empty box
@@ -3889,7 +3889,7 @@ Teak decoration	チークのそうしょく	name	item	Teak decoration
 Gilded decoration	おうごんのそうしょく	name	item	Gilded decoration
 Round shield	まるいたて	name	item	Round shield
 Square shield	つのたて	name	item	Square shield
-Kite shield	タコたて	name	item	Kite shield
+Kite shield	たこたて	name	item	Kite shield
 Wooden bench	もくせいのベンチ	name	item	Wooden bench
 Oak bench	かしのベンチ	name	item	Oak bench
 Carved oak bench	ちょうこくされたかしのベンチ	name	item	Carved oak bench
@@ -4014,8 +4014,8 @@ Sink	シンク	name	item	Sink
 Wooden larder	もくせいのちょぞうこ	name	item	Wooden larder
 Oak larder	かしのちょぞうこ	name	item	Oak larder
 Teak larder	チークのちょぞうこ	name	item	Teak larder
-Cat blanket	ネコのもうふ	name	item	Cat blanket
-Cat basket	ネコのバスケット	name	item	Cat basket
+Cat blanket	ねこのもうふ	name	item	Cat blanket
+Cat basket	ねこのバスケット	name	item	Cat basket
 Cushioned basket	クッションつきバスケット	name	item	Cushioned basket
 Beer barrel	ビールのたる	name	item	Beer barrel
 Cider barrel	サイダーのたる	name	item	Cider barrel
@@ -4243,7 +4243,7 @@ Black mask	くろいマスク	name	item	Black mask
 Witchwood icon	ウィッチウッドのアイコン	name	item	Witchwood icon
 Bandana eyepatch	バンダナがんたい	name	item	Bandana eyepatch
 Hat eyepatch	ぼうしがんたい	name	item	Hat eyepatch
-Crabclaw hook	カニつめのフック	name	item	Crabclaw hook
+Crabclaw hook	かにつめのフック	name	item	Crabclaw hook
 Pipe section	パイプぶぶん	name	item	Pipe section
 Lumber patch	ざいもくのパッチ	name	item	Lumber patch
 Scrapey tree logs	スクレーピーのきのまるた	name	item	Scrapey tree logs
@@ -4544,10 +4544,10 @@ Proselyte sallet	かいしゅうしゃのサレット	name	item	Proselyte sallet
 Proselyte hauberk	かいしゅうしゃのホーバーク	name	item	Proselyte hauberk
 Proselyte cuisse	かいしゅうしゃのももあたりて	name	item	Proselyte cuisse
 Proselyte tasset	かいしゅうしゃのタセット	name	item	Proselyte tasset
-Sea slug glue	ウミウシのノリ	name	item	Sea slug glue
+Sea slug glue	ウミうしのノリ	name	item	Sea slug glue
 Commorb v2	コモーブV2	name	item	Commorb v2
 Door transcription	ドアのてんしゃ	name	item	Door transcription
-Dead sea slug	しんだウミウシ	name	item	Dead sea slug
+Dead sea slug	しんだウミうし	name	item	Dead sea slug
 Page 1	ページ1	name	item	Page 1
 Page 2	ページ2	name	item	Page 2
 Page 3	ページ3	name	item	Page 3
@@ -4732,7 +4732,7 @@ Golden warbler	きんいろのワーブラー	name	item	Golden warbler
 Tropical wagtail	ねったいワグテイル	name	item	Tropical wagtail
 Butterfly	チョウ	name	item	Butterfly
 Giant eagle	きょだいなワシ	name	item	Giant eagle
-Rabbit	ウサギ	name	item	Rabbit
+Rabbit	うさぎ	name	item	Rabbit
 Chinchompa	チンチョンパ	name	item	Chinchompa
 Red chinchompa	あかチンチョンパ	name	item	Red chinchompa
 Raw bird meat	なまのとりにく	name	item	Raw bird meat
@@ -4762,7 +4762,7 @@ Magic box	まほうのはこ	name	item	Magic box
 Imp-in-a-box(2)	はこのちゅうのこあくま（2）	name	item	Imp-in-a-box(2)
 Imp-in-a-box(1)	はこのちゅうのこあくま（1）	name	item	Imp-in-a-box(1)
 Teasing stick	からかいぼう	name	item	Teasing stick
-Rabbit snare	ウサギのわな	name	item	Rabbit snare
+Rabbit snare	うさぎのわな	name	item	Rabbit snare
 Kyatt legs	カイヤットのズボン	name	item	Kyatt legs
 Kyatt top	カイヤットのトップ	name	item	Kyatt top
 Kyatt hat	カイヤットのぼうし	name	item	Kyatt hat
@@ -4813,8 +4813,8 @@ Desert devil fur	さばくデビルのけがわ	name	item	Desert devil fur
 Spotted kebbit fur	はんてんケビットのけがわ	name	item	Spotted kebbit fur
 Dashing kebbit fur	すばやいいケビットのけがわ	name	item	Dashing kebbit fur
 Barb-tail harpoon	とげおのもり	name	item	Barb-tail harpoon
-Strung rabbit foot	ひもがついたウサギのあし	name	item	Strung rabbit foot
-Rabbit foot	ウサギのあし	name	item	Rabbit foot
+Strung rabbit foot	ひもがついたうさぎのあし	name	item	Strung rabbit foot
+Rabbit foot	うさぎのあし	name	item	Rabbit foot
 Rainbow fish	にじいろのさかな	name	item	Rainbow fish
 Raw rainbow fish	なまのにじいろのさかな	name	item	Raw rainbow fish
 Burnt rainbow fish	こげたにじいろのさかな	name	item	Burnt rainbow fish
@@ -4877,7 +4877,7 @@ Purple logs	むらさきいろのまるた	name	item	Purple logs
 3rd age platelegs	だい3きのきゃっこう	name	item	3rd age platelegs
 3rd age platebody	だい3きのむなよろい	name	item	3rd age platebody
 3rd age full helmet	だい3きのぜんとうこう	name	item	3rd age full helmet
-3rd age kiteshield	だい3きのタコたて	name	item	3rd age kiteshield
+3rd age kiteshield	だい3きのたこたて	name	item	3rd age kiteshield
 Amulet of glory (t4)	えいこうのアミュレット（えん4）	name	item	Amulet of glory (t4)
 Amulet of glory (t3)	えいこうのアミュレット（えん3）	name	item	Amulet of glory (t3)
 Amulet of glory (t2)	えいこうのアミュレット（えん2）	name	item	Amulet of glory (t2)
@@ -4939,7 +4939,7 @@ Zamorak robe legs	ザモラックのローブした	name	item	Zamorak robe legs
 Saradomin stole	サラドミンのストール	name	item	Saradomin stole
 Guthix stole	ガシックスのストール	name	item	Guthix stole
 Zamorak stole	ザモラックのストール	name	item	Zamorak stole
-Undead chicken	アンデッドのニワトリ	name	item	Undead chicken
+Undead chicken	アンデッドのにわとり	name	item	Undead chicken
 Selected iron	えらびばれたてつ	name	item	Selected iron
 Bar magnet	ぼうじしゃく	name	item	Bar magnet
 Undead twigs	アンデッドのこえだ	name	item	Undead twigs
@@ -5070,7 +5070,7 @@ Keg	こだる	name	item	Keg
 Prayer book	いのりほん	name	item	Prayer book
 Barrelchest anchor	バレルチェストのいかり	name	item	Barrelchest anchor
 Blessed lamp	しゅくふくのランプ	name	item	Blessed lamp
-Wooden cat	もくせいのネコ	name	item	Wooden cat
+Wooden cat	もくせいのねこ	name	item	Wooden cat
 Cranial clamp	ずがいのクランプ	name	item	Cranial clamp
 Brain tongs	のうみそようトング	name	item	Brain tongs
 Bell jar	ベルのびん	name	item	Bell jar
@@ -5101,17 +5101,17 @@ Situp	ふっきんうんどう	name	item	Situp
 Starjump	スタージャンプ	name	item	Starjump
 Skull staples	ずがいこつのステープル	name	item	Skull staples
 Slayer bell	とうばつのかね	name	item	Slayer bell
-Frog-leather body	カエルかわのボディ	name	item	Frog-leather body
-Frog-leather chaps	カエルかわのチャップス	name	item	Frog-leather chaps
-Frog-leather boots	カエルかわのくつ	name	item	Frog-leather boots
+Frog-leather body	かえるかわのボディ	name	item	Frog-leather body
+Frog-leather chaps	かえるかわのチャップス	name	item	Frog-leather chaps
+Frog-leather boots	かえるかわのくつ	name	item	Frog-leather boots
 Green gloop soup	グリーングループ・スープ	name	item	Green gloop soup
 Frogspawn gumbo	フロッグスポーン・ガンボ	name	item	Frogspawn gumbo
 Frogburger	フロッグバーガー	name	item	Frogburger
-Coated frogs' legs	コーティングされたカエルのあし	name	item	Coated frogs' legs
+Coated frogs' legs	コーティングされたかえるのあし	name	item	Coated frogs' legs
 Bat shish	コウモリシシュ	name	item	Bat shish
 Fingers	ゆび	name	item	Fingers
 Grubs à la mode	グラブ・ア・ラ・モード	name	item	Grubs à la mode
-Roast frog	やきカエル	name	item	Roast frog
+Roast frog	やきかえる	name	item	Roast frog
 Mushrooms	キノコ	name	item	Mushrooms
 Fillets	きりみ	name	item	Fillets
 Loach	ドジョウ	name	item	Loach
@@ -5145,12 +5145,12 @@ Zaff's instructions	ザーフのしじ	name	item	Zaff's instructions
 Wand	ワンド	name	item	Wand
 Infused wand	まふよのワンド	name	item	Infused wand
 Beacon ring	ビーコンのゆびわ	name	item	Beacon ring
-Chicken feet	ニワトリのあし	name	item	Chicken feet
-Chicken wings	ニワトリのつばさ	name	item	Chicken wings
-Chicken head	ニワトリのあたま	name	item	Chicken head
-Chicken legs	ニワトリのあし	name	item	Chicken legs
+Chicken feet	にわとりのあし	name	item	Chicken feet
+Chicken wings	にわとりのつばさ	name	item	Chicken wings
+Chicken head	にわとりのあたま	name	item	Chicken head
+Chicken legs	にわとりのあし	name	item	Chicken legs
 Magic egg	まほうのたまご	name	item	Magic egg
-Rabbit mould	ウサギのいがた	name	item	Rabbit mould
+Rabbit mould	うさぎのいがた	name	item	Rabbit mould
 Chocolate chunks	チョコのかたまり	name	item	Chocolate chunks
 Chocolate kebbit	チョコのケビット	name	item	Chocolate kebbit
 Damp planks	しめりったいた	name	item	Damp planks
@@ -5283,7 +5283,7 @@ Barbarian rod	ばんぞくのつりさお	name	item	Barbarian rod
 Roe	はらこ	name	item	Roe
 Caviar	キャビア	name	item	Caviar
 Leaping trout	とびマス	name	item	Leaping trout
-Leaping salmon	とびサケ	name	item	Leaping salmon
+Leaping salmon	とびさけ	name	item	Leaping salmon
 Leaping sturgeon	とびチョウザメ	name	item	Leaping sturgeon
 Fish offcuts	さかなのきりくず	name	item	Fish offcuts
 Dragon full helm	りゅうてつのぜんとうこう	name	item	Dragon full helm
@@ -5549,9 +5549,9 @@ Odium shard 3	けんおのはへん3	name	item	Odium shard 3
 Malediction shard 1	のろいのはへん1	name	item	Malediction shard 1
 Malediction shard 2	のろいのはへん2	name	item	Malediction shard 2
 Malediction shard 3	のろいのはへん3	name	item	Malediction shard 3
-Raw dark crab	なまのあんこくのカニ	name	item	Raw dark crab
-Dark crab	あんこくのカニ	name	item	Dark crab
-Burnt dark crab	こげたあんこくのカニ	name	item	Burnt dark crab
+Raw dark crab	なまのあんこくのかに	name	item	Raw dark crab
+Dark crab	あんこくのかに	name	item	Dark crab
+Burnt dark crab	こげたあんこくのかに	name	item	Burnt dark crab
 Dark fishing bait	あんこくのつりエサ	name	item	Dark fishing bait
 Looting bag	りゃくだつぶくろ	name	item	Looting bag
 Ecumenical key	エキュメニカル・キー	name	item	Ecumenical key
@@ -5611,22 +5611,22 @@ Bronze platebody (g)	せいどうのむなよろい（きん）	name	item	Bronze
 Bronze platelegs (g)	せいどうのきゃっこう（きん）	name	item	Bronze platelegs (g)
 Bronze plateskirt (g)	せいどうのくさずりよろい（きん）	name	item	Bronze plateskirt (g)
 Bronze full helm (g)	せいどうのぜんとうこう（きん）	name	item	Bronze full helm (g)
-Bronze kiteshield (g)	せいどうのタコたて（きん）	name	item	Bronze kiteshield (g)
+Bronze kiteshield (g)	せいどうのたこたて（きん）	name	item	Bronze kiteshield (g)
 Bronze platebody (t)	せいどうのむなよろい（えん）	name	item	Bronze platebody (t)
 Bronze platelegs (t)	せいどうのきゃっこう（えん）	name	item	Bronze platelegs (t)
 Bronze plateskirt (t)	せいどうのくさずりよろい（えん）	name	item	Bronze plateskirt (t)
 Bronze full helm (t)	せいどうのぜんとうこう（えん）	name	item	Bronze full helm (t)
-Bronze kiteshield (t)	せいどうのタコたて（えん）	name	item	Bronze kiteshield (t)
+Bronze kiteshield (t)	せいどうのたこたて（えん）	name	item	Bronze kiteshield (t)
 Iron platebody (t)	てつのむなよろい（えん）	name	item	Iron platebody (t)
 Iron platelegs (t)	てつのきゃっこう（えん）	name	item	Iron platelegs (t)
 Iron plateskirt (t)	てつのくさずりよろい（えん）	name	item	Iron plateskirt (t)
 Iron full helm (t)	てつのぜんとうこう（えん）	name	item	Iron full helm (t)
-Iron kiteshield (t)	てつのタコたて（えん）	name	item	Iron kiteshield (t)
+Iron kiteshield (t)	てつのたこたて（えん）	name	item	Iron kiteshield (t)
 Iron platebody (g)	てつのむなよろい（きん）	name	item	Iron platebody (g)
 Iron platelegs (g)	てつのきゃっこう（きん）	name	item	Iron platelegs (g)
 Iron plateskirt (g)	てつのくさずりよろい（きん）	name	item	Iron plateskirt (g)
 Iron full helm (g)	てつのぜんとうこう（きん）	name	item	Iron full helm (g)
-Iron kiteshield (g)	てつのタコたて（きん）	name	item	Iron kiteshield (g)
+Iron kiteshield (g)	てつのたこたて（きん）	name	item	Iron kiteshield (g)
 Beanie	ビーニー	name	item	Beanie
 Red beret	あかいベレーぼう	name	item	Red beret
 Imp mask	こあくまのマスク	name	item	Imp mask
@@ -5645,12 +5645,12 @@ Bandos cloak	バンドスのマント	name	item	Bandos cloak
 Bandos crozier	バンドスのクロジエ	name	item	Bandos crozier
 Mithril platebody (g)	ミスリルのむなよろい（きん）	name	item	Mithril platebody (g)
 Mithril platelegs (g)	ミスリルのきゃっこう（きん）	name	item	Mithril platelegs (g)
-Mithril kiteshield (g)	ミスリルのタコたて（きん）	name	item	Mithril kiteshield (g)
+Mithril kiteshield (g)	ミスリルのたこたて（きん）	name	item	Mithril kiteshield (g)
 Mithril full helm (g)	ミスリルのぜんとうこう（きん）	name	item	Mithril full helm (g)
 Mithril plateskirt (g)	ミスリルのくさずりよろい（きん）	name	item	Mithril plateskirt (g)
 Mithril platebody (t)	ミスリルのむなよろい（えん）	name	item	Mithril platebody (t)
 Mithril platelegs (t)	ミスリルのきゃっこう（えん）	name	item	Mithril platelegs (t)
-Mithril kiteshield (t)	ミスリルのタコたて（えん）	name	item	Mithril kiteshield (t)
+Mithril kiteshield (t)	ミスリルのたこたて（えん）	name	item	Mithril kiteshield (t)
 Mithril full helm (t)	ミスリルのぜんとうこう（えん）	name	item	Mithril full helm (t)
 Mithril plateskirt (t)	ミスリルのくさずりよろい（えん）	name	item	Mithril plateskirt (t)
 Black pickaxe	くろがねのツルハシ	name	item	Black pickaxe
@@ -5685,7 +5685,7 @@ Monocle	かたがんきょう	name	item	Monocle
 Big pirate hat	だいきなかいぞくのぼうし	name	item	Big pirate hat
 Katana	かたな	name	item	Katana
 Leprechaun hat	レプラコーンのぼうし	name	item	Leprechaun hat
-Cat mask	ネコのマスク	name	item	Cat mask
+Cat mask	ねこのマスク	name	item	Cat mask
 Bronze dragon mask	せいどうのりゅうのマスク	name	item	Bronze dragon mask
 Iron dragon mask	てつのりゅうのマスク	name	item	Iron dragon mask
 Steel dragon mask	こうてつのりゅうのマスク	name	item	Steel dragon mask
@@ -5749,17 +5749,17 @@ Ancient platebody	こだいのむなよろい	name	item	Ancient platebody
 Ancient platelegs	こだいのきゃっこう	name	item	Ancient platelegs
 Ancient plateskirt	こだいのくさずりよろい	name	item	Ancient plateskirt
 Ancient full helm	こだいのぜんとうこう	name	item	Ancient full helm
-Ancient kiteshield	こだいのタコたて	name	item	Ancient kiteshield
+Ancient kiteshield	こだいのたこたて	name	item	Ancient kiteshield
 Armadyl platebody	アーマディルのむなよろい	name	item	Armadyl platebody
 Armadyl platelegs	アーマディルのきゃっこう	name	item	Armadyl platelegs
 Armadyl plateskirt	アーマディルのくさずりよろい	name	item	Armadyl plateskirt
 Armadyl full helm	アーマディルのぜんとうこう	name	item	Armadyl full helm
-Armadyl kiteshield	アーマディルのタコたて	name	item	Armadyl kiteshield
+Armadyl kiteshield	アーマディルのたこたて	name	item	Armadyl kiteshield
 Bandos platebody	バンドスのむなよろい	name	item	Bandos platebody
 Bandos platelegs	バンドスのきゃっこう	name	item	Bandos platelegs
 Bandos plateskirt	バンドスのくさずりよろい	name	item	Bandos plateskirt
 Bandos full helm	バンドスのぜんとうこう	name	item	Bandos full helm
-Bandos kiteshield	バンドスのタコたて	name	item	Bandos kiteshield
+Bandos kiteshield	バンドスのたこたて	name	item	Bandos kiteshield
 Ancient bracers	こだいのうでわ	name	item	Ancient bracers
 Ancient d'hide body	こだいのりゅうかわのボディ	name	item	Ancient d'hide body
 Ancient chaps	こだいのチャップス	name	item	Ancient chaps
@@ -6151,7 +6151,7 @@ Venenatis spiderling	ヴェネナティスのようたい	name	item	Venenatis sp
 Callisto cub	カリストーのこグマ	name	item	Callisto cub
 Vet'ion jr.	ヴェティオン じゅにあ	name	item	Vet'ion jr.
 Scorpia's offspring	スコーピアのこ	name	item	Scorpia's offspring
-Bunny feet	ウサギあし	name	item	Bunny feet
+Bunny feet	うさぎあし	name	item	Bunny feet
 Empty blaster	くうのブラスター	name	item	Empty blaster
 Incomplete blaster	みかんせいのブラスター	name	item	Incomplete blaster
 Easter blaster	イースターブラスター	name	item	Easter blaster
@@ -6344,7 +6344,7 @@ Ensouled monkey head	たましいやどりるサルのあたま	name	item	Ensoul
 Ensouled imp head	たましいやどりるこあくまのあたま	name	item	Ensouled imp head
 Ensouled minotaur head	たましいやどりるミノタウロスのあたま	name	item	Ensouled minotaur head
 Ensouled scorpion head	たましいやどりるサソリのあたま	name	item	Ensouled scorpion head
-Ensouled bear head	たましいやどりるクマのあたま	name	item	Ensouled bear head
+Ensouled bear head	たましいやどりるくまのあたま	name	item	Ensouled bear head
 Ensouled unicorn head	たましいやどりるユニコーンのあたま	name	item	Ensouled unicorn head
 Ensouled dog head	たましいやどりるいぬのあたま	name	item	Ensouled dog head
 Ensouled chaos druid head	たましいやどりるこんとんドルイドのあたま	name	item	Ensouled chaos druid head
@@ -6429,9 +6429,9 @@ Gnome child hat	こどものノームのぼうし	name	item	Gnome child hat
 Grape seed	ブドウのたね	name	item	Grape seed
 Teleport card	ワープカード	name	item	Teleport card
 Chronicle	ねんだいき	name	item	Chronicle
-Bunny top	ウサギのトップ	name	item	Bunny top
-Bunny legs	ウサギのレッグ	name	item	Bunny legs
-Bunny paws	ウサギのあし	name	item	Bunny paws
+Bunny top	うさぎのトップ	name	item	Bunny top
+Bunny legs	うさぎのレッグ	name	item	Bunny legs
+Bunny paws	うさぎのあし	name	item	Bunny paws
 Deadman teleport tablet	デッドマンのワープタブレット	name	item	Deadman teleport tablet
 Cabbage cape	キャベツのマント	name	item	Cabbage cape
 Cabbage rune	キャベツのルーン	name	item	Cabbage rune
@@ -6640,12 +6640,12 @@ Steel platebody (g)	こうてつのむなよろい（きん）	name	item	Steel p
 Steel platelegs (g)	こうてつのきゃっこう（きん）	name	item	Steel platelegs (g)
 Steel plateskirt (g)	こうてつのくさずりよろい（きん）	name	item	Steel plateskirt (g)
 Steel full helm (g)	こうてつのぜんとうこう（きん）	name	item	Steel full helm (g)
-Steel kiteshield (g)	こうてつのタコたて（きん）	name	item	Steel kiteshield (g)
+Steel kiteshield (g)	こうてつのたこたて（きん）	name	item	Steel kiteshield (g)
 Steel platebody (t)	こうてつのむなよろい（えん）	name	item	Steel platebody (t)
 Steel platelegs (t)	こうてつのきゃっこう（えん）	name	item	Steel platelegs (t)
 Steel plateskirt (t)	こうてつのくさずりよろい（えん）	name	item	Steel plateskirt (t)
 Steel full helm (t)	こうてつのぜんとうこう（えん）	name	item	Steel full helm (t)
-Steel kiteshield (t)	こうてつのタコたて（えん）	name	item	Steel kiteshield (t)
+Steel kiteshield (t)	こうてつのたこたて（えん）	name	item	Steel kiteshield (t)
 Monk's robe top (g)	そうりょのローブじょう（きん）	name	item	Monk's robe top (g)
 Monk's robe (g)	そうりょのローブした（きん）	name	item	Monk's robe (g)
 Golden chef's hat	きんのシェフハット	name	item	Golden chef's hat
@@ -6690,10 +6690,10 @@ Steel gold-trimmed set (lg)	きんぶちのこうてつのセット（きゃっ�
 Steel gold-trimmed set (sk)	きんぶちのこうてつのセット（くさずりよろい）	name	item	Steel gold-trimmed set (sk)
 Spear	やり	name	item	Spear
 Ancient magicks tablet	こだいまほうのタブレット	name	item	Ancient magicks tablet
-Evil chicken feet	じゃあくなニワトリのあし	name	item	Evil chicken feet
-Evil chicken wings	じゃあくなニワトリのつばさ	name	item	Evil chicken wings
-Evil chicken head	じゃあくなニワトリのあたま	name	item	Evil chicken head
-Evil chicken legs	じゃあくなニワトリのあし	name	item	Evil chicken legs
+Evil chicken feet	じゃあくなにわとりのあし	name	item	Evil chicken feet
+Evil chicken wings	じゃあくなにわとりのつばさ	name	item	Evil chicken wings
+Evil chicken head	じゃあくなにわとりのあたま	name	item	Evil chicken head
+Evil chicken legs	じゃあくなにわとりのあし	name	item	Evil chicken legs
 Fire cape (broken)	かえんのマント（こわし）	name	item	Fire cape (broken)
 Fire max cape (broken)	ファイア・マックス・マント（こわし）	name	item	Fire max cape (broken)
 Bronze defender (broken)	せいどうのふくとう（こわし）	name	item	Bronze defender (broken)
@@ -6716,7 +6716,7 @@ Void melee helm (broken)	ヴォイド・きんせつのかぶと（こわし）	
 Decorative sword (broken)	そうしょくのけん（こわし）	name	item	Decorative sword (broken)
 Decorative armour (broken)	そうしょくのアーマー（こわし）	name	item	Decorative armour (broken)
 Decorative helm (broken)	そうしょくのかぶと（こわし）	name	item	Decorative helm (broken)
-Decorative shield (broken)	そうしょくのタコたて（こわし）	name	item	Decorative shield (broken)
+Decorative shield (broken)	そうしょくのたこたて（こわし）	name	item	Decorative shield (broken)
 Fighter hat (broken)	ファイターのぼうし（こわし）	name	item	Fighter hat (broken)
 Ranger hat (broken)	しゃしゅのぼうし（こわし）	name	item	Ranger hat (broken)
 Healer hat (broken)	ちゆしゃのぼうし（こわし）	name	item	Healer hat (broken)
@@ -6859,7 +6859,7 @@ Corrupted helm	へんいしたぜんとうこう	name	item	Corrupted helm
 Corrupted platebody	へんいしたむなよろい	name	item	Corrupted platebody
 Corrupted platelegs	へんいしたきゃっこう	name	item	Corrupted platelegs
 Corrupted plateskirt	へんいしたくさずりよろい	name	item	Corrupted plateskirt
-Corrupted kiteshield	へんいしたタコたて	name	item	Corrupted kiteshield
+Corrupted kiteshield	へんいしたたこたて	name	item	Corrupted kiteshield
 Dragon thrownaxe	りゅうてつのなげおの	name	item	Dragon thrownaxe
 Olmlet	オルムレット	name	item	Olmlet
 Cave worms	どうくつのむし	name	item	Cave worms
@@ -7230,7 +7230,7 @@ Rare fossilised pelvis	レアなかせきかしたこつばん	name	item	Rare fo
 Rare fossilised skull	レアなかせきかしたずがいこつ	name	item	Rare fossilised skull
 Rare fossilised tusk	レアなかせきしたきば	name	item	Rare fossilised tusk
 Volcanic ash	かざんばい	name	item	Volcanic ash
-Hoop snake	わのヘビ	name	item	Hoop snake
+Hoop snake	わのへび	name	item	Hoop snake
 Sulliuscep cap	スリセップダケ	name	item	Sulliuscep cap
 Archaeologist's diary	こうこがくしゃのにっき	name	item	Archaeologist's diary
 Ancient diary	こだいのにっき	name	item	Ancient diary
@@ -7344,7 +7344,7 @@ Dragon armour set (sk)	りゅうてつのよろいセット（くさずりよろ
 Turquoise slayer helmet	トルコいしいろのとうばつかぶと	name	item	Turquoise slayer helmet
 Turquoise slayer helmet (i)	トルコいしいろのとうばつかぶと（ふよ）	name	item	Turquoise slayer helmet (i)
 Dragon platebody	りゅうてつのむなよろい	name	item	Dragon platebody
-Dragon kiteshield	りゅうてつのタコたて	name	item	Dragon kiteshield
+Dragon kiteshield	りゅうてつのたこたて	name	item	Dragon kiteshield
 Assembler max cape	アセンブラ・マックス・マント	name	item	Assembler max cape
 Assembler max hood	アセンブラ・マックス・フード	name	item	Assembler max hood
 Dragon crossbow	りゅうてつのようきゅうじゅう	name	item	Dragon crossbow
@@ -7444,9 +7444,9 @@ Barbed arrow	トゲのあるや	name	item	Barbed arrow
 Dragon boots ornament kit	りゅうてつのくつのそうしょくキット	name	item	Dragon boots ornament kit
 Dragon boots (g)	りゅうてつのくつ（きん）	name	item	Dragon boots (g)
 Dragon platebody ornament kit	りゅうてつのむなよろいのそうしょくキット	name	item	Dragon platebody ornament kit
-Dragon kiteshield ornament kit	りゅうてつのタコたてのそうしょくキット	name	item	Dragon kiteshield ornament kit
+Dragon kiteshield ornament kit	りゅうてつのたこたてのそうしょくキット	name	item	Dragon kiteshield ornament kit
 Dragon platebody (g)	りゅうてつのむなよろい（きん）	name	item	Dragon platebody (g)
-Dragon kiteshield (g)	りゅうてつのタコたて（きん）	name	item	Dragon kiteshield (g)
+Dragon kiteshield (g)	りゅうてつのたこたて（きん）	name	item	Dragon kiteshield (g)
 Anguish ornament kit	くもんのそうしょくキット	name	item	Anguish ornament kit
 Necklace of anguish (or)	くもんのネックレス（かざり）	name	item	Necklace of anguish (or)
 Oak shield	かしのたて	name	item	Oak shield
@@ -7571,9 +7571,9 @@ Old man's coffin	おじいさんのひつぎ	name	item	Old man's coffin
 Reduced cadava potion	さくげんしたカダバのやくえき	name	item	Reduced cadava potion
 Goat dung	ヤギのふん	name	item	Goat dung
 Weiss fire notes	ウェイスのひメモ	name	item	Weiss fire notes
-Te salt	テしお	name	item	Te salt
+Te salt	てしお	name	item	Te salt
 Efh salt	エフフしお	name	item	Efh salt
-Urt salt	ウルトしお	name	item	Urt salt
+Urt salt	うるとしお	name	item	Urt salt
 Icy basalt	こおりのげんぶがん	name	item	Icy basalt
 Stony basalt	いわのげんぶがん	name	item	Stony basalt
 Basalt	げんぶがん	name	item	Basalt
@@ -7793,8 +7793,8 @@ Gilded pickaxe	おうごんのツルハシ	name	item	Gilded pickaxe
 Gilded axe	おうごんのおの	name	item	Gilded axe
 Gilded spade	おうごんのシャベル	name	item	Gilded spade
 Mole slippers	もぐらのスリッパ	name	item	Mole slippers
-Frog slippers	カエルのスリッパ	name	item	Frog slippers
-Bear feet	クマのあし	name	item	Bear feet
+Frog slippers	かえるのスリッパ	name	item	Frog slippers
+Bear feet	くまのあし	name	item	Bear feet
 Demon feet	あくまのあし	name	item	Demon feet
 Jester cape	どうけしのマント	name	item	Jester cape
 Shoulder parrot	かたのオウム	name	item	Shoulder parrot
@@ -7816,7 +7816,7 @@ Cape of skulls	ドクロのマント	name	item	Cape of skulls
 Amulet of power (t)	ちからのアミュレット（えん）	name	item	Amulet of power (t)
 Rain bow	レインボウ	name	item	Rain bow
 Ham joint	ハムジョイント	name	item	Ham joint
-Staff of bob the cat	ネコのボブのつえ	name	item	Staff of bob the cat
+Staff of bob the cat	ねこのボブのつえ	name	item	Staff of bob the cat
 Black platebody (h1)	くろがねのむなよろい（もん1）	name	item	Black platebody (h1)
 Black platebody (h2)	くろがねのむなよろい（もん2）	name	item	Black platebody (h2)
 Black platebody (h3)	くろがねのむなよろい（もん3）	name	item	Black platebody (h3)
@@ -8068,7 +8068,7 @@ Brassica halo (broken)	ブラシカのごこう（こわし）	name	item	Brassic
 Decorative sword (l)	そうしょくのけん（ほ）	name	item	Decorative sword (l)
 Decorative armour (l)	そうしょくのアーマー（ほ）	name	item	Decorative armour (l)
 Decorative helm (l)	そうしょくのかぶと（ほ）	name	item	Decorative helm (l)
-Decorative shield (l)	そうしょくのタコたて（ほ）	name	item	Decorative shield (l)
+Decorative shield (l)	そうしょくのたこたて（ほ）	name	item	Decorative shield (l)
 Saradomin halo (l)	サラドミンのごこう（ほ）	name	item	Saradomin halo (l)
 Zamorak halo (l)	ザモラックのごこう（ほ）	name	item	Zamorak halo (l)
 Guthix halo (l)	ガシックスのごこう（ほ）	name	item	Guthix halo (l)
@@ -8122,7 +8122,7 @@ Imbued zamorak max cape (broken)	ふよしたザモラック・マックス・�
 Imbued saradomin cape (l)	ふよしたサラドミンのマント（ほ）	name	item	Imbued saradomin cape (l)
 Imbued guthix cape (l)	ふよしたガシックスのマント（ほ）	name	item	Imbued guthix cape (l)
 Imbued zamorak cape (l)	ふよしたザモラックのマント（ほ）	name	item	Imbued zamorak cape (l)
-Wilderness crabs teleport	ウィルダネスカニ・ワープ	name	item	Wilderness crabs teleport
+Wilderness crabs teleport	ウィルダネスかに・ワープ	name	item	Wilderness crabs teleport
 Fang	きば	name	item	Fang
 Venom gland	どくせん	name	item	Venom gland
 Unsealed letter	かいふうされたてがみ	name	item	Unsealed letter
@@ -9046,9 +9046,9 @@ Hardened wristbands of the arena (broken)	アリーナのかたいリストバ�
 Koriff's headband (broken)	コリフのヘッドバンド（こわし）	name	item	Koriff's headband (broken)
 Koriff's cowl (broken)	コリフのカウル（こわし）	name	item	Koriff's cowl (broken)
 Koriff's coif (broken)	コリフのコイフ（こわし）	name	item	Koriff's coif (broken)
-Saika's hood (broken)	サイカのフード（こわし）	name	item	Saika's hood (broken)
-Saika's veil (broken)	サイカのベール（は）	name	item	Saika's veil (broken)
-Saika's shroud (broken)	サイカのシュラウド（はそん）	name	item	Saika's shroud (broken)
+Saika's hood (broken)	サいかのフード（こわし）	name	item	Saika's hood (broken)
+Saika's veil (broken)	サいかのベール（は）	name	item	Saika's veil (broken)
+Saika's shroud (broken)	サいかのシュラウド（はそん）	name	item	Saika's shroud (broken)
 Blighted surge sack	こうはいしたサージふくろ	name	item	Blighted surge sack
 Scroll of imbuing	ふよのまきもの	name	item	Scroll of imbuing
 Dragon claws ornament kit	りゅうてつのかぎづめのそうしょくキット	name	item	Dragon claws ornament kit
@@ -9075,12 +9075,12 @@ Wristbands of the arena (i)	アリーナのリストバンド（ふよ）	name	i
 Wristbands of the arena (il)	アリーナのリストバンド（ふよ・ほ）	name	item	Wristbands of the arena (il)
 Wristbands of the arena (ic)	アリーナのリストバンド（ふよ・チャージ）	name	item	Wristbands of the arena (ic)
 Wristbands of the arena (ilc)	アリーナのリストバンド（ふよ・ほ・チャージ）	name	item	Wristbands of the arena (ilc)
-Saika's hood	サイカのフード	name	item	Saika's hood
-Saika's hood (l)	サイカのフード（ほ）	name	item	Saika's hood (l)
-Saika's veil	サイカのベール	name	item	Saika's veil
-Saika's veil (l)	サイカのベール（ほ）	name	item	Saika's veil (l)
-Saika's shroud	サイカのシュラウド	name	item	Saika's shroud
-Saika's shroud (l)	サイカのシュラウド（ほ）	name	item	Saika's shroud (l)
+Saika's hood	サいかのフード	name	item	Saika's hood
+Saika's hood (l)	サいかのフード（ほ）	name	item	Saika's hood (l)
+Saika's veil	サいかのベール	name	item	Saika's veil
+Saika's veil (l)	サいかのベール（ほ）	name	item	Saika's veil (l)
+Saika's shroud	サいかのシュラウド	name	item	Saika's shroud
+Saika's shroud (l)	サいかのシュラウド（ほ）	name	item	Saika's shroud (l)
 Koriff's headband	コリフのヘッドバンド	name	item	Koriff's headband
 Koriff's headband (l)	コリフのヘッドバンド（ほ）	name	item	Koriff's headband (l)
 Koriff's cowl	コリフのカウル	name	item	Koriff's cowl
@@ -9459,10 +9459,10 @@ Fangs of venenatis	ヴェネナティスのきば	name	item	Fangs of venenatis
 Skull of vet'ion	ヴェティオンのずがいこつ	name	item	Skull of vet'ion
 Accursed sceptre (au)	のろいのしゃく（じどう・むりょく）	name	item	Accursed sceptre (au)
 Accursed sceptre (a)	のろいのしゃく（じどう）	name	item	Accursed sceptre (a)
-Voidwaker hilt	ボイドウェイカーのえ	name	item	Voidwaker hilt
-Voidwaker blade	ボイドウェイカーのやいば	name	item	Voidwaker blade
-Voidwaker gem	ボイドウェイカーのほうせき	name	item	Voidwaker gem
-Voidwaker	ボイドウェイカー	name	item	Voidwaker
+Voidwaker hilt	ボイドウェいかーのえ	name	item	Voidwaker hilt
+Voidwaker blade	ボイドウェいかーのやいば	name	item	Voidwaker blade
+Voidwaker gem	ボイドウェいかーのほうせき	name	item	Voidwaker gem
+Voidwaker	ボイドウェいかー	name	item	Voidwaker
 Dragon pickaxe (broken)	りゅうてつのツルハシ（こわし）	name	item	Dragon pickaxe (broken)
 Diamond speedrun trophy	ダイヤのタイムアタックトロフィー	name	item	Diamond speedrun trophy
 Thammaron's sceptre (au)	サマロンのしゃく（じどう・むりょく）	name	item	Thammaron's sceptre (au)
@@ -9470,7 +9470,7 @@ Thammaron's sceptre (a)	サマロンのしゃく（じどう）	name	item	Thamma
 Nightshade	ナイトシェード	name	item	Nightshade
 Gnome child backpack	こどものノームのリュック	name	item	Gnome child backpack
 Cake hat	ケーキ・ハット	name	item	Cake hat
-Bob the cat slippers	ネコのボブのスリッパ	name	item	Bob the cat slippers
+Bob the cat slippers	ねこのボブのスリッパ	name	item	Bob the cat slippers
 Jad slippers	ジャッドのスリッパ	name	item	Jad slippers
 Dragon candle dagger	りゅうのロウソクたんけん	name	item	Dragon candle dagger
 10th birthday cape	10しゅうねんきねんのケーキ	name	item	10th birthday cape
@@ -9799,7 +9799,7 @@ Sigil of the hunter	かりゅうどのまほういん	name	item	Sigil of the hun
 Sigil of resistance	ていこうのまほういん	name	item	Sigil of resistance
 Sigil of agile fortune	びんしょうなこううんのまほういん	name	item	Sigil of agile fortune
 Sigil of the food master	フードマスターのまほういん	name	item	Sigil of the food master
-Sigil of the well-fed	よくしょくべるものまほういん	name	item	Sigil of the well-fed
+Sigil of the well-fed	よくたべるものまほういん	name	item	Sigil of the well-fed
 Sigil of the infernal chef	ごくえんのシェフのまほういん	name	item	Sigil of the infernal chef
 Sigil of the infernal smith	ごくえんのかじやのまほういん	name	item	Sigil of the infernal smith
 Sigil of the lightbearer	ライトベアラーのまほういん	name	item	Sigil of the lightbearer
@@ -9810,7 +9810,7 @@ Sigil of faith	しんこうのまほういん	name	item	Sigil of faith
 Sigil of titanium	チタンのまほういん	name	item	Sigil of titanium
 Sigil of the ninja	にんじゃのまほういん	name	item	Sigil of the ninja
 Sigil of woodcraft	もっこうのまほういん	name	item	Sigil of woodcraft
-Corrupted voidwaker	へんいしたボイドウェイカー	name	item	Corrupted voidwaker
+Corrupted voidwaker	へんいしたボイドウェいかー	name	item	Corrupted voidwaker
 Corrupted dragon claws	へんいしたりゅうてつのかぎづめ	name	item	Corrupted dragon claws
 Corrupted armadyl godsword	へんいしたアーマディルのしんけん	name	item	Corrupted armadyl godsword
 Corrupted twisted bow	へんいしたゆがみのゆみ	name	item	Corrupted twisted bow
@@ -10058,14 +10058,14 @@ Sapphire glacialis mix (2)	サファイアグラシアリスのミックス (2)	
 Snowy knight mix (2)	ゆきのきしのミックス (2)	name	item	Snowy knight mix (2)
 Ruby harvest mix (2)	ルビー・ハーベストのミックス (2)	name	item	Ruby harvest mix (2)
 Black warlock mix (2)	くろワーロックのミックス (2)	name	item	Black warlock mix (2)
-Sunlight moth mix (2)	にっこうガのミックス (2)	name	item	Sunlight moth mix (2)
-Moonlight moth mix (2)	げっこうガのミックス (2)	name	item	Moonlight moth mix (2)
+Sunlight moth mix (2)	にっこうがのミックス (2)	name	item	Sunlight moth mix (2)
+Moonlight moth mix (2)	げっこうがのミックス (2)	name	item	Moonlight moth mix (2)
 Sapphire glacialis mix (1)	サファイアグラシアリスのミックス (1)	name	item	Sapphire glacialis mix (1)
 Snowy knight mix (1)	ゆきのきしのミックス (1)	name	item	Snowy knight mix (1)
 Ruby harvest mix (1)	ルビー・ハーベストのミックス (1)	name	item	Ruby harvest mix (1)
 Black warlock mix (1)	くろワーロックのミックス (1)	name	item	Black warlock mix (1)
-Sunlight moth mix (1)	にっこうガのミックス (1)	name	item	Sunlight moth mix (1)
-Moonlight moth mix (1)	げっこうガのミックス (1)	name	item	Moonlight moth mix (1)
+Sunlight moth mix (1)	にっこうがのミックス (1)	name	item	Sunlight moth mix (1)
+Moonlight moth mix (1)	げっこうがのミックス (1)	name	item	Moonlight moth mix (1)
 Raw bream	なまのタイ	name	item	Raw bream
 Cooked bream	やきけたタイ	name	item	Cooked bream
 Jaguar fur	ジャガーのけがわ	name	item	Jaguar fur
@@ -10085,10 +10085,10 @@ Fox fluff	キツネのわたげ	name	item	Fox fluff
 Red salamander claw	あかサラマンダのかぎづめ	name	item	Red salamander claw
 Red chinchompa tuft	あかチンチョンパのぼう	name	item	Red chinchompa tuft
 Antelope hoof shard	アンテロープのひづめのはへん	name	item	Antelope hoof shard
-Sunlight moth wing	にっこうガのはね	name	item	Sunlight moth wing
+Sunlight moth wing	にっこうがのはね	name	item	Sunlight moth wing
 Salamander claw	サラマンダのかぎづめ	name	item	Salamander claw
 Herby tuft	ハービのぼう	name	item	Herby tuft
-Moonlight moth wing	げっこうガのはね	name	item	Moonlight moth wing
+Moonlight moth wing	げっこうがのはね	name	item	Moonlight moth wing
 Hunters' loot sack (basic)	かりゅうどのほうしゅうふくろ（しんまい）	name	item	Hunters' loot sack (basic)
 Hunters' loot sack (adept)	かりゅうどのほうしゅうふくろ（たつじん）	name	item	Hunters' loot sack (adept)
 Hunters' loot sack (expert)	かりゅうどのほうしゅうふくろ（せんか）	name	item	Hunters' loot sack (expert)
@@ -10242,7 +10242,7 @@ Deadman rug	デッドマンのカーペット	name	item	Deadman rug
 Corrupted dark bow	へんいしたあんこくゆみ	name	item	Corrupted dark bow
 Corrupted volatile nightmare staff	へんいしたきはつせいのあくむのつえ	name	item	Corrupted volatile nightmare staff
 Armadyl godsword (deadman)	アーマディルのしんけん（デッドマン）	name	item	Armadyl godsword (deadman)
-Voidwaker (deadman)	ボイドウェイカー（デッドマン）	name	item	Voidwaker (deadman)
+Voidwaker (deadman)	ボイドウェいかー（デッドマン）	name	item	Voidwaker (deadman)
 Volatile nightmare staff (deadman)	きはつせいのあくむのつえ（デッドマン）	name	item	Volatile nightmare staff (deadman)
 Dark bow (deadman)	あんこくゆみ（デッドマン）	name	item	Dark bow (deadman)
 Imbued zamorak cape (deadman)	ふよしたザモラックのマント（デッドマン）	name	item	Imbued zamorak cape (deadman)

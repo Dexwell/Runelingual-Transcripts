@@ -58,7 +58,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Grimy guam leaf
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=199</xliff:note></xliff:trans-unit><xliff:trans-unit id="40934"><xliff:source>Eat</xliff:source>
-        <xliff:target state="translated">しょくべる</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">たべる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Jangerberries
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=247</xliff:note></xliff:trans-unit><xliff:trans-unit id="40935"><xliff:source>Equip</xliff:source>
@@ -66,7 +66,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Cattleprod
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=278</xliff:note></xliff:trans-unit><xliff:trans-unit id="40936"><xliff:source>Plant</xliff:source>
-        <xliff:target state="translated">うえる</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">しょくぶつ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Mithril seeds
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=299</xliff:note></xliff:trans-unit><xliff:trans-unit id="40937"><xliff:source>Open</xliff:source>
@@ -190,7 +190,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Burnt pie
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2329</xliff:note></xliff:trans-unit><xliff:trans-unit id="40967"><xliff:source>Guzzle</xliff:source>
-        <xliff:target state="translated">がつがつしょくべる</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">がつがつたべる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rock cake
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2379</xliff:note></xliff:trans-unit><xliff:trans-unit id="40968"><xliff:source>Play-with</xliff:source>
@@ -634,15 +634,15 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Scroll
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10512</xliff:note></xliff:trans-unit><xliff:trans-unit id="41078"><xliff:source>Tell-red</xliff:source>
-        <xliff:target state="translated">あかといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">あかという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Attacker horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note></xliff:trans-unit><xliff:trans-unit id="41079"><xliff:source>Tell-green</xliff:source>
-        <xliff:target state="translated">みどりといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">みどりという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Attacker horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note></xliff:trans-unit><xliff:trans-unit id="41080"><xliff:source>Tell-blue</xliff:source>
-        <xliff:target state="translated">あおといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">あおという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Attacker horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note></xliff:trans-unit><xliff:trans-unit id="41081"><xliff:source>Medic</xliff:source>
@@ -654,35 +654,35 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Collection bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10521</xliff:note></xliff:trans-unit><xliff:trans-unit id="41083"><xliff:source>Tell-tofu</xliff:source>
-        <xliff:target state="translated">とうふといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">とうふという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Healer horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10526</xliff:note></xliff:trans-unit><xliff:trans-unit id="41084"><xliff:source>Tell-crackers</xliff:source>
-        <xliff:target state="translated">クラッカーといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">クラッカーという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Healer horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10526</xliff:note></xliff:trans-unit><xliff:trans-unit id="41085"><xliff:source>Tell-worms</xliff:source>
-        <xliff:target state="translated">むしといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">むしという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Healer horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10526</xliff:note></xliff:trans-unit><xliff:trans-unit id="41086"><xliff:source>Tell-meat</xliff:source>
-        <xliff:target state="translated">にくといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">にくという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Defender horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10538</xliff:note></xliff:trans-unit><xliff:trans-unit id="41087"><xliff:source>Tell-controlled</xliff:source>
-        <xliff:target state="translated">バランスといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">バランスという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Collector horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note></xliff:trans-unit><xliff:trans-unit id="41088"><xliff:source>Tell-accurate</xliff:source>
-        <xliff:target state="translated">せいかくといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">せいかくという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Collector horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note></xliff:trans-unit><xliff:trans-unit id="41089"><xliff:source>Tell-aggressive</xliff:source>
-        <xliff:target state="translated">きょうひきといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">きょうひきという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Collector horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note></xliff:trans-unit><xliff:trans-unit id="41090"><xliff:source>Tell-defensive</xliff:source>
-        <xliff:target state="translated">まもりせいといいう</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">まもりせいという</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Collector horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note></xliff:trans-unit><xliff:trans-unit id="41091"><xliff:source>Check tax</xliff:source>

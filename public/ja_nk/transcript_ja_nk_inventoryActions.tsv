@@ -12,7 +12,7 @@ Wear	きる	inventoryActions	item	Khazard helmet
 Empty	をくうにする	inventoryActions	item	Guam potion (unf)
 Drink	のみむ	inventoryActions	item	Strength potion(4)
 Clean	きれいにする	inventoryActions	item	Grimy guam leaf
-Eat	しょくべる	inventoryActions	item	Jangerberries
+Eat	たべる	inventoryActions	item	Jangerberries
 Equip	そうび	inventoryActions	item	Cattleprod
 Plant	うえる	inventoryActions	item	Mithril seeds
 Open	ひらきく	inventoryActions	item	Casket
@@ -45,7 +45,7 @@ Prepare	じゅんび	inventoryActions	item	Half baked bowl
 Empty Tray	トレーをくうにする	inventoryActions	item	Burnt crunchies
 Empty Tin	かん	inventoryActions	item	Burnt batta
 Empty Dish	さらをキレイにする	inventoryActions	item	Burnt pie
-Guzzle	がつがつしょくべる	inventoryActions	item	Rock cake
+Guzzle	がつがつたべる	inventoryActions	item	Rock cake
 Play-with	であそぶ	inventoryActions	item	Brown toy horsey
 Break	こわしす	inventoryActions	item	Ring of recoil
 Toggle-respawn	リスポーンきりかえ	inventoryActions	item	Ring of life
@@ -156,19 +156,19 @@ Bank	ぎんこう	inventoryActions	item	Imp-in-a-box(2)
 Translate	ほんやく	inventoryActions	item	Research notes
 Write-Role	やくわりをしょく	inventoryActions	item	Scroll
 Clear	キレイにする	inventoryActions	item	Scroll
-Tell-red	あかといいう	inventoryActions	item	Attacker horn
-Tell-green	みどりといいう	inventoryActions	item	Attacker horn
-Tell-blue	あおといいう	inventoryActions	item	Attacker horn
+Tell-red	あかという	inventoryActions	item	Attacker horn
+Tell-green	みどりという	inventoryActions	item	Attacker horn
+Tell-blue	あおという	inventoryActions	item	Attacker horn
 Medic	えいなまへい	inventoryActions	item	Attacker horn
 Look-in	ちゅうをみる	inventoryActions	item	Collection bag
-Tell-tofu	とうふといいう	inventoryActions	item	Healer horn
-Tell-crackers	クラッカーといいう	inventoryActions	item	Healer horn
-Tell-worms	むしといいう	inventoryActions	item	Healer horn
-Tell-meat	にくといいう	inventoryActions	item	Defender horn
-Tell-controlled	バランスといいう	inventoryActions	item	Collector horn
-Tell-accurate	せいかくといいう	inventoryActions	item	Collector horn
-Tell-aggressive	きょうひきといいう	inventoryActions	item	Collector horn
-Tell-defensive	まもりせいといいう	inventoryActions	item	Collector horn
+Tell-tofu	とうふという	inventoryActions	item	Healer horn
+Tell-crackers	クラッカーという	inventoryActions	item	Healer horn
+Tell-worms	むしという	inventoryActions	item	Healer horn
+Tell-meat	にくという	inventoryActions	item	Defender horn
+Tell-controlled	バランスという	inventoryActions	item	Collector horn
+Tell-accurate	せいかくという	inventoryActions	item	Collector horn
+Tell-aggressive	きょうひきという	inventoryActions	item	Collector horn
+Tell-defensive	まもりせいという	inventoryActions	item	Collector horn
 Check tax	ぜいきんをかくにん	inventoryActions	item	Empty tax bag
 Check taxes	ぜいきんをかくにん	inventoryActions	item	Bulging taxbag
 Pray-over	にいのりる	inventoryActions	item	Blessed lamp
