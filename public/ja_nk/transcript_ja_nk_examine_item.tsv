@@ -919,13 +919,13 @@ I need to add some tomato next.	つぎはトマトをたすひつよう。	exami
 I need to add some cheese next.	つぎはチーズをたすひつよう。	examine	item	Incomplete pizza
 This needs cooking.	これはりょうりがひつよう。	examine	item	Uncooked pizza
 A cheese and tomato pizza.	チーズとトマトのピザ。	examine	item	Plain pizza
-Half of this plain pizza has been eaten.	このプレーンピザのはんぶんがしょくべられた。	examine	item	1/2 plain pizza
+Half of this plain pizza has been eaten.	このプレーンピザのはんぶんがたべられた。	examine	item	1/2 plain pizza
 A pizza with bits of meat on it.	にくのかたまりがのっているピザ。	examine	item	Meat pizza
-Half of this meat pizza has been eaten.	このにくピザのはんぶんがしょくべられた。	examine	item	1/2 meat pizza
+Half of this meat pizza has been eaten.	このにくピザのはんぶんがたべられた。	examine	item	1/2 meat pizza
 A pizza with anchovies.	アンチョビーのピザ。	examine	item	Anchovy pizza
-Half of this anchovy pizza has been eaten.	このアンチョビーピザのはんぶんがしょくべられた。	examine	item	1/2 anchovy pizza
+Half of this anchovy pizza has been eaten.	このアンチョビーピザのはんぶんがたべられた。	examine	item	1/2 anchovy pizza
 A tropicana pizza.	トロピカーナピザ。	examine	item	Pineapple pizza
-Half of this pineapple pizza has been eaten.	このパイナップルピザのはんぶんがしょくべられた。	examine	item	1/2 pineapple pizza
+Half of this pineapple pizza has been eaten.	このパイナップルピザのはんぶんがたべられた。	examine	item	1/2 pineapple pizza
 Oh dear!	ああ、しまった！	examine	item	Burnt pizza
 Some uncooked dough.	なまのきじ。	examine	item	Bread dough
 Nice crispy bread.	いいパリパリのパン。	examine	item	Bread

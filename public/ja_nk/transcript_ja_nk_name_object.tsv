@@ -1009,7 +1009,7 @@ Hanging cape	かかったマント	name	object	Hanging cape
 Saradomin staff	サラドミンのつえ	name	object	Saradomin staff
 Paper	かみ	name	object	Paper
 Clan Cup Trophy	クラン・カップのトロフィー	name	object	Clan Cup Trophy
-Rotten food	くさりったしょくべもの	name	object	Rotten food
+Rotten food	くさりったたべもの	name	object	Rotten food
 Rat	ネズミ	name	object	Rat
 Banner	バナー	name	object	Banner
 Passageway	とおりみち	name	object	Passageway
@@ -1785,7 +1785,7 @@ Olaf's boat	オラフのボート	name	object	Olaf's boat
 Driftwood	りゅうき	name	object	Driftwood
 Broken bars	こわしれたてつかくこ	name	object	Broken bars
 Sewage water	したみず	name	object	Sewage water
-Food Pile	しょくべものやま	name	object	Food Pile
+Food Pile	たべものやま	name	object	Food Pile
 Lander boat	ランダー・ボート	name	object	Lander boat
 Lander hatch	ランダーのハッチ	name	object	Lander hatch
 Cable	ケーブル	name	object	Cable
@@ -2494,7 +2494,7 @@ Enchanters Teleport	まほうふよワープ	name	object	Enchanters Teleport
 Alchemists Teleport	れんきんじゅつワープ	name	object	Alchemists Teleport
 Graveyard Teleport	はかちワープ	name	object	Graveyard Teleport
 Exit Teleport	でぐちのワープ	name	object	Exit Teleport
-Food Barrel	しょくべものたる	name	object	Food Barrel
+Food Barrel	たべものたる	name	object	Food Barrel
 Cube Pile	キューブのやま	name	object	Cube Pile
 Cylinder Pile	えんちゅうのやま	name	object	Cylinder Pile
 Icosahedron Pile	にじゅうめんたいのやま	name	object	Icosahedron Pile
@@ -2755,7 +2755,7 @@ Ivory table	ぞうげのテーブル	name	object	Ivory table
 Handholds	てかけかり	name	object	Handholds
 Broken battering ram	こわしれたはしろつち	name	object	Broken battering ram
 Broken crossbow	こわしれたようきゅうじゅう	name	object	Broken crossbow
-Food cupboard	しょくべものたな	name	object	Food cupboard
+Food cupboard	たべものたな	name	object	Food cupboard
 Utensil cupboard	ちょうりきぐたな	name	object	Utensil cupboard
 Meat table	にくのテーブル	name	object	Meat table
 Buffet table	ビュッフェのテーブル	name	object	Buffet table
@@ -4357,7 +4357,7 @@ Breach	ブリーチ	name	object	Breach
 Boss Spawn	ボスのスポーン	name	object	Boss Spawn
 Deposit pot	つぼかたのきんこ	name	object	Deposit pot
 Cute Creature	カワイイせいぶつ	name	object	Cute Creature
-Human food	にんげんのしょくべもの	name	object	Human food
+Human food	にんげんのたべもの	name	object	Human food
 Advisor	こもん	name	object	Advisor
 Alarm button	アラームのボタン	name	object	Alarm button
 Yewnock's machine	ユーノックのきかい	name	object	Yewnock's machine
@@ -4459,8 +4459,8 @@ Pickaxe of the Lost	うしないわれしものツルハシ	name	object	Pickaxe 
 Moonlight Antelope Trophy	げっこうアンテロープのトロフィー	name	object	Moonlight Antelope Trophy
 Guildmaster's chest	ギルドマスターのたからばこ	name	object	Guildmaster's chest
 Beer taps	ハチトラップ	name	object	Beer taps
-Food basket	しょくべものカゴ	name	object	Food basket
-Empty Food basket	くうのしょくべものカゴ	name	object	Empty Food basket
+Food basket	たべものカゴ	name	object	Food basket
+Empty Food basket	くうのたべものカゴ	name	object	Empty Food basket
 Empty Food Pot	くうのしょくりょうなべ	name	object	Empty Food Pot
 Empty Food Barrel	くうのしょくりょうたる	name	object	Empty Food Barrel
 Quetzal Nest	クエッツァルのす	name	object	Quetzal Nest
@@ -4591,7 +4591,7 @@ Magic logs pile	まほうじゅのまるたのやま	name	object	Magic logs pile
 Display dial	てんじダイヤル	name	object	Display dial
 Debug Man	デバッグおとこ	name	object	Debug Man
 Debug Woman	デバッグおんな	name	object	Debug Woman
-Food pot	しょくべものなべ	name	object	Food pot
+Food pot	たべものなべ	name	object	Food pot
 Empty pot	くうのなべ	name	object	Empty pot
 Web tunnel	くものすのトンネル	name	object	Web tunnel
 Araxxor display	アラクソーのてんじ	name	object	Araxxor display

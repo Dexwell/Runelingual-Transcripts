@@ -726,7 +726,7 @@ Dead, but still powerful.	しんでいるけど、まだきょうい。	examine	
 She seems like a nice sort of person.	かのじょはいいひとみたいだ。	examine	npc	Betty
 Loves his gold!	かれはきんがだいすき！	examine	npc	Grum
 An expert on fishing.	つりのエキスパート。	examine	npc	Gerrant
-Likes his food to be kept fresh.	かれはしょくべものをしんせんにほつのがすき。	examine	npc	Wydin
+Likes his food to be kept fresh.	かれはたべものをしんせんにほつのがすき。	examine	npc	Wydin
 They'll eat anything!	かれらはなんでもたべる！	examine	npc	Goat
 Shiny armour!	ぴかぴか、よろい。	examine	npc	White Knight
 A White Knight proselyte.	しろいナイトのかいしゅうしゃ。	examine	npc	White Knight
@@ -1027,7 +1027,7 @@ The guild engineer.	ぎるど、ぎし。	examine	npc	Gamfred
 Used to be a black knight.	むかしはくろいナイトだった。	examine	npc	Ajjat
 Blademistress, skillful female warrior.	かたなのおんなぬしひと、ぎじゅつてきなおんなせんし。	examine	npc	Kamfreena
 A warrior mage from the east.	ひがしからのせんしまほうつかい。	examine	npc	Shanomi
-Food shopkeeper.	しょくべものみせぬし。	examine	npc	Lidio
+Food shopkeeper.	たべものみせぬし。	examine	npc	Lidio
 Potion shopkeeper.	やくもの、みせ。	examine	npc	Lilly
 Armour shopkeeper.	よろい、みせ。	examine	npc	Anton
 Bank staff.	ぎんこう、しょくいん。	examine	npc	Jade
@@ -1404,7 +1404,7 @@ Good with arrows.	やでとくい。	examine	npc	Archer
 Enjoys locking up animals in small pens.	しょうさいおりにどうぶつをいりれるのがすき。	examine	npc	Zoo keeper
 He's a lumberjack, and he's ok.	かれはきこりで、だいじょうぶ。	examine	npc	Chuck
 Doesn't water down the beer too much.	ビールをうすめない。	examine	npc	Barman
-An expert on all things culinary.	すべてのしょくべものせんもんか。	examine	npc	Master Chef
+An expert on all things culinary.	すべてのたべものせんもんか。	examine	npc	Master Chef
 A child from Rimmington.	リミングトンからのこども。	examine	npc	Henja
 An expert on all forms of combat.	すべてのせんとうかたちたいのせんもんか。	examine	npc	Combat Instructor
 Your introduction to the world of Gielinor.	ギエリノールのせかいへのあなたのしょうかい。	examine	npc	Gielinor Guide
@@ -1460,7 +1460,7 @@ It's quite green.	かなり、みどりいろ。	examine	npc	Elemental balance
 It's bright green.	それはあかりるいみどり。	examine	npc	Elemental balance
 He looks short and grumpy.	かれはせがていく、ぶっきらぼうにみえる。	examine	npc	Mountain Dwarf
 An ogre.	オーガー。	examine	npc	Skrach Uglogwee
-A demented evil wizard who specialises in food spells.	しょくべものスペルをせんもんとする、きぐみのあくいあくいまほうつかい。	examine	npc	Culinaromancer
+A demented evil wizard who specialises in food spells.	たべものスペルをせんもんとする、きぐみのあくいあくいまほうつかい。	examine	npc	Culinaromancer
 It's glowing bright green!	それはあかりるいみどりにかがやいている！	examine	npc	Elemental balance
 It's very slightly cyan.	それはほんのわずかにシアンだ。	examine	npc	Elemental balance
 It's slightly cyan.	ほんのりと、みずいろ。	examine	npc	Elemental balance
@@ -1479,7 +1479,7 @@ He looks pretty handy with that bow.	かれはそのゆみでかなりじょう�
 I don't want to get on the wrong side of him.	かれのあくいがわにはなりたくない。	examine	npc	Iorwerth Warrior
 An odd looking person.	へんな、ようすの、ひと。	examine	npc	Arianwyn
 Leader of King Tyras's men.	キング・タイラスのおとこたちのリーダー。	examine	npc	General Hining
-Responsible for the food and equipment of the troops.	ぶたいのしょくべものときうつわのせきにんもの。	examine	npc	Quartermaster
+Responsible for the food and equipment of the troops.	ぶたいのたべものときうつわのせきにんもの。	examine	npc	Quartermaster
 One of King Lathas' messengers.	キング・ラッサスのメッセンジャーのひとり。	examine	npc	King's Messenger
 Mysterious swamp lights...	なぞ、ぬま、ひかり。	examine	npc	Will o' the wisp
 A colourful character.	いろいろな、きが、ある、ひと。	examine	npc	Ali the dyer
@@ -4001,7 +4001,7 @@ A young prince.	わかいおうじ。	examine	npc	Prince Ali
 An obnoxious, overgrown insect.	いやなこと、だいひとになったこんちゅう。	examine	npc	Locust
 A very smelly frog.	とてもくさいかえる。	examine	npc	Plague frog
 I might give the burgers a miss in this town.	あたしはこのまちでハンバーガーをみおちとすかもしれない。	examine	npc	Plague cow
-I don't fancy eating any part of this.	あたしはこれのどんなぶぶんでもしょくべたくない。	examine	npc	Plague cow
+I don't fancy eating any part of this.	あたしはこれのどんなぶぶんでもたべたくない。	examine	npc	Plague cow
 It's a sick-looking cow.	びょういん、ようす、うしだ。	examine	npc	Plague cow
 A demi-goddess with a penchant for destruction.	はかいのためのいぜんをもちつハンぎょしん。	examine	npc	Amascut
 Working hard or hardly working?	くろうしごとまたはほぼしごとをしていないのか？	examine	npc	Worker
@@ -4519,7 +4519,7 @@ A fierce member of the Twilight Emissaries.	トワイライトエミッサリー
 A big block of ice.	だいきいこおりのブロック。	examine	npc	Ice block
 Servant of the sacred flame. Capable of herblore.	ゆうせいなほのおのしもべ。ヤクソウようがかのう。	examine	npc	Brew'ma
 An expert in tomatoes, growing pumpkins for a change.	トマトのえきもん、へんかのためにかぼちゃをそだてている。	examine	npc	Marika
-A local lover of food.	しょくべものじもとのあいし。	examine	npc	Emelio
+A local lover of food.	たべものじもとのあいし。	examine	npc	Emelio
 The editor for the Colosseum.	ころっせうむ、へんしゅう。	examine	npc	Lelia
 She knows a thing or two about being a farmer.	かのじょはのうふであることについていくつかのことをしっている。	examine	npc	Alba
 He's here to try Emelio's kebabs.	かれはエメリオのケバブをためしすためにここにいる。	examine	npc	Lucas

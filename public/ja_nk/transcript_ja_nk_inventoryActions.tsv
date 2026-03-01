@@ -220,7 +220,7 @@ Consume	きえひ	inventoryActions	item	Saradomin's light
 Teleports	ワープ	inventoryActions	item	Max cape
 Metamorphosis	へんしん	inventoryActions	item	Beaver
 Chew	かむ	inventoryActions	item	Rotten onion
-Take-grubs	しょくべものをとりる	inventoryActions	item	Bucket of sandworms
+Take-grubs	たべものをとりる	inventoryActions	item	Bucket of sandworms
 Pack	つめる	inventoryActions	item	Shayzien supply crate
 Check charges	チャージかくにん	inventoryActions	item	Chronicle
 Transform	へんしん	inventoryActions	item	Monkey

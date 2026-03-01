@@ -7363,7 +7363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19818">
         <xliff:source>Half of this plain pizza has been eaten.</xliff:source>
-        <xliff:target state="translated">このプレーンピザのはんぶんがしょくべられた。</xliff:target>
+        <xliff:target state="translated">このプレーンピザのはんぶんがたべられた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: 1/2 plain pizza
@@ -7379,7 +7379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19820">
         <xliff:source>Half of this meat pizza has been eaten.</xliff:source>
-        <xliff:target state="translated">このにくピザのはんぶんがしょくべられた。</xliff:target>
+        <xliff:target state="translated">このにくピザのはんぶんがたべられた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: 1/2 meat pizza
@@ -7395,7 +7395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19822">
         <xliff:source>Half of this anchovy pizza has been eaten.</xliff:source>
-        <xliff:target state="translated">このアンチョビーピザのはんぶんがしょくべられた。</xliff:target>
+        <xliff:target state="translated">このアンチョビーピザのはんぶんがたべられた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: 1/2 anchovy pizza
@@ -7411,7 +7411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19824">
         <xliff:source>Half of this pineapple pizza has been eaten.</xliff:source>
-        <xliff:target state="translated">このパイナップルピザのはんぶんがしょくべられた。</xliff:target>
+        <xliff:target state="translated">このパイナップルピザのはんぶんがたべられた。</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: 1/2 pineapple pizza

@@ -1647,7 +1647,7 @@ Out of my way, punk.	どきなさい、しょうそう。	dialogue	Alexis	Alexis
 Hmm... you smell strange...	うーん。みょうなにおいがしますね。	dialogue	Alexis	Alexis
 Strange how?	みょうってどんなふうに。	dialogue	Alexis	Player
 Like a human!	にんげんみたいなにおいです。	dialogue	Alexis	Alexis
-Oh! Er... I just ate one is why!	あ。その、さっきひとりしょくべたから、それで。	dialogue	Alexis	Player
+Oh! Er... I just ate one is why!	あ。その、さっきひとりたべたから、それで。	dialogue	Alexis	Player
 Leave me alone.	はなしっておいてください。	dialogue	Alexis	Alexis
 Don't talk to me again if you value your life!	いのちがだいじなら、もうはなしかけないでください。	dialogue	Alexis	Alexis
 Get lost!	どっかいきってください。	dialogue	Alexis	Alexis
@@ -1663,7 +1663,7 @@ You smell familiar...	そのにおい、どっかでかぐいだことありま�
 Seen any humans around here? I'm v-e-r-y hungry.	にんげんがいないですか。おはらがくういてます。	dialogue	Alexis	Alexis
 You look to me like someone with a healthy taste for blood.	ちがすきそうなかおしてますね。	dialogue	Alexis	Alexis
 Good day to you, my friend.	こんにちは、ゆうじん。	dialogue	Alexis	Alexis
-Fancy going up to the castle for a bit of a snack?	しろへいきって、ちょっとなにかしょくべないですか。	dialogue	Alexis	Alexis
+Fancy going up to the castle for a bit of a snack?	しろへいきって、ちょっとなにかたべないですか。	dialogue	Alexis	Alexis
 Give me a moment, I have a bit of someone stuck in my teeth...	ちょっとまちってください。はにだれかひきっかかってるんで。	dialogue	Alexis	Alexis
 Welcome to the Shrimp and Parrot. Would you like to order, madam?	えびとにわとりのおみせへようこそ。ごちゅうもんしますか。	dialogue	Alfonse the waiter	Alfonse the waiter
 Yes please.	はい、おねがいします。	dialogue	Alfonse the waiter	Player
@@ -2798,14 +2798,14 @@ Perhaps now we can get this finished quickly and get on with laying the tracks.	
 Do your own digging!	じぶんで、ほってください！	dialogue	Ambassador Alvijar	Player
 Oh well. We will continue at our own pace.	そうですね。じぶんたちのペースで、つづけます。	dialogue	Ambassador Alvijar	Ur-tag
 What can I do in the city?	このまちで、なにができますか？	dialogue	Ambassador Alvijar	Player
-Why don't you visit the market? I hear there is quite a craze for surface foods at the moment, so you might be able to sell something there.	マーケットに、いってみたら、どうですか？いまは、ちひょうのしょくべものが、はやっているらしいので、うれます。	dialogue	Ambassador Alvijar	Ur-tag
+Why don't you visit the market? I hear there is quite a craze for surface foods at the moment, so you might be able to sell something there.	マーケットに、いってみたら、どうですか？いまは、ちひょうのたべものが、はやっているらしいので、うれます。	dialogue	Ambassador Alvijar	Ur-tag
 You might also want to visit the caves to the south of the city. There are many monsters to fight there, and Zanik apparently found ways to cross over their heads!	まちのみなみにある、どうくつにも、いってみてください。そこには、いっぱい、モンスターがいるし、ザニックは、そのあたまのじょうを、こえるほうほうを、みつけたらしいです。	dialogue	Ambassador Alvijar	Ur-tag
 Why did you decide to open the city?	どうして、このまちを、ひらくことに、したんですか？	dialogue	Ambassador Alvijar	Player
 For trade, and for fostering goodwill between races! I am sure that it will benefit both our races.	ぼうえきと、たみんのあいだに、いいかんけいをつくるため！このことは、りょうほうのみんぞくに、いいえいきょうを、あたえると、ひょうこうします。	dialogue	Ambassador Alvijar	Ur-tag
 It's funny... whenever we dwarves have ventured onto the surface, we've found ourselves at war with the goblins there.	おもしろいことに...ドワーフのわたしたちは、ちひょうに、でたことがあって、そこで、ゴブリンと、いくさになってしまいました。	dialogue	Ambassador Alvijar	Ambassador Alvijar
 But now we meet these goblins underground, and they're no threat at all. Maybe this will herald a change in our relations with the surface goblins as well.	だけど、このしたのせかいでは、ゴブリンに、あって、かれらは、ぜんぜん、あぶなくありません。たぶん、ちひょうのゴブリンとのかんけいも、かわるかもしれません。	dialogue	Ambassador Alvijar	Ambassador Alvijar
 I can't stand these goblins sometimes! I come up with suggestions to make their city more efficient, and they just say it would spoil their precious way of life!	このゴブリンたちが、ときどき、きらいです！もっと、こうりつてきに、するよう、アドバイスしても、「じぶんたちのせいかつを、こわしてしまう」って、いいはるんです！	dialogue	Ambassador Alvijar	Ambassador Alvijar
-Trade with the goblins is going well at the moment. It's a pity they don't seem as interested in our beer as in your food, though!	ゴブリンとのぼうえきは、いまのところ、うまくいっています。でも、ビールより、あなたのしょくべものほうが、すきらしいです。	dialogue	Ambassador Alvijar	Ambassador Alvijar
+Trade with the goblins is going well at the moment. It's a pity they don't seem as interested in our beer as in your food, though!	ゴブリンとのぼうえきは、いまのところ、うまくいっています。でも、ビールより、あなたのたべものほうが、すきらしいです。	dialogue	Ambassador Alvijar	Ambassador Alvijar
 Thank you again for helping us complete the train link. Further delays would have cost the Consortium a lot of money.	きしゃのリンクを、かんせいさせるのを、てつだってくれて、ありがとう。もっと、おくれたら、コンソーシアムは、いっぱい、おきんを、うしなっていたでしょう。	dialogue	Ambassador Alvijar	Ambassador Alvijar
 Oh, and I hear you saved someone's life as well. Well done on that count too.	ああ、それと、あなたは、だれかの、いのちも、すくったって、きいています。そのことも、よくやりました。	dialogue	Ambassador Alvijar	Ambassador Alvijar
 I miss Keldagrim. This city is all very well, but no one makes an underground city like the dwarves!	ケルダグリムが、こしいです。このまちも、いいですが、ドワーフみたいに、したせかいのまちを、つくることは、だれにも、できません。	dialogue	Ambassador Alvijar	Ambassador Alvijar
@@ -2823,7 +2823,7 @@ Well, in theory, but he always seems to be busy.	りろんでは、そうです�
 You don't seem that upset by that, though...	でも、あまり、がっかりしていないみたいですね...	dialogue	Ambassador Ferrnook	Player
 Oh no, I like travelling, and if you become a diplomat patience is a vital skill.	いいえ、わたしは、りょこうが、すきです。ディプロマットになれば、しんぼうが、だいじです。	dialogue	Ambassador Ferrnook	Ambassador Ferrnook
 I'll try to remember that.	そうですね。きをつけます。	dialogue	Ambassador Ferrnook	Player
-Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	きゃくさんを、みつけたけど、ただしいしょくべものを、もってきていないようです。[a/some] [ordered ノーム フード/ドリンク アイテム]が、ひつようです！	dialogue	Ambassador Ferrnook	Ambassador Ferrnook
+Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	きゃくさんを、みつけたけど、ただしいたべものを、もってきていないようです。[a/some] [ordered ノーム フード/ドリンク アイテム]が、ひつようです！	dialogue	Ambassador Ferrnook	Ambassador Ferrnook
 Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	あらかじめ、つくったりょうりでは、だめです。アルフト アロフトのきゃくさんのため、てづくりの、ノーム クイジーンだけが、いいです。	dialogue	Ambassador Ferrnook	Ambassador Ferrnook
 You hand over your delivery of [item] to Ambassador Ferrnook	[アイテム]のはいたつを、ambassador フェルヌークさんに、わたします。	dialogue	Ambassador Ferrnook	Ambassador Ferrnook
 Excellent. A taste of home.	すばらしい。いえ の あじ です。	dialogue	Ambassador Ferrnook	Ambassador Ferrnook
@@ -2846,10 +2846,10 @@ Well, it is the White Knights' Castle.	ここは、ホワイト ナイトのし�
 I think it would all look better in a nice dark green. At least then I wouldn't be squinting all the time.	すべて、いいあんいみどりいろだったら、いいのに。そしたら、いつも、まぶしくて、めを、すぼめることもなくなるのに。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
 Yes, but then they'd have to become the Dark Green Knights. Doesn't really have the same ring to it.	でも、そしたら、ダーク グリーン ナイトに、ならなきゃ。そっちのほうが、あまり、いいなまえじゃないですね。	dialogue	Ambassador Spanfipple	Player
 Bah, humans have no sense of style...	ああ、にんげんは、センスがないなあ...	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
-Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	きゃくさんを、みつけたけど、ただしいしょくべものを、もってきていないようです。[a/some] [ordered ノーム フード/ドリンク アイテム]が、ひつようです！	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
+Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	きゃくさんを、みつけたけど、ただしいたべものを、もってきていないようです。[a/some] [ordered ノーム フード/ドリンク アイテム]が、ひつようです！	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
 Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	あらかじめ、つくったりょうりでは、だめです。アルフト アロフトのきゃくさんのため、てづくりの、ノーム クイジーンだけが、いいです。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
 You hand over your delivery of [a/some] [ordered gnome food/drink item] to Ambassador Spanfipple	あなたは [a/some] [ordered gnome food/drink item] の ていきゅう を アンバサダー スパンフィップル に わたします	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
-Thank you kindly. I haven't got used to this human food and drink yet.	ありがとうね。にんげんのしょくべものと、のみものには、まだ、なれていません。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
+Thank you kindly. I haven't got used to this human food and drink yet.	ありがとうね。にんげんのたべものと、のみものには、まだ、なれていません。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
 You must have had to travel a long way to get this to me. Here's a little something extra as a tip.	ここまで、はるばると、もってきてくれて、ありがとう。これは、チップの、おまけです。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
 You have [number] credits towards your free delivery token. You are not eligible to get gnome food delivered to you yet.	あなたは、[ナンバー]クレジットを、もってます。まだ、ノーム フードの、むりょうはいたつを、うけることは、できません。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
 You have [number] credits towards your free delivery token. You may get [number] pieces of gnome food delivered to you.	あなたは、[ナンバー]クレジットを、もってます。[ナンバー]の、ノーム フードを、はいたつしてもらえます。	dialogue	Ambassador Spanfipple	Ambassador Spanfipple
@@ -7965,7 +7965,7 @@ Out of my way, punk.	じゃまだ、チンピラ	dialogue	Boris	Boris
 Hmm... you smell strange...	ふむ...なにかへんなにおいが...	dialogue	Boris	Boris
 Strange how?	どんなにおいですか	dialogue	Boris	Player
 Like a human!	にんげんのにおいです	dialogue	Boris	Boris
-Oh! Er... I just ate one is why!	あ、さいきんにんげんをしょくべたばかりなので	dialogue	Boris	Player
+Oh! Er... I just ate one is why!	あ、さいきんにんげんをたべたばかりなので	dialogue	Boris	Player
 Leave me alone.	そっとしておいて	dialogue	Boris	Boris
 Don't talk to me again if you value your life!	いのちがだいじなら、にどとはなしかけるな	dialogue	Boris	Boris
 Get lost!	どっかいきなさい	dialogue	Boris	Boris
@@ -7981,7 +7981,7 @@ You smell familiar...	あなたのにおいはおぼえがあります...	dialog
 Seen any humans around here? I'm v-e-r-y hungry.	このあたりににんげんがいますか。ぼくはすごくおはらがすいている	dialogue	Boris	Boris
 You look to me like someone with a healthy taste for blood.	きみはちをすうのがすきなひとにみえます	dialogue	Boris	Boris
 Good day to you, my friend.	こんにちは、ともだち	dialogue	Boris	Boris
-Fancy going up to the castle for a bit of a snack?	しろにいきってちょっとなにかしょくべませんか	dialogue	Boris	Boris
+Fancy going up to the castle for a bit of a snack?	しろにいきってちょっとなにかたべませんか	dialogue	Boris	Boris
 Give me a moment, I have a bit of someone stuck in my teeth...	ちょっとまちってください。はにだれかがはさまっているんで	dialogue	Boris	Boris
 I cannot speak to you outerlander! Talk to Brundt, the Chieftain!	あなたにはなしかけることができません。しゅうちょうのブルントにはなしかけてください	dialogue	Borrokar	Borrokar
 You stay away from me outerlander!	あなたはぼくからはなれていてください。そとのひと	dialogue	Borrokar	Borrokar
@@ -8012,8 +8012,8 @@ Boulder not sure exactly what you offering, human, but it not sound like somethi
 But My Arm's come a very long way for this, and he's very excited about what he can teach you.	でもアームがひじょうにとおいくからきて、かれはあなたにおしえられることにこうふんしています	dialogue	Boulder	Player
 Boulder still not sure what you offering, human, but you definitely not doing it in here. Go away!	ボルダーはまだあなたがなにをていきょうしているかはっきりしていませんが、ここではまったくしてもらいたくないです。どっかいきってください	dialogue	Boulder	Boulder
 Wolfbone's sent My Arm from the Troll Stronghold.	ウルフボーンがトロールとりでからアームをおくりってくれました	dialogue	Boulder	Player
-Human arm might taste good, maybe, so if Wolfbone sent your arm as a snack, we happy to take it an' eat it.	にんげんのうではおいしくききこえるかもしれませんが、ウルフボーンがきみのうでをおやつとしておくりってくれたなら、ぼくたちはそれをしょくべます	dialogue	Boulder	Boulder
-I'm not letting you eat my arm.	ぼくのうでをしょくべさせるわけにはいきません	dialogue	Boulder	Player
+Human arm might taste good, maybe, so if Wolfbone sent your arm as a snack, we happy to take it an' eat it.	にんげんのうではおいしくききこえるかもしれませんが、ウルフボーンがきみのうでをおやつとしておくりってくれたなら、ぼくたちはそれをたべます	dialogue	Boulder	Boulder
+I'm not letting you eat my arm.	ぼくのうでをたべさせるわけにはいきません	dialogue	Boulder	Player
 Urgh - human arm attached to human body with human mouth what keep talking an' talking. Shut up and' go away.	うう...にんげんのからだににんげんのうでがついていて、にんげんのくちはずっとはなします。だまってどっかいきなさい	dialogue	Boulder	Boulder
 You only need to let My Arm in, not me.	アームだけをここにいりれればいいです	dialogue	Boulder	Player
 Human sound confused about how body work. See, mortal body is intrinsic part of mortal being. It not like we got our souls floating up in da sky controlling bodies like puppets.	にんげんはからだがどううごきくかわかっていません。みてください。にんげんのからだはにんげんのだいじなぶぶんです。だーたましいがくうにうかんでいて、にんぎょうみたいにからだをうごかしているわけじゃないです	dialogue	Boulder	Boulder
@@ -8027,7 +8027,7 @@ Boulder used to guard entry gate, but now Snowflake trusted Boulder with importa
 Boulder gotta grow goutweed for tribe, an' also make sure your herbs stay healthy. Snowflake's husband troll very strict on it.	ボルダーはぶぞくのためにゴットウィード をそだてないといけなくて、あなたのハーブがけんこうをほつようにしないといけません。スノーフレークのおっとはトロールで、すごくきびしいです	dialogue	Boulder	Boulder
 Tell me about this place.	ここについておしえてください	dialogue	Boulder	Player
 This here is Weiss. Trolls built it years ago, after we got kicked out from caves further south. Now Weiss is our home.	ここはワイスです。トロールがなんねんもまえにたてました。みなみのどうくつからおいでされたあとです。いまはワイスがぼくたちのいえです	dialogue	Boulder	Boulder
-It great here, now Snowflake an' her husband troll taught us goutweed farming. Food so much better now.	ここはすばらしいらしいです。スノーフレークとかのじょのおっとのトロールがゴットウィード のうぎょうをおしえてくれたからです。しょくべものがもっとよいくなりました	dialogue	Boulder	Boulder
+It great here, now Snowflake an' her husband troll taught us goutweed farming. Food so much better now.	ここはすばらしいらしいです。スノーフレークとかのじょのおっとのトロールがゴットウィード のうぎょうをおしえてくれたからです。たべものがもっとよいくなりました	dialogue	Boulder	Boulder
 Do you like it here?	ここはすきですか	dialogue	Boulder	Player
 Eh, it kinda rough, but it getting better. Snowflake, she taught us goutweed farming. Goat, wolf, human all taste so much nicer with goutweed in.	ちょっときびしいですけど、だんだんよくなっています。スノーフレークがぼくたちにゴットウィードのうぎょうをおしえてくれました。ヤギ、おおかみ、にんげんはみんなゴットウィードがあるともっとおいしい	dialogue	Boulder	Boulder
 So yeah, Weiss is good place to live, now Snowflake in charge. All trolls like Snowflake. Her husband troll kinda weird, but that not our problem.	だからワイスはいいばしょです。スノーフレークがいまはしれいかんです。ぜんぶのトロールがスノーフレークをすきです。かのじょのおっとのトロールはちょっとへんですけど、それはぼくたちのもんだいじゃないです	dialogue	Boulder	Boulder
@@ -8108,11 +8108,11 @@ Brambrickle has given you a puzzle box!	ブラムブリクルはあなたにパ�
 Sorry but you haven't solved the puzzle yet.	あくいが、きみはまだパズルをときいていない。	dialogue	Brambickle	Brambickle
 Thanks [player name]!	ありがとうございます[player name]!	dialogue	Brambickle	Brambickle
 Brambrickle has given you another clue scroll!	ブラムブリクルはあなたにもういちつのヒントスクロールをくれました	dialogue	Brambickle	Brambickle
-Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	おきゃくさんをみつけたけど、ただしいしょくべものをもってこなかったようです。(あ/いくつか)のアルフトアロフトのおきゃくさんのためにちゅうもんしたしょくべもののみみものがひつようです	dialogue	Brambickle	Brambickle
+Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	おきゃくさんをみつけたけど、ただしいたべものをもってこなかったようです。(あ/いくつか)のアルフトアロフトのおきゃくさんのためにちゅうもんしたたべもののみみものがひつようです	dialogue	Brambickle	Brambickle
 Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	さくられたりょうりはだめです。アルフトアロフトのおきゃくさんはハンドメイドのノームりょうりだけほしいです	dialogue	Brambickle	Brambickle
-You hand over your delivery of [a/some] [ordered gnome food item] to Brambickle.	ブランブリクルに(あ/いくつか)のちゅうもんされたしょくべものをわたします	dialogue	Brambickle	Brambickle
-Brrrr. This will warm me up, I'm bored of snow and Troll food.	ぶるるる。これであたたかくなります。ゆきとトロールしょくべものはあきました	dialogue	Brambickle	Brambickle
-Now that I have some proper food, I won't need this any more.	これでほんとうのしょくべものがあるから、もうようりません	dialogue	Brambickle	Brambickle
+You hand over your delivery of [a/some] [ordered gnome food item] to Brambickle.	ブランブリクルに(あ/いくつか)のちゅうもんされたたべものをわたします	dialogue	Brambickle	Brambickle
+Brrrr. This will warm me up, I'm bored of snow and Troll food.	ぶるるる。これであたたかくなります。ゆきとトロールたべものはあきました	dialogue	Brambickle	Brambickle
+Now that I have some proper food, I won't need this any more.	これでほんとうのたべものがあるから、もうようりません	dialogue	Brambickle	Brambickle
 You are given some mintcake as a tip.	チップとしてミントかしをもらいます	dialogue	Brambickle	Brambickle
 Here, take these Grand Seed pods. Very useful in emergencies!	ここ、スピリットツリーのシードポッドをもってください。きんきゅうじにひじょうにべんりです	dialogue	Brambickle	Brambickle
 You are given some seed pods as a tip.	チップとしてシードポッドをもらいます	dialogue	Brambickle	Brambickle
@@ -8406,7 +8406,7 @@ Fascinating. I'm not quite sure what this is for, perhaps there are doors within
 Amazing! This is exactly what I was looking for. This tome contains information about the religion of Ranul.	すごい！これはちょうどわたしがさがしていたものです。このほんにはラヌルのしゅうきょうについてのじょうほうがふくみまれています。	dialogue	Brother Aimeri	Brother Aimeri
 Oh, it appears that there are some pages missing from it. The missing information could prove valuable.	ああ、いくつかのページがかけているようですね。かけているじょうほうはきちょうかもしれません。	dialogue	Brother Aimeri	Brother Aimeri
 Where do you think the missing pages are?	かけているページはどこにあるとおもいますか？	dialogue	Brother Aimeri	Player
-This Temple has been abandoned for some time. Maybe the creatures within have destroyed the tome while looking for food. You may have to kill them to recover the pages.	このじいんはしばらくはなしきされています。もしかしてちゅうのかいぶつたちがしょくべものをさがしているときにほんをこわしたかもしれません。ページをとりもどりすためにかれらをたおれすひつようがあるかもしれません。	dialogue	Brother Aimeri	Brother Aimeri
+This Temple has been abandoned for some time. Maybe the creatures within have destroyed the tome while looking for food. You may have to kill them to recover the pages.	このじいんはしばらくはなしきされています。もしかしてちゅうのかいぶつたちがたべものをさがしているときにほんをこわしたかもしれません。ページをとりもどりすためにかれらをたおれすひつようがあるかもしれません。	dialogue	Brother Aimeri	Brother Aimeri
 The book seems to be intact! I'm sure Logosia in the Arceuus Library to the north would find this information valuable.	ほんはむことにみえます！きたのアルケウスとしょかんにいるロゴシアがこのじょうほうをおもいたからするでしょう。	dialogue	Brother Aimeri	Brother Aimeri
 Amazing! This is exactly what I was looking for. This tome contains information about the religion of Ralos.	すごい！これはちょうどわたしがさがしていたものです。このほんにはラロスのしゅうきょうについてのじょうほうがふくみまれています。	dialogue	Brother Aimeri	Brother Aimeri
 Amazing! This is exactly what I was looking for. This tome contains information about the temple itself.	すごい！これはちょうどわたしがさがしていたものです。このほんにはじいんじたいについてのじょうほうがふくみまれています。	dialogue	Brother Aimeri	Brother Aimeri
@@ -8560,7 +8560,7 @@ A plan?	けいかく？	dialogue	Brother Jered (2021 Halloween event)	Brother Je
 Yes! ONE ghost wasn't enough. We need more than one ghost. We need TWO ghosts!	そう！1つのゆうれいはじゅうぶんではありませんでした。ぼくたちは1ついじょうのゆうれいがひつようです。ぼくたちは2つのゆうれいがひつようです！	dialogue	Brother Jered (2021 Halloween event)	Player
 Will you be my accomplice and be the second ghost?	わたしのアシスタントになって、にばんめのゆうれいになってくれませんか？	dialogue	Brother Jered (2021 Halloween event)	Player
 I would, but I don't feel too well from all the stress.	そうしたいですが、ぜんてのストレスできぶんがあくいです。	dialogue	Brother Jered (2021 Halloween event)	Brother Jered
-Are you sure it's not all the wine and food?	ワインとしょくべものところためじゃないですか？	dialogue	Brother Jered (2021 Halloween event)	Player
+Are you sure it's not all the wine and food?	ワインとたべものところためじゃないですか？	dialogue	Brother Jered (2021 Halloween event)	Player
 What?	え？	dialogue	Brother Jered (2021 Halloween event)	Brother Jered
 Nothing! That's okay, I hope you feel better soon!	なにもありません。すぐにげんきになるといいですね！	dialogue	Brother Jered (2021 Halloween event)	Player
 I need to find an accomplice elsewhere, then. Do you have any ideas?	ほかのところであいぼうをみつけるひつようがあります。なにかかんがえがありますか？	dialogue	Brother Jered (2021 Halloween event)	Player
@@ -9378,7 +9378,7 @@ Good day [sir/madam]. I'm afraid I can't stop to talk. The new Lord Hosidius has
 Hello there.	こんにちは。	dialogue	Butler Jones	Player
 Hello. How are you today?	こんにちは。きょうはどうですか？	dialogue	Butler Jones	Butler Jones
 Good thank you, and yourself?	ゴウトウィードをためしたことがあるか? トロールのちゅうにはすきなやつがいる。みは、マイ・アームはこのしょくぶつをさくるのがじょうずなんだ。	dialogue	Butler Jones	Player
-Very well, thank you.	ききいたことがない。しょくぶつみたいだな。ははさんはやさいがすきじゃないから、きっとしょくべないんだろう。	dialogue	Butler Jones	Butler Jones
+Very well, thank you.	ききいたことがない。しょくぶつみたいだな。ははさんはやさいがすきじゃないから、きっとたべないんだろう。	dialogue	Butler Jones	Butler Jones
 Hello stranger.	ははさんはしんしいことがすきじゃない。でもからだがでかくて、ボスだから、ははさんのいうことをききくんだ。	dialogue	Butler Jones	Player
 Why hello there.	そっか。	dialogue	Butler Jones	Butler Jones
 I take it you're the new butler...?	ここがすきか?	dialogue	Butler Jones	Player
@@ -9386,7 +9386,7 @@ That's right. I hear that they had some problems with the last one.	ああ、あ
 Yes, you could say that...	ははさんはせんいにやくだちつことだけがすき。からだがでかくて、ボスだから、ははさんのいうことをききくんだ。	dialogue	Butler Jones	Player
 It's an honour to be in your presence again, adventurer. I hope things are well?	じゃあな。	dialogue	Butler Jones	Butler Jones
 Not bad, thanks. Yourself?	あ、スノーフレークのともだちだ!	dialogue	Butler Jones	Player
-Unfortunately, I am still forced to deal with this insufferable family. Many generations have passed, but they are still the enemy. As such, they must be kept a close eye on.	いいところだ。スノーフレークとだんながゴウトウィードののうぎょうをおしえてくれたから。しょくべものがいっぱいおいしくなった。	dialogue	Butler Jones	Butler Jones
+Unfortunately, I am still forced to deal with this insufferable family. Many generations have passed, but they are still the enemy. As such, they must be kept a close eye on.	いいところだ。スノーフレークとだんながゴウトウィードののうぎょうをおしえてくれたから。たべものがいっぱいおいしくなった。	dialogue	Butler Jones	Butler Jones
 Still, I have no doubt that the time will soon come for me to leave this place. Our lord will certainly have need of me elsewhere once his current work is complete.	ああ、あらいけど、だんだんよくなってる。スノーフレークがゴウトウィードのうぎょうをおしえてくれたから。ヤギ、オオカミ、にんげん、ぜんぶゴウトウィードいりれたらおいしい。	dialogue	Butler Jones	Butler Jones
 I see. Well good luck with it all.	だからヴァイスはいいところだ。スノーフレークがせきにんものだから。ぜんトロールがスノーフレークをすき。だんなはへんわってるけど、ぼくたちのもんだいじゃない。	dialogue	Butler Jones	Player
 Hey, human.	ここについておしえてくれ。	dialogue	Butterfly (troll)	Butterfly
@@ -9411,7 +9411,7 @@ So yeah, Weiss is good place to live, now Snowflake in charge. All trolls like S
 Who are you?	あなたはなにものですか？	dialogue	Butterfly (troll)	Butterfly (troll)
 Tell me about this place.	それなりにかかった。でもいまはさいしょのときよりうごきやすくなった。	dialogue	Butterfly (troll)	Butterfly (troll)
 Ever tried goutweed? I know trolls who love it.	じぶんでさがしてても、もっとうごきやすくならないとおもう。あなたがりえきをえてくれてよかった。	dialogue	Butterfly (troll)	Butterfly (troll)
-Do you like it here?	だれかのペットをかってにしょくべものをあげちゃいけない。	dialogue	Butterfly (troll)	Butterfly (troll)
+Do you like it here?	だれかのペットをかってにたべものをあげちゃいけない。	dialogue	Butterfly (troll)	Butterfly (troll)
 I'll be off.	あとすこし... もうすぐ...	dialogue	Butterfly (troll)	Butterfly (troll)
 I see.	あ、いまだ!	dialogue	Butterfly (troll)	Butterfly (troll)
 Would you like some help?	あとすこし... もうすぐ...	dialogue	C0lect0r890	Player
@@ -9620,7 +9620,7 @@ I'm sorry! Please let me help.	いいえ。むすびかまです	dialogue	Caleb	
 No! Not every problem in my life needs an adventurer to come solve it for me anyway. I'm happy and there's nothing else either!	いいえ！ぼくの いのち の すべての もんだい が ぼうけんしゃ を ぼくに ために ものごとを ときもたらす ひつよう はありません。ぼくは しあわせ です。そして、ほか の なに も ありません！	dialogue	Caleb	Caleb
 Very well, I'll go and see if your other brothers need anything...	おれいとして、あなたがのぞみむだけおおいくのりょうりようてぶくろのくみをていきょうします	dialogue	Caleb	Player
 The sweet smell of the great rewards that may come fades slightly.	かれぶはあなたにりょうりようてぶくろのくみをわたします	dialogue	Caleb	Caleb
-Are you sure there's nothing I can do, a chef can always do with help in their kitchen right?	これらのてぶくろをつけているあいだ、あるしょくべものをやきくはやいどがだいはばにへります	dialogue	Caleb	Player
+Are you sure there's nothing I can do, a chef can always do with help in their kitchen right?	これらのてぶくろをつけているあいだ、あるたべものをやきくはやいどがだいはばにへります	dialogue	Caleb	Player
 I'm a very competent cook! I do not need your assistance [player name]. Please leave me be.	どうぞ	dialogue	Caleb	Caleb
 I hear you have brought the completed crest to my father. I must say, that was awfully impressive work.	よろこびます	dialogue	Caleb	Caleb
 It was easy really.	なにもありません。いきます	dialogue	Caleb	Player
@@ -10399,7 +10399,7 @@ Ignisia claims it's some kind of evil spirit.	イグニシアによると、そ�
 You don't believe her?	きみはしんじないんですか？	dialogue	Captain Kalt	Player
 Nah, I believe in things I can stab and kill. This is all just a storm in a teacup. I mean, how can wind and snow be evil? My toad is more of a threat!	いや、ぼくはさしてころしせるやつだけをしんじるんだ。これはぜんぶ、なにでもないあらしだよ。つまり、かぜとゆきがどうやってあくいんだ？ぼくのひきがえるのほうがおどいだよ！	dialogue	Captain Kalt	Captain Kalt
 Your... toad?	きみの、ひきがえる？	dialogue	Captain Kalt	Player
-Yeah, just a bit of fun. I have a pet - he's around here somewhere, assuming that troublesome cat hasn't eaten him.	ああ、ちょっとあそんでるんだ。ぼくはペットがいるんだ。どこかここのちかくにいるはずだけど、あのうるさいねこがしょくべてなきゃね。	dialogue	Captain Kalt	Captain Kalt
+Yeah, just a bit of fun. I have a pet - he's around here somewhere, assuming that troublesome cat hasn't eaten him.	ああ、ちょっとあそんでるんだ。ぼくはペットがいるんだ。どこかここのちかくにいるはずだけど、あのうるさいねこがたべてなきゃね。	dialogue	Captain Kalt	Captain Kalt
 That's a bit weird, but okay.	それはちょっとへんだけど、わかりました。	dialogue	Captain Kalt	Player
 No weirder than being scared of snow.	ゆきをこわいがるのとおなじくらいへんだろ。	dialogue	Captain Kalt	Captain Kalt
 Tell me about yourself.	じぶんじしんについておしえてください。	dialogue	Captain Kalt	Player
@@ -10469,8 +10469,8 @@ No reason, I just...	いや、ただ、ぼくは。	dialogue	Captain Klemfoodle	
 Oh my! What is that thing over there?	ああ、なんと！あの ものは、あの うえ の もの は、なに ですか？	dialogue	Captain Klemfoodle	Captain Klemfoodle
 Where?	どこに？	dialogue	Captain Klemfoodle	Player
 Hmm, my mistake, it must have been an optical illusion.	うーん、ぼくのまちがいい。ひかりまなびてきなイメージだったんだ。	dialogue	Captain Klemfoodle	Captain Klemfoodle
-Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	きみはこきゃくをみつけたけど、ただしいしょくべものをもってないようだね！きみはなにかのノームりょうりがひつようだ！	dialogue	Captain Klemfoodle	Captain Klemfoodle
-Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	さくってあるしょくべものはだめなんだ。アルフト・アロフトのこきゃくには、てさくりのノームりょうりだけがよいんだ。	dialogue	Captain Klemfoodle	Captain Klemfoodle
+Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	きみはこきゃくをみつけたけど、ただしいたべものをもってないようだね！きみはなにかのノームりょうりがひつようだ！	dialogue	Captain Klemfoodle	Captain Klemfoodle
+Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	さくってあるたべものはだめなんだ。アルフト・アロフトのこきゃくには、てさくりのノームりょうりだけがよいんだ。	dialogue	Captain Klemfoodle	Captain Klemfoodle
 You hand over your delivery of [a/some] [ordered gnome food/drink item] to Captain Klemfoodle	きみはなんかのノームりょうりをキャプテン・クレムフードルにわたしす。	dialogue	Captain Klemfoodle	Captain Klemfoodle
 Very good, very good. Itsgood to taste real gnomish flavours.	いいね、いいね。ほんもののノームかぜあじをあじわうのはよいです。	dialogue	Captain Klemfoodle	Captain Klemfoodle
 You must have had to travel a long way to get this to me. Here's a little something extra as a tip.	ここにきるのにながいきょりをたびしないといけなかったんだろう。ここにチップをちょっとあげるぞ。	dialogue	Captain Klemfoodle	Captain Klemfoodle
@@ -10932,7 +10932,7 @@ You and whose army mate? You and whose army?	えっ。なにをいってるん�
 Oooh, sorry, didn't realise you could hear me?	あ、ごめんなさい。ききこえたんですね。	dialogue	Cart Camel	Player
 Well I can, so watch what you say in future.	ああ、ききこえます。これからは、なにをいってるかきをつけてください。	dialogue	Cart Camel	Camel
 Righto!	いいですね！	dialogue	Cart Camel	Player
-Well, I have to say, I am pretty peckish, but thankfully, I don't eat humans... often.	ああ、ぼくはおはらがくういてます。でも、にんげんはふつう、しょくべません。	dialogue	Cart Camel	Camel
+Well, I have to say, I am pretty peckish, but thankfully, I don't eat humans... often.	ああ、ぼくはおはらがくういてます。でも、にんげんはふつう、たべません。	dialogue	Cart Camel	Camel
 You'll catch a stiff kick if you talk about me like that again!	もんくいったら、けりますよ！	dialogue	Cart Camel	Camel
 Yes [sir/m'am]? Can I help you at all?	なにかおてつだいいしましょうか？	dialogue	Cart conductor	Cart conductor
 What is this place?	ここはなにですか？	dialogue	Cart conductor	Player
@@ -11180,7 +11180,7 @@ Yes.	そうだ！	dialogue	Cave goblin (Dorgesh-Kaan)	Player
 Everyone's talking about how you helped Zanik save the city! You're a hero!	みんな，あなた が，ざにっく を たすけて，まち を，すくったって，いってます。あなた は，えいゆう です。	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
 Have you visited the market? There are visitors selling foods from all over the surface there. It's so exotic!	いちば へ，いった ことが，ありますか。せかい じゅう の，たべもの が，うられてます。とても，めずらしい です。	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
 Well, I suppose it wouldn't be exotic for you, since you're from the surface.	そうだな。あなたはちのじょうからきたから、めずらしいしくないんだろう。	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
-But you should check it out anyway. Maybe you could sell some of your food. Everyone's crazy about surface food at the moment.	でもみてみてもいいよ。あなたのしょくべものをうりることができるかもしれない。みんないま、ちのじょうのしょくべものがだいすききだ。	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
+But you should check it out anyway. Maybe you could sell some of your food. Everyone's crazy about surface food at the moment.	でもみてみてもいいよ。あなたのたべものをうりることができるかもしれない。みんないま、ちのじょうのたべものがだいすききだ。	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
 So, what do you think of our city, surface-dweller?	それで、どうおもう？わたしたちのまちを、ちのじょうのひと？	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
 I like it!	いいとおもいます！	dialogue	Cave goblin (Dorgesh-Kaan)	Player
 That, surface-dweller, was the right answer.	そのこたえ、ちのじょうのひと、ただしかった。	dialogue	Cave goblin (Dorgesh-Kaan)	Cave goblin
@@ -11260,7 +11260,7 @@ Why?	なぜですか？	dialogue	Cavey Davey	Player
 Well, ye see them Jungle Horrors? Well down in the caves there be Cave Horrors.	ジャングルホラーってやつをしってるだろ？したにはケーブホラーがいるんだ。	dialogue	Cavey Davey	Cavey Davey
 They are bigger, badder, meaner, and have a howl that freezes the blood in yer veins.	もっとだいきくて、あくて、こわいくて、こえがちをこおりらせる。	dialogue	Cavey Davey	Cavey Davey
 Wearin' earmuffs or a helmet won't work, cos them masks they wear make the sound magical. Only thing that works is wearin' a Witchwood Icon.	イヤマフやヘルメットはききかない。めんがまほうだから。ウィッチウッドアイコンだけがききく。	dialogue	Cavey Davey	Cavey Davey
-That is, o'course, if ye can see them, cos if ye don't have any light down there then yer likely te be picked te bones by the insects before the Horrors get ye.	もちろん、ひかりがないとむしにしょくべられる。	dialogue	Cavey Davey	Cavey Davey
+That is, o'course, if ye can see them, cos if ye don't have any light down there then yer likely te be picked te bones by the insects before the Horrors get ye.	もちろん、ひかりがないとむしにたべられる。	dialogue	Cavey Davey	Cavey Davey
 I see, thanks for the warning.	わかりました。おしえてくれてありがとう。	dialogue	Cavey Davey	Player
 Yer welcome.	いえいえ。	dialogue	Cavey Davey	Cavey Davey
 Be ye some form of simpleton? Do ye not hear the howlin' of the Horrors?	バカなのか？ホラーのさけびがききこえないのか？	dialogue	Cavey Davey	Cavey Davey
@@ -12092,7 +12092,7 @@ Sorry, I don't have time for idle chit-chat, I need to send an Autumn Fairy off 
 You show the certificate to the Fairy Coordinator.	あなたはようせいコーディネーターにしょうめいしょをしめします。	dialogue	Co-ordinator	Co-ordinator
 Do you know what these strange marks mean?	これらのきみょうなマークがなにをいみしているかごそんじですか？	dialogue	Co-ordinator	Player
 They look familiar, but I can't think where I've seen marks like that. Try asking around, maybe somebody else will recognise them.	かれらはみおぼええがあります。でもどこでみたのかおもいでせません。 まわりでききいてみて。ほかのだれかがかれらをみとめしきするかもしれません。	dialogue	Co-ordinator	Gatekeeper
-Welcome to Cobado's Groceries. Feeling hungry?	コバドのしょくべものやへようこそ。おなかすいていますか？	dialogue	Cobado	Cobado
+Welcome to Cobado's Groceries. Feeling hungry?	コバドのたべものやへようこそ。おなかすいていますか？	dialogue	Cobado	Cobado
 Let's see what you have.	なに があるか みましょう。	dialogue	Cobado	Player
 Why do you have an orange on your head?	どうして あたまに みかん があるんですか？	dialogue	Cobado	Player
 Why don't you have an orange on your head?	どうして あたまに みかん がないんですか？	dialogue	Cobado	Cobado
@@ -17876,7 +17876,7 @@ I've completed all of the elite tasks in my Kourend & Kebos Achievement Diary!	�
 You need to complete all of the easy, medium and hard tasks too before I can reward you for the elite task set.	かんたんで、ちゅうぐらいで、むずかしいこともやりおわりわるまで、エリートほうしゅうをあたえることができません。	dialogue	Elise	Elise
 I can see that, well done! You've completed all of the tasks in the Kourend & Kebos area! Here's your reward!	ぼくはそれがみえます。いいですね！あなたがコウレンドとケボスエリアのぜんてのことをやりおわりました！ここにあなたのほうしゅうがあります！	dialogue	Elise	Elise
 I've upgraded your Rada's blessing for you. You now have an 8% chance of catching two fish at once while using the blessing. It also provides unlimited teleports to the Kourend Woodland and to Mount Karuulm. On	ぼくはあなたのラダのしゅくふくをあぷぐれーどしました。あなたはいまあぷちぷをつかいながらどじっぺんきゃくをつかまえる8％のちゃんすをもっています。また、それはコーレンドもくちとカルゥルムやまへのやむげんのてれぽーとをていきょうします。うえ	dialogue	Elise	Elise
-top of that, Konar quo Maten will give you 20 Slayer Points per task rather than 18, you'll be 10% less likely to burn food at the Hosidius City Kitchens, you'll get 10% more Blood runes when Runecrafting, you'll no	そのじょう、コナル・クオ・マテンがあなたに18のだいわりに20のスレイヤーポイントをくれます。ホシディウスしょくどうでしょくべものをこげがすたしかりつが10％したがります。ルーンスミスでちのふぶんを10％もらいます。もう	dialogue	Elise	Elise
+top of that, Konar quo Maten will give you 20 Slayer Points per task rather than 18, you'll be 10% less likely to burn food at the Hosidius City Kitchens, you'll get 10% more Blood runes when Runecrafting, you'll no	そのじょう、コナル・クオ・マテンがあなたに18のだいわりに20のスレイヤーポイントをくれます。ホシディウスしょくどうでたべものをこげがすたしかりつが10％したがります。ルーンスミスでちのふぶんを10％もらいます。もう	dialogue	Elise	Elise
 longer need to wear heat protection inside the Karuulm Slayer Dungeon, Thirus will give you 80 free Dynamite per day and Eodan in the Forthos Dungeon will now tan hide for you at 2 times the normal price.	カルールムスレイヤーちかろうでねついぼうごひつようありません。ティルスがあなたにまいにち80のむりょうダイナマイトくれ、そして、フォルトスちかろうのエオダンがあなたのために2ばいのねだんでかわをなめします。	dialogue	Elise	Elise
 Can I have another Rada's blessing?	べつのラダのしゅくふくをもらえますか？	dialogue	Elise	Elise
 Who are you?	あなたはなにものですか？	dialogue	Elise	Elise
@@ -18189,7 +18189,7 @@ Where is this place?	では、これらのインプリングはなにですか�
 The fairies call it Puro-Puro. It seems to be the home plane of the implings.	それはひじょうにきょうみふかいいしつもんです。かれらはインプとしんせきだとおもうのがさいこうのすいそくです。だからここにもインプがいます。	dialogue	Elnock Inquisitor	Elnock Inquisitor
 I don't think these creatures have a name for it. As you can see there isn't a lot else here other than wheat.	インプリングはものをあつめるのがすきなようで、いらいひとがいったように、ところゆうけんのがいねんがありません。でも、あくいはかんじません。	dialogue	Elnock Inquisitor	Elnock Inquisitor
 How did you get here?	かれらがあつめるのは、じぶんたちがのぞみむものではなく、ほかのなまきものがのぞみむものだとおもいます。それはかれらにえいようをあたえるようです。	dialogue	Elnock Inquisitor	Player
-The same way you did, I suspect. Through a portal in a wheat field. I followed one back.	つまり、わたしたちのほしいのぞみでしょくべているんですか？	dialogue	Elnock Inquisitor	Elnock Inquisitor
+The same way you did, I suspect. Through a portal in a wheat field. I followed one back.	つまり、わたしたちのほしいのぞみでたべているんですか？	dialogue	Elnock Inquisitor	Elnock Inquisitor
 I haven't noticed them do that.	おおいぶん。とにかく、かれらはほぼどくせんてきにひと々がほしいものをあつめるようです。のぞきそとして、わかいインプリングは、まだあつめるさいこうのものをまなびんでいないとおもう。	dialogue	Elnock Inquisitor	Player
 That's why I'm the investigator and you're the adventurer.	それでは、よりけいけんほうふなインプリングはよりのぞみましいアイテムをもっていますか？	dialogue	Elnock Inquisitor	Elnock Inquisitor
 So, what are these implings?	ほんとうですか。	dialogue	Elnock Inquisitor	Player
@@ -18665,10 +18665,10 @@ Ah, you will be notified of a different shape that will give you a bonus Pizazz 
 convert them.	ここでグレイヤードピザズポイントがもらえます。かいだんのじょうでこうかんできます。	dialogue	Entrance Guardian	Entrance Guardian
 It will be clearer when you arrive and there's a Guardian through the portal that will be able to tell you more. You can also buy a book from the Rewards Guardian upstairs that will explain it all.	でも、そのちゅうでなにをするんですか？	dialogue	Entrance Guardian	Entrance Guardian
 What's the Creature Graveyard?	まちってください。このせかいでしぬなまきものはいっぱいいますね。そのほねはジャマになることもあります。だから、たくさんのほねをこのはかばにはこびました。	dialogue	Entrance Guardian	Player
-In here you will be able to earn Graveyard Pizazz Points for trade upstairs.	ほねをバナナにへんえるじゅもんをれんしゅうするんです。そのほねは、かいぶつのしょくべものになります！ほねをへんえて、かべのあなにいりれてください。	dialogue	Entrance Guardian	Entrance Guardian
+In here you will be able to earn Graveyard Pizazz Points for trade upstairs.	ほねをバナナにへんえるじゅもんをれんしゅうするんです。そのほねは、かいぶつのたべものになります！ほねをへんえて、かべのあなにいりれてください。	dialogue	Entrance Guardian	Entrance Guardian
 But what do I have to do in there?	なかで、なにをしたらいいですか？	dialogue	Entrance Guardian	Player
 Patience young one. A great many creatures die in this world and much of their remains can cause clutter. We have taken it upon ourselves to teleport many bones from these creatures into this graveyard for a	しんぼう、わかいもの。このよで、たくさんのなまきものがしんで、そのいこつはごみになります。わたしたちは、これらのなまきものほねを、ここのはかちにおくりってきました。	dialogue	Entrance Guardian	Entrance Guardian
-use. It's up to you to practice your bones to bananas spell in order to put these bones into immediate use - nutritious food for monsters! Just convert the bones and put them in the holes in the walls. There is a	やくまえ。あなたは、ほねからバナナへのまほうをれんしゅうするひつようがあります。これらのほねをかべのあなにいりれてください。えいようのあるしょくべものだ！	dialogue	Entrance Guardian	Entrance Guardian
+use. It's up to you to practice your bones to bananas spell in order to put these bones into immediate use - nutritious food for monsters! Just convert the bones and put them in the holes in the walls. There is a	やくまえ。あなたは、ほねからバナナへのまほうをれんしゅうするひつようがあります。これらのほねをかべのあなにいりれてください。えいようのあるたべものだ！	dialogue	Entrance Guardian	Entrance Guardian
 drawback to this room however, the bones often fall on people so you may want to eat some of those bananas to stay alive. When people die we confiscate Pizazz Points for the effort of teleporting incompetent mages.	このへやのもんだいは、ほねがひとびとのうえにおちるかもしれないので、いきていくためにバナナをたべるといいですよ。ひとがしぬとき、みりょくのないまほうつかいいをテレポートするちょっとのためにピザズポイントをぶんあつします。	dialogue	Entrance Guardian	Entrance Guardian
 What else do I get from this besides bruises?	このほかに、なにがもらえますか？	dialogue	Entrance Guardian	Player
 As well as the Pizazz Points for giving us the bananas, you will be credited with runestones for your efforts, and you may be able to save up for a new kind of spell to use in the graveyard!	バナナをくれたことでピザズポイントをもらうほかに、あなたのちょっとのためにルーンストーンがクレジットされます。そして、あたらしいまじないのしゅるいをセーブできるかもしれません。それはおはかでつかえます！	dialogue	Entrance Guardian	Entrance Guardian
@@ -19030,7 +19030,7 @@ No thanks.	いいえ、ありがとうございます。	dialogue	Ethereal Exper
 Have it your way.	すきなようにしてください。	dialogue	Ethereal Expert	Ethereal Expert
 You beat me.	あなたはわたしにかちました。	dialogue	Ethereal Expert	Player
 Woo hoo! Ha ha! You can try again if you want, but you'll never beat me, I'm far too fast!	うーわい！ハハハ！もういちどためしすことができます。でも、わたしにかちつことはできません。わたしははやいすぎます！	dialogue	Ethereal Expert	Ethereal Expert
-Eat my dust!	ちりをしょくべろ！	dialogue	Ethereal Expert	Player
+Eat my dust!	ちりをたべろ！	dialogue	Ethereal Expert	Player
 You're right, I'm far too slow.	あなたはみぎです。わたしはおそいすぎます。	dialogue	Ethereal Expert	Player
 You give up too easily, but have it your way.	あなたはすぐにあきらめます。でも、すきなようにしてください。	dialogue	Ethereal Expert	Ethereal Expert
 Oh, hello? Looks like you'll probably want to start again.	ああ、こんにちは？もういちどはじめめたいようです。	dialogue	Ethereal Expert	Ethereal Expert
@@ -19041,7 +19041,7 @@ I'm just making the most of the abilities I worked hard to develop. That's all!	
 True. A very important thing to remember! Now be gone!	ほんとうです。とてもだいきりなことです！では、さりってください！	dialogue	Ethereal Expert	Ethereal Expert
 Ok.	ぶんかった。	dialogue	Ethereal Expert	Ethereal Expert
 No thanks.	いいえ、ありがとうございます。	dialogue	Ethereal Expert	Ethereal Expert
-Eat my dust!	ちりをしょくべろ！	dialogue	Ethereal Expert	Ethereal Expert
+Eat my dust!	ちりをたべろ！	dialogue	Ethereal Expert	Ethereal Expert
 You're right, I'm far too slow.	あなたはみぎです。わたしはおそいすぎます。	dialogue	Ethereal Expert	Ethereal Expert
 Can I help you at all?	てつだいえることはありますか？	dialogue	Eudav	Eudav
 No thanks.	いいえ、ありがとうございます。	dialogue	Eudav	Player
@@ -19297,7 +19297,7 @@ You've got the amount of two of the spices right, but two of them are wrong.	ス
 TOTALLY EVIL! That's EXACTLY how the stew tasted!	ぜんぶ あくい!ぴったり この あじ だ!	dialogue	Evil Dave	Evil Dave
 Don't eat it all!	ぜんぶ たべないで!	dialogue	Evil Dave	Player
 Now I just have to go back in time and give it to your earlier self!	さあ じかん を さかのぼって、おまえの まえの ぼく に あげる!	dialogue	Evil Dave	Player
-What? Why can't I eat it?	なに？なぜしょくべられないんですか？	dialogue	Evil Dave	Evil Dave
+What? Why can't I eat it?	なに？なぜたべられないんですか？	dialogue	Evil Dave	Evil Dave
 You've already eaten it! This is the stew that you remember tasting in the first place!	おまえ もう たべたんだ!これが さいしょに あじわった シチュー だ!	dialogue	Evil Dave	Player
 So confused...	こんらん...	dialogue	Evil Dave	Evil Dave
 Woah, what happened?	ああ、なに あった?	dialogue	Evil Dave	Evil Dave
@@ -19371,7 +19371,7 @@ This is the servery, where the soldiers from the Shayzien barracks come for meal
 They're a pretty boring bunch, never willing to try anything new or interesting. But hey, they keep the city safe, so I'll feed 'em what they want.	かれらはつまらないやつばっかりで、あたらしいものやおもしろいものをためしたくない。けど、かれらはまちをまもってくれるから、かれらがほしいものをあげます。	dialogue	Ewesey	Ewesey
 Anyway, enough chatting. Are you a cook?	まあ、おしゃべりはもういいでしょう。あなたはコックですか？	dialogue	Ewesey	Ewesey
 Yeah, I can do some cooking. Well, my level's [number<20], anyway.	ああ、ぼくはりょうりできます。ぼくのレベルは（２０よりてい）です。	dialogue	Ewesey	Player
-Hah! You'll need a level of 20 to cook anything for these soldiers. They're picky about what they eat.	ふふ！へいしのためになにかをりょうりするには、レベル20がひつようです。かれらはしょくべものにごつきはえいです。	dialogue	Ewesey	Ewesey
+Hah! You'll need a level of 20 to cook anything for these soldiers. They're picky about what they eat.	ふふ！へいしのためになにかをりょうりするには、レベル20がひつようです。かれらはたべものにごつきはえいです。	dialogue	Ewesey	Ewesey
 Yeah, I can do some cooking.	いいでしょう。ホシディウスへのにんきがもっともっとこうくなったら、またきてください。いっぱいしごとがあります。	dialogue	Ewesey	Player
 Good. When you've got more Hosidius favour, come back and I'll have plenty for you to do.	いいでしょう。ようへいたちはシチュー、にくぱいとパイナップルピザがすきです。きゅうきゅうしゃでざいりょうがみつかります。	dialogue	Ewesey	Ewesey
 Good. The soldiers like stew, meat pies and pineapple pizza. You'll find ingredients in the cupboards.	あなたがなにかつくったら、ビュッフェテーブルにおいてください。ようへいたちがどのくらいすきかで、いけけんけいをえます。	dialogue	Ewesey	Ewesey
@@ -21841,7 +21841,7 @@ Could you defend yourself if we met enemies...?	てきにかいったらじぶ�
 I can take you to Paterdomus.	パテルドマスにつれていけます。	dialogue	Fyiona Fray (easy)	Fyiona Fray (easy)
 Ok, thanks.	わかりました、ありがとう。	dialogue	Fyiona Fray (easy)	Fyiona Fray (easy)
 Get out of my office! We WILL have our revenge, human!	わたしのへやからでていってください！かならずふくしゅうします、にんげん！	dialogue	G.L.O. Caranock	G.L.O. Caranock
-Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	おきゃくさんはみつけたみたいですが、ただしいしょくべものをもってないみたいです！ちゅうもんしたしょくべものまたはのみものがひつようです！	dialogue	G.L.O. Caranock	G.L.O. Caranock
+Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	おきゃくさんはみつけたみたいですが、ただしいたべものをもってないみたいです！ちゅうもんしたたべものまたはのみものがひつようです！	dialogue	G.L.O. Caranock	G.L.O. Caranock
 Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	かんせいすみみのりょうりはだめです。ノームりょうりはてさくりしたものだけがアルフト・アロフトのおきゃくさんにはじゅうぶんです。	dialogue	G.L.O. Caranock	G.L.O. Caranock
 You hand over your delivery of [item] to G.L.O. Caranock	あなたは[item]のはいたつをジーエルオー・キャラノックにわたします。	dialogue	G.L.O. Caranock	G.L.O. Caranock
 Just hand over the order human.	ちゅうもんをわたしてください、にんげん。	dialogue	G.L.O. Caranock	G.L.O. Caranock
@@ -23099,7 +23099,7 @@ Me should know better than to ask human to do favour for dead goblin.	ほかの�
 It was everything you hope for.	じぶんじしんについてもっとおしえてください。	dialogue	Ghost (Hopespear)	Player
 Thank you! I know Big High War God still care for us! I wait for him here. Someday he take me to Yu'biusk to live with him.	ぼくはビッグハイウォーゴッドのえらびばれたあずけいいものです。ぼくがあずけいいをもちつまえに、ゴブリンぶぞくたちはおたがいにおおいくのせんあらそをしました。	dialogue	Ghost (Hopespear)	Ghost
 In meantime, will you do me favour?	ずっとむかし、わたしたちはほかのひと々とせんいました:ひげがたんいひとたち、とがったぼうしをかぶったたんいひとたち、するどいやいばをもちつせがこういひとたち。ほかのひと々はかべのあるとしをたてました。そしてわたしたちはもはやこうげきすることができません。	dialogue	Ghost (Hopespear)	Ghost
-I should go.	すべてのぶぞくのためのじゅうぶんなしょくべものがありません。だからしょくべものがないぶぞくはしょくべものをもっているぶぞくをこうげきします。ゴブリンせんあらそはおおいくのおおいくのねんつづききました。さいごにすべてのぶぞくはこのばしょにあつめまりました。ここにじいんがあります。	dialogue	Ghost (Hopespear)	Player
+I should go.	すべてのぶぞくのためのじゅうぶんなたべものがありません。だからたべものがないぶぞくはたべものをもっているぶぞくをこうげきします。ゴブリンせんあらそはおおいくのおおいくのねんつづききました。さいごにすべてのぶぞくはこのばしょにあつめまりました。ここにじいんがあります。	dialogue	Ghost (Hopespear)	Player
 Tell me about the Big High War God.	おおいくのにちあいだ、あめがふります。でもあめはゴブリンをとめません。ゴブリンのあしはあめとちでグラウンドをかきじょうげます。ぜんじめんはどろになります。だからそれはどろのへいはらのせんいとよびばれています。	dialogue	Ghost (Hopespear)	Player
 Big High War God greatest of all gods! He take puny goblins from Yu'biusk and make them mighty warriors for great war of gods!	せんいはおおいくのにちあいだつづききました。りょうがわともおなじサイズです。だれもかちません。だれもまけません。ゴブリンのからだがあちこちにあります。おおいくがしんでいます。	dialogue	Ghost (Hopespear)	Ghost
 When gods go to war, goblin soldiers so good that Big High War God sell tribes to fight for different gods. Big High War God fight with other gods, sometimes for one, sometimes another.	ぼくはじゅうようでないしょうぐんではありません。きょういぐんそうでもありません。ぼくはただのふつうのゴブリンです。でもいちばん、ぼくはゆめをみました。	dialogue	Ghost (Hopespear)	Ghost
@@ -23111,7 +23111,7 @@ There not enough food for all tribes, so tribes with no food attack tribes who h
 It rain many days. But rain not stop goblins. Goblin feet churn up ground with rain and goblin blood. All ground turn to mud. That why it called Battle of Plain of Mud.	ほかのたねぞくたちは、かれら、きょうだいなゴブリンぐんからにげます!えらびばれたしれいかんはゴブリンにつつみかこきかいをさくらせて、としのかべをこわします。そのあとゴブリンはいきすすみして、すべてのひとをころします!	dialogue	Ghost (Hopespear)	Ghost
 Battle last many days. Both sides same size, none win, none lose. Goblin bodies everywhere. Many dead.	そしてすべてがしんだとき、ビッグハイウォーゴッドじしんがあらわれ、せいどうのおおきなおうぎょくにざり、えらびばれたしれいかんのそばで、すべてをしはいします。	dialogue	Ghost (Hopespear)	Ghost
 Me not important general, not mighty sergeant. Me just normal goblin. But one night, me have dream.	そのあと、ぼくはゆめからめざめめました。ぼくはそれがビッグハイウォーゴッドからのしんのあずけいいだとしっています。ぼくはぼくのぶぞくのしょうぐんにはしります。かれはきんきゅうかいぎのためにほかのしょうぐんたちをよびます。	dialogue	Ghost (Hopespear)	Ghost
-Me see throne of Big High War God. He shine with light so bright me cannot see him, but me hear his voice.	ぼくはすべてのしょうぐんにぼくがみたものをいいます。かれらはゴブリンがしなないようにせんあらそをとめることにきめました。このときまでに、おおいくがしんでいます。そこにはすべてのひとのためのじゅうぶんなしょくべものがあります。	dialogue	Ghost (Hopespear)	Ghost
+Me see throne of Big High War God. He shine with light so bright me cannot see him, but me hear his voice.	ぼくはすべてのしょうぐんにぼくがみたものをいいます。かれらはゴブリンがしなないようにせんあらそをとめることにきめました。このときまでに、おおいくがしんでいます。そこにはすべてのひとのためのじゅうぶんなたべものがあります。	dialogue	Ghost (Hopespear)	Ghost
 He say, 'Stop the fighting!' He say, 'Fighting good, but not if all my followers die! You must not fight one another so much you all die!'	そのあと、しょうぐんたちはゴブリンをしごとにせっていして、せんいのサイトにじいんをたてます。それはどろにしずみます。だからかれらはそれをちかのじいんにへんえます。そしてほかのひとからひみつにしておきます。	dialogue	Ghost (Hopespear)	Ghost
 Then he say, 'Today I cannot lead you, but some day I will send Chosen Commander to lead you.'	ゴブリンはぼくのあずけいいをゴブリンせいしょにしょきます。ゴブリンのれきしとともに、ビッグハイウォーゴッドのかいりつとともに。	dialogue	Ghost (Hopespear)	Ghost
 I see Chosen Commander in dream. He wear shining armour and stand at front of army of goblins. Behind Chosen Commander, goblins stretch to horizon. Many goblins, too many to count.	えらびばれたしれいかんについてもっとおしえてください。	dialogue	Ghost (Hopespear)	Ghost
@@ -23297,7 +23297,7 @@ He came from the eastern lands, but of more than that, little is known. Some say
 Necrovarus told us that he had been brought by a vision he'd had of an underground source of power. He inspired us to delve beneath the town, promising us the power to repel the vampyres.	ネクロヴァルスはかれがちかのちからのねみなもとのまぼろしをみていたといいました。かれはわたしたちにまちのしたにほることをゆうきづけて、ヴァンパイアたちをげきしりぞするちからをやくそくしました。	dialogue	Ghost innkeeper	Ghost innkeeper
 Deep underneath Phasmatys, we found a pool of green slime that Necrovarus called ectoplasm. He showed us how to build the Ectofuntus, which would turn the ectoplasm into the power he had promised us.	ファスマティスのふかいしたには、ネクロヴァルスがエクトプラズムとよびんだみどりのヘドロのいけがありました。かれはわたしたちにエクトファンクトゥスをさくるほうほうをしめしました。それはエクトプラズムをかれがやくそくしたちからにへんえるのです。	dialogue	Ghost innkeeper	Ghost innkeeper
 Indeed, this Ectopower did repel the vampyres; they would not enter Phasmatys once the Ectofuntus began working. But little did we know that we had exchanged one evil for yet another - Ectopower.	たしかに、このエクト・パワーはヴァンパイアをげきしりぞしました。エクトファンクトゥスがうごきはじめるとファスマティスにいりません。しかし、わたしたちはいちつのあくをもういちつのあくにへんえたことをしりませんでした。エクト・パワーです。	dialogue	Ghost innkeeper	Ghost innkeeper
-Little by little, we began to lose any desire for food or water, and our desire for the Ectopower grew until it dominated our thoughts entirely. Our bodies shrivelled and, one by one, we died.	すこしずつ、わたしたちはしょくべものとみずへのほしいのぞみをうしないはじめました。エクト・パワーへのほしいのぞみはなりながし、やがてわたしたちのかんがえをかんぜんにしはいしました。わたしたちのからだはちぢみ、ひとりまたひとりとしにました。	dialogue	Ghost innkeeper	Ghost innkeeper
+Little by little, we began to lose any desire for food or water, and our desire for the Ectopower grew until it dominated our thoughts entirely. Our bodies shrivelled and, one by one, we died.	すこしずつ、わたしたちはたべものとみずへのほしいのぞみをうしないはじめました。エクト・パワーへのほしいのぞみはなりながし、やがてわたしたちのかんがえをかんぜんにしはいしました。わたしたちのからだはちぢみ、ひとりまたひとりとしにました。	dialogue	Ghost innkeeper	Ghost innkeeper
 The Ectofuntus and the power it emanates keeps us here as ghosts - some, like myself, content to remain in this world; some becoming tortured souls who we do not allow to pass our gates.	エクトファンクトゥスとそれがはなしつちからはわたしたちをここにゆうれいとしてとめます。わたしのようなじぶんたちのせかいにとめまることにまんぞくしているものたちもいます。にがいしむたましいになって、わたしたちがもんをとおりすことをゆるしさないものたちもいます。	dialogue	Ghost innkeeper	Ghost innkeeper
 We would be able to pass over into the next world but Necrovarus has used his power to create a psychic barrier, preventing us.	わたしたちはつぎのせかいにうつりることができるはずですが、ネクロヴァルスはかれのちからをつかいってこころりてきしょうへきをさくって、わたしたちをぼういでいます。	dialogue	Ghost innkeeper	Ghost innkeeper
 We must remain here for all eternity, even unto the very end of the world.	わたしたちはせかいのおわりまでもずっと、ここにとめまらなくてはいけません。	dialogue	Ghost innkeeper	Ghost innkeeper
@@ -24146,7 +24146,7 @@ You too, human.	あ、あなた、さがすのは でき たけど、ちゃん�
 Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	あ、あらかじめ つくった ものは だめだ。ただし、アルフト・アロフト の ために だけ、ノーム の じぶん で つくった ごはん だけが いいんだ。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
 Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	あなたが [アイテム] を ノルマディウム・アヴラフリム に わたした。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
 You hand over your delivery of [item] to Gnormadium Avlafrim	あ、そっか。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
-Oh my! I've had nothing to eat or drink but chompy birds and smelly water for days. Thank you.	ああ！わたしはなににちもかみむビョウとくさいみずいがい、しょくべたりのみんだりしていません。ありがとうございます。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
+Oh my! I've had nothing to eat or drink but chompy birds and smelly water for days. Thank you.	ああ！わたしはなににちもかみむビョウとくさいみずいがい、たべたりのみんだりしていません。ありがとうございます。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
 You must have had to travel a long way to get this to me. Here's a little something extra as a tip.	あなたは [かず] の くれじっと を もってます。まだ ノーム の ごはん を とどけて もらう ことが できません。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
 You have [number] credits towards your free delivery token. You are not eligible to get gnome food delivered to you yet.	あなたは [かず] の くれじっと を もってます。[かず] こ の ノーム の ごはん を とどけて もらう ことが できます。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
 You have [number] credits towards your free delivery token. You may get [number] pieces of gnome food delivered to you.	アルフト・ジャンネ・ジュニア から、つぐはずれ トークン を わすれずに ゲット してね。	dialogue	Gnormadium Avlafrim	Gnormadium Avlafrim
@@ -24190,8 +24190,8 @@ Hey, human.	わたし の なまえ は ヤギウンチ。だけど ひとりよ
 Who are you?	あなたはなにものですか？	dialogue	Goat Poo	Player
 My name is Goat Poo. But human not allowed to make big deal of it, 'cos it mean to tease people 'bout silly name.	ね、トロル は ちいさい とき に はじめて たべた もの で みんな なまえが つく んだ。それ が トロール の でんとう。	dialogue	Goat Poo	Goat Poo
 Why are you called Goat Poo?	だから はじめて たべた のって ヤギウンチ ですか？	dialogue	Goat Poo	Player
-Look, trolls are named after first thing they try to eat, when they little kids. That is troll tradition.	ね、トロールは、こどものときにさいしょにしょくべようとしたものなまえがついてるんですよ。トロールのつたえとうですから。	dialogue	Goat Poo	Goat Poo
-So the first thing you ate was goat poo?	だったら、さいしょにしょくべたのはヤギのふんなんですか？	dialogue	Goat Poo	Player
+Look, trolls are named after first thing they try to eat, when they little kids. That is troll tradition.	ね、トロールは、こどものときにさいしょにたべようとしたものなまえがついてるんですよ。トロールのつたえとうですから。	dialogue	Goat Poo	Goat Poo
+So the first thing you ate was goat poo?	だったら、さいしょにたべたのはヤギのふんなんですか？	dialogue	Goat Poo	Player
 It my parents' fault - they should have been paying proper attention an' stopped me. But no, they just named me after it.	おやたちのせきにんですね。ちゃんときをつけてたら、ぼうげたはずなんです。でも、そうしなくて、このなまえがついちゃった。	dialogue	Goat Poo	Goat Poo
 Still, it coulda been worse. Could have been called Yellow Snow. He got a really dumb name.	まあ、もっと あく い こと も ある ね。「きいろい ゆき」って なまえ だったかもしれない。あの こ は、ほんと ばか みたい な なまえ だ。	dialogue	Goat Poo	Goat Poo
 Okay, I won't ask why you're called Goat Poo.	りょうかいです。あなたが「ヤギのふん」ってよびばれてるりゆうはききません。	dialogue	Goat Poo	Player
@@ -24208,7 +24208,7 @@ Eh, it kinda rough, but it our home. Odd Mushroom say he can make it nicer with 
 Mother only care about stuff to help him fight better. An he really big, an' he boss, so we do what he say.	おははさんは、せんいにやくだちつものだけをきにしてる。からだがすごくだいきくて、ボスだから、わたしたちはおははさんのいうことをきくんです。	dialogue	Goat Poo	Goat Poo
 I'll be off.	じゃあ、バイバイ。	dialogue	Goat Poo	Player
 Hey, friend of Snowflake!	ヤ、スノーフレークのともだちだ。	dialogue	Goat Poo	Goat Poo
-It great here, now Snowflake an' her husband troll taught us goutweed farming. Food so much better now.	スノーフレークとかのじょのだんなトロールが、ガウトウィードのうぎょうをおしえてくれたから、ここはよいくなったね。しょくべものもずっとびあじしくなったんです。	dialogue	Goat Poo	Goat Poo
+It great here, now Snowflake an' her husband troll taught us goutweed farming. Food so much better now.	スノーフレークとかのじょのだんなトロールが、ガウトウィードのうぎょうをおしえてくれたから、ここはよいくなったね。たべものもずっとびあじしくなったんです。	dialogue	Goat Poo	Goat Poo
 Eh, it kinda rough, but it getting better. Snowflake, she taught us goutweed farming. Goat, wolf, human all taste so much nicer with goutweed in.	ちょっときびしいですけど、だんだんよくなっています。スノーフレークがぼくたちにゴットウィードのうぎょうをおしえてくれました。ヤギ、おおかみ、にんげんはみんなゴットウィードがあるともっとおいしい	dialogue	Goat Poo	Goat Poo
 So yeah, Weiss is good place to live, now Snowflake in charge. All trolls like Snowflake. Her husband troll kinda weird, but that not our problem.	だからワイスはいいばしょです。スノーフレークがいまはしれいかんです。ぜんぶのトロールがスノーフレークをすきです。かのじょのおっとのトロールはちょっとへんですけど、それはぼくたちのもんだいじゃないです	dialogue	Goat Poo	Goat Poo
 You t'ink I want that? It not even from goat!	あんたが、それがほしいとおもうか？ヤギじゃないのに！	dialogue	Goat Poo	Goat Poo
@@ -24714,7 +24714,7 @@ I'll come back later.	またあとできます。	dialogue	Grave digger	Grave di
 Hello.	こんにちは。	dialogue	Graveyard Guardian	Player
 Greetings young one. What knowledge do you seek?	わかものよ、こんにちは。どんなちしきがほしいですか？	dialogue	Graveyard Guardian	Graveyard Guardian
 What do I have to do in this room?	このへやで、わたしはなにをしなくちゃいけませんか？	dialogue	Graveyard Guardian	Player
-Have you noticed all the bones around the room? These are teleported here from all over Gielinor to help clean up the landscape of countless bones left behind from combat. What better use for these bones than to convert them to nutritious fruit to be eaten by you mortals? You have to use your Bones to Bananas spell to convert the bones and then place them in the holes on the walls to earn Graveyard Pizazz Points. Unluckily for you, your health will constantly decrease from getting hit by these dropping bones so you will probably want to eat some of the bananas yourself to increase your stay here.	まわりちゅうにほねがあること、きづきましたか？これらのほねは、ギエリノールちゅうからテレポートされて、せんいからのこりした、むかずのほねでけしきいろをせいりするのにてだすけけするためにここにきてるんです。これらのほねをはいつくばなのっぽいくだものにへんえるより、もっとよいりようほうほうがありますか？あなたは、「ボーンズ・トゥ・バナナズ」のまほうをつかいって、ほねをへんえて、それから、かべのあなにいりれて、はかちピザッズ・ポイントをかせぎがなくちゃいけないんです。ざんねんなことに、ふってくるほねにあたりたることで、あなたのたいりょくはつねにへってるから、バナナをなにこかじぶんでしょくべて、ここにとめまるじかんをふやしたいとおもうだろうですね。	dialogue	Graveyard Guardian	Graveyard Guardian
+Have you noticed all the bones around the room? These are teleported here from all over Gielinor to help clean up the landscape of countless bones left behind from combat. What better use for these bones than to convert them to nutritious fruit to be eaten by you mortals? You have to use your Bones to Bananas spell to convert the bones and then place them in the holes on the walls to earn Graveyard Pizazz Points. Unluckily for you, your health will constantly decrease from getting hit by these dropping bones so you will probably want to eat some of the bananas yourself to increase your stay here.	まわりちゅうにほねがあること、きづきましたか？これらのほねは、ギエリノールちゅうからテレポートされて、せんいからのこりした、むかずのほねでけしきいろをせいりするのにてだすけけするためにここにきてるんです。これらのほねをはいつくばなのっぽいくだものにへんえるより、もっとよいりようほうほうがありますか？あなたは、「ボーンズ・トゥ・バナナズ」のまほうをつかいって、ほねをへんえて、それから、かべのあなにいりれて、はかちピザッズ・ポイントをかせぎがなくちゃいけないんです。ざんねんなことに、ふってくるほねにあたりたることで、あなたのたいりょくはつねにへってるから、バナナをなにこかじぶんでたべて、ここにとめまるじかんをふやしたいとおもうだろうですね。	dialogue	Graveyard Guardian	Graveyard Guardian
 What are the rewards?	ほうしゅうはなにですか？	dialogue	Graveyard Guardian	Player
 You will get experience from casting your bones to bananas spell and you will get Graveyard Pizazz Points when you put the bananas through the wall. Occasionally you will also be credited with a runestone to help you in your future spell casting.	「ボーンズ・トゥ・バナナズ」のまほうをとなえるところから、けいけんをえます。それから、バナナをかべをとおりしていりれたら、はかちピザッズ・ポイントをえます。とき々、しょうらいのまほうをとなえるために、あなたに「ルーンストーン」をあたえられることもあります。	dialogue	Graveyard Guardian	Graveyard Guardian
 Got any tips that may help me?	やくにたてつじょうほうがありますか？	dialogue	Graveyard Guardian	Player
@@ -27997,7 +27997,7 @@ All he asks in return is a periodic sacrifice at his sacred shrine. As long as t
 Willing volunteers are never hard to find, for their sacrifice buys peace for the tribe, and I grant their families extra rations of food.	じしゅてきなボランティアはいつもみつけるのがむずかしいしくない。かれらのぎせいはぶぞくにへいわをかい、わたしはかれらのかぞくにあまぶんなごめしをあたえます。	dialogue	High Priestess Zul-Harcinqa	High Priestess Zul-Harcinqa
 Who are you all?	あなたたちはだれですか。	dialogue	High Priestess Zul-Harcinqa	Player
 The southern wastes are a perilous place where travellers often become lost. Elves from the woodland villages, gnomes from the eastern caves, and many others.	みなみのあらのはりょこうものがしばしばまようきけんなばしょです。はやしのむらからのエルフ、ひがしのどうくつからのノーム、そしてほかのおおいくのひとたち。	dialogue	High Priestess Zul-Harcinqa	High Priestess Zul-Harcinqa
-Some find their way here, like my forebears did. They eat of the sacred swamp eels that Zulrah sends, and become one with the tribe.	なにひとかはここにはたどりきます。わたしのさきそたちのように。かれらはズルラーがおくりるしんせいなスワンプウナギをしょくべて、ぶぞくのいちぶになります。	dialogue	High Priestess Zul-Harcinqa	High Priestess Zul-Harcinqa
+Some find their way here, like my forebears did. They eat of the sacred swamp eels that Zulrah sends, and become one with the tribe.	なにひとかはここにはたどりきます。わたしのさきそたちのように。かれらはズルラーがおくりるしんせいなスワンプウナギをたべて、ぶぞくのいちぶになります。	dialogue	High Priestess Zul-Harcinqa	High Priestess Zul-Harcinqa
 Their original families and tribes shun them as unclean creatures once they have tasted of the sacred swamp eels, so they remain here to worship Zulrah.	かれらがしんせいなスワンプウナギをあじわったら、かれらのもとのかぞくとぶぞくはかれらをよごれたなまきものとしてさけます。だからかれらはここにのこりってズルラーをすうはいします。	dialogue	High Priestess Zul-Harcinqa	High Priestess Zul-Harcinqa
 I'm off.	でかけます。	dialogue	High Priestess Zul-Harcinqa	Player
 Do you wish me to tell you more of Zulrah, human?	ずぅらー について もっと はなして くれません か?	dialogue	High Priestess Zul-Harcinqa	High Priestess Zul-Harcinqa
@@ -28694,7 +28694,7 @@ Ah, yes. Your unique position among Fremennik-	ああ、はい。フレメニク
 Hrafn! Oh, alright, alright, I give in.	フラーン！ あ、いいですね、いいですね、あきらめます。	dialogue	HRH Hrafn	King Gjuki Sorvott IV
 Look, could you fetch my cat some fish? Then we can finish our conversation in peace.	ねえ、おねがい します。わたし の ねこ に さかな を もってきて くれません か?したら わたしたち は へいわ に かいわ を つづける ことが できます。	dialogue	HRH Hrafn	King Gjuki Sorvott IV
 Yes, that's probably a good idea.	はい、それは いい かんがえだと おもいます。	dialogue	HRH Hrafn	Player
-Thank you. Hrafn will only eat raw tuna.	ありがとうございます。ハフラフンはなまのまぐろだけをしょくべます。	dialogue	HRH Hrafn	King Gjuki Sorvott IV
+Thank you. Hrafn will only eat raw tuna.	ありがとうございます。ハフラフンはなまのまぐろだけをたべます。	dialogue	HRH Hrafn	King Gjuki Sorvott IV
 Will any raw tuna do?	なまの まぐろ で いいですか？	dialogue	HRH Hrafn	Player
 Yes, fussy though Hrafn is, he doesn't care where the tuna comes from. If you don't already have any, you can catch some down by the docks, or you can buy some from my fishmonger, Flosi Dalksson.	はい、フラーン が うるさいですが、どこから まぐろ を ってくるかは きにしません。もし すでに あれば、ドック に いって つることが できます。または、わたしの ぎょぎょういん、フロスィ・ダルクソン から かうことが できます。	dialogue	HRH Hrafn	King Gjuki Sorvott IV
 Hello again, [Fremennik name]. Do you have a piece of raw tuna for Hrafn?	またこんにちは、フレメンニック のなまえ です。フラーン のために なまの まぐろ を もっていますか？	dialogue	HRH Hrafn	King Gjuki Sorvott IV
@@ -30820,7 +30820,7 @@ What benefits does my cat get from training in the pits?	ねこがピットで�
 It depends on what kind of cat you have.	あなたがもっているねこのしゅるいによります。	dialogue	Jimmy Dazzler	Jimmy Dazzler
 In the Ardougne pits, your kitten will grow up faster whether it wins or loses.	アルドゥーニュのあなでは、あなたのコテンがかちとうがまけようが、もっとはやいくなりながします。	dialogue	Jimmy Dazzler	Jimmy Dazzler
 What if it wins then?	かちったらどうなるんですか?	dialogue	Jimmy Dazzler	Player
-It will gain more experience, it'll be happier, and it'll be fed, too.	もっとけいけんをせきむし、もっとさちせになるし、しょくべものももらいます。	dialogue	Jimmy Dazzler	Jimmy Dazzler
+It will gain more experience, it'll be happier, and it'll be fed, too.	もっとけいけんをせきむし、もっとさちせになるし、たべものももらいます。	dialogue	Jimmy Dazzler	Jimmy Dazzler
 Can you show me to the Rat Pits?	ねずみのあなまであんないしてくれませんか?	dialogue	Jimmy Dazzler	Player
 See that ladder there? That's the way in.	あそこのはしご、みえますか?それがいりくちですよ。	dialogue	Jimmy Dazzler	Jimmy Dazzler
 Thanks.	ありがとうございます。	dialogue	Jimmy Dazzler	Player
@@ -30880,7 +30880,7 @@ I think I would adopt a very aggressive strategy	わたしはひじょうにこ�
 In that case you should tell your cat, 'Go berserk!'	そのばあい、あなたはねこにいうべきです。「きょうみだしてください。」	dialogue	Jimmy Dazzler	Jimmy Dazzler
 In that case you should tell this to your cat, 'No guts, no glory!'	そのばあい、あなたはこれをねこにいうべきです。「ちょうがなくえいこうがない。」	dialogue	Jimmy Dazzler	Jimmy Dazzler
 In the Ardougne pits your kitten will grow up faster, whether it wins or loses.	アルドゥーニュのあなでは、あなたのコテンはかちとうがまけようが、もっとはやいくなりながします。	dialogue	Jimmy Dazzler	Jimmy Dazzler
-It will gain more experience and will become happier and will be fed.	もっとけいけんをせきむし、もっとさちせになるし、しょくべものももらいます。	dialogue	Jimmy Dazzler	Jimmy Dazzler
+It will gain more experience and will become happier and will be fed.	もっとけいけんをせきむし、もっとさちせになるし、たべものももらいます。	dialogue	Jimmy Dazzler	Jimmy Dazzler
 Can you show me to the rat pits?	ラットピットまでみることができますか。	dialogue	Jimmy Dazzler	Player
 The pits lie below this very pub.	あなはこのパブのしたにあります。	dialogue	Jimmy Dazzler	Jimmy Dazzler
 Can you tell me where I can find...	どこで...をさがしせるかおしえてもらえませんか?	dialogue	Jimmy Dazzler	Jimmy Dazzler
@@ -32371,7 +32371,7 @@ So why aren't you allowed to eat it?	なぜ　ヤクのにくを　たべられ�
 King's orders. They breed and eat yaks on Neitiznot, so WE'RE not allowed to. It's unjust I tell you! I had a dream last night about a juicy fillet of yak, served on a bed of deep-fried seaweed and topped with a garnish	おうさま の　めい。ねいてぃずのっと で　やく を　そだてます。わたしたち は　だめ。ふこう だ！ゆめ の　なか で　やく　ふぃれっと　があります。	dialogue	Keepa Kettilon	Keepa Kettilon
 of crumbly yak's cheese.	こんがり　ヤクのチーズで　かざられて　いる。	dialogue	Keepa Kettilon	Keepa Kettilon
 That's a little sad. So do you have any cooked food I could buy?	かなしい。やきたべもの　ありますか？	dialogue	Keepa Kettilon	Player
-No. It would only be fish anyway. Why would you want to eat fish?	いいえ。とにかく さかな だけ になります。なぜ あなた は さかな を しょくべたい ですか?	dialogue	Keepa Kettilon	Keepa Kettilon
+No. It would only be fish anyway. Why would you want to eat fish?	いいえ。とにかく さかな だけ になります。なぜ あなた は さかな を たべたい ですか?	dialogue	Keepa Kettilon	Keepa Kettilon
 Well, I wouldn't mind a few shark and swordfish steaks as back-up you know.	さめ と　つるぎうお の　すてーき が　ほしい。	dialogue	Keepa Kettilon	Player
 If you insist. Sorry the stock is so low, but I just can't be bothered to cook any more.	いいです。ごめん。ストックが　すくない。もう　つくりたくない。	dialogue	Keepa Kettilon	Keepa Kettilon
 Go away and let me wallow in self loathing.	でていて　ください。むなしい　きもちで　いたい。	dialogue	Keepa Kettilon	Keepa Kettilon
@@ -32445,7 +32445,7 @@ Hey now, I'm no wimp. What's to stop me from just turning the winch to open the 
 Me. And of course your quick demise at the mercy of Cerberus, guardian of the river of souls.	そう　いっても。　ただ　さいこう　ぎじゅつ　ある　ひと　できます。	dialogue	Key Master	Key Master
 But I can do it!	こえ！　あああ！　ここから　でてください！	dialogue	Key Master	Player
 You are obviously passionate at trying. But only those with great skill at slaying these types of beast may enter.	スレイヤー　マスター　から　かんじられました。	dialogue	Key Master	Key Master
-THE VOICES! AAAHHHHH! Leave this place human!	いてもいい…　たましい　しょくべられて…　のろわれて…	dialogue	Key Master	Key Master
+THE VOICES! AAAHHHHH! Leave this place human!	いてもいい…　たましい　たべられて…　のろわれて…	dialogue	Key Master	Key Master
 I have been charged by the slayer masters to eliminate this type of threat.	アレサは　たましい　はこびを　なおせる　と　いった。	dialogue	Key Master	Player
 Then you may pass... may your soul not end up consumed and forever condemned to the-	たましい　はこび！　あるんですか！　あの　こえ　よく　いってます。　ここ　から　だけど　ちがう　ところ　から　です。	dialogue	Key Master	Key Master
 Goodbye.	それではまた。	dialogue	Key Master	Player
@@ -34361,7 +34361,7 @@ Hmm... So you're hungry? I think I will have the perfect thing for you to eat...
 Unless you got tasty food for Lalli. Then I might trade you for it.	ラーリスの ために おいしい ごめしが あります。ようもうを トレードします。	dialogue	Lalli	Lalli
 As a matter of fact I do!	そのとおり。あります。	dialogue	Lalli	Player
 So tell me, Lalli. Have you ever tried a human delicacy known as stone soup?	ラーリス。あなたは いしもののスープを たべたことが ありますか。	dialogue	Lalli	Player
-What? Me am not stupid human! Everyone know cannot make food from stone!	なに？わたしはおろかなにんげんではありません！だれもがいしからしょくべものをさくることはできないことをしっています！	dialogue	Lalli	Lalli
+What? Me am not stupid human! Everyone know cannot make food from stone!	なに？わたしはおろかなにんげんではありません！だれもがいしからたべものをさくることはできないことをしっています！	dialogue	Lalli	Lalli
 Well, that is where you are wrong. I will now put this rock, into your cauldron over there, and make soup from it.	そうですね。わたしは これを つぼに いれます。スープを つくります。	dialogue	Lalli	Player
 Why you need other stuff too then?	なぜ ほかの もの が ひつよう。	dialogue	Lalli	Lalli
 Ah, that is simply seasoning. Stone soup is delicious by itself, but the taste is really brought out if you use onion, potato and cabbage too.	あ。その だけです。いしもののスープは おいしい。でも たまねぎ。いも。きゃべつで さらに おいしい。	dialogue	Lalli	Player
@@ -36562,8 +36562,8 @@ There's lots of beasts to fight in the woods around here, especially to the west
 road for some fairly easy pickings. Non-player characters usually appear as yellow dots on your minimap, although there are some that you won't be able to fight, such as myself. A monster's combat level is	かんたんにえものをてにいりれることができる。ノンプレイヤーのキャラクターはつうじょう、ミニマップじょうにきいろいてんとしてひょうじされるが、わたしのようにせんえないキャラクターもいる。モンスターのせんとうレベルは「こうげき」オプションの	dialogue	Lumbridge Guide	Lumbridge Guide
 shown next to their 'Attack' option. If that level is coloured green it means the monster is weaker than you. If it is red, it means that the monster is tougher than you.	となりにひょうじされる。そのレベルがみどりいろであれば、そのモンスターはあなたよりじゃくいことをいみする。もしあかなら、そのモンスターはあなたよりタフだということだ。	dialogue	Lumbridge Guide	Lumbridge Guide
 Remember, you will do better if you have better armour and weapons and it's always worth carrying a bit of food to heal yourself.	よりよいアーマーとぶきをもっていれば、よりよいせんいができる。	dialogue	Lumbridge Guide	Lumbridge Guide
-Where can I get food to heal myself?	じぶんをいやしすためのしょくべものはどこでてにいりるのか？	dialogue	Lumbridge Guide	Player
-There are many different foods in the game such as cabbage, fish, meat and many more. Which do you wish to hear about?	ゲーム には，きゃべつ，さかな，にく など，さまざまな しょくべもの が とうじょう する।どちら が きき たい?	dialogue	Lumbridge Guide	Lumbridge Guide
+Where can I get food to heal myself?	じぶんをいやしすためのたべものはどこでてにいりるのか？	dialogue	Lumbridge Guide	Player
+There are many different foods in the game such as cabbage, fish, meat and many more. Which do you wish to hear about?	ゲーム には，きゃべつ，さかな，にく など，さまざまな たべもの が とうじょう する।どちら が きき たい?	dialogue	Lumbridge Guide	Lumbridge Guide
 How do I get cabbages?	キャベツのにゅうしゅほうほうは？	dialogue	Lumbridge Guide	Player
 There is a field a little distance to the north of here packed full of cabbages which are there for the picking.	ここからすこしきたにいきったところに、キャベツがぎっしりつめまったはたけがある。	dialogue	Lumbridge Guide	Lumbridge Guide
 You could also farm your own cabbages; there's a Farming patch just south of Falador.	また、ファラドールのすぐみなみにははたけがあり、じぶんでキャベツをさいばいすることもできる。	dialogue	Lumbridge Guide	Lumbridge Guide
@@ -36707,9 +36707,9 @@ How do I make a weapon?	ぶきのさくりほうは？	dialogue	Lumbridge Guide	
 Where can I buy a weapon?	ぶきはどこでかいえますか？	dialogue	Lumbridge Guide	Lumbridge Guide
 Could I get a staff like yours?	あなたのようなつえをいただけますか？	dialogue	Lumbridge Guide	Lumbridge Guide
 Yes, but what should I fight once I have got a weapon?	でも、ぶきをてにいりれたらなにとせんえばいいんだ？	dialogue	Lumbridge Guide	Lumbridge Guide
-Where can I get food to heal myself?	じぶんをいやしすためのしょくべものはどこでてにいりるのか？	dialogue	Lumbridge Guide	Lumbridge Guide
+Where can I get food to heal myself?	じぶんをいやしすためのたべものはどこでてにいりるのか？	dialogue	Lumbridge Guide	Lumbridge Guide
 How do I get cabbages?	キャベツのにゅうしゅほうほうは？	dialogue	Lumbridge Guide	Lumbridge Guide
-I'd like to know about other food.	ほかのしょくべものについてもしりたい。	dialogue	Lumbridge Guide	Lumbridge Guide
+I'd like to know about other food.	ほかのたべものについてもしりたい。	dialogue	Lumbridge Guide	Lumbridge Guide
 I'd like to know about something else.	ほかにもしりたいことがあるんだ。	dialogue	Lumbridge Guide	Lumbridge Guide
 How do I fish?	どうやって つり を すればいい の?	dialogue	Lumbridge Guide	Lumbridge Guide
 Where can I find meat?	にくはどこでてにいりますか？	dialogue	Lumbridge Guide	Lumbridge Guide
@@ -38995,7 +38995,7 @@ Well, some people see it as a sport, although such a term does not really convey
 Putting it simply, it is the training and use of birds of prey in hunting quarry.	かんたんにいうと、えものをかりるために、とりをくんれんして、つかいうんだ。	dialogue	Matthias	Matthias
 So it's like keeping a pet then?	ペットをかいうみたいなの。	dialogue	Matthias	Player
 Not exactly, no. Such a bird can never really be considered tame in the same way that a dog can.	ちがう。そんないぬみたいにペットっていいえない。	dialogue	Matthias	Matthias
-They can be trained to associate people or places with food though, and, as such, a good falconer can get a trained bird to do as he wishes.	ひとやばしょとしょくべものをかんれんづけるように、くんれんすることができる。いいくんれんものだったら、とりをコントロールできる。	dialogue	Matthias	Matthias
+They can be trained to associate people or places with food though, and, as such, a good falconer can get a trained bird to do as he wishes.	ひとやばしょとたべものをかんれんづけるように、くんれんすることができる。いいくんれんものだったら、とりをコントロールできる。	dialogue	Matthias	Matthias
 Could I have a go with your bird?	きみのとりをいっしょにつかいってみたい。	dialogue	Matthias	Player
 Could I invest in your setup here?	ここになげしすることはできるかな。	dialogue	Matthias	Player
 If you'd like to put money forward for training more falcons, be my guest!	もっとハヤブサをくんれんするためにおきんをですなら、どうぞ。	dialogue	Matthias	Matthias
@@ -39038,7 +39038,7 @@ Ah yes, well, of course! I've travelled around this island and found the best sp
 So those would be the best locations to place my traps...	それで、わなをおきくのにいちばんいいばしょってことだね。	dialogue	Mattimeo	Player
 Traps?! Preposterous! These fine exotic Birds are to be watched and not harmed in any way!	わな。バカなことをいうな。このびしいめずらしいとりはみて、きずつけちゃダメだ。	dialogue	Mattimeo	Mattimeo
 Did I say traps? Oh, I meant, umm, feeding them! Yes! I could feed them.	ぼくはわなのをいいましたか？ああ、ぼくはいいました。あ...かれらをきゅうしょくすること。そう！ぼくはかれたちをきゅうしょくすることができます。	dialogue	Mattimeo	Player
-You should not interfere with the birds, just watch, no feeding them anything! Not even seeds!	とりになにかしちゃダメ。みて。しょくべものも、たねも、なにもあげちゃダメ。	dialogue	Mattimeo	Mattimeo
+You should not interfere with the birds, just watch, no feeding them anything! Not even seeds!	とりになにかしちゃダメ。みて。たべものも、たねも、なにもあげちゃダメ。	dialogue	Mattimeo	Mattimeo
 Seeds you say...	たねですか。	dialogue	Mattimeo	Player
 You seem a little, twitchy...	きみ、ちょっとへんだね。	dialogue	Mattimeo	Player
 Yes, well, perhaps a bit! There are new exotic birds everywhere on this island! I guess I'm getting a little over-excited.	そうだね。このしまにしんしいめずらしいとりがいっぱいいるんだ。ちょっとこうふんしてる。	dialogue	Mattimeo	Mattimeo
@@ -39176,7 +39176,7 @@ Oh they'd never do that - unless I tell them to, of course.	あ、ぜったい�
 I'd better stay on your good side then!	きみのあくいがわにならないようにしなくちゃ。	dialogue	Meegle	Player
 Although you have found your customer you don't appear to have brought the correct food with you! You need [a/some] [ordered gnome food/drink item]!	あなたが あなたの きゃくしょくを みつけました。でも、あなたは ただしい しょくりょう を もってきていない ようです！[ちゅういされた ノーム しょくりょう/いんりょう]が ひつよう です。	dialogue	Meegle	Meegle
 Premade dishes will not do I'm afraid. Only hand made Gnome Cuisine is good enough for customers of Aluft Aloft.	せいせきされた さら は だめです。しょくぱんの ノーム りょうり だけが こきゃくだん に いいですね。	dialogue	Meegle	Meegle
-You hand over your delivery of [a/some] [ordered gnome food/drink item] to Dalila	きみは、はいたつのを、なにかのしょくべものやのみものを、ダリラにわたしす。	dialogue	Meegle	Meegle
+You hand over your delivery of [a/some] [ordered gnome food/drink item] to Dalila	きみは、はいたつのを、なにかのたべものやのみものを、ダリラにわたしす。	dialogue	Meegle	Meegle
 Ah, just in time for a break. Thank you.	ああ、ちょうどいい、やすみの、ときです。ありがとう。	dialogue	Meegle	Meegle
 You have [number] credits towards your free delivery token. You may get [number] pieces of gnome food delivered to you.	あなたは じゆう はいたつ トークン へ の [すうれい]くれじっと が あります。あなたは [すうれい]の のーむ しょくりょう を はいたつさせられます。	dialogue	Meegle	Meegle
 Don't forget to pick up your free delivery token from Aluft Gianne jnr.	アルフト ぎあんね じゅにあ から じゆう はいたつ とーくん を ひろい あがることを わすれずに。	dialogue	Meegle	Meegle
@@ -39306,8 +39306,8 @@ I'm barely surviving...	そうだね。	dialogue	Meiyerditch citizen	Meiyerditch
 When I'm not being drained of blood, the vyrewatch force me to repair the walls.	ほぼ、しぬんだ。	dialogue	Meiyerditch citizen	Meiyerditch citizen
 When I'm not being drained of blood I'm fixing up the ghetto.	なにも、が、いつも、が、すう。かべを、ちょくす。	dialogue	Meiyerditch citizen	Meiyerditch citizen
 I just try to make a living the best way I can. You haven't got some food have you?	すう。わたしたちは、ちょくしてるんだ。	dialogue	Meiyerditch citizen	Meiyerditch citizen
-Like everyone else, I just survive here. Just try to keep alive till after the next blood tithe. That's when they feed us.	おれも、そうしてるんだ。きみ。しょくべもの。	dialogue	Meiyerditch citizen	Meiyerditch citizen
-Why do you wanna know?	しょくべもの。	dialogue	Meiyerditch citizen	Meiyerditch citizen
+Like everyone else, I just survive here. Just try to keep alive till after the next blood tithe. That's when they feed us.	おれも、そうしてるんだ。きみ。たべもの。	dialogue	Meiyerditch citizen	Meiyerditch citizen
+Why do you wanna know?	たべもの。	dialogue	Meiyerditch citizen	Meiyerditch citizen
 Just curious, that's all.	きみ。どう。	dialogue	Meiyerditch citizen	Player
 I dunno. I don't know if I can trust you...	わかりません。ぼくはあなたをしんじることができるかどうか、わかりません...	dialogue	Meiyerditch citizen	Meiyerditch citizen
 I'm lost... Can you help me?	どう。	dialogue	Meiyerditch citizen	Player
@@ -42062,8 +42062,8 @@ Frank doesn't seem like a very fitting name for a bloodveld.	フランクはブ�
 Oh, he was named after my last pet. That one wasn't a bloodveld though, that one was a human.	ああ、かれはさりったペットのなまえです。あのペットはブラッドベルドではなく、にんげんでした。	dialogue	Natalidae Shadum	Natalidae Shadum
 You had a pet human?	あなたはペットにんげんをもっていたんですか？	dialogue	Natalidae Shadum	Player
 Yes! A pet human called Frank.	そう！フランクという，ペットのにんげん。	dialogue	Natalidae Shadum	Natalidae Shadum
-Frank was great. He died though. Mother said it was my fault, that I didn't feed him properly. I'm not allowed pet humans now.	フランクはさいこうでした。でも、しにました。はは、それはわたしのせいで、ちゃんとしょくべさせなかったといいました。もうペットにんげんをもちつことはゆるしされません。	dialogue	Natalidae Shadum	Natalidae Shadum
-It's okay though. Now I have Frank the bloodveld. He's great. I don't need to feed him. He feeds himself.	でもだいじょうぶです。いまはほねちグモがいます。かれはさいこうです。しょくべさせるひつようがありません。かれはじぶんじしんをしょくべます。	dialogue	Natalidae Shadum	Natalidae Shadum
+Frank was great. He died though. Mother said it was my fault, that I didn't feed him properly. I'm not allowed pet humans now.	フランクはさいこうでした。でも、しにました。はは、それはわたしのせいで、ちゃんとたべさせなかったといいました。もうペットにんげんをもちつことはゆるしされません。	dialogue	Natalidae Shadum	Natalidae Shadum
+It's okay though. Now I have Frank the bloodveld. He's great. I don't need to feed him. He feeds himself.	でもだいじょうぶです。いまはほねちグモがいます。かれはさいこうです。たべさせるひつようがありません。かれはじぶんじしんをたべます。	dialogue	Natalidae Shadum	Natalidae Shadum
 What a nice happy ending.	ほんとうにたのしいむすびすえですね。	dialogue	Natalidae Shadum	Player
 Human! Get back to the slave pens before I call the guards!	にんげん。げんしょくに もどってください。ガードを よびます。	dialogue	Natalidae Shadum	Natalidae Shadum
 Hello there.	こんにちは。	dialogue	Nathifa	Player
@@ -42116,9 +42116,9 @@ Ahh tortoises, the armoured ancients.	ああ、カメ。そうこうされたこ
 The player and the natural historian teleport to a cutscene in front of the tortoise display case with a teacher and pupil and schoolgirl.	プレイヤーとしぜんしかは、カメディスプレイケースのまえでせんせいとなまとおんなこなまとのカットシーンにテレポートします。	dialogue	Natural historian	Natural historian
 The tortoise is a very well defended beast. It uses an armoured shell just like its aquatic cousins the terrapin and the turtle.	カメはひじょうによくぼうぎょされたけものです。そうこうからをしようします。そのみずなまいとこのテラピンとカメとおなじです。	dialogue	Natural historian	Natural historian
 The natural historian poses as a tortoise...	しぜんしかはカメのようなポーズをとります…	dialogue	Natural historian	Natural historian
-Tortoises can vary in size from about as long as your hand to as big as a unicorn. Most land tortoises eat nothing but plants in the wild.	カメはあなたのてくらいしょうさいものから、ユニコーンおなじくらいだいきいものまで、サイズはさま々です。ほとんどのりくちカメはやせいではなにもしょくべません。	dialogue	Natural historian	Natural historian
+Tortoises can vary in size from about as long as your hand to as big as a unicorn. Most land tortoises eat nothing but plants in the wild.	カメはあなたのてくらいしょうさいものから、ユニコーンおなじくらいだいきいものまで、サイズはさま々です。ほとんどのりくちカメはやせいではなにもたべません。	dialogue	Natural historian	Natural historian
 Did you know you can tell how old a tortoise is by the number of rings in its shell, just like a tree.	あなたがカメのからのわのかずをかずえることで、カメがどのくらいふるいのかをしりることができます。きのように。	dialogue	Natural historian	Natural historian
-Most land-based tortoises eat plants, feeding on grazing grasses, weeds, leafy greens, flowers, and cabbages.	ほとんどのりくちカメはしょくぶつをしょくべます。くさ、ざっそう、はものやさい、はな、キャベツをしょくべます。	dialogue	Natural historian	Natural historian
+Most land-based tortoises eat plants, feeding on grazing grasses, weeds, leafy greens, flowers, and cabbages.	ほとんどのりくちカメはしょくぶつをたべます。くさ、ざっそう、はものやさい、はな、キャベツをたべます。	dialogue	Natural historian	Natural historian
 Tortoises generally live as long as people, and some individual ones are known to have lived longer than 300 years.	カメはいっぱんてきにひとのようにながくなまきます。そして、いちぶのカメは300ねんいじょうなまきたことがしられています。	dialogue	Natural historian	Natural historian
 Because of this, they symbolise longevity within some cultures, such as gnomes who also breed them for battle.	このため、いちぶのぶんかでは、ながじゅをしょうちょうしており、ノームはまた、かれらをせんいのためにそだてます。	dialogue	Natural historian	Natural historian
 The oldest tortoise ever recorded was Mibbiwocket, who was presented to the King Healthorg the Great, by the famous explorer Admiral Bake, shortly after its birth.	きろくされたことがあるもっともふるいカメはミビウォケットでした。ゆうめいなさがしけんいえアドミラル・ベイクから、そのたんじょうのちょくあとにいだいなけんこうりょうぬしおうにていじされました。	dialogue	Natural historian	Natural historian
@@ -42135,7 +42135,7 @@ For instance, you can trace the ancestry of the common house cat back to the sam
 However, with the dragon, no such root ancestor can be found.	しかし、ドラゴンのばあい、このようなねざしたそせんはみつかりません。	dialogue	Natural historian	Natural historian
 There are many forms of dragon, such as the common coloured and the metallic, or ferrous, dragon.	ドラゴンにはいくつかのかたちがあります。いっぱんてきないろつききおよびきんぞくせいまたはフェラス・ドラゴンなど。	dialogue	Natural historian	Natural historian
 They colonise many areas of Gielinor, though most notably, sites of ancient battles and small dank caves.	かれらはジエリノールのおおいくのちいきをうたみちかしています。ただし、とくにこだいのせんばとしょうさなうすあんいどうくつ。	dialogue	Natural historian	Natural historian
-Eating habits tend to vary, with the majority of their food being meat. However, it has also been noted that they can consume metals just as easily, with runite being thought of as a delicacy.	しょくならなはさま々です。ほとんどのしょくべものはにくです。しかし、きんぞくもおなじくらいかんたんにきえひできることもちゅうもくされています。ルニットはめずらしいあじとかんがえられています。	dialogue	Natural historian	Natural historian
+Eating habits tend to vary, with the majority of their food being meat. However, it has also been noted that they can consume metals just as easily, with runite being thought of as a delicacy.	しょくならなはさま々です。ほとんどのたべものはにくです。しかし、きんぞくもおなじくらいかんたんにきえひできることもちゅうもくされています。ルニットはめずらしいあじとかんがえられています。	dialogue	Natural historian	Natural historian
 Throughout history, dragons have appeared in myth and legend as fearsome adversaries and cunning creatures.	れきしをとおりじて、ドラゴンはしんわとでんせつできょうろしいてきとして、ずるかつななまきものとしておもてれました。	dialogue	Natural historian	Natural historian
 However, modern evidence does not support this. Most young dragons are largely creatures of instinct with a strong vicious streak.	しかし、げんだいのしょうきょはこれをサポートしていません。ほとんどのわかいドラゴンは、ぬしにほんのうのなまきものです。きょういあくいすじがあります。	dialogue	Natural historian	Natural historian
 The lifespan of the common dragon is as yet unknown, as no dragon has ever been observed dying of old age.	ふつうのドラゴンのじゅみょうはまだしられていません。ドラゴンはねんをとってしぬことがかんさつされたことがありません。	dialogue	Natural historian	Natural historian
@@ -42149,7 +42149,7 @@ The natural historian poses as a wyvern...	しぜんしかはワイバーンの�
 In that they are both large flying reptiles. The wyvern stands much shorter than the adult dragon and only has two legs as opposed to the dragon's four.	それは、かれらはだいきなとびんでいるはちゅうるいだということです。ワイバーンはだいひとのドラゴンよりていくたてっています。4ほんのあしではなく、2ほんのあしかありません。	dialogue	Natural historian	Natural historian
 Much of the evidence for wyvern behaviour comes from the reconstruction of old bones in the icy mountains of Asgarnia.	ワイバーンこうどうにかんするほとんどのしょうきょは、アスガルニアのこおりのやまでのふるいほねのふたたかまなりからきます。	dialogue	Natural historian	Natural historian
 One is that Asgarnia was at one time a much more temperate climate than it is now. The other is that wyverns could generate fire internally in much the same way as dragons.	いちつは、アスガルニアはかつていまよりあたたあたたかなきこうだったということです。もういちつは、ワイバーンはドラゴンとおなじほうほうでないぶでひをなまなりすることができたということです。	dialogue	Natural historian	Natural historian
-If they follow the dragon paradigm, then they would have been carnivores, feeding on cows, sheep and other livestock animals.	かれらがドラゴンパラダイムにしたがいったら、かれらはにくしょくどうぶつだったでしょう。うし、ひつじ、そのほかのいえちくをしょくべます。	dialogue	Natural historian	Natural historian
+If they follow the dragon paradigm, then they would have been carnivores, feeding on cows, sheep and other livestock animals.	かれらがドラゴンパラダイムにしたがいったら、かれらはにくしょくどうぶつだったでしょう。うし、ひつじ、そのほかのいえちくをたべます。	dialogue	Natural historian	Natural historian
 How and why the wyverns became extinct is something of a mystery. Though if you consider the theory that the climate of Asgarnia changed suddenly, then this could provide an explanation.	ワイバーンがなぜなぜぜつめつしたのかはなぞです。アスガルニアのきこうがとつぜんへんわったというりろんをかんがえると、これはせつめいをていきょうすることができます。	dialogue	Natural historian	Natural historian
 There are some inconsistencies in the findings we have for the wyverns, such as the odd wear patterns of some of bones, which really could only have happened after the creature died.	ワイバーンについては、むじゅんがありますが、いくつかのほねのきみょうなまもうパターンなど、なまきものがしあとにしかおきこることができません。	dialogue	Natural historian	Natural historian
 Also the bones we have collected remain a little below room temperature wherever they are kept.	また、しゅうあつめしたほねは、ほかんされているばしょはどこでも、すこししつあたたよりていままです。	dialogue	Natural historian	Natural historian
@@ -42183,7 +42183,7 @@ Because of their similarity to monkeys, apes such as chimpanzees and gibbons are
 Though some natural historians don't consider them to be monkeys. Also, a few monkey species have the word 'ape' in their common name.	ただしいちぶのしぜんしかは、かれらはさるではないとかんがえません。また、いくつかのさるのたねは、かれらのいっぱんてきななまえに「エイプ」ということばをもっています。	dialogue	Natural historian	Natural historian
 The Karamja monkeys are rumoured to be fairly cunning and intelligent creatures, although rumours that they have learned human speech is anecdotal at best.	カラムジャさるはかなりずるかつでしりてきななまきものだといいわれています。しかし、かれらがにんげんのことばをまなびんだといううわさは、せいぜいいつわてきです。	dialogue	Natural historian	Natural historian
 In appearance, they stand much shorter than a human and tend to move in a hunched fashion. Karamja monkeys also sport a red mohawk, though it is unknown whether this is an affectation or not.	そとかんでは、かれらにんげんよりていくたてっています。かがむほうほうでいどうするけいこうがあります。カラムジャさるはまたあかいモヒカンをしています。これがさましきなのか、それともべつのものなのかはふめいです。	dialogue	Natural historian	Natural historian
-They are very fond of bananas and bitternuts, eating them in huge quantities whenever they can get their paws on them.	かれらはバナナとビターナットがだいすききです。かれらがてにいりれることができるたびに、きょだいなりょうでしょくべます。	dialogue	Natural historian	Natural historian
+They are very fond of bananas and bitternuts, eating them in huge quantities whenever they can get their paws on them.	かれらはバナナとビターナットがだいすききです。かれらがてにいりれることができるたびに、きょだいなりょうでたべます。	dialogue	Natural historian	Natural historian
 The harmless monkeys of Mos Le'Harmless are a very similar, but in some ways entirely different, breed. They stand roughly the same size but are a lighter colour.	ハーミレス・モス・レ・モスレスのむがいなさるは、ひじょうににていますが、いくつかのてんでかんぜんにことなるしなたねです。かれらはほぼおなじサイズですが、よりかるいいろです。	dialogue	Natural historian	Natural historian
 Interestingly, Karamaja monkeys have a deep dislike of seaweed, though this may stem from the actions of a number of irresponsible people.	きょうみふかいいことに、カラムジャさるはかいそうにふかいきらいをもっています。これはせきにんのないおおいかずのひと々のいきためにおきいんするかのうせいがあります。	dialogue	Natural historian	Natural historian
 And this concludes my short lecture on monkeys. I hope you've enjoyed yourselves.	これでさるにかんするたんいこうぎがおわります。たのしいしんでくれたことをねがいっています。	dialogue	Natural historian	Natural historian
@@ -42196,7 +42196,7 @@ Very little is actually known about the sea slug, as we have, as yet, been unabl
 For some reason all expeditions we have sent have either vanished mysteriously, or those on the expedition have sent letters back announcing their desire to leave the Museum and go on to other things.	なにかりゆうで、おくりったたんけんたいはすべてしんぴてきにきえてしまったか、たんけんたいのひと々ははくぶつかんをさりってほかのものにいきたいほしいのぞみをのべたてがみをおくりってしまったのです。	dialogue	Natural historian	Natural historian
 It is presumed that the species is native to the very deep waters around the eastern Ardougne coastline.	たねは、アードーニュとうぶそいきしまわりあたりのひじょうにふかいうみいきこゆうだとすいそくされます。	dialogue	Natural historian	Natural historian
 There must be some natural resource in the area that the sea slugs are using, as the underwater habitat there is much the same around many coastal areas on Gielinor.	ウミうしがしようしているなにかしぜんのしげんがなければなりません。みずちゅうのせいそくちは、ジエリノールまわりあたりのおおいくのそいきしちいきでおなじです。	dialogue	Natural historian	Natural historian
-Through looking at similar species we have determined that the sea slug is a harmless little creature. It spends much of its life grazing on seaweed and other plant life.	るいにたねをみることで、わたしたちはウミうしがむがいなしょうさななまきものであるとはんだんしました。じんせいのおおいくをかいそうやほかのしょくぶつのせいかつをしょくべます。	dialogue	Natural historian	Natural historian
+Through looking at similar species we have determined that the sea slug is a harmless little creature. It spends much of its life grazing on seaweed and other plant life.	るいにたねをみることで、わたしたちはウミうしがむがいなしょうさななまきものであるとはんだんしました。じんせいのおおいくをかいそうやほかのしょくぶつのせいかつをたべます。	dialogue	Natural historian	Natural historian
 There are reports that these reclusive animals have two large fangs at their front, though this is assumed to be either for decorative or defensive purposes.	これらのかくしとんてきなどうぶつには、まえめんに2つのだいきなきばがあるというほうこくがあります。これはそうしょくてきまたはぼうぎょてきなめてきのためだとかんがえられています。	dialogue	Natural historian	Natural historian
 If they do follow the same pattern as other similar creatures, the shell will be nigh on impervious to most attacks. The exposed soft skin may have a number of nematocysts, or stinging organs, similar to jellyfish.	かれら が ほか の るいじ な ちせいぶつ と おなじ ぱたーん に したがえば、から は たいかい が ほぼ ほぼ あります。ろしゅつ した やわらかい ひふ は、くらげ の ような ねまときしすと、または さす き が たくさん あるかも しれません。	dialogue	Natural historian	Natural historian
 It is typical of prey animals such as these to develop some kind of unique defence mechanism that allows them to survive.	これらのようなひがいどうぶつは、なまきのこりることができ、どくじのぼうぎょきせいをはつてんさせるのがてんけいてきです。	dialogue	Natural historian	Natural historian
@@ -42208,7 +42208,7 @@ The player and the natural historian teleport to a cutscene in front of the snak
 Serpentes, or ophidia, is the suborder under squamata that snakes belong to, like a big family.	セルペンテス、またはオフィディア、は、へびがぞくするスクアマタのかいとおなじです。だいきなかぞくのように。	dialogue	Natural historian	Natural historian
 The natural historian poses as a snake...	しぜんしかはへびのようなポーズをとります…	dialogue	Natural historian	Natural historian
 Unlike lizards, snakes have no limbs whatsoever; not that this limits them. Snakes live in or near every habitat in the world.	トカゲとはことなり、へびにはししがまったくありません。これがそれらをせいげんするわけではありません。へびはせかいのほぼすべてのせいそくちにすみんでいます。	dialogue	Natural historian	Natural historian
-Found in nice tropical forests, temperate lattitudes and even in the ocean - some have adapted specialised stomach juices that they inject into their prey as venom, while others prefer to grab and crush their food.	すてきなねったいはやし、あたたあたたかないど、そしてうみでさえみつかって、いくつかはとくしゅないえきをひらきはつしました。かれらはかれらのえものにどくをそそいりします。ほかのものはかれらのしょくべものをつかむとおしつぶすことをすきみます。	dialogue	Natural historian	Natural historian
+Found in nice tropical forests, temperate lattitudes and even in the ocean - some have adapted specialised stomach juices that they inject into their prey as venom, while others prefer to grab and crush their food.	すてきなねったいはやし、あたたあたたかないど、そしてうみでさえみつかって、いくつかはとくしゅないえきをひらきはつしました。かれらはかれらのえものにどくをそそいりします。ほかのものはかれらのたべものをつかむとおしつぶすことをすきみます。	dialogue	Natural historian	Natural historian
 While others still are fast hunters who use speed and strength to overcome their prey.	そのほかはまだこうはやいかりゅうどです。かれらははやいさとちからをつかいって、かれらのえものをこくふくするけいこうがあります。	dialogue	Natural historian	Natural historian
 The sense of smell in snakes has been enhanced in an amazing way. With most animals, like you and me, tiny particles are filtered through the nose.	へびのかぐおぼえはおどろきくべきほうほうでかくちょうされています。あなたとわたしのほとんどのどうぶつでは、しょうさなつぶこははなをとおりしてフィルターされます。	dialogue	Natural historian	Natural historian
 However, instead of using just their nose, these animals use their tongues as well. When a lizard or a snake wants to smell it's surroundings, it will wave its tongue around and pick up the particles in the air.	しかし、かれらはかれらじしんのはなをつかいうだけのだいわりに、かれらはまたかれらじしんのしたをしようします。トカゲまたはへびがくさいをしたいとき。それはそのまわりかこをなみたてたせ、くうきちゅうのつぶこをひろいじょうげます。	dialogue	Natural historian	Natural historian
@@ -42226,8 +42226,8 @@ Ahh terrorbirds, the fastest bird on two legs.	ああ、テラーバード。に
 The player and the natural historian teleport to a cutscene in front of the terrorbird display case with a teacher and pupil and schoolgirl.	プレイヤーとしぜんしかは、テラーバードディスプレイケースのまえでせんせいとなまとおんなこなまとのカットシーンにテレポートします。	dialogue	Natural historian	Natural historian
 Terrorbirds live in nomadic groups of between five and fifty birds that often travel together with other grazing animals.	テラーバードは、5から50はねのとりのグループにすみんでいます。しばしば、ほかのくさしょくどうぶつといっしょにりょこうします。	dialogue	Natural historian	Natural historian
 The natural historian poses as a terrorbird...	しぜんしかはテラーバードのようなポーズをとります…	dialogue	Natural historian	Natural historian
-They mainly feed on seeds and other plants. They also eat insects such as locusts if they can catch them.	かれらはぬしにたねことほかのしょくぶつでしょくべます。かれらはまたバッタなどのこんちゅうをしょくべます。できるなら。	dialogue	Natural historian	Natural historian
-They have no teeth to chew with, so they swallow pebbles that help to grind the swallowed foods in the gizzard.	かれらはそしゃくすることができません。だから、かれらはすなりをのみこみます。これはすべてのすべてのしょくべものをすなのうでひくのをたすけます。	dialogue	Natural historian	Natural historian
+They mainly feed on seeds and other plants. They also eat insects such as locusts if they can catch them.	かれらはぬしにたねことほかのしょくぶつでたべます。かれらはまたバッタなどのこんちゅうをたべます。できるなら。	dialogue	Natural historian	Natural historian
+They have no teeth to chew with, so they swallow pebbles that help to grind the swallowed foods in the gizzard.	かれらはそしゃくすることができません。だから、かれらはすなりをのみこみます。これはすべてのすべてのたべものをすなのうでひくのをたすけます。	dialogue	Natural historian	Natural historian
 They can go without water for a long time, exclusively living off the water in the plants. However, they enjoy water and frequently take baths when they can.	かれらはながいあいだみずなしでいきくことができます。かれらはしかしょくぶつのちゅうのみずでなまきます。しかし、かれらはみずがすきで、かれらがえることができるときはひんぱんにかぜろにいります。	dialogue	Natural historian	Natural historian
 Terrorbirds are known to eat almost anything, particularly in captivity, where opportunity is increased.	テラーバードは、ほぼすべてをたべることがしられています。とくにかいそだしたでは、きかいがふくわえしています。	dialogue	Natural historian	Natural historian
 Terrorbirds usually weigh a little less than a small unicorn. The feathers of adult males are mostly green, with some white on the wings and tail.	テラーバードはつうじょう、しょうさなユニコーンみまんのからだおもいです。なりひとだんせいのはねけは、ほとんどみどりです。つばさとおにいくらかのしろがあります。	dialogue	Natural historian	Natural historian
@@ -44609,7 +44609,7 @@ Seen them? Not sure I have.	みたのかみてないのか...	dialogue	Oriana	Pl
 Hidden in plain sight. Perfect! Well it's all the street urchins of course. You can tell if they are part of my crew by the purple sash around their waist.	めにみえてるかくしれば。かんぺき！ストリートガキたちさ。こしにむらさきのひもがある。あいつらはなかまだよ	dialogue	Oriana	Oriana
 Most of them lost their parents to the Colosseum, hoping to get glory for their family. The Colosseum 'owever, had other plans...	ほとんどがおやをうしないってる。コロシアムでね。そのおやたちのえいこうをねがいった。でも、コロシアムはほかのけいかくを...	dialogue	Oriana	Oriana
 That's awful.	あ、かわいそうだなあ	dialogue	Oriana	Player
-It really is. They had nowhere to go and no food to eat, so I offered them a home, food, and all the gold they would ever need to 'ave a good life.	ほんとにね。どこにもいきばがなくて、しょくべものがない。だからぼくがいえと、しょくべものと、いちなまのきんをあげたんだ	dialogue	Oriana	Oriana
+It really is. They had nowhere to go and no food to eat, so I offered them a home, food, and all the gold they would ever need to 'ave a good life.	ほんとにね。どこにもいきばがなくて、たべものがない。だからぼくがいえと、たべものと、いちなまのきんをあげたんだ	dialogue	Oriana	Oriana
 No one suspects them, which makes them perfect spies.	だれもうたがわない。かんぺきなスパイだよ	dialogue	Oriana	Oriana
 Can they help me in anyway?	あいつらがなにかてつだいえるのか？	dialogue	Oriana	Player
 Yes they can! Some in the residential area will point out houses free to rob, and some will be in and around the bazaar, distracting the wealthy citizens.	できる！そこになにひとかいるんだ。いえをぬすみめるじょうたいだっておしえてくれるし、バザーではおきんもちちたちをきをそらす	dialogue	Oriana	Oriana
@@ -44618,7 +44618,7 @@ It sure is, but give them any trouble, and I'll throw you in the Colosseum mysel
 Understood.	わかりました。	dialogue	Oriana	Player
 What's your story?	あんたのはなしは？	dialogue	Oriana	Player
 Not much to tell really.	あんまりいうことがないんだ	dialogue	Oriana	Oriana
-I was an orphan, much like these street urchins you see around the city. I spent my days running around scrounging for food and struggling to find somewhere to sleep.	あたしはこじだったんだよ。このストリートガキたちみたいにね。まいにち、しょくべものをさがして、ねむるばしょをさがしてた	dialogue	Oriana	Oriana
+I was an orphan, much like these street urchins you see around the city. I spent my days running around scrounging for food and struggling to find somewhere to sleep.	あたしはこじだったんだよ。このストリートガキたちみたいにね。まいにち、たべものをさがして、ねむるばしょをさがしてた	dialogue	Oriana	Oriana
 Eventually, I turned to a life of crime and thievery. Turns out I'm quite good at it.	けっきょくね、どろぼうのじんせいにすすみんだんだ。とくいなことがわかった	dialogue	Oriana	Oriana
 I took refuge in a small spot in the north east of the city. Out of sight, out of mind.	まちのきたひがしのちっさいばしょにかくしれてた。めにみえないばしょ	dialogue	Oriana	Oriana
 There I met with other orphans just like me. We all wanted payback. Payback on the city for forgetting about us.	ほかのこじたちにかいったんだ。みんなおなじだった。みんなまちにやられたから、やりかえしたかった	dialogue	Oriana	Oriana
@@ -44838,19 +44838,19 @@ How should I squeeze the fruit?	どうやってくだものをしぼるのか？
 Is there a reward for getting these sq'irks?	スクイークをもらうほうしゅうがあるのか？	dialogue	Osman	Osman
 What's so good about sq'irk juice then?	スクイークジュースはなにがいいのか？	dialogue	Osman	Osman
 As you approach the spirit, you hear a voice echoing in your head.	あんたがきをかんじるのがききます	dialogue	Osmumten	Osmumten
-You. You fought against the Devourer. Her influence here has been lessened as a result. You are to be commended for your strength.	あんた。あんたがあくしょくべのものとせんった。ここで、あいつらのちからがてい。あんたのちからにかんしゃするよ	dialogue	Osmumten	Spirit
+You. You fought against the Devourer. Her influence here has been lessened as a result. You are to be commended for your strength.	あんた。あんたがあくたべのものとせんった。ここで、あいつらのちからがてい。あんたのちからにかんしゃするよ	dialogue	Osmumten	Spirit
 I take it you're Osmumten?	あんたはオスムテンですか？	dialogue	Osmumten	Player
-Once, but who I was in life means nothing. Vengeance is all that matters now. The Devourer may be gone, but my home has been corrupted. This corruption must be destroyed.	むかしはそっだけど、じんせいでなにだったかは、もうだいじじゃない。がまんがぜんぶ。あくしょくべがむくなったけど、こきょうがよごれい。きれいにしないと	dialogue	Osmumten	Osmumten
+Once, but who I was in life means nothing. Vengeance is all that matters now. The Devourer may be gone, but my home has been corrupted. This corruption must be destroyed.	むかしはそっだけど、じんせいでなにだったかは、もうだいじじゃない。がまんがぜんぶ。あくたべがむくなったけど、こきょうがよごれい。きれいにしないと	dialogue	Osmumten	Osmumten
 Can I help?	てつだいえる？	dialogue	Osmumten	Player
-You can. Take your prize and leave, but when you are ready, return here. The Devourer's thralls will soon be back. You must fight them.	できる。しょうひんをもらってでろ。だけど、じゅんびができたら、もどりってきてね。あくしょくべのしたがいものがすぐにもどりる。あいつらとせんう	dialogue	Osmumten	Osmumten
+You can. Take your prize and leave, but when you are ready, return here. The Devourer's thralls will soon be back. You must fight them.	できる。しょうひんをもらってでろ。だけど、じゅんびができたら、もどりってきてね。あくたべのしたがいものがすぐにもどりる。あいつらとせんう	dialogue	Osmumten	Osmumten
 I'll do what I can.	やれることはやる	dialogue	Osmumten	Player
 We shall see if it is enough.	やれるだけやれるかなみせてもらう	dialogue	Osmumten	Osmumten
 Yes.	そうだ！	dialogue	Osmumten	Osmumten
 No.	いや。	dialogue	Osmumten	Osmumten
-The Devourer's thralls will be back, but they have been weakened because of you. Your prize awaits.	あくしょくべのしたがいものがもどりるけど、あんたのせいでじゃくい。しょうひんあるよ	dialogue	Osmumten	Osmumten
-You have done well, but it is time for you to leave. The Devourer's thralls will soon return.	よくやったけど、でるタイムがきた。あくしょくべのしたがいものがすぐにもどりる	dialogue	Osmumten	Osmumten
-You fought well. The Devourer's influence here has lessened, but it will soon be restored. It is time for you to leave.	いいせんい。あくしょくべのちからがていけど、すぐにもどりる。でるタイムだ	dialogue	Osmumten	Osmumten
-We are done here, but the Devourer's thralls are everywhere. They must be removed.	ここはおわりわったけど、あくしょくべのしたがいものがどこにもいる。やっつけないと	dialogue	Osmumten	Osmumten
+The Devourer's thralls will be back, but they have been weakened because of you. Your prize awaits.	あくたべのしたがいものがもどりるけど、あんたのせいでじゃくい。しょうひんあるよ	dialogue	Osmumten	Osmumten
+You have done well, but it is time for you to leave. The Devourer's thralls will soon return.	よくやったけど、でるタイムがきた。あくたべのしたがいものがすぐにもどりる	dialogue	Osmumten	Osmumten
+You fought well. The Devourer's influence here has lessened, but it will soon be restored. It is time for you to leave.	いいせんい。あくたべのちからがていけど、すぐにもどりる。でるタイムだ	dialogue	Osmumten	Osmumten
+We are done here, but the Devourer's thralls are everywhere. They must be removed.	ここはおわりわったけど、あくたべのしたがいものがどこにもいる。やっつけないと	dialogue	Osmumten	Osmumten
 The player gets relocated to the tombs' nexus.	プレイヤーがはかのちゅうこころにうつりった	dialogue	Osmumten	Osmumten
 Shhh! I'm waiting for the show!	しーっ！ショーをみてるんだ！	dialogue	Ospak	Ospak
 YOU ARE A TERRIBLE BARD!	おまえはこくいぎんゆうしじんだ！	dialogue	Ospak	Ospak
@@ -48684,14 +48684,14 @@ That'll be 2 gold coins.	それは2まいのきんかです。	dialogue	Rauborn	
 Sorry, I don't have 2 coins on me.	もうしわけありませんが、2まいのコインをもっていません。	dialogue	Rauborn	Player
 Thanks for your custom.	あなたのりようをありがとう。	dialogue	Rauborn	Rauborn
 Sorry, I changed my mind.	もうしわけありませんが、きがへんわりました。	dialogue	Rauborn	Player
-I'd like some food please.	しょくべものをください。	dialogue	Rauborn	Player
+I'd like some food please.	たべものをください。	dialogue	Rauborn	Player
 I can make you a stew for 20 gold coins.	20まいのきんかでシチューをさくることができます。	dialogue	Rauborn	Rauborn
 Sorry, I don't have 20 coins on me.	もうしわけありませんが、20まいのコインをもっていません。	dialogue	Rauborn	Player
 I have to go.	もういきかなくちゃ。	dialogue	Rauborn	Player
 I'd like a beer please.	ビールをください。	dialogue	Rauborn	Rauborn
 Pay.	しはらいう。	dialogue	Rauborn	Rauborn
 Don't pay.	はらいわない。	dialogue	Rauborn	Rauborn
-I'd like some food please.	しょくべものをください。	dialogue	Rauborn	Rauborn
+I'd like some food please.	たべものをください。	dialogue	Rauborn	Rauborn
 I have to go	いきかなければならない。	dialogue	Rauborn	Rauborn
 Wooooo! Ooooooooooohh!	わーい。あおおおおおおおおおおお。	dialogue	Raulyn	Raulyn
 Hmm, I wonder if there's something I could use to communicate with him.	ふむふむ、なにかかれとつうしんするためにつかいうことができるものがあるかもしれません。	dialogue	Raulyn	Player
@@ -48732,7 +48732,7 @@ Ok, thanks.	では、ありがとうございます。	dialogue	Razmire Keelgan	
 Hey it's the Hero! Wow! You're amazing, how on earth did you manage to tackle those two juvinates and Gadderanks? And the town is lovely, you've done a great job!	ああ、それは えいゆう です！ わあ！ あなたは あどくう なにを できた ですか？ぞう のふたり の じゅぎょう と ガッデランクス？ そして ぶらく は ふつう です。あなたは いい しごと です！	dialogue	Razvan	Razvan
 You're more than welcome.	あなたは ふつう です。ようこそ。	dialogue	Razvan	Player
 What do you do here?	ここで あなたは なにを しますか？	dialogue	Razvan	Player
-Huh! I'm Razvan, ravaging after food is what I mostly do...occasionally I'll happen across a rat...and that's a good day...just like today!	あ。わたしはラズヴァンです。しょくべものをもとめてしばしばりゃくだつしています。とき々、ネズミにであいいます。それはすばらしいらしいにちです。きょうのように。	dialogue	Razvan	Razvan
+Huh! I'm Razvan, ravaging after food is what I mostly do...occasionally I'll happen across a rat...and that's a good day...just like today!	あ。わたしはラズヴァンです。たべものをもとめてしばしばりゃくだつしています。とき々、ネズミにであいいます。それはすばらしいらしいにちです。きょうのように。	dialogue	Razvan	Razvan
 How do you like your town?	あなたは あなたの ぶらく を どう すきですか？	dialogue	Razvan	Player
 It's just perfect, thanks so much for your efforts.	それは ただ ほぼ かんぺき です。あなたの きょうりょく に ぐいることが ありがとうございました。	dialogue	Razvan	Razvan
 What's happening around here?	なにが ここで おこるのですか？	dialogue	Razvan	Player
@@ -50174,11 +50174,11 @@ Pastels are all the rage this season.	パステルカラーがいまシーズン
 I've no time for fashion.	わたしはファッションのためにじかんがありません。	dialogue	Rometti	Player
 Hmm... I did wonder.	ふむ…そっか。	dialogue	Rometti	Rometti
 OK then, let's have a look.	では、みてみましょう。	dialogue	Rometti	Player
-Although you have found your customer you don't appear to have brought the correct food with you!   You need a [gnome food/drink]!	きみがこきゃくをみつけたけど、ただしいしょくべものをもってないみたいだね！〔ノームしょくべもの/のみもの〕がひつようなんだ！	dialogue	Rometti	Rometti
-You hand over your delivery of a [gnome food/drink] to Rometti	プレイヤーが〔ノームしょくべもの/のみもの〕のはいたつをひきわたしす。	dialogue	Rometti	Rometti
+Although you have found your customer you don't appear to have brought the correct food with you!   You need a [gnome food/drink]!	きみがこきゃくをみつけたけど、ただしいたべものをもってないみたいだね！〔ノームたべもの/のみもの〕がひつようなんだ！	dialogue	Rometti	Rometti
+You hand over your delivery of a [gnome food/drink] to Rometti	プレイヤーが〔ノームたべもの/のみもの〕のはいたつをひきわたしす。	dialogue	Rometti	Rometti
 Ooh, Thank you darling.	あ、ありがとう、しんあいなるおほう。	dialogue	Rometti	Rometti
 You are given [reward] as a tip.	あなたは[ほうしゅう]をもらいました。	dialogue	Rometti	Rometti
-You have [number] credits towards your free delivery token. You may get [number]] pieces of gnome food delivered to you.	あなたは[かず]こいんを、むりょうはいたつトークンへもってきました。[かず]こはんのグノームしょくべものをあなたにはいたちできます。	dialogue	Rometti	Rometti
+You have [number] credits towards your free delivery token. You may get [number]] pieces of gnome food delivered to you.	あなたは[かず]こいんを、むりょうはいたつトークンへもってきました。[かず]こはんのグノームたべものをあなたにはいたちできます。	dialogue	Rometti	Rometti
 I've no time for fashion.	わたしはファッションのためにじかんがありません。	dialogue	Rometti	Rometti
 OK then, let's have a look.	では、みてみましょう。	dialogue	Rometti	Rometti
 Hello and welcome to my pie shop, how can I help you?	こんにちは。そしてわたしのぱいやへようこそ。どうやってきてくれますか？	dialogue	Romily Weaklax	Romily Weaklax
@@ -50403,14 +50403,14 @@ Grrreetings frrriend! Welcome to my worrrld famous food emporrrium! All my meats
 Why do you only sell meats?	「...ベジタリアン（べじたりあん）のもの？」	dialogue	Rufus	Player
 What? Why, what else would you want to eat? What kind of lycanthrrrope are you anyway?	えっ？なぜ、あなたはなにもたべたいとおもっていますか？あなたはどのようなじんおおかみですか？	dialogue	Rufus	Rufus
 ...A vegetarian one?	「ベジタリアン...?」	dialogue	Rufus	Player
-Vegetarrrian...?	「あなたはちょうりすみみ（ちょうりずみ）のしょくべものをうりっていますか？」	dialogue	Rufus	Rufus
+Vegetarrrian...?	「あなたはちょうりすみみ（ちょうりずみ）のたべものをうりっていますか？」	dialogue	Rufus	Rufus
 Never mind.	じゃあきにしないで。	dialogue	Rufus	Player
-Do you sell cooked food?	「ちょうりすみみのしょくべものですか？だれがそれをのぞみますか（のぞみますか）？あなたはち（ち）のあじ（あじ）をあじわうことができないとき、にくのぜんてのかおり（かおり）をうしないう（うしなう）！」	dialogue	Rufus	Player
-Cooked food? Who would want that? You lose all the flavourrr of the meat when you can't taste the blood!	「わたしはしょくべものをかいう（かう）ことができますか？」	dialogue	Rufus	Rufus
+Do you sell cooked food?	「ちょうりすみみのたべものですか？だれがそれをのぞみますか（のぞみますか）？あなたはち（ち）のあじ（あじ）をあじわうことができないとき、にくのぜんてのかおり（かおり）をうしないう（うしなう）！」	dialogue	Rufus	Player
+Cooked food? Who would want that? You lose all the flavourrr of the meat when you can't taste the blood!	「わたしはたべものをかいう（かう）ことができますか？」	dialogue	Rufus	Rufus
 Can I buy some food?	「もちろん！」	dialogue	Rufus	Player
 Cerrrtainly!	「なぜあなたはにく（にく）だけをうりっているのですか？」	dialogue	Rufus	Rufus
 Why do you only sell meats?	「...ベジタリアン（べじたりあん）のもの？」	dialogue	Rufus	Rufus
-Do you sell cooked food?	「ちょうりすみみのしょくべものですか？だれがそれをのぞみますか（のぞみますか）？あなたはち（ち）のあじ（あじ）をあじわうことができないとき、にくのぜんてのかおり（かおり）をうしないう（うしなう）！」	dialogue	Rufus	Rufus
+Do you sell cooked food?	「ちょうりすみみのたべものですか？だれがそれをのぞみますか（のぞみますか）？あなたはち（ち）のあじ（あじ）をあじわうことができないとき、にくのぜんてのかおり（かおり）をうしないう（うしなう）！」	dialogue	Rufus	Rufus
 Can I buy some food?	「もちろん！」	dialogue	Rufus	Rufus
 Hello there.	こんにちは。	dialogue	Rufus (Civitas illa Fortis)	Player
 Hello. A fine day for stealing, wouldn't you say?	こんにちは。ぬすむのにさいこうのにちじゃないですか?	dialogue	Rufus (Civitas illa Fortis)	Rufus
@@ -50973,8 +50973,8 @@ Most certainly, but my services come at a price... of 10,000 coins	あなたが�
 I don't have that sort of money!	わたしはこれらの8ピース（ぴーす）のためになにをしよう（しよう）することができますか？	dialogue	Sandicrahb	Player
 Then you do not belong on my island.	しょうじきジミー（せいじきじみー）がみえる？かれはかれらのためになにかきれい（きれい）なものをとりひき（とりひき）します。	dialogue	Sandicrahb	Sandicrahb
 Fine!	すみません。わたしはちょうりすることができないだれかもとりません。	dialogue	Sandicrahb	Player
-Bye bye bwana.	べつ（べつ）のこといがいに、あなたはよりすこしなく40クッキング（くっきんぐ）があるばあいは、あなたはそれからしょくべものについてけんこうあんぜんについておおいくのかんがえていません。	dialogue	Sandicrahb	Sandicrahb
-Ok, here's the ridiculous sum of money...	あああ。そう。しょくべものはなにもまわり（まわり）にあるまわり（まわり）からさくられた「ラム」が、すこしのかみ（かみ）にいりるといいます。	dialogue	Sandicrahb	Player
+Bye bye bwana.	べつ（べつ）のこといがいに、あなたはよりすこしなく40クッキング（くっきんぐ）があるばあいは、あなたはそれからたべものについてけんこうあんぜんについておおいくのかんがえていません。	dialogue	Sandicrahb	Sandicrahb
+Ok, here's the ridiculous sum of money...	あああ。そう。たべものはなにもまわり（まわり）にあるまわり（まわり）からさくられた「ラム」が、すこしのかみ（かみ）にいりるといいます。	dialogue	Sandicrahb	Player
 Never mind.	じゃあきにしないで。	dialogue	Sandicrahb	Player
 Why so much? You'd get more business if you charged less.	「しごとをしているだれ？」	dialogue	Sandicrahb	Player
 The price is to keep the island quiet, bwana. It's a great place to train, but competing with others can be a hassle and so, for a price, you train in peace!	「わたしののりくみいん（のりくみいん）にさんか（さんか）してください！」	dialogue	Sandicrahb	Sandicrahb
@@ -50997,7 +50997,7 @@ Yes please, I'm done here.	「ビッターナッツをどこでてにいりれ�
 Actually, I've not quite finished yet, I'll stay.	「スクレイプ（すくれいぷ）きじゅひ（きじゅひ）をどこでてにいりれることができますか？」	dialogue	Sandicrahb	Player
 Very well bwana.	「スウィートグラブ（すうぃーとぐらぶ）をどこでてにいりれることができますか？」	dialogue	Sandicrahb	Sandicrahb
 Can you ferry me to that island?	まあ、あなたのチーム（ちーむ）がせいさんするかくボトル（ぼとる）のために、わたしはあなたに1つの8ピース（ぴーす）をあたえる（あたえる）でしょう。	dialogue	Sandicrahb	Sandicrahb
-Ok, here's the ridiculous sum of money...	あああ。そう。しょくべものはなにもまわり（まわり）にあるまわり（まわり）からさくられた「ラム」が、すこしのかみ（かみ）にいりるといいます。	dialogue	Sandicrahb	Sandicrahb
+Ok, here's the ridiculous sum of money...	あああ。そう。たべものはなにもまわり（まわり）にあるまわり（まわり）からさくられた「ラム」が、すこしのかみ（かみ）にいりるといいます。	dialogue	Sandicrahb	Sandicrahb
 Never mind.	じゃあきにしないで。	dialogue	Sandicrahb	Sandicrahb
 Why so much? You'd get more business if you charged less.	「しごとをしているだれ？」	dialogue	Sandicrahb	Sandicrahb
 Sure.	もちろんだ。	dialogue	Sandicrahb	Sandicrahb
@@ -51046,7 +51046,7 @@ Actually, I don't need to speak to you.	「あああ。ああ、それはあな�
 Hey there, can you tell me something about this Sanfew Serum, like how do I make it, and what does it do?	「みは、わたしはまったくかんせい（かんせい）していません。わたしはたいざいします。」	dialogue	Sanfew	Player
 Certainly. It was after all, my creation, and mine alone. If anyone should know how to make it, it should be me!	もちろん。それはともかく，ぼくのそうぞうで，ぼくだけのものでした。だれがそれをつくるほうほうをしっているべきなら，それはぼくであるべきです！	dialogue	Sanfew	Sanfew
 Can't fault that logic!	「よく、ブワナ（ぶわな）。」	dialogue	Sanfew	Player
-Ok, essentially this potion is a mixture of a cure poison, cure disease and restore stats all rolled into one! Very handy for the adventurers with an eye on conserving inventory space.	「あなたはうえているばあいは、わたしはあなたになにをいう...[しょくべものオプション]にあります。」	dialogue	Sanfew	Sanfew
+Ok, essentially this potion is a mixture of a cure poison, cure disease and restore stats all rolled into one! Very handy for the adventurers with an eye on conserving inventory space.	「あなたはうえているばあいは、わたしはあなたになにをいう...[たべものオプション]にあります。」	dialogue	Sanfew	Sanfew
 Ok, I'm sold... How do you make it?	「あなたはいっぱいいることをねがいっています！」	dialogue	Sanfew	Player
 Well, it's very easy really. You take a standard super stat restore potion. Add some ground unicorn horn. Then, add some snake weed from the island of Karamja. Finally, add some nail beast nails. You can	「おい。あなたがもちつことができたわけではありません！」	dialogue	Sanfew	Sanfew
 only get these from the area of Morytania, specifically, if you go deep in the Mort Myre swamp.	「わたしはさりることはさいこうです - もっとおおいくのサンドイッチ（さんどいっち）をくばしんするために！」	dialogue	Sanfew	Sanfew
@@ -52132,7 +52132,7 @@ Ok Bwana, I will! To begin with you'll need a machete in order to hack your way 
 Safta Doc makes them for him. You should be aware that hacking away at the jungle is not without its dangers though Bwana. Many times you may find some scary creatures lurking inside.	よいし。ブワナ。ぼくはぼくがするんだ。はじめるつもりで。きみは，ジャングルをはるためにぼくはきみはナタがひつようなんだ。いくつかの，いい。ほうせき。かかった。ぶき。ぼくがぼくはぼくはきみがかいうことができるんだ。ガボッティ。	dialogue	Sharimika	Sharimika
 What sort of creatures?	ぼくは。サフター・ドック。かれのために。きみはぼくがしっておくひつようがあるんだ。ジャングルをはることはぼくがきけんがないんだ。いっぱい。きみはぼくはいくつかのこわいなまきものをみつけることができるんだ。ちゅうに。	dialogue	Sharimika	Player
 Ok, to start with there are spiders! These are pretty tough but if you defeat it, you can get a good meal from it, if you know how to cook it that is. My wife cooks them to a turn - Mmmm, delicious.	どのようななまきもの？	dialogue	Sharimika	Sharimika
-Ok go on!	よいし。はじめるのに。クモがあるんだ。これらはぼくはかなりかたいんだ。でも。もしきみがそれをやっつけたら。きみはぼくがいいしょくべものをてにいりれることができるんだ。もしきみがぼくがしってたら。りょうり。つまはぼくがかれらを（おとがでてくる）　かんぺきにりょうりするんだ。うーん。おいしい。	dialogue	Sharimika	Player
+Ok go on!	よいし。はじめるのに。クモがあるんだ。これらはぼくはかなりかたいんだ。でも。もしきみがそれをやっつけたら。きみはぼくがいいたべものをてにいりれることができるんだ。もしきみがぼくがしってたら。りょうり。つまはぼくがかれらを（おとがでてくる）　かんぺきにりょうりするんだ。うーん。おいしい。	dialogue	Sharimika	Player
 Yes Bwana, of course. Then there are snakes...these are dangerous because they're poisonous - so be prepared! However, they're not without their uses. A bush snake is large enough to have a useful hide.	よいし。つづきけてくれよ。	dialogue	Sharimika	Sharimika
 Once the hide is tanned you get a snakeskin and you're able to make things from it, the same way that mainlanders use normal leather! However, it's actually still quite small.	そう。ブワナ。もちろん。そしたら。へびがあるんだ…これらはぼくがきけんなんだ。ぼくがかれらがどくなんだ。そしたら。ようこころしてね。でも。かれらはぼくがかれらがなにかべんりをもってるんだ。かわ。	dialogue	Sharimika	Sharimika
 You may need several skins in order to make something useful.	いちど。かわ。たぶん。きみは。へびのスキンをてにいりれるんだ。そしたら。きみはぼくがものをさくることができるんだ。ぼくが。ほんどひとたちはぼくがふつうのかわをつかいうんだ。でも。それはぼくがほんとうにぼくがしょうさいんだ。	dialogue	Sharimika	Sharimika
@@ -55463,7 +55463,7 @@ You give the dog some nice bones.	あなたはわんちゃんにすてきなほ�
 It happily gnaws on them.	たのしいしくほねをかじってます。	dialogue	Spidey dog	Spidey dog
 Woof woof!	ワフワフ！	dialogue	Spidey dog	Stray dog
 You give the dog a nice piece of meat.	あなたはわんちゃんにすてきなおにくをあげます。	dialogue	Spidey dog	Spidey dog
-It gobbles it up.	それをしょくべてしまいます。	dialogue	Spidey dog	Spidey dog
+It gobbles it up.	それをたべてしまいます。	dialogue	Spidey dog	Spidey dog
 Grrrr!	ぐぅぅぅぅ!	dialogue	Spidey dog	Spidey dog
 The dog doesn't seem interested in that.	わんちゃんはそれにきょうみがないようです。	dialogue	Spidey dog	Spidey dog
 Bark!	ワン！	dialogue	Spidey dog	Spidey dog
@@ -55576,7 +55576,7 @@ You give the dog some nice bones.	あなたはわんちゃんにすてきなほ�
 It happily gnaws on them.	たのしいしくほねをかじってます。	dialogue	Spooky dog	Spooky dog
 Woof woof!	ワフワフ！	dialogue	Spooky dog	Stray dog
 You give the dog a nice piece of meat.	あなたはわんちゃんにすてきなおにくをあげます。	dialogue	Spooky dog	Spooky dog
-It gobbles it up.	それをしょくべてしまいます。	dialogue	Spooky dog	Spooky dog
+It gobbles it up.	それをたべてしまいます。	dialogue	Spooky dog	Spooky dog
 Grrrr!	ぐぅぅぅぅ!	dialogue	Spooky dog	Spooky dog
 The dog doesn't seem interested in that.	わんちゃんはそれにきょうみがないようです。	dialogue	Spooky dog	Spooky dog
 Bark!	ワン！	dialogue	Spooky dog	Spooky dog
@@ -56098,7 +56098,7 @@ Woof woof!	ワフワフ！	dialogue	Stray dog	Stray dog
 You give the dog some nice bones.	あなたはわんちゃんにすてきなほねをあげます。	dialogue	Stray dog	Stray dog
 It happily gnaws on them.	たのしいしくほねをかじってます。	dialogue	Stray dog	Stray dog
 You give the dog a nice piece of meat.	あなたはわんちゃんにすてきなおにくをあげます。	dialogue	Stray dog	Stray dog
-It gobbles it up.	それをしょくべてしまいます。	dialogue	Stray dog	Stray dog
+It gobbles it up.	それをたべてしまいます。	dialogue	Stray dog	Stray dog
 You give the dog some mystery meat.	あなたはわんちゃんになぞのおにくをあげます。	dialogue	Stray dog	Stray dog
 It seem to love it, but somthing feels wrong about all of this	それはそれがすきみたいですね。でもなにかあくいものがあるようなきがします。	dialogue	Stray dog	Stray dog
 Grrrr!	ぐぅぅぅぅ!	dialogue	Stray dog	Stray dog
@@ -56229,7 +56229,7 @@ I do such feats before breakfast!	わたしは そんな わざを あさごは�
 Is your singing some kind of outerlander weapon?	あなたの うたう ことは なんか がいこくじん ぶき ですか？	dialogue	Styrmir	Styrmir
 Look who it is!	みてください。だれです！	dialogue	Sue	Sue
 Hello again. How are things going?	もういちどこんにちは。どうですか？	dialogue	Sue	Player
-Amazing! We get paid to eat all day, and our payment is more food. Life has never been better!	すばらしいらしい！ぼくたちはぜんにちちゅうたべるのでおきんをもらうし。そしてそのおきんはもっとしょくべものです。じんせいはもういちどもっとよいくなってません！	dialogue	Sue	Gary
+Amazing! We get paid to eat all day, and our payment is more food. Life has never been better!	すばらしいらしい！ぼくたちはぜんにちちゅうたべるのでおきんをもらうし。そしてそのおきんはもっとたべものです。じんせいはもういちどもっとよいくなってません！	dialogue	Sue	Gary
 Too right, Gary! This is much better than being on strike!	ほんとうにそうですね。ゲーリー！ここでストライキをしてたときよりもっとよいです！	dialogue	Sue	Sue
 Glad to hear it.	よかった	dialogue	Sue	Player
 Can you leave me alone please? I'm trying to get a bit of rest.	もうしわけありません。ぼくをひとりにしてくれますか？ちょっとやすみたいんです。	dialogue	Sune	Sune
@@ -58275,7 +58275,7 @@ Okay, I'll go and find that.	わかりました。さがします。	dialogue	Th
 Would you like a redberry pie?	ベリーベリーパイがほしいですか？	dialogue	Thurgo	Player
 You see Thurgo's eyes light up.	トゥルゴのめがひかります。	dialogue	Thurgo	Thurgo
 I'd never say no to a redberry pie! We Imcando dwarves love them - they're GREAT!	だいすききです。イムカンドのしょうひとはすきです。さいこうです。	dialogue	Thurgo	Thurgo
-You hand over the pie. Thurgo eats the pie. Thurgo pats his stomach.	パイをあげます。トゥルゴがパイをしょくべます。トゥルゴがおはらをたたきます。	dialogue	Thurgo	Thurgo
+You hand over the pie. Thurgo eats the pie. Thurgo pats his stomach.	パイをあげます。トゥルゴがパイをたべます。トゥルゴがおはらをたたきます。	dialogue	Thurgo	Thurgo
 By Guthix! THAT was good pie! Anyone who makes pie like THAT has got to be alright!	グティクス！ほんとうにおいしいパイです。こんなパイをさくるひとはだいじょうぶ。	dialogue	Thurgo	Thurgo
 What is that cape you're wearing?	あなたが きている ケープ はなんですか？	dialogue	Thurgo	Player
 It's a Skillcape of Smithing. It shows that I'm a master blacksmith, but that's only to be expected - after all, my ancestors were the greatest blacksmiths in dwarven history.	かじのスキルケープです。いちりゅうのかじやです。そせんもいちりゅうでした。	dialogue	Thurgo	Thurgo
@@ -58366,7 +58366,7 @@ So...I'm free to go now, right?	では、もういきけますか？	dialogue	Ti
 Yer, get going. We get break now.	はい。ここでやすいこします。	dialogue	Tilt	Tilt
 Ok. Err...have a nice break.	ぶんかりました。あ、いいやすいこをしてください。	dialogue	Tilt	Player
 Hey, how's it go...	バーラモアのおうこくはどこですか。	dialogue	Timallus	Player
-Apples, trout. Maybe some spi... Oh sorry matey, busy getting the grub together for our next voyage. If ye need anything, talk t' Captain Pudi over by the dock.	りんご、ニジマス。スパイスかな...あ、ごめん。ふねのしょくべものをよういしてます。キャプテン・プディにききいてください。	dialogue	Timallus	Timallus
+Apples, trout. Maybe some spi... Oh sorry matey, busy getting the grub together for our next voyage. If ye need anything, talk t' Captain Pudi over by the dock.	りんご、ニジマス。スパイスかな...あ、ごめん。ふねのたべものをよういしてます。キャプテン・プディにききいてください。	dialogue	Timallus	Timallus
 I wonder what jelly would be like with cooked eels? Maybe a pie of some sor... Oh hey there stranger. What can I do for ye?	ジェリーとやきウナギはどうですか？あ、こんにちは。ごようがありますか？	dialogue	Timallus	Timallus
 Crab meat would do wonders in an admir... Oh hey there stranger. What can I do for ye?	かにのにくはどうですか？あ、こんにちは。ごようがありますか？	dialogue	Timallus	Timallus
 Maybe some pineapple. That could enhance the flavour of a summer pi... Oh hey there stranger. What can I do for ye?	パイナップルはどうですか？あ、こんにちは。ごようがありますか？	dialogue	Timallus	Timallus
@@ -58374,16 +58374,16 @@ How was your last fishing trip?	さいごのつりはどうでしたか？	dialo
 'Twas a good and bad trip.	いいときもあくいときもありました。	dialogue	Timallus	Timallus
 During the trip, I was cookin' up a nice fish pie for the crew. But then a storm 'it the ship.	つりった さかな で ぱい を さくってました。でも、あらし が きました。	dialogue	Timallus	Timallus
 Water came a spewin' through the windows and with the water came some glowing fish. It flew straight into me cooking pie.	みず が いりってきました。ひかりる さかな も いりってきました。ぱい に おちました。	dialogue	Timallus	Timallus
-I couldn't 'elp it, I 'ad to try it... The taste was amazin'! Never 'ad anythin' like it in me life before.	しょくべてみました。さいこう の あじ でした。こんな あじ は はじめて です。	dialogue	Timallus	Timallus
+I couldn't 'elp it, I 'ad to try it... The taste was amazin'! Never 'ad anythin' like it in me life before.	たべてみました。さいこう の あじ でした。こんな あじ は はじめて です。	dialogue	Timallus	Timallus
 Maybe one day I will make that amazing pie again.	いつかもういちどさくりたいです。	dialogue	Timallus	Timallus
 That sounds great. If you ever do make it again, tell me the recipe so I can make it myself please.	いいですね。さくったら、レシピをください。じぶんでさくりたいです。	dialogue	Timallus	Player
 Me recipes are a secret and I am not sharin' 'em with anyone!	ひみつです。おしえません。	dialogue	Timallus	Timallus
-On with me story. after trying that amazing pie, the floor boards above fell down and the ship's wheel knocked me out.	つづきけます。パイをしょくべたあと、ゆかがおちました。ふねのわがあたりました。きをうしないました。	dialogue	Timallus	Timallus
-I woke up in Al Kharid with the others. Pudi and some local fisherfolk helped us out and now we're 'ere. Lots o' mouths t' feed now!	アルカリド で めが おぼえめました。ぷでぃ と つりひと が てつだい ってくれました。たくさん しょくべます。	dialogue	Timallus	Timallus
+On with me story. after trying that amazing pie, the floor boards above fell down and the ship's wheel knocked me out.	つづきけます。パイをたべたあと、ゆかがおちました。ふねのわがあたりました。きをうしないました。	dialogue	Timallus	Timallus
+I woke up in Al Kharid with the others. Pudi and some local fisherfolk helped us out and now we're 'ere. Lots o' mouths t' feed now!	アルカリド で めが おぼえめました。ぷでぃ と つりひと が てつだい ってくれました。たくさん たべます。	dialogue	Timallus	Timallus
 Anythin' else ya be needin'?	ほかになにがいりますか？	dialogue	Timallus	Timallus
 You really like cooking. Can you share any recipes with me?	りょうりがすきですね。レシピをくれますか？	dialogue	Timallus	Player
 Unfortunately for ye, me recipes are a secret and I am not sharin' 'em with anyone!	もうしわけありません。ひみつです。おしえません。	dialogue	Timallus	Timallus
-Aw, please tell me! I've always wanted to try sailor food.	おねがいです。みずおっとのしょくべものをしりたいです。	dialogue	Timallus	Player
+Aw, please tell me! I've always wanted to try sailor food.	おねがいです。みずおっとのたべものをしりたいです。	dialogue	Timallus	Player
 Ye best become a sailor then.	みずおっとになってください。	dialogue	Timallus	Timallus
 Got any tips for fighting Tempoross?	いいえ、ふつうはいいひとです。ふねのことでしんぱいなだけです。	dialogue	Timallus	Player
 Ye should bring a harpoon t' fish for them harpoonfish. They be very effective against the beast.	はーぷん で さかな を つり ってください。かいぶつ に ききます。	dialogue	Timallus	Timallus
@@ -58409,7 +58409,7 @@ Thank ye!	ありがとう。	dialogue	Timallus	Timallus
 You're welcome!	どういたしまして！	dialogue	Timallus	Player
 Would you like a salmon?	さけがほしいですか？	dialogue	Timallus	Player
 Wha' am I supposed t' do wit' a raw salmon?	なまのさけをなにするんですか？	dialogue	Timallus	Timallus
-Cook and eat it, of course.	やいてしょくべてください。	dialogue	Timallus	Player
+Cook and eat it, of course.	やいてたべてください。	dialogue	Timallus	Player
 Do I look like some sort o' on demand chef t' ye.	わたしはシェフじゃありません。	dialogue	Timallus	Timallus
 Fine, I'll take my salmon elsewhere then.	いいです。ほかにもっていきます。	dialogue	Timallus	Player
 Would you like a freshly cooked salmon?	やいたさけがほしいですか？	dialogue	Timallus	Player
@@ -58438,7 +58438,7 @@ Got any tips for fighting Tempoross?	いいえ、ふつうはいいひとです�
 I have to go.	もういきかなくちゃ。	dialogue	Timallus	Timallus
 Good Day, how can I help you?	おはようございます。なにかおてつだいいしましょうか？	dialogue	Timble	Timble
 I was just wondering what you were up to.	なにをしているのかおもいます。	dialogue	Timble	Player
-I work for Aluft Aloft Gnome Food Delivery Service. It's a growing business you know. We get more customers every day!	ノームしょくべものはいたつサービスではたらきいています。どんどんふえています。まいにちしんしいきゃくがいます。	dialogue	Timble	Timble
+I work for Aluft Aloft Gnome Food Delivery Service. It's a growing business you know. We get more customers every day!	ノームたべものはいたつサービスではたらきいています。どんどんふえています。まいにちしんしいきゃくがいます。	dialogue	Timble	Timble
 So do you have any spare jobs then?	なにかしごとはありますか？	dialogue	Timble	Player
 Aluft Gianne jnr. is in charge - he'll be able to help you.	アルフト・ジャンヌ・ジュニアがになうあたりします。てつだいってくれます。	dialogue	Timble	Timble
 Thanks.	ありがとうございます。	dialogue	Timble	Player
@@ -59099,7 +59099,7 @@ Do you have a copy of the Code of Conduct?	ほかのプレイヤーモデレー�
 Oh yes, but I can't let you keep it - I've only a few copies!	まちがいったプレイヤーをほうこくしないように、あくいプレイヤーをともだちにいりれて、こうかいをともだちにへんえて、みぎクリックでほうこくしてください。かんたん。	dialogue	Town Crier	Town crier
 Can you give me a moderating tip please?	むりょうプレイのプレイヤーモデレーターも、ログインしたら、モデレーターフォーラムへいきけます。「メンバーのみ」だけど、みぎうえでつうじょうフォーラムへログイン。	dialogue	Town Crier	Player
 Add other Player Moderators to your friends list for quick advice and moral support in-game. It does help!	みていないことをほうこくしないでください。しんようできるプレイヤーでも。	dialogue	Town Crier	Town crier
-To avoid reporting the wrong player, add an offender to your friends list, switch your public chat to friends and then use your right-click report from there. Easy!	さいしょのデートで、よごれいものをしょくべないでください。あくみえます。	dialogue	Town Crier	Town crier
+To avoid reporting the wrong player, add an offender to your friends list, switch your public chat to friends and then use your right-click report from there. Easy!	さいしょのデートで、よごれいものをたべないでください。あくみえます。	dialogue	Town Crier	Town crier
 Did you know that Free-to-Play P-mods CAN visit the moderator forums, by logging into the regular forums at the top right hand side of the forum screen, despite it saying Members only.	ほうこくするまえに、もういちどかくにんしてください。いろいろなほうこくをへらします。	dialogue	Town Crier	Town crier
 Don't be tempted to report anything you didn't see, no matter how much you trust the player who is informing you.	フォーラムは、ルールへんこうのもっともしんじょうほう。ガイドラインにいりるまえに。	dialogue	Town Crier	Town crier
 Don't eat something messy when on a first date - it won't look good!	モデレーターをじめるひとやぬすみまれたアカウントについてしつもんされたら、カスタマーサポートへおくりってください。そうおもったら、ここへおくりって。	dialogue	Town Crier	Town crier
@@ -62393,7 +62393,7 @@ I've saved countless villages from unspeakable terrors and slain innumerable evi
 You yourself would get pretty angry if you did a long and dangerous quest and didn't get any reward from it, eh? I'm sure you would!	あなたはながいきけんなクエストをし、それからほうしゅうをえなかったばあい、かなりいかりっていただろう、え？わたしはたしかしんしているきみはそうだろう！	dialogue	Wise Old Man	Wise Old Man
 Well imagine how I felt at the end of a long life of questing when was left penniless, and I had to move into this thief-infested village! This little shack was falling apart when I arrived!	さて、ながいじんせいのクエストのおわりに、わたしがどのようにかんじたかそうぞうしてください。わたしはむいちぶんのままでしたし、ぬすみひとにかんそめしたむらにひきっこえさなければなりませんでした！このちっぽけなこやはわたしがとうちゃくしたときはくずれおちていました！	dialogue	Wise Old Man	Wise Old Man
 You go speak to that hag who keeps looking through my window - she'll show you how it used to look before I could afford to redecorate it!	あなたがきみはわたしのまどをみてあるきくみはりりにはなしてください。かのじょはわたしがそれをかいそうすることができるまえに、それがどのようにみえたかをきみにしめします！	dialogue	Wise Old Man	Wise Old Man
-Being noble and virtuous simply doesn't put food on the table, and I don't intend to sit in banks begging like so many people do these days.	こういにんげんであること、そしてとくてきであることはたしかにしょくたくにしょくべものをおきかない。そして、わたしはぎんこうにこじきをするつもりはない。おおいくのひとがさいきんしているように。	dialogue	Wise Old Man	Wise Old Man
+Being noble and virtuous simply doesn't put food on the table, and I don't intend to sit in banks begging like so many people do these days.	こういにんげんであること、そしてとくてきであることはたしかにしょくたくにたべものをおきかない。そして、わたしはぎんこうにこじきをするつもりはない。おおいくのひとがさいきんしているように。	dialogue	Wise Old Man	Wise Old Man
 So all those quests in the past, when you saved people from monsters and stuff like that... You only helped them because you wanted a reward?	だから、すべてのそれらのクエストのかこで、きみはひと々をかいぶつなどからすくった...きみはほうしゅうがほしいためにかれらをたすけただけか？	dialogue	Wise Old Man	Player
 No, it wasn't always like that. I used to be satisfied just knowing that I'd helped, and that was reward enough.	いいえ、いつもそうではなかった。わたしはまんぞくしていたのは、わたしがたすけたことをしっているだけで、そしてそれはじゅうぶんなほうしゅうでした。	dialogue	Wise Old Man	Wise Old Man
 But eventually I realised that people forgot about me as soon as the danger was gone, and I wasn't even getting paid properly for my services. Sometimes they offered training in the various skills, but that's no use to me!	しかし、けっきょくのところ、きけんがさりるとすぐにひと々はわたしをわすれてしまったことにきづいた。そして、わたしはわたしのサービスのためにただしくしはらいわれていなかった。とき々、かれらはさまざまなスキルでのトレーニングをていきょうしましたが、それはわたしにはやくにたてたない！	dialogue	Wise Old Man	Wise Old Man
@@ -62497,7 +62497,7 @@ It's nothing stranger. No need to concern yourself.	なにもみしりらぬひ�
 Spare a coin mister?	コインをあたえてくれませんか、ミスター？	dialogue	Witchaven villager	Witchaven villager
 What do you need it for?	きみはそれがひつようですか？	dialogue	Witchaven villager	Player
 For a poor unemployed fisherman what needs to eat.	たべるひつようがあるうしないぎょうしたりょうしのためだ。	dialogue	Witchaven villager	Witchaven villager
-Why don't you just fish for some food?	なに で あなたは じぶん で いくつか の しょくべもの を つり らない ですか？	dialogue	Witchaven villager	Player
+Why don't you just fish for some food?	なに で あなたは じぶん で いくつか の たべもの を つり らない ですか？	dialogue	Witchaven villager	Player
 Err... Goodbye mister.	えっ...さようなら、ミスター。	dialogue	Witchaven villager	Witchaven villager
 Can you believe they did this to us?	かれらがこれをわたしたちにしたことをしんじることができますか？	dialogue	Witchaven villager	Witchaven villager
 Wha...	なに...	dialogue	Witchaven villager	Player
@@ -66122,12 +66122,12 @@ I'd like a beer please.	ビールをください。	dialogue	Barman	Player
 That'll be 2 gold coins.	それは2まいのきんかです。	dialogue	Barman	Barman
 Thanks for your custom.	あなたのりようをありがとう。	dialogue	Barman	Barman
 Sorry, I don't have 2 coins on me.	もうしわけありませんが、2まいのコインをもっていません。	dialogue	Barman	Player
-I'd like some food please.	しょくべものをください。	dialogue	Barman	Player
+I'd like some food please.	たべものをください。	dialogue	Barman	Player
 I can make you a stew for 20 gold coins.	20まいのきんかでシチューをさくることができます。	dialogue	Barman	Barman
 Sorry, I don't have 20 coins on me.	もうしわけありませんが、20まいのコインをもっていません。	dialogue	Barman	Player
 I have to go.	もういきかなくちゃ。	dialogue	Barman	Player
 I'd like a beer please.	ビールをください。	dialogue	Barman	Barman
-I'd like some food please.	しょくべものをください。	dialogue	Barman	Barman
+I'd like some food please.	たべものをください。	dialogue	Barman	Barman
 I have to go	いきかなければならない。	dialogue	Barman	Barman
 Hullo there friend, what can I do you for?	こんにちは しゅういん、あなたは わたしに なに を しますか？	dialogue	Bartender	Bartender
 Do you sell beer?	あなたは ビール を うっていますか？	dialogue	Bartender	Player
@@ -67377,7 +67377,7 @@ Hey, hand, do you want to know how I slayed you?	て。あんたがどうやっ�
 I don't know, how?	わかんない。どうやって？	dialogue	Crawling hand	Crawling hand
 Because you're just a hand! You're ARMLESS!	だって、あんたはてだからな。ぶきがない。	dialogue	Crawling hand	Player
 Hey, you're just a hand, right? So what do you eat?	て。あんたはてだからなにをたべるんだ？	dialogue	Crawling hand	Player
-Finger food, of course!	ゆびのしょくべもの、あたりまえだ。	dialogue	Crawling hand	Crawling hand
+Finger food, of course!	ゆびのたべもの、あたりまえだ。	dialogue	Crawling hand	Crawling hand
 To each [his/her] own, I suppose.	ひとによるな。	dialogue	Customer	Customer
 Hello, can you help me?	こんにちは。てつだいってくれる？	dialogue	Customer	Player
 Ssshhh, don't talk...	ああああああ。はなしすな。	dialogue	Customer	Customer
@@ -67477,7 +67477,7 @@ If not a box, then what about a fox?	はこじゃなくて、きつねは？	dia
 Nope.	いや。	dialogue	David	David
 A mouse, a house? Would these change your mind?	ねずみ？いえ？へんわるかな？	dialogue	David	Player
 For the love of Saradomin, please leave me be	かみさま。おねがいだからほっといてくれ。	dialogue	David	David
-I will! I promise! Just try them and you'll see.	やるぞ。ぜったい！しょくべてみてくれ。	dialogue	David	Player
+I will! I promise! Just try them and you'll see.	やるぞ。ぜったい！たべてみてくれ。	dialogue	David	Player
 Alright! Fine! I concede.	わかった。わかった。いいぞ。	dialogue	David	David
 ...	...	dialogue	David	Player
 ...	...	dialogue	David	David
@@ -67648,10 +67648,10 @@ What kind of question is that to ask? With [his/her/their] great might of course
 Of course, really! Player wouldn't have said it otherwise, would [he/she/they]?	ああ。そっか。プレイヤーがいったんだ。そうにきめまってるな。	dialogue	Derni	Derni
 What kind of question is that to ask? With [his/her/their] great might of course!	どんなしつもんをするんだ？あいつのちからで。	dialogue	Dernu	Derni
 Of course, really! Player wouldn't have said it otherwise, would [he/she/they]?	ああ。そっか。プレイヤーがいったんだ。そうにきめまってるな。	dialogue	Dernu	Derni
-You're a long way from home, traveller! How about some food to keep you going?	こきょうからとおいな。たびびと。なにかしょくべものをあげよう。	dialogue	Derwen	Derwen
+You're a long way from home, traveller! How about some food to keep you going?	こきょうからとおいな。たびびと。なにかたべものをあげよう。	dialogue	Derwen	Derwen
 Yes, please.	はい、おねがいします。	dialogue	Derwen	Player
 No thanks.	いいえ、ありがとうございます。	dialogue	Derwen	Player
-I'll be here if you find yourself hungry!	ここにきたらしょくべものをあげるぜ。	dialogue	Derwen	Derwen
+I'll be here if you find yourself hungry!	ここにきたらたべものをあげるぜ。	dialogue	Derwen	Derwen
 Yes, please.	はい、おねがいします。	dialogue	Derwen	Derwen
 No thanks.	いいえ、ありがとうございます。	dialogue	Derwen	Derwen
 Quack!	クワッ。	dialogue	Drake	Drake
@@ -75002,7 +75002,7 @@ Wagons heaving with eggs being hauled up through the streets...	たまごでい�
 Giant rabbits hopping about, building stalls and putting up decorations...	だいきなうさぎがとびとねて、スタンドをさくり、かざりをかざりっています...	dialogue	Concerned man	Concerned man
 That sounds nice.	いいですね。	dialogue	Concerned man	Player
 It was a bloody racket to be honest, and dangerous!	ほんとうはうるさいきがして、あぶないです！	dialogue	Concerned man	Concerned man
-But I'd gladly stand on a rusty nail or take a plank to the face for one of them delicious chocolate eggs.	けど、わたしはよろこびんでさびたくぎにたてったり、かおにプランクをぶつけたりして、そのおいしいどうぶつチョコレートをしょくべたいです。	dialogue	Concerned man	Concerned man
+But I'd gladly stand on a rusty nail or take a plank to the face for one of them delicious chocolate eggs.	けど、わたしはよろこびんでさびたくぎにたてったり、かおにプランクをぶつけたりして、そのおいしいどうぶつチョコレートをたべたいです。	dialogue	Concerned man	Concerned man
 Fair enough. Now that you mention it, I would have expected the Easter Bunny to have turned up by now. You're sure you haven't seen him?	いいですね。こんどはあなたがいいおよすれば、わたしはイースター・バニーがこのまでにきたはずだとおもいました。あなたはたしかに、かれをみていませんか？	dialogue	Concerned man	Player
 Nobody has, and yet the streets are full of old carrots. We don't usually have such a problem with vegetable waste unless him and his lot have turned up.	だれもみていません。それでも、まちはふるいニンジンでいっぱいです。わたしたちはそんなにやさいのゴミのもんだいをもっていません。もし、かれと、かれのなかまがやってきたなら。	dialogue	Concerned man	Concerned man
 Vegetable waste, eh?	やさいのゴミですか？	dialogue	Concerned man	Player
@@ -75015,7 +75015,7 @@ Aye, proper suspicious if you ask me.	はい、ほんとうにうたがわしい
 You wait right here sir, I've got a hunch...	あなたはここにまちってください。わたしはひらめきがあります...	dialogue	Concerned man	Player
 Oh lunch is it now eh? Can I have some?	ああ、ひるごはんですか？わたしにもくれませんか？	dialogue	Concerned man	Concerned man
 No, a hunch. About the carrots.	いいえ、ひらめき。ニンジンについて。	dialogue	Concerned man	Player
-They're old and dirty, I don't want to eat those!	それらはふるく、よごれいです。わたしはそれらをしょくべたくないです！	dialogue	Concerned man	Concerned man
+They're old and dirty, I don't want to eat those!	それらはふるく、よごれいです。わたしはそれらをたべたくないです！	dialogue	Concerned man	Concerned man
 No... Just... I'll be back later! I need to investigate some rotten vegetables.	いいえ...ただ...わたしはあとできます！わたしはくさりったやさいをしらべるひつようがあります。	dialogue	Concerned man	Player
 They best not end up in my lunch!	あなたたちは、それらがわたしのひるごはんにおわりわらないでください！	dialogue	Concerned man	Concerned man
 You should probably have a look around for a suspicious crate of carrots.	あなたは、おかしなニンジンのはこをさがしすべきです。	dialogue	Concerned man	Concerned man
@@ -75027,7 +75027,7 @@ Busy mucking about with carrots!	ニンジンでいっぱいあそぶ！	dialogu
 Yeah, where did you say that crate was again?	ああ、あなたはそのニンジンはこはどこだといいましたか？	dialogue	Concerned man	Player
 It's in the woods just south of here. Carrots all over the place too!	それはここのみなみのもりのちゅうです。ニンジンがいろいろなところにあります！	dialogue	Concerned man	Concerned man
 Oh yes, I remember. Thanks.	あ、そう、おぼえています。ありがとうございます。	dialogue	Concerned man	Player
-Mate, it took you so long to get me lunch the Easter Bunny showed up, I had some choccy eggs instead.	どうりょう、あなたがわたしのためにひるごはんをとりるのにながいじかんがかかりました。イースター・バニーがきました。わたしはチョッキー・エッグをしょくべました。	dialogue	Concerned man	Concerned man
+Mate, it took you so long to get me lunch the Easter Bunny showed up, I had some choccy eggs instead.	どうりょう、あなたがわたしのためにひるごはんをとりるのにながいじかんがかかりました。イースター・バニーがきました。わたしはチョッキー・エッグをたべました。	dialogue	Concerned man	Concerned man
 Great. That was all me you know.	だいきい。それはすべてわたしでした。	dialogue	Concerned man	Player
 What are you talking about? It was definitely the Easter Bunny.	なにをいっているのですか？それはもちろんイースター・バニーでした。	dialogue	Concerned man	Concerned man
 You know what?	あなたがしっていますか？	dialogue	Concerned man	Player
@@ -75056,12 +75056,12 @@ What are you after now?	あなたはいま、なにがほしいですか？	dial
 I need another carrot, I lost one.	わたしはべつのニンジンがひつようです。わたしはいちつをうしないました。	dialogue	Cooky Weasel	Player
 I need more carrots, I lost some of them.	わたしはもっとニンジンがひつようです。わたしはいくつかうしないました。	dialogue	Cooky Weasel	Player
 I need more carrots, I lost them all.	わたしはもっとニンジンがひつようです。わたしはすべてうしないました。	dialogue	Cooky Weasel	Player
-You weren't nibbling at them were you? I bet you were thinking about it.	あなたはそれらをしょくべていませんでしたか？わたしはあなたがそれについてかんがえていたとおもう。	dialogue	Cooky Weasel	Cooky Weasel
+You weren't nibbling at them were you? I bet you were thinking about it.	あなたはそれらをたべていませんでしたか？わたしはあなたがそれについてかんがえていたとおもう。	dialogue	Cooky Weasel	Cooky Weasel
 Of course not.	もちろんです。	dialogue	Cooky Weasel	Player
 Yeah right. Here, take 'em. Take all of my lovely carrots! Just make sure the Easter Bunny gets his juice this time.	ああ、ほんとですね。ここ、もってください。わたしのすべてのすてきなニンジンをとりってください！ただ、いまかいはイースター・バニーがジュースをえていることをかくにんしてください。	dialogue	Cooky Weasel	Cooky Weasel
 Thank you. Won't happen again.	ありがとうございます。にどとおきこりません。	dialogue	Cooky Weasel	Player
-You've been eating the carrots! I can smell 'em on your breath! You big stinking piggy!	あなたはニンジンをしょくべていた！わたしはあなたのいきでそれらをかぐ！あなたはだいきなくさいぶたです！	dialogue	Cooky Weasel	Cooky Weasel
-I'm sure I would remember eating such a delicous, sweet, crunchy, orange, juicy...	わたしはたしかに、そのおいしくて、あまいく、かりっとした、オレンジいろで、ジューシーなニンジンをしょくべたことをおぼえているでしょう...	dialogue	Cooky Weasel	Player
+You've been eating the carrots! I can smell 'em on your breath! You big stinking piggy!	あなたはニンジンをたべていた！わたしはあなたのいきでそれらをかぐ！あなたはだいきなくさいぶたです！	dialogue	Cooky Weasel	Cooky Weasel
+I'm sure I would remember eating such a delicous, sweet, crunchy, orange, juicy...	わたしはたしかに、そのおいしくて、あまいく、かりっとした、オレンジいろで、ジューシーなニンジンをたべたことをおぼえているでしょう...	dialogue	Cooky Weasel	Player
 What was the question?	しつもんはなにですか？	dialogue	Cooky Weasel	Player
 Take these carrots and get out of my sight.	これらのニンジンをとりって、わたしのしかいからでてください。	dialogue	Cooky Weasel	Cooky Weasel
 You've got orange stains around your mouth!	あなたはオレンジいろのしみがくちのまわりにあります！	dialogue	Cooky Weasel	Cooky Weasel
@@ -75166,7 +75166,7 @@ Does Karamja have unusual customs then?	カラムジャはへんわったなら�
 No human pass through arena without defeating Dad!	にんげんはアリーナをとおりして、ダッドをまけかさなくてとおりることはできません！	dialogue	Dad	Dad
 What tiny human do in troll arena? Dad challenge human to fight!	しょうさなにんげんは、トロール・アリーナでなにをしますか？パパはにんげんにせんうことをちょうせんします！	dialogue	Dad	Dad
 Why are you called Dad?	あなたはなぜパパとよびばれていますか？	dialogue	Dad	Player
-Troll named after first thing try to eat!	トロールは、しょくべようとしたさいしょのことのあとになつきけられています！	dialogue	Dad	Dad
+Troll named after first thing try to eat!	トロールは、たべようとしたさいしょのことのあとになつきけられています！	dialogue	Dad	Dad
 I accept your challenge!	わたしはあなたのちょうせんをうけいりれます！	dialogue	Dad	Player
 Tiny human brave. Dad squish!	しょうさい にんげん は ゆうかん だ。ぱぱ は あんた を つぶす！	dialogue	Dad	Dad
 Dad swings his giant log towards the player, knocking them back.	パパは、プレイヤーをもどりしてノックする、かれのきょだいなログにむかいかってスイングします。	dialogue	Dad	Dad
@@ -75364,13 +75364,13 @@ I feel less horrible I suppose...	ああ、またつぎに。	dialogue	Easter Bu
 Well, that's a start!	ぼくは、そんなにあくいきもちちがなくなったきがします。	dialogue	Easter Bunny	Player
 Hey Bunny, would you like a fancy carrot?	では、いいはじめですね。	dialogue	Easter Bunny	Player
 Not really, I've eaten a lot of carrots recently.	なあ、うさぎさん、ぜいたくなニンジンをどうですか？	dialogue	Easter Bunny	Easter Bunny
-They're really good.	いや、さいきん、ニンジンを、たくさんしょくべました。	dialogue	Easter Bunny	Player
+They're really good.	いや、さいきん、ニンジンを、たくさんたべました。	dialogue	Easter Bunny	Player
 I'm alright, thank you though.	とてもいいです。	dialogue	Easter Bunny	Easter Bunny
 Oh, hello again, [player name].	けっこうです、ありがとう。	dialogue	Easter Bunny	Easter Bunny
 Hello! I have a surprise for you.	こんにちは!あなたのためのサプライズがあります。	dialogue	Easter Bunny	Player
 Oh? A surprise? It's not something horrible I hope.	ああ、またかいましたね、プレイヤーさん。	dialogue	Easter Bunny	Easter Bunny
 Oh no, it's something quite delicious actually.	あ、なんですか？びっくり？ひどいものじゃなければいいけど。	dialogue	Easter Bunny	Player
-Delicious?	いいえ、ぜひしょくべてほしい、おいしいものです。	dialogue	Easter Bunny	Easter Bunny
+Delicious?	いいえ、ぜひたべてほしい、おいしいものです。	dialogue	Easter Bunny	Easter Bunny
 A lovely mug of carrot juice!	おいしい？	dialogue	Easter Bunny	Player
 Oh please no more!	いい、ニンジンジュースです。	dialogue	Easter Bunny	Easter Bunny
 Don't worry, this is fancy carrot juice. I made it myself with some fantastic carrots.	ああ、もうかんべんしてください。	dialogue	Easter Bunny	Player
@@ -75403,7 +75403,7 @@ You're a good friend.	うーん！おいしかった。ありがとう、プレ�
 You are most welcome. Do you feel a bit more Easter- ey now?	あなたは、いいともだちです。	dialogue	Easter Bunny	Player
 Oh, I'm starting to remember now! Easter is great! But I just... Hmm, I don't know...	どういたしまして。もっと、イースターらしくなりましたか？	dialogue	Easter Bunny	Easter Bunny
 I feel like I need one more little treat before I do anything to help with Easter.	ああ、おもいでしてきました。イースターは、いいものです。でも、ぼくは、まだ...えっと...	dialogue	Easter Bunny	Easter Bunny
-Oh for goodness sake...	もういちつ、なにか、しょくべたいきがします。	dialogue	Easter Bunny	Player
+Oh for goodness sake...	もういちつ、なにか、たべたいきがします。	dialogue	Easter Bunny	Player
 Alright, let me think of something.	ああ、ほんとに...	dialogue	Easter Bunny	Player
 Excuse me, [player name], I believe I can help you.	よし、なにか、かんがえてみましょう。	dialogue	Easter Bunny	Fry
 Oh?	ああ。	dialogue	Easter Bunny	Player
@@ -75422,7 +75422,7 @@ What was that?	それ は なん です か？	dialogue	Easter Bunny	Easter Bunn
 Oh, nothing. I just need to talk to Fry about something.	フライの、パフォーマンスの、じゅんびが、どう、いってるか、きになります。	dialogue	Easter Bunny	Player
 Oh, see you later then.	あ、なにもないです。フライに、なにかしゃべりたいことがあるだけです。	dialogue	Easter Bunny	Easter Bunny
 One more treat and I'll be ready to work on Easter again.	では、またあとで。	dialogue	Easter Bunny	Easter Bunny
-ANOTHER treat?	もういちつ、なにか、しょくべたら、イースターのために、また、やりはじめます。	dialogue	Easter Bunny	Player
+ANOTHER treat?	もういちつ、なにか、たべたら、イースターのために、また、やりはじめます。	dialogue	Easter Bunny	Player
 The last one!	また、なにか、たべる？	dialogue	Easter Bunny	Easter Bunny
 It better be.	さいごのやつ。	dialogue	Easter Bunny	Player
 That dance was amazing! Well done. I feel so... Invigorated!	いい、でしょう。	dialogue	Easter Bunny	Easter Bunny
@@ -75510,7 +75510,7 @@ Well if I had to choose for his sake, I suppose it would be the Easter Buns.	で
 Easter Buns, eh?	イースターまんじゅう？	dialogue	Eggus Manus	Player
 Ohhhh yes, you know, Easter Buns! Delicious, sticky, spicy, Easter Buns!	ああああ。いいすたあ まんじゅう。おいしい。べたべた。すぱいしー。いいすたあ まんじゅう。	dialogue	Eggus Manus	Eggus Manus
 They're really that good?	それ、そんなに、いいですか？	dialogue	Eggus Manus	Player
-Oh my, you've.... you've really never had one?	ああ、あなたは、いちども、しょくべたことが、ないんですか？	dialogue	Eggus Manus	Eggus Manus
+Oh my, you've.... you've really never had one?	ああ、あなたは、いちども、たべたことが、ないんですか？	dialogue	Eggus Manus	Eggus Manus
 We'll have to change that!	では、へんえなきゃいけませんね。	dialogue	Eggus Manus	Eggus Manus
 I have the recipe right here. I implore you to make some and try them. I don't have any ingredients with me but I'm sure you could ask around in here.	ぼくが、レシピが、あります。ぜひ、さくってください。ためしてください。ぼくは、ざいりょうが、ありませんが、ぼくは、ここで、さがしてもいい。	dialogue	Eggus Manus	Eggus Manus
 If anything is going to make the Easter Bunny happy, it's these Easter Buns.	イースターバニーを、たのしいしくするなら、これが、いいんです。	dialogue	Eggus Manus	Eggus Manus
@@ -75564,7 +75564,7 @@ All in good time.	すべてよいときだいに。	dialogue	Eggus Manus	Player
 Do my senses decieve me? Can I smell... Easter Buns?!	ぼくの、かんかくを、あざむきますか。たまごのスメル。イースター、まんじゅう。	dialogue	Eggus Manus	Eggus Manus
 Indeed you can.	ああ、ほんとうに。	dialogue	Eggus Manus	Player
 Wonderful! Have you tried one yet?	すばらしい!まだためしましたか?	dialogue	Eggus Manus	Eggus Manus
-I have! They are fantastic. Great recipe.	ぼくが、しょくべました。すばらしい。いいレシピ。	dialogue	Eggus Manus	Player
+I have! They are fantastic. Great recipe.	ぼくが、たべました。すばらしい。いいレシピ。	dialogue	Eggus Manus	Player
 Why, thank you [player name]! How kind!	あ、ありがとう、プレイヤーさん。やさしいですね。	dialogue	Eggus Manus	Eggus Manus
 Not yet.	まだ。	dialogue	Eggus Manus	Player
 How could you resist such a wonder?	どうして、そんな、すばらしいものを、むかいますか。	dialogue	Eggus Manus	Eggus Manus

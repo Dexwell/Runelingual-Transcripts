@@ -9027,7 +9027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116055">
         <xliff:source>Monkey food stall</xliff:source>
-        <xliff:target state="translated">サルのしょくべものやだい</xliff:target>
+        <xliff:target state="translated">サルのたべものやだい</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -32019,7 +32019,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119902"><xli
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119903"><xliff:source>Cooking is a skill that lets you make all kinds of delicious food that will typically restore your Hitpoints, amongst providing other benefits.</xliff:source>
-        <xliff:target state="translated">りょうりスキルは、さまざまなびあじしいしょくべものをさくることができるスキルで、つうじょうはたいりょくをかいふくするほか、さまざまなこうかをもたらします。</xliff:target><xliff:note>category: interface
+        <xliff:target state="translated">りょうりスキルは、さまざまなびあじしいたべものをさくることができるスキルで、つうじょうはたいりょくをかいふくするほか、さまざまなこうかをもたらします。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119904"><xliff:source>At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.</xliff:source>
@@ -32027,11 +32027,11 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119904"><xli
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119905"><xliff:source>Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.</xliff:source>
-        <xliff:target state="translated">いちぶのしょくべものは、ちょうりするまえにざいりょうをじゅんびするひつようがあります。れいえば、パンはやきくまえに、こむぎことみずをまぜてきじをさくるひつようがあります。</xliff:target><xliff:note>category: interface
+        <xliff:target state="translated">いちぶのたべものは、ちょうりするまえにざいりょうをじゅんびするひつようがあります。れいえば、パンはやきくまえに、こむぎことみずをまぜてきじをさくるひつようがあります。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119906"><xliff:source>As your Cooking level increases, you'll get access to an increasing list of recipes. You'll also find that you accidentally burn your food less of the time as well.</xliff:source>
-        <xliff:target state="translated">りょうりレベルがじょうがると、ちょうりかのうなしょくべものやレシピがふえていきます。また、しょくべものをあやまってこげがしてしまうことがすこしなくなるでしょう。</xliff:target><xliff:note>category: interface
+        <xliff:target state="translated">りょうりレベルがじょうがると、ちょうりかのうなたべものやレシピがふえていきます。また、たべものをあやまってこげがしてしまうことがすこしなくなるでしょう。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119907"><xliff:source>Prayer allows you to access different prayers, available from the Prayer side panel. Each prayer offers a different powerful benefit.</xliff:source>

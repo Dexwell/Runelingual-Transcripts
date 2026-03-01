@@ -890,7 +890,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: item
 source: Rotten onion
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41142"><xliff:source>Take-grubs</xliff:source>
-        <xliff:target state="translated">しょくべものをとりる</xliff:target><xliff:note>category: inventoryActions
+        <xliff:target state="translated">たべものをとりる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Bucket of sandworms
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13430</xliff:note></xliff:trans-unit><xliff:trans-unit id="41143"><xliff:source>Pack</xliff:source>

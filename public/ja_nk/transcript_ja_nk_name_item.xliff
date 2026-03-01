@@ -11923,7 +11923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1491">
         <xliff:source>Rotten food</xliff:source>
-        <xliff:target state="translated">くさりったしょくべもの</xliff:target>
+        <xliff:target state="translated">くさりったたべもの</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rotten food

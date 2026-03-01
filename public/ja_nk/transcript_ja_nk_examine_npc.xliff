@@ -5819,7 +5819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27741">
         <xliff:source>Likes his food to be kept fresh.</xliff:source>
-        <xliff:target state="translated">かれはしょくべものをしんせんにほつのがすき。</xliff:target>
+        <xliff:target state="translated">かれはたべものをしんせんにほつのがすき。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Wydin
@@ -8227,7 +8227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28042">
         <xliff:source>Food shopkeeper.</xliff:source>
-        <xliff:target state="translated">しょくべものみせぬし。</xliff:target>
+        <xliff:target state="translated">たべものみせぬし。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Lidio
@@ -11243,7 +11243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28419">
         <xliff:source>An expert on all things culinary.</xliff:source>
-        <xliff:target state="translated">すべてのしょくべものせんもんか。</xliff:target>
+        <xliff:target state="translated">すべてのたべものせんもんか。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Master Chef
@@ -11691,7 +11691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28475">
         <xliff:source>A demented evil wizard who specialises in food spells.</xliff:source>
-        <xliff:target state="translated">しょくべものスペルをせんもんとする、きぐみのあくいあくいまほうつかい。</xliff:target>
+        <xliff:target state="translated">たべものスペルをせんもんとする、きぐみのあくいあくいまほうつかい。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Culinaromancer
@@ -11843,7 +11843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28494">
         <xliff:source>Responsible for the food and equipment of the troops.</xliff:source>
-        <xliff:target state="translated">ぶたいのしょくべものときうつわのせきにんもの。</xliff:target>
+        <xliff:target state="translated">ぶたいのたべものときうつわのせきにんもの。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Quartermaster
@@ -32019,7 +32019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31016">
         <xliff:source>I don't fancy eating any part of this.</xliff:source>
-        <xliff:target state="translated">あたしはこれのどんなぶぶんでもしょくべたくない。</xliff:target>
+        <xliff:target state="translated">あたしはこれのどんなぶぶんでもたべたくない。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Plague cow
@@ -35770,7 +35770,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Marika
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13794</xliff:note></xliff:trans-unit><xliff:trans-unit id="31534"><xliff:source>A local lover of food.</xliff:source>
-        <xliff:target state="translated">しょくべものじもとのあいし。</xliff:target><xliff:note>category: examine
+        <xliff:target state="translated">たべものじもとのあいし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emelio
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13804</xliff:note></xliff:trans-unit><xliff:trans-unit id="31535"><xliff:source>The editor for the Colosseum.</xliff:source>

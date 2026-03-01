@@ -8083,7 +8083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15368">
         <xliff:source>Rotten food</xliff:source>
-        <xliff:target state="translated">くさりったしょくべもの</xliff:target>
+        <xliff:target state="translated">くさりったたべもの</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rotten food
@@ -14291,7 +14291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16144">
         <xliff:source>Food Pile</xliff:source>
-        <xliff:target state="translated">しょくべものやま</xliff:target>
+        <xliff:target state="translated">たべものやま</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Food Pile
@@ -19963,7 +19963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16853">
         <xliff:source>Food Barrel</xliff:source>
-        <xliff:target state="translated">しょくべものたる</xliff:target>
+        <xliff:target state="translated">たべものたる</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Food Barrel
@@ -22051,7 +22051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17114">
         <xliff:source>Food cupboard</xliff:source>
-        <xliff:target state="translated">しょくべものたな</xliff:target>
+        <xliff:target state="translated">たべものたな</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Food cupboard
@@ -34867,7 +34867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18716">
         <xliff:source>Human food</xliff:source>
-        <xliff:target state="translated">にんげんのしょくべもの</xliff:target>
+        <xliff:target state="translated">にんげんのたべもの</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Human food
@@ -35683,7 +35683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18818">
         <xliff:source>Food basket</xliff:source>
-        <xliff:target state="translated">しょくべものカゴ</xliff:target>
+        <xliff:target state="translated">たべものカゴ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Food basket
@@ -35691,7 +35691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18819">
         <xliff:source>Empty Food basket</xliff:source>
-        <xliff:target state="translated">くうのしょくべものカゴ</xliff:target>
+        <xliff:target state="translated">くうのたべものカゴ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty Food basket
@@ -36530,7 +36530,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: object
 source: Debug Woman
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54063</xliff:note></xliff:trans-unit><xliff:trans-unit id="18950"><xliff:source>Food pot</xliff:source>
-        <xliff:target state="translated">しょくべものなべ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">たべものなべ</xliff:target><xliff:note>category: name
 sub_category: object
 source: Food pot
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=23690</xliff:note></xliff:trans-unit><xliff:trans-unit id="18951"><xliff:source>Empty pot</xliff:source>
