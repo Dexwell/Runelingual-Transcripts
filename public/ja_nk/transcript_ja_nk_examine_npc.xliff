@@ -35377,619 +35377,824 @@ sub_category: npc
 source: Zombie pirate
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13494</xliff:note>
       </xliff:trans-unit>
-    <xliff:trans-unit id="31436"><xliff:source>Surprisingly normal.</xliff:source><xliff:target state="translated">ぎゃく、ふつう。</xliff:target><xliff:note>category: examine
+    <xliff:trans-unit id="31436"><xliff:source>Surprisingly normal.</xliff:source>
+        <xliff:target state="translated">ぎゃく、ふつう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Trotters
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=392</xliff:note></xliff:trans-unit><xliff:trans-unit id="31437"><xliff:source>He looks dangerous!</xliff:source><xliff:target state="translated">かれはきけんにみえます！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=392</xliff:note></xliff:trans-unit><xliff:trans-unit id="31437"><xliff:source>He looks dangerous!</xliff:source>
+        <xliff:target state="translated">かれはきけんにみえます！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Vannaka
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=403</xliff:note></xliff:trans-unit><xliff:trans-unit id="31438"><xliff:source>Are they real or is it just my imagination?</xliff:source><xliff:target state="translated">かれらはほんとうですか、またはそれはあたしのそうぞうですか？</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=403</xliff:note></xliff:trans-unit><xliff:trans-unit id="31438"><xliff:source>Are they real or is it just my imagination?</xliff:source>
+        <xliff:target state="translated">かれらはほんとうですか、またはそれはあたしのそうぞうですか？</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ethereal Being
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=777</xliff:note></xliff:trans-unit><xliff:trans-unit id="31439"><xliff:source>Do they really exist?</xliff:source><xliff:target state="translated">かれらは、ほんとう、いるのか？</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=777</xliff:note></xliff:trans-unit><xliff:trans-unit id="31439"><xliff:source>Do they really exist?</xliff:source>
+        <xliff:target state="translated">かれらは、ほんとう、いるのか？</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ethereal Being
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=778</xliff:note></xliff:trans-unit><xliff:trans-unit id="31440"><xliff:source>Patchy the pirate.</xliff:source><xliff:target state="translated">パッチ、かいぞく。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=778</xliff:note></xliff:trans-unit><xliff:trans-unit id="31440"><xliff:source>Patchy the pirate.</xliff:source>
+        <xliff:target state="translated">パッチ、かいぞく。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Mac
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=1053</xliff:note></xliff:trans-unit><xliff:trans-unit id="31441"><xliff:source>A battle-hardened hero.</xliff:source><xliff:target state="translated">たたかい、みがいた、えいゆう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=1053</xliff:note></xliff:trans-unit><xliff:trans-unit id="31441"><xliff:source>A battle-hardened hero.</xliff:source>
+        <xliff:target state="translated">たたかい、みがいた、えいゆう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Robert the Strong
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=2639</xliff:note></xliff:trans-unit><xliff:trans-unit id="31442"><xliff:source>The leader of the Dagon'hai, also known as the Dark Squall.</xliff:source><xliff:target state="translated">ダゴンハイのリーダー、ダークスコールとしてもしりられている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=2639</xliff:note></xliff:trans-unit><xliff:trans-unit id="31442"><xliff:source>The leader of the Dagon'hai, also known as the Dark Squall.</xliff:source>
+        <xliff:target state="translated">ダゴンハイのリーダー、ダークスコールとしてもしりられている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Surok Magis
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=3205</xliff:note></xliff:trans-unit><xliff:trans-unit id="31443"><xliff:source>A warrior who has devoted their life to Armadyl.</xliff:source><xliff:target state="translated">かれらのじんせいをアルマディルにささげたせんし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=3205</xliff:note></xliff:trans-unit><xliff:trans-unit id="31443"><xliff:source>A warrior who has devoted their life to Armadyl.</xliff:source>
+        <xliff:target state="translated">かれらのじんせいをアルマディルにささげたせんし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Guardian of Armadyl
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=3445</xliff:note></xliff:trans-unit><xliff:trans-unit id="31444"><xliff:source>The keeper of keys, cursed and bound to protect the Arceuus Family.</xliff:source><xliff:target state="translated">キーのキーパー、のろいわれてアルセウスかぞくをほごするためにむすびあわせ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=3445</xliff:note></xliff:trans-unit><xliff:trans-unit id="31444"><xliff:source>The keeper of keys, cursed and bound to protect the Arceuus Family.</xliff:source>
+        <xliff:target state="translated">キーのキーパー、のろいわれてアルセウスかぞくをほごするためにむすびあわせ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Patchy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=5870</xliff:note></xliff:trans-unit><xliff:trans-unit id="31445"><xliff:source>A dodgy guy with a sack. Doesn't say much.</xliff:source><xliff:target state="translated">ふくろをもちつかいしいおとこ。あまりいいわない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=5870</xliff:note></xliff:trans-unit><xliff:trans-unit id="31445"><xliff:source>A dodgy guy with a sack. Doesn't say much.</xliff:source>
+        <xliff:target state="translated">ふくろをもちつかいしいおとこ。あまりいいわない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Jack Frost
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=6481</xliff:note></xliff:trans-unit><xliff:trans-unit id="31446"><xliff:source>An extremely dangerous, emaciated, ape-like creature with beady red eyes.</xliff:source><xliff:target state="translated">きょくめてきけんで、やせたさルのようななまきもの、こうたくのあるあかいめで。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=6481</xliff:note></xliff:trans-unit><xliff:trans-unit id="31446"><xliff:source>An extremely dangerous, emaciated, ape-like creature with beady red eyes.</xliff:source>
+        <xliff:target state="translated">きょくめてきけんで、やせたさルのようななまきもの、こうたくのあるあかいめで。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Cave abomination
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12454</xliff:note></xliff:trans-unit><xliff:trans-unit id="31447"><xliff:source>Son of Santa, mildly bored.</xliff:source><xliff:target state="translated">サンタのむすこ、ほのかにあきた。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12454</xliff:note></xliff:trans-unit><xliff:trans-unit id="31447"><xliff:source>Son of Santa, mildly bored.</xliff:source>
+        <xliff:target state="translated">サンタのむすこ、ほのかにあきた。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Key Master
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12599</xliff:note></xliff:trans-unit><xliff:trans-unit id="31448"><xliff:source>The guildmaster of the Warriors' Guild.</xliff:source><xliff:target state="translated">せんしギルドのギルドマスター。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12599</xliff:note></xliff:trans-unit><xliff:trans-unit id="31448"><xliff:source>The guildmaster of the Warriors' Guild.</xliff:source>
+        <xliff:target state="translated">せんしギルドのギルドマスター。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Harrallak Menarous
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13430</xliff:note></xliff:trans-unit><xliff:trans-unit id="31449"><xliff:source>A powerful warrior from the Warriors' Guild.</xliff:source><xliff:target state="translated">せんしギルドからのきょうりょくなせんし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13430</xliff:note></xliff:trans-unit><xliff:trans-unit id="31449"><xliff:source>A powerful warrior from the Warriors' Guild.</xliff:source>
+        <xliff:target state="translated">せんしギルドからのきょうりょくなせんし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ghommal
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13437</xliff:note></xliff:trans-unit><xliff:trans-unit id="31450"><xliff:source>Looking regal!</xliff:source><xliff:target state="translated">おうすまい、ようす。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13437</xliff:note></xliff:trans-unit><xliff:trans-unit id="31450"><xliff:source>Looking regal!</xliff:source>
+        <xliff:target state="translated">おうすまい、ようす。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Frog Prin
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13443</xliff:note></xliff:trans-unit><xliff:trans-unit id="31451"><xliff:source>What a nice dress!</xliff:source><xliff:target state="translated">いい、ようふく。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13443</xliff:note></xliff:trans-unit><xliff:trans-unit id="31451"><xliff:source>What a nice dress!</xliff:source>
+        <xliff:target state="translated">いい、ようふく。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Frog Prin
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13444</xliff:note></xliff:trans-unit><xliff:trans-unit id="31452"><xliff:source>What a handsome man!</xliff:source><xliff:target state="translated">なんてハンサムなおとこだ！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13444</xliff:note></xliff:trans-unit><xliff:trans-unit id="31452"><xliff:source>What a handsome man!</xliff:source>
+        <xliff:target state="translated">なんてハンサムなおとこだ！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Frog Prince
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13445</xliff:note></xliff:trans-unit><xliff:trans-unit id="31453"><xliff:source>It's the only thing left!</xliff:source><xliff:target state="translated">それは、のこった、ただひとつ、もの。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13445</xliff:note></xliff:trans-unit><xliff:trans-unit id="31453"><xliff:source>It's the only thing left!</xliff:source>
+        <xliff:target state="translated">それは、のこった、ただひとつ、もの。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hazelmere's hat
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13452</xliff:note></xliff:trans-unit><xliff:trans-unit id="31454"><xliff:source>A Black Knight with lots of combat experience.</xliff:source><xliff:target state="translated">おおいくのせんとうけいけんをもちつくろいきし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13452</xliff:note></xliff:trans-unit><xliff:trans-unit id="31454"><xliff:source>A Black Knight with lots of combat experience.</xliff:source>
+        <xliff:target state="translated">おおいくのせんとうけいけんをもちつくろいきし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Elite Black Knight
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13463</xliff:note></xliff:trans-unit><xliff:trans-unit id="31455"><xliff:source>An elite dark warrior with lots of combat experience.</xliff:source><xliff:target state="translated">おおいくのせんとうけいけんをもちつエリートあんいせんし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13463</xliff:note></xliff:trans-unit><xliff:trans-unit id="31455"><xliff:source>An elite dark warrior with lots of combat experience.</xliff:source>
+        <xliff:target state="translated">おおいくのせんとうけいけんをもちつエリートあんいせんし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Elite Dark Warrior
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13465</xliff:note></xliff:trans-unit><xliff:trans-unit id="31456"><xliff:source>An elite dark ranger with lots of combat experience.</xliff:source><xliff:target state="translated">おおいくのせんとうけいけんをもちつエリートあんいレンジャー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13465</xliff:note></xliff:trans-unit><xliff:trans-unit id="31456"><xliff:source>An elite dark ranger with lots of combat experience.</xliff:source>
+        <xliff:target state="translated">おおいくのせんとうけいけんをもちつエリートあんいレンジャー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Elite Dark Ranger
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13467</xliff:note></xliff:trans-unit><xliff:trans-unit id="31457"><xliff:source>An elite dark mage with lots of combat experience.</xliff:source><xliff:target state="translated">おおいくのせんとうけいけんをもちつエリートあんいまほうし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13467</xliff:note></xliff:trans-unit><xliff:trans-unit id="31457"><xliff:source>An elite dark mage with lots of combat experience.</xliff:source>
+        <xliff:target state="translated">おおいくのせんとうけいけんをもちつエリートあんいまほうし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Elite Dark Mage
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13469</xliff:note></xliff:trans-unit><xliff:trans-unit id="31458"><xliff:source>One of Lucien's finest undead mages.</xliff:source><xliff:target state="translated">ルシアンのさいこうのししゃのまほうしのいちつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13469</xliff:note></xliff:trans-unit><xliff:trans-unit id="31458"><xliff:source>One of Lucien's finest undead mages.</xliff:source>
+        <xliff:target state="translated">ルシアンのさいこうのししゃのまほうしのいちつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Undead Mage
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13471</xliff:note></xliff:trans-unit><xliff:trans-unit id="31459"><xliff:source>An elite dark warrior with incredible agility.</xliff:source><xliff:target state="translated">おどろきことてきなすばやさをもちつエリートあんいせんし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13471</xliff:note></xliff:trans-unit><xliff:trans-unit id="31459"><xliff:source>An elite dark warrior with incredible agility.</xliff:source>
+        <xliff:target state="translated">おどろきことてきなすばやさをもちつエリートあんいせんし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Agile Warrior
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13483</xliff:note></xliff:trans-unit><xliff:trans-unit id="31460"><xliff:source>An elite dark warrior with incredible strength.</xliff:source><xliff:target state="translated">おどろきことてきなきょうさをもちつエリートあんいせんし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13483</xliff:note></xliff:trans-unit><xliff:trans-unit id="31460"><xliff:source>An elite dark warrior with incredible strength.</xliff:source>
+        <xliff:target state="translated">おどろきことてきなきょうさをもちつエリートあんいせんし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Strong Warrior
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13484</xliff:note></xliff:trans-unit><xliff:trans-unit id="31461"><xliff:source>A powerful earth spell.</xliff:source><xliff:target state="translated">つよいちのじゅもん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13484</xliff:note></xliff:trans-unit><xliff:trans-unit id="31461"><xliff:source>A powerful earth spell.</xliff:source>
+        <xliff:target state="translated">つよいちのじゅもん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Earth spell
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13505</xliff:note></xliff:trans-unit><xliff:trans-unit id="31462"><xliff:source>A powerful water spell.</xliff:source><xliff:target state="translated">つよいみずのじゅもん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13505</xliff:note></xliff:trans-unit><xliff:trans-unit id="31462"><xliff:source>A powerful water spell.</xliff:source>
+        <xliff:target state="translated">つよいみずのじゅもん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Water spell
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13506</xliff:note></xliff:trans-unit><xliff:trans-unit id="31463"><xliff:source>A powerful fire spell.</xliff:source><xliff:target state="translated">つよいひのじゅもん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13506</xliff:note></xliff:trans-unit><xliff:trans-unit id="31463"><xliff:source>A powerful fire spell.</xliff:source>
+        <xliff:target state="translated">つよいひのじゅもん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Fire spell
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13507</xliff:note></xliff:trans-unit><xliff:trans-unit id="31464"><xliff:source>A powerful wind spell.</xliff:source><xliff:target state="translated">つよいかぜのじゅもん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13507</xliff:note></xliff:trans-unit><xliff:trans-unit id="31464"><xliff:source>A powerful wind spell.</xliff:source>
+        <xliff:target state="translated">つよいかぜのじゅもん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Wind spell
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13508</xliff:note></xliff:trans-unit><xliff:trans-unit id="31465"><xliff:source>An impressive, statuesque druidess. She must be of high status.</xliff:source><xliff:target state="translated">すばらしい、ぞうのようなドルイドおんな。かのじょはこういちいでなければならない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13508</xliff:note></xliff:trans-unit><xliff:trans-unit id="31465"><xliff:source>An impressive, statuesque druidess. She must be of high status.</xliff:source>
+        <xliff:target state="translated">すばらしい、ぞうのようなドルイドおんな。かのじょはこういちいでなければならない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ivy Sophista
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13510</xliff:note></xliff:trans-unit><xliff:trans-unit id="31466"><xliff:source>An experienced and high-ranking druid.</xliff:source><xliff:target state="translated">けいけんがありそしてこういちいのドルイド。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13510</xliff:note></xliff:trans-unit><xliff:trans-unit id="31466"><xliff:source>An experienced and high-ranking druid.</xliff:source>
+        <xliff:target state="translated">けいけんがありそしてこういちいのドルイド。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Thaerisk
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13511</xliff:note></xliff:trans-unit><xliff:trans-unit id="31467"><xliff:source>An assassin, failing to be disguised as a druid.</xliff:source><xliff:target state="translated">ドルイドとしてにせそうされるためにうしないやぶれするあんころしもの。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13511</xliff:note></xliff:trans-unit><xliff:trans-unit id="31467"><xliff:source>An assassin, failing to be disguised as a druid.</xliff:source>
+        <xliff:target state="translated">ドルイドとしてにせそうされるためにうしないやぶれするあんころしもの。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Assassin
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13514</xliff:note></xliff:trans-unit><xliff:trans-unit id="31468"><xliff:source>He's carefully folding clothes.</xliff:source><xliff:target state="translated">かれは、きをつけて、ようふく、たたむ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13514</xliff:note></xliff:trans-unit><xliff:trans-unit id="31468"><xliff:source>He's carefully folding clothes.</xliff:source>
+        <xliff:target state="translated">かれは、きをつけて、ようふく、たたむ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Khazard Launderer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13516</xliff:note></xliff:trans-unit><xliff:trans-unit id="31469"><xliff:source>A broav with a bad temper.</xliff:source><xliff:target state="translated">きがたんいブロアフ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13516</xliff:note></xliff:trans-unit><xliff:trans-unit id="31469"><xliff:source>A broav with a bad temper.</xliff:source>
+        <xliff:target state="translated">きがたんいブロアフ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Wild broav
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13517</xliff:note></xliff:trans-unit><xliff:trans-unit id="31470"><xliff:source>A Mort Myre mushroom-muncher.</xliff:source><xliff:target state="translated">モート、マイア、きのこ、たべるやつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13517</xliff:note></xliff:trans-unit><xliff:trans-unit id="31470"><xliff:source>A Mort Myre mushroom-muncher.</xliff:source>
+        <xliff:target state="translated">モート、マイア、きのこ、たべるやつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Broav
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13518</xliff:note></xliff:trans-unit><xliff:trans-unit id="31471"><xliff:source>A mysterious, sharply-dressed man.</xliff:source><xliff:target state="translated">なぞめいた、せんやかにふくをきたおとこ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13518</xliff:note></xliff:trans-unit><xliff:trans-unit id="31471"><xliff:source>A mysterious, sharply-dressed man.</xliff:source>
+        <xliff:target state="translated">なぞめいた、せんやかにふくをきたおとこ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Silif
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13519</xliff:note></xliff:trans-unit><xliff:trans-unit id="31472"><xliff:source>The armour adds to his stealthiness.</xliff:source><xliff:target state="translated">よろいはかれのこそこそかんをくわえる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13519</xliff:note></xliff:trans-unit><xliff:trans-unit id="31472"><xliff:source>The armour adds to his stealthiness.</xliff:source>
+        <xliff:target state="translated">よろいはかれのこそこそかんをくわえる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Silif
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13521</xliff:note></xliff:trans-unit><xliff:trans-unit id="31473"><xliff:source>It looks like he wasn't quite stealthy enough.</xliff:source><xliff:target state="translated">かれはかなりこそこそしていないようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13521</xliff:note></xliff:trans-unit><xliff:trans-unit id="31473"><xliff:source>It looks like he wasn't quite stealthy enough.</xliff:source>
+        <xliff:target state="translated">かれはかなりこそこそしていないようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Silif
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13524</xliff:note></xliff:trans-unit><xliff:trans-unit id="31474"><xliff:source>A Mahjarrat of incomprehensible power.</xliff:source><xliff:target state="translated">りかいしがたいをちちからのマハジャラット。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13524</xliff:note></xliff:trans-unit><xliff:trans-unit id="31474"><xliff:source>A Mahjarrat of incomprehensible power.</xliff:source>
+        <xliff:target state="translated">りかいしがたいをちちからのマハジャラット。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Lucien
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13525</xliff:note></xliff:trans-unit><xliff:trans-unit id="31475"><xliff:source>Elementally balanced.</xliff:source><xliff:target state="translated">げんそ、つりあった。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13525</xliff:note></xliff:trans-unit><xliff:trans-unit id="31475"><xliff:source>Elementally balanced.</xliff:source>
+        <xliff:target state="translated">げんそ、つりあった。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Balance Elemental
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13528</xliff:note></xliff:trans-unit><xliff:trans-unit id="31476"><xliff:source>A well-trained Khazard warrior, on orders to guard this area.</xliff:source><xliff:target state="translated">このちをまもりるためのめいれいで、よくくんれんされたハザードのせんし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13528</xliff:note></xliff:trans-unit><xliff:trans-unit id="31476"><xliff:source>A well-trained Khazard warrior, on orders to guard this area.</xliff:source>
+        <xliff:target state="translated">このちをまもりるためのめいれいで、よくくんれんされたハザードのせんし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Elite Khazard Guard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13531</xliff:note></xliff:trans-unit><xliff:trans-unit id="31477"><xliff:source>An axe-wielding mercenary who works for the highest bidder.</xliff:source><xliff:target state="translated">オノ、もつ、ようしゃ、さいたかい、いりきんで、はたらく。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13531</xliff:note></xliff:trans-unit><xliff:trans-unit id="31477"><xliff:source>An axe-wielding mercenary who works for the highest bidder.</xliff:source>
+        <xliff:target state="translated">オノ、もつ、ようしゃ、さいたかい、いりきんで、はたらく。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Mercenary axeman
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13535</xliff:note></xliff:trans-unit><xliff:trans-unit id="31478"><xliff:source>A spellcasting mercenary who works for the highest bidder.</xliff:source><xliff:target state="translated">まほう、ようしゃ、さいたかい、いりきんで、はたらく。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13535</xliff:note></xliff:trans-unit><xliff:trans-unit id="31478"><xliff:source>A spellcasting mercenary who works for the highest bidder.</xliff:source>
+        <xliff:target state="translated">まほう、ようしゃ、さいたかい、いりきんで、はたらく。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Mercenary mage
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13537</xliff:note></xliff:trans-unit><xliff:trans-unit id="31479"><xliff:source>The wise leader of the Guardians of Armadyl.</xliff:source><xliff:target state="translated">アルマディルのほごものけんいリーダー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13537</xliff:note></xliff:trans-unit><xliff:trans-unit id="31479"><xliff:source>The wise leader of the Guardians of Armadyl.</xliff:source>
+        <xliff:target state="translated">アルマディルのほごものけんいリーダー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Idria
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13540</xliff:note></xliff:trans-unit><xliff:trans-unit id="31480"><xliff:source>A priest of Saradomin and member of the Temple Knights.</xliff:source><xliff:target state="translated">サラドミンのしさいとテンプルナイツのメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13540</xliff:note></xliff:trans-unit><xliff:trans-unit id="31480"><xliff:source>A priest of Saradomin and member of the Temple Knights.</xliff:source>
+        <xliff:target state="translated">サラドミンのしさいとテンプルナイツのメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Akrisae
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13543</xliff:note></xliff:trans-unit><xliff:trans-unit id="31481"><xliff:source>He seems to be trying to watch everyone at once.</xliff:source><xliff:target state="translated">かれはすべてをいちどにみようとしているようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13543</xliff:note></xliff:trans-unit><xliff:trans-unit id="31481"><xliff:source>He seems to be trying to watch everyone at once.</xliff:source>
+        <xliff:target state="translated">かれはすべてをいちどにみようとしているようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Shady stranger
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13545</xliff:note></xliff:trans-unit><xliff:trans-unit id="31482"><xliff:source>Right where he belongs.</xliff:source><xliff:target state="translated">かれがぞくしているみぎのばしょで。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13545</xliff:note></xliff:trans-unit><xliff:trans-unit id="31482"><xliff:source>Right where he belongs.</xliff:source>
+        <xliff:target state="translated">かれがぞくしているみぎのばしょで。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Shady stranger
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13546</xliff:note></xliff:trans-unit><xliff:trans-unit id="31483"><xliff:source>A lover of nature.</xliff:source><xliff:target state="translated">しぜんのあいし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13546</xliff:note></xliff:trans-unit><xliff:trans-unit id="31483"><xliff:source>A lover of nature.</xliff:source>
+        <xliff:target state="translated">しぜんのあいし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Druid
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13552</xliff:note></xliff:trans-unit><xliff:trans-unit id="31484"><xliff:source>A lover of nature, down on his luck.</xliff:source><xliff:target state="translated">しぜんのあいし、かれのはこびにおちこみんでいる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13552</xliff:note></xliff:trans-unit><xliff:trans-unit id="31484"><xliff:source>A lover of nature, down on his luck.</xliff:source>
+        <xliff:target state="translated">しぜんのあいし、かれのはこびにおちこみんでいる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Druid
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13553</xliff:note></xliff:trans-unit><xliff:trans-unit id="31485"><xliff:source>He's subtle, but he still looks a bit suspicious.</xliff:source><xliff:target state="translated">かれはびみょうですが、まだちょっとうたがわしくみえます。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13553</xliff:note></xliff:trans-unit><xliff:trans-unit id="31485"><xliff:source>He's subtle, but he still looks a bit suspicious.</xliff:source>
+        <xliff:target state="translated">かれはびみょうですが、まだちょっとうたがわしくみえます。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Suspicious outsider
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13555</xliff:note></xliff:trans-unit><xliff:trans-unit id="31486"><xliff:source>A mage of incredible power.</xliff:source><xliff:target state="translated">おどろきことてきなをちちからのまほうし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13555</xliff:note></xliff:trans-unit><xliff:trans-unit id="31486"><xliff:source>A mage of incredible power.</xliff:source>
+        <xliff:target state="translated">おどろきことてきなをちちからのまほうし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Dark Squall
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13565</xliff:note></xliff:trans-unit><xliff:trans-unit id="31487"><xliff:source>The spirit of a long-dead druid of Guthix.</xliff:source><xliff:target state="translated">ロングしんだグーシックスのドルイドのスピリット。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13565</xliff:note></xliff:trans-unit><xliff:trans-unit id="31487"><xliff:source>The spirit of a long-dead druid of Guthix.</xliff:source>
+        <xliff:target state="translated">ロングしんだグーシックスのドルイドのスピリット。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Druid spirit
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13575</xliff:note></xliff:trans-unit><xliff:trans-unit id="31488"><xliff:source>You won't like him when he's angry.</xliff:source><xliff:target state="translated">かれがいかりったとき、あなたはかれをすきではないだろう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13575</xliff:note></xliff:trans-unit><xliff:trans-unit id="31488"><xliff:source>You won't like him when he's angry.</xliff:source>
+        <xliff:target state="translated">かれがいかりったとき、あなたはかれをすきではないだろう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Sithaph
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13583</xliff:note></xliff:trans-unit><xliff:trans-unit id="31489"><xliff:source>What's this for?</xliff:source><xliff:target state="translated">これは、なに、ため？</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13583</xliff:note></xliff:trans-unit><xliff:trans-unit id="31489"><xliff:source>What's this for?</xliff:source>
+        <xliff:target state="translated">これは、なに、ため？</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Strange tube
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13586</xliff:note></xliff:trans-unit><xliff:trans-unit id="31490"><xliff:source>An ancient human.</xliff:source><xliff:target state="translated">ふるい、にんげん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13586</xliff:note></xliff:trans-unit><xliff:trans-unit id="31490"><xliff:source>An ancient human.</xliff:source>
+        <xliff:target state="translated">ふるい、にんげん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: V
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13593</xliff:note></xliff:trans-unit><xliff:trans-unit id="31491"><xliff:source>Lucien must be incredibly powerful if he can bind such demons to his will.</xliff:source><xliff:target state="translated">ルシアンはそのようなあくまをかれのいしにむすびあわせすることができるなら、しんじられないほどきょうりょくでなければならない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13593</xliff:note></xliff:trans-unit><xliff:trans-unit id="31491"><xliff:source>Lucien must be incredibly powerful if he can bind such demons to his will.</xliff:source>
+        <xliff:target state="translated">ルシアンはそのようなあくまをかれのいしにむすびあわせすることができるなら、しんじられないほどきょうりょくでなければならない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Tormented Demon
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13599</xliff:note></xliff:trans-unit><xliff:trans-unit id="31492"><xliff:source>For debug.</xliff:source><xliff:target state="translated">デバッグ、ため。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13599</xliff:note></xliff:trans-unit><xliff:trans-unit id="31492"><xliff:source>For debug.</xliff:source>
+        <xliff:target state="translated">デバッグ、ため。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Debug Man
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13611</xliff:note></xliff:trans-unit><xliff:trans-unit id="31493"><xliff:source>A powerful warrior, guarding the Warriors' Guild.</xliff:source><xliff:target state="translated">きょうりょくなせんし、せんしギルドをまもりっている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13611</xliff:note></xliff:trans-unit><xliff:trans-unit id="31493"><xliff:source>A powerful warrior, guarding the Warriors' Guild.</xliff:source>
+        <xliff:target state="translated">きょうりょくなせんし、せんしギルドをまもりっている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ghommal
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13613</xliff:note></xliff:trans-unit><xliff:trans-unit id="31494"><xliff:source>The small but tough doorman of the Warriors' Guild.</xliff:source><xliff:target state="translated">せんしギルドのしょうさいがしてもがんじょうなドアマン。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13613</xliff:note></xliff:trans-unit><xliff:trans-unit id="31494"><xliff:source>The small but tough doorman of the Warriors' Guild.</xliff:source>
+        <xliff:target state="translated">せんしギルドのしょうさいがしてもがんじょうなドアマン。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Laidee Gnonock
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13614</xliff:note></xliff:trans-unit><xliff:trans-unit id="31495"><xliff:source>Appears slightly drunk.</xliff:source><xliff:target state="translated">ほんのりと、よっぱらったようす。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13614</xliff:note></xliff:trans-unit><xliff:trans-unit id="31495"><xliff:source>Appears slightly drunk.</xliff:source>
+        <xliff:target state="translated">ほんのりと、よっぱらったようす。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Zembo
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13655</xliff:note></xliff:trans-unit><xliff:trans-unit id="31496"><xliff:source>I have the sudden urge to bank my items.</xliff:source><xliff:target state="translated">あたしはいきなりじぶんのしなものをぎんこうにあずけたいなとおもう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13655</xliff:note></xliff:trans-unit><xliff:trans-unit id="31496"><xliff:source>I have the sudden urge to bank my items.</xliff:source>
+        <xliff:target state="translated">あたしはいきなりじぶんのしなものをぎんこうにあずけたいなとおもう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Durial321
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13662</xliff:note></xliff:trans-unit><xliff:trans-unit id="31497"><xliff:source>He doesn't look too friendly.</xliff:source><xliff:target state="translated">かれはあまりしんせつにみえない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13662</xliff:note></xliff:trans-unit><xliff:trans-unit id="31497"><xliff:source>He doesn't look too friendly.</xliff:source>
+        <xliff:target state="translated">かれはあまりしんせつにみえない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Magic Mark
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13663</xliff:note></xliff:trans-unit><xliff:trans-unit id="31498"><xliff:source>She doesn't look too friendly.</xliff:source><xliff:target state="translated">かのじょはあまりしんせつにみえない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13663</xliff:note></xliff:trans-unit><xliff:trans-unit id="31498"><xliff:source>She doesn't look too friendly.</xliff:source>
+        <xliff:target state="translated">かのじょはあまりしんせつにみえない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ranging Ro
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13664</xliff:note></xliff:trans-unit><xliff:trans-unit id="31499"><xliff:source>Needs cream...</xliff:source><xliff:target state="translated">クリーム、ひつよう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13664</xliff:note></xliff:trans-unit><xliff:trans-unit id="31499"><xliff:source>Needs cream...</xliff:source>
+        <xliff:target state="translated">クリーム、ひつよう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Warped Jelly
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=7277</xliff:note></xliff:trans-unit><xliff:trans-unit id="31500"><xliff:source>A seriously scary spider.</xliff:source><xliff:target state="translated">まじでこわいくも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=7277</xliff:note></xliff:trans-unit><xliff:trans-unit id="31500"><xliff:source>A seriously scary spider.</xliff:source>
+        <xliff:target state="translated">まじでこわいくも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Araxxor
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13668</xliff:note></xliff:trans-unit><xliff:trans-unit id="31501"><xliff:source>A seriously dead spider.</xliff:source><xliff:target state="translated">まじでしんだくも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13668</xliff:note></xliff:trans-unit><xliff:trans-unit id="31501"><xliff:source>A seriously dead spider.</xliff:source>
+        <xliff:target state="translated">まじでしんだくも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Araxxor
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13669</xliff:note></xliff:trans-unit><xliff:trans-unit id="31502"><xliff:source>Egg!</xliff:source><xliff:target state="translated">たまご。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13669</xliff:note></xliff:trans-unit><xliff:trans-unit id="31502"><xliff:source>Egg!</xliff:source>
+        <xliff:target state="translated">たまご。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Egg
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13670</xliff:note></xliff:trans-unit><xliff:trans-unit id="31503"><xliff:source>A colourful spider.</xliff:source><xliff:target state="translated">いろとりどりのくも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13670</xliff:note></xliff:trans-unit><xliff:trans-unit id="31503"><xliff:source>A colourful spider.</xliff:source>
+        <xliff:target state="translated">いろとりどりのくも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Mirrorback Araxyte
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13671</xliff:note></xliff:trans-unit><xliff:trans-unit id="31504"><xliff:source>Egg.</xliff:source><xliff:target state="translated">たまご。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13671</xliff:note></xliff:trans-unit><xliff:trans-unit id="31504"><xliff:source>Egg.</xliff:source>
+        <xliff:target state="translated">たまご。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Egg
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13672</xliff:note></xliff:trans-unit><xliff:trans-unit id="31505"><xliff:source>Egg?</xliff:source><xliff:target state="translated">たまご？</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13672</xliff:note></xliff:trans-unit><xliff:trans-unit id="31505"><xliff:source>Egg?</xliff:source>
+        <xliff:target state="translated">たまご？</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Egg
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13674</xliff:note></xliff:trans-unit><xliff:trans-unit id="31506"><xliff:source>A member of the Sisterhood experimenting with araxyte venom.</xliff:source><xliff:target state="translated">アラキシットけどくでじっけんしているシスターフッドのメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13674</xliff:note></xliff:trans-unit><xliff:trans-unit id="31506"><xliff:source>A member of the Sisterhood experimenting with araxyte venom.</xliff:source>
+        <xliff:target state="translated">アラキシットけどくでじっけんしているシスターフッドのメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Weave
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13677</xliff:note></xliff:trans-unit><xliff:trans-unit id="31507"><xliff:source>Really hope she doesn't crawl into my mouth while I sleep.</xliff:source><xliff:target state="translated">あたしがねているあいだに、かのじょがあたしのくちにはいこみまないことをほんとうにねがいっている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13677</xliff:note></xliff:trans-unit><xliff:trans-unit id="31507"><xliff:source>Really hope she doesn't crawl into my mouth while I sleep.</xliff:source>
+        <xliff:target state="translated">あたしがねているあいだに、かのじょがあたしのくちにはいこみまないことをほんとうにねがいっている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Arancini
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13678</xliff:note></xliff:trans-unit><xliff:trans-unit id="31508"><xliff:source>Looks a tad disheveled</xliff:source><xliff:target state="translated">ちょっとぐしゃぐしゃそうにみえる</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13678</xliff:note></xliff:trans-unit><xliff:trans-unit id="31508"><xliff:source>Looks a tad disheveled</xliff:source>
+        <xliff:target state="translated">ちょっとぐしゃぐしゃそうにみえる</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Man
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13679</xliff:note></xliff:trans-unit><xliff:trans-unit id="31509"><xliff:source>Looks like a respectable gentleman</xliff:source><xliff:target state="translated">りっぱなしんしのようにみえる</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13679</xliff:note></xliff:trans-unit><xliff:trans-unit id="31509"><xliff:source>Looks like a respectable gentleman</xliff:source>
+        <xliff:target state="translated">りっぱなしんしのようにみえる</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Nid
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13681</xliff:note></xliff:trans-unit><xliff:trans-unit id="31510"><xliff:source>Looks like a respectable gentleman.</xliff:source><xliff:target state="translated">りっぱなしんしのようにみえる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13681</xliff:note></xliff:trans-unit><xliff:trans-unit id="31510"><xliff:source>Looks like a respectable gentleman.</xliff:source>
+        <xliff:target state="translated">りっぱなしんしのようにみえる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Nid
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13683</xliff:note></xliff:trans-unit><xliff:trans-unit id="31511"><xliff:source>A powerful frost nagua.</xliff:source><xliff:target state="translated">つよい、しもや、ながうあ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13683</xliff:note></xliff:trans-unit><xliff:trans-unit id="31511"><xliff:source>A powerful frost nagua.</xliff:source>
+        <xliff:target state="translated">つよい、しもや、ながうあ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Amoxliatl
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13685</xliff:note></xliff:trans-unit><xliff:trans-unit id="31512"><xliff:source>Looks like it could shatter at any moment.</xliff:source><xliff:target state="translated">いつでもこわれるかもしれないようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13685</xliff:note></xliff:trans-unit><xliff:trans-unit id="31512"><xliff:source>Looks like it could shatter at any moment.</xliff:source>
+        <xliff:target state="translated">いつでもこわれるかもしれないようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Unstable ice
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13688</xliff:note></xliff:trans-unit><xliff:trans-unit id="31513"><xliff:source>The heir to the throne of Varlamore, going undercover.</xliff:source><xliff:target state="translated">ヴァーラモアのおうざのつぎしょうひと、わかりしていく。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13688</xliff:note></xliff:trans-unit><xliff:trans-unit id="31513"><xliff:source>The heir to the throne of Varlamore, going undercover.</xliff:source>
+        <xliff:target state="translated">ヴァーラモアのおうざのつぎしょうひと、わかりしていく。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Prince Itzla Arkan
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13690</xliff:note></xliff:trans-unit><xliff:trans-unit id="31514"><xliff:source>A citizen of Varlamore, hoping to join the Twilight Emissaries.</xliff:source><xliff:target state="translated">ヴァーラモアのしみん、トワイライトエミッサリーズにさんかすることをのぞみんでいる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13690</xliff:note></xliff:trans-unit><xliff:trans-unit id="31514"><xliff:source>A citizen of Varlamore, hoping to join the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">ヴァーラモアのしみん、トワイライトエミッサリーズにさんかすることをのぞみんでいる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Felius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13700</xliff:note></xliff:trans-unit><xliff:trans-unit id="31515"><xliff:source>A new member of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのあたらしいメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13700</xliff:note></xliff:trans-unit><xliff:trans-unit id="31515"><xliff:source>A new member of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのあたらしいメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Sergius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13703</xliff:note></xliff:trans-unit><xliff:trans-unit id="31516"><xliff:source>A highly experienced member of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのこういけいけんをしたメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13703</xliff:note></xliff:trans-unit><xliff:trans-unit id="31516"><xliff:source>A highly experienced member of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのこういけいけんをしたメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Ascended
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13706</xliff:note></xliff:trans-unit><xliff:trans-unit id="31517"><xliff:source>A leading member of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのリーディングなメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13706</xliff:note></xliff:trans-unit><xliff:trans-unit id="31517"><xliff:source>A leading member of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのリーディングなメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Forebearer Janus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13714</xliff:note></xliff:trans-unit><xliff:trans-unit id="31518"><xliff:source>Leader of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのリーダー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13714</xliff:note></xliff:trans-unit><xliff:trans-unit id="31518"><xliff:source>Leader of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのリーダー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Augur Metzli
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13717</xliff:note></xliff:trans-unit><xliff:trans-unit id="31519"><xliff:source>Ranul reborn... apparently.</xliff:source><xliff:target state="translated">ラヌル、さいたんじょう、いかにも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13717</xliff:note></xliff:trans-unit><xliff:trans-unit id="31519"><xliff:source>Ranul reborn... apparently.</xliff:source>
+        <xliff:target state="translated">ラヌル、さいたんじょう、いかにも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Furia Tullus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13718</xliff:note></xliff:trans-unit><xliff:trans-unit id="31520"><xliff:source>Ralos reborn... apparently.</xliff:source><xliff:target state="translated">ラロス、さいたんじょう、いかにも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13718</xliff:note></xliff:trans-unit><xliff:trans-unit id="31520"><xliff:source>Ralos reborn... apparently.</xliff:source>
+        <xliff:target state="translated">ラロス、さいたんじょう、いかにも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ennius Tullus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13719</xliff:note></xliff:trans-unit><xliff:trans-unit id="31521"><xliff:source>A newly-initiated member of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのあたらしくはじめられたメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13719</xliff:note></xliff:trans-unit><xliff:trans-unit id="31521"><xliff:source>A newly-initiated member of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのあたらしくはじめられたメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Acolyte
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13722</xliff:note></xliff:trans-unit><xliff:trans-unit id="31522"><xliff:source>Brittle, cold and shimmering with frost magic.</xliff:source><xliff:target state="translated">ハエのまじゅつできらきらしているもろい、つめたい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13722</xliff:note></xliff:trans-unit><xliff:trans-unit id="31522"><xliff:source>Brittle, cold and shimmering with frost magic.</xliff:source>
+        <xliff:target state="translated">ハエのまじゅつできらきらしているもろい、つめたい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Frost Nagua
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13728</xliff:note></xliff:trans-unit><xliff:trans-unit id="31523"><xliff:source>An experienced member of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのけいけんをしたメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13728</xliff:note></xliff:trans-unit><xliff:trans-unit id="31523"><xliff:source>An experienced member of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのけいけんをしたメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Chosen
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13738</xliff:note></xliff:trans-unit><xliff:trans-unit id="31524"><xliff:source>Keeping everyone fed.</xliff:source><xliff:target state="translated">みんなを、たべもの、たもつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13738</xliff:note></xliff:trans-unit><xliff:trans-unit id="31524"><xliff:source>Keeping everyone fed.</xliff:source>
+        <xliff:target state="translated">みんなを、たべもの、たもつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Chef
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13758</xliff:note></xliff:trans-unit><xliff:trans-unit id="31525"><xliff:source>Catching fish for the Emissaries.</xliff:source><xliff:target state="translated">エミッサリーズのためにさかなをつかまえている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13758</xliff:note></xliff:trans-unit><xliff:trans-unit id="31525"><xliff:source>Catching fish for the Emissaries.</xliff:source>
+        <xliff:target state="translated">エミッサリーズのためにさかなをつかまえている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Fisher
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13759</xliff:note></xliff:trans-unit><xliff:trans-unit id="31526"><xliff:source>One of the cultist's goats. Not to be confused with a cultist goat.</xliff:source><xliff:target state="translated">カルティストのやぎのいちつ。カルティストやぎとこみおなじしないこと。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13759</xliff:note></xliff:trans-unit><xliff:trans-unit id="31526"><xliff:source>One of the cultist's goats. Not to be confused with a cultist goat.</xliff:source>
+        <xliff:target state="translated">カルティストのやぎのいちつ。カルティストやぎとこみおなじしないこと。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Goat
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13760</xliff:note></xliff:trans-unit><xliff:trans-unit id="31527"><xliff:source>Looking after the goats.</xliff:source><xliff:target state="translated">やぎを、みかえす。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13760</xliff:note></xliff:trans-unit><xliff:trans-unit id="31527"><xliff:source>Looking after the goats.</xliff:source>
+        <xliff:target state="translated">やぎを、みかえす。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Herder
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13762</xliff:note></xliff:trans-unit><xliff:trans-unit id="31528"><xliff:source>A fierce fighter of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのげきしいかくとうもの。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13762</xliff:note></xliff:trans-unit><xliff:trans-unit id="31528"><xliff:source>A fierce fighter of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのげきしいかくとうもの。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Brawler
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13773</xliff:note></xliff:trans-unit><xliff:trans-unit id="31529"><xliff:source>A fierce mage of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのげきしいまほうし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13773</xliff:note></xliff:trans-unit><xliff:trans-unit id="31529"><xliff:source>A fierce mage of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのげきしいまほうし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary Conjurer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13777</xliff:note></xliff:trans-unit><xliff:trans-unit id="31530"><xliff:source>A fierce member of the Twilight Emissaries.</xliff:source><xliff:target state="translated">トワイライトエミッサリーズのげきしいメンバー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13777</xliff:note></xliff:trans-unit><xliff:trans-unit id="31530"><xliff:source>A fierce member of the Twilight Emissaries.</xliff:source>
+        <xliff:target state="translated">トワイライトエミッサリーズのげきしいメンバー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emissary
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13779</xliff:note></xliff:trans-unit><xliff:trans-unit id="31531"><xliff:source>A big block of ice.</xliff:source><xliff:target state="translated">だいきいこおりのブロック。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13779</xliff:note></xliff:trans-unit><xliff:trans-unit id="31531"><xliff:source>A big block of ice.</xliff:source>
+        <xliff:target state="translated">だいきいこおりのブロック。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ice block
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13790</xliff:note></xliff:trans-unit><xliff:trans-unit id="31532"><xliff:source>Servant of the sacred flame. Capable of herblore.</xliff:source><xliff:target state="translated">ゆうせいなほのおのしもべ。ヤクソウようがかのう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13790</xliff:note></xliff:trans-unit><xliff:trans-unit id="31532"><xliff:source>Servant of the sacred flame. Capable of herblore.</xliff:source>
+        <xliff:target state="translated">ゆうせいなほのおのしもべ。ヤクソウようがかのう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Brew'ma
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13793</xliff:note></xliff:trans-unit><xliff:trans-unit id="31533"><xliff:source>An expert in tomatoes, growing pumpkins for a change.</xliff:source><xliff:target state="translated">トマトのえきもん、へんかのためにかぼちゃをそだてている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13793</xliff:note></xliff:trans-unit><xliff:trans-unit id="31533"><xliff:source>An expert in tomatoes, growing pumpkins for a change.</xliff:source>
+        <xliff:target state="translated">トマトのえきもん、へんかのためにかぼちゃをそだてている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Marika
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13794</xliff:note></xliff:trans-unit><xliff:trans-unit id="31534"><xliff:source>A local lover of food.</xliff:source><xliff:target state="translated">しょくべものじもとのあいし。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13794</xliff:note></xliff:trans-unit><xliff:trans-unit id="31534"><xliff:source>A local lover of food.</xliff:source>
+        <xliff:target state="translated">しょくべものじもとのあいし。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Emelio
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13804</xliff:note></xliff:trans-unit><xliff:trans-unit id="31535"><xliff:source>The editor for the Colosseum.</xliff:source><xliff:target state="translated">ころっせうむ、へんしゅう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13804</xliff:note></xliff:trans-unit><xliff:trans-unit id="31535"><xliff:source>The editor for the Colosseum.</xliff:source>
+        <xliff:target state="translated">ころっせうむ、へんしゅう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Lelia
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13806</xliff:note></xliff:trans-unit><xliff:trans-unit id="31536"><xliff:source>She knows a thing or two about being a farmer.</xliff:source><xliff:target state="translated">かのじょはのうふであることについていくつかのことをしりっている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13806</xliff:note></xliff:trans-unit><xliff:trans-unit id="31536"><xliff:source>She knows a thing or two about being a farmer.</xliff:source>
+        <xliff:target state="translated">かのじょはのうふであることについていくつかのことをしりっている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Alba
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13807</xliff:note></xliff:trans-unit><xliff:trans-unit id="31537"><xliff:source>He's here to try Emelio's kebabs.</xliff:source><xliff:target state="translated">かれはエメリオのケバブをためしすためにここにいる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13807</xliff:note></xliff:trans-unit><xliff:trans-unit id="31537"><xliff:source>He's here to try Emelio's kebabs.</xliff:source>
+        <xliff:target state="translated">かれはエメリオのケバブをためしすためにここにいる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Lucas
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13808</xliff:note></xliff:trans-unit><xliff:trans-unit id="31538"><xliff:source>She's here to try Emelio's kebabs.</xliff:source><xliff:target state="translated">かのじょはエメリオのケバブをためしすためにここにいる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13808</xliff:note></xliff:trans-unit><xliff:trans-unit id="31538"><xliff:source>She's here to try Emelio's kebabs.</xliff:source>
+        <xliff:target state="translated">かのじょはエメリオのケバブをためしすためにここにいる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Renata
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13809</xliff:note></xliff:trans-unit><xliff:trans-unit id="31539"><xliff:source>Tells you what's happening in the Colosseum.</xliff:source><xliff:target state="translated">コロッセウムでなにがおきているのかをあなたにつたえる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13809</xliff:note></xliff:trans-unit><xliff:trans-unit id="31539"><xliff:source>Tells you what's happening in the Colosseum.</xliff:source>
+        <xliff:target state="translated">コロッセウムでなにがおきているのかをあなたにつたえる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Colosseum Announcer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13811</xliff:note></xliff:trans-unit><xliff:trans-unit id="31540"><xliff:source>Now that's a big one!</xliff:source><xliff:target state="translated">いま、それはだいきいもの！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13811</xliff:note></xliff:trans-unit><xliff:trans-unit id="31540"><xliff:source>Now that's a big one!</xliff:source>
+        <xliff:target state="translated">いま、それはだいきいもの！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Dire Wolf Alpha
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13812</xliff:note></xliff:trans-unit><xliff:trans-unit id="31541"><xliff:source>The finest actor you've never heard of.</xliff:source><xliff:target state="translated">あなたがききいたことのないさいこうのはいゆう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13812</xliff:note></xliff:trans-unit><xliff:trans-unit id="31541"><xliff:source>The finest actor you've never heard of.</xliff:source>
+        <xliff:target state="translated">あなたがききいたことのないさいこうのはいゆう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Patzi
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13818</xliff:note></xliff:trans-unit><xliff:trans-unit id="31542"><xliff:source>A helpful sort of person.</xliff:source><xliff:target state="translated">やくにたてつしゅるいのひと。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13818</xliff:note></xliff:trans-unit><xliff:trans-unit id="31542"><xliff:source>A helpful sort of person.</xliff:source>
+        <xliff:target state="translated">やくにたてつしゅるいのひと。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Adala
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13820</xliff:note></xliff:trans-unit><xliff:trans-unit id="31543"><xliff:source>A thief, not a murderer.</xliff:source><xliff:target state="translated">どろぼう、ころしやひとではない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13820</xliff:note></xliff:trans-unit><xliff:trans-unit id="31543"><xliff:source>A thief, not a murderer.</xliff:source>
+        <xliff:target state="translated">どろぼう、ころしやひとではない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Adala
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13821</xliff:note></xliff:trans-unit><xliff:trans-unit id="31544"><xliff:source>The host with the most.</xliff:source><xliff:target state="translated">もっともだいきいホスト。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13821</xliff:note></xliff:trans-unit><xliff:trans-unit id="31544"><xliff:source>The host with the most.</xliff:source>
+        <xliff:target state="translated">もっともだいきいホスト。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Constantinius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13825</xliff:note></xliff:trans-unit><xliff:trans-unit id="31545"><xliff:source>Enjoying an early retirement.</xliff:source><xliff:target state="translated">はやい、たいしょく、たのしむ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13825</xliff:note></xliff:trans-unit><xliff:trans-unit id="31545"><xliff:source>Enjoying an early retirement.</xliff:source>
+        <xliff:target state="translated">はやい、たいしょく、たのしむ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Cozyac
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13827</xliff:note></xliff:trans-unit><xliff:trans-unit id="31546"><xliff:source>Are those business sandals?</xliff:source><xliff:target state="translated">それはビジネスサンダルですか？</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13827</xliff:note></xliff:trans-unit><xliff:trans-unit id="31546"><xliff:source>Are those business sandals?</xliff:source>
+        <xliff:target state="translated">それはビジネスサンダルですか？</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Xocotla
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13829</xliff:note></xliff:trans-unit><xliff:trans-unit id="31547"><xliff:source>They could use a dunk in the fountain.</xliff:source><xliff:target state="translated">かれらはいずみでダンクをつかいうことができた。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13829</xliff:note></xliff:trans-unit><xliff:trans-unit id="31547"><xliff:source>They could use a dunk in the fountain.</xliff:source>
+        <xliff:target state="translated">かれらはいずみでダンクをつかいうことができた。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Pavo
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13831</xliff:note></xliff:trans-unit><xliff:trans-unit id="31548"><xliff:source>Is that a union flyer in his pocket?</xliff:source><xliff:target state="translated">それはかれのポケットにあるろうどうくみあわせのビラですか？</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13831</xliff:note></xliff:trans-unit><xliff:trans-unit id="31548"><xliff:source>Is that a union flyer in his pocket?</xliff:source>
+        <xliff:target state="translated">それはかれのポケットにあるろうどうくみあわせのビラですか？</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Head Butler
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13833</xliff:note></xliff:trans-unit><xliff:trans-unit id="31549"><xliff:source>He should investigate some competence.</xliff:source><xliff:target state="translated">かれはいくつかののうりょくをしらべるべきだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13833</xliff:note></xliff:trans-unit><xliff:trans-unit id="31549"><xliff:source>He should investigate some competence.</xliff:source>
+        <xliff:target state="translated">かれはいくつかののうりょくをしらべるべきだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Stradius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13834</xliff:note></xliff:trans-unit><xliff:trans-unit id="31550"><xliff:source>She's the brains... and the brawn.</xliff:source><xliff:target state="translated">かのじょはのうだ。そしてすじにくだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13834</xliff:note></xliff:trans-unit><xliff:trans-unit id="31550"><xliff:source>She's the brains... and the brawn.</xliff:source>
+        <xliff:target state="translated">かのじょはのうだ。そしてすじにくだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hutza
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13835</xliff:note></xliff:trans-unit><xliff:trans-unit id="31551"><xliff:source>Responsible for keeping the actors well dressed.</xliff:source><xliff:target state="translated">はいゆうを、いいきもの、たもつ、せきにん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13835</xliff:note></xliff:trans-unit><xliff:trans-unit id="31551"><xliff:source>Responsible for keeping the actors well dressed.</xliff:source>
+        <xliff:target state="translated">はいゆうを、いいきもの、たもつ、せきにん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Costumer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13837</xliff:note></xliff:trans-unit><xliff:trans-unit id="31552"><xliff:source>The understudy!</xliff:source><xliff:target state="translated">だいや、やくしゃ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13837</xliff:note></xliff:trans-unit><xliff:trans-unit id="31552"><xliff:source>The understudy!</xliff:source>
+        <xliff:target state="translated">だいや、やくしゃ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Naiatli
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13838</xliff:note></xliff:trans-unit><xliff:trans-unit id="31553"><xliff:source>In a supporting role.</xliff:source><xliff:target state="translated">サポートのやくわりで。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13838</xliff:note></xliff:trans-unit><xliff:trans-unit id="31553"><xliff:source>In a supporting role.</xliff:source>
+        <xliff:target state="translated">サポートのやくわりで。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Clodius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13839</xliff:note></xliff:trans-unit><xliff:trans-unit id="31554"><xliff:source>Inconvenient, occasionally.</xliff:source><xliff:target state="translated">ふべんな、ときたま。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13839</xliff:note></xliff:trans-unit><xliff:trans-unit id="31554"><xliff:source>Inconvenient, occasionally.</xliff:source>
+        <xliff:target state="translated">ふべんな、ときたま。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Wandering Guard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13840</xliff:note></xliff:trans-unit><xliff:trans-unit id="31555"><xliff:source>What a handsome fella.</xliff:source><xliff:target state="translated">いい、おとこだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13840</xliff:note></xliff:trans-unit><xliff:trans-unit id="31555"><xliff:source>What a handsome fella.</xliff:source>
+        <xliff:target state="translated">いい、おとこだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Smart-looking dog
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13842</xliff:note></xliff:trans-unit><xliff:trans-unit id="31556"><xliff:source>They're a butler. They buttle.</xliff:source><xliff:target state="translated">かれらは、しもべ。かれら、しぎえうむ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13842</xliff:note></xliff:trans-unit><xliff:trans-unit id="31556"><xliff:source>They're a butler. They buttle.</xliff:source>
+        <xliff:target state="translated">かれらは、しもべ。かれら、しぎえうむ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Butler
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13852</xliff:note></xliff:trans-unit><xliff:trans-unit id="31557"><xliff:source>Passage by invitation only.</xliff:source><xliff:target state="translated">はいきょや、だけ、つうろ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13852</xliff:note></xliff:trans-unit><xliff:trans-unit id="31557"><xliff:source>Passage by invitation only.</xliff:source>
+        <xliff:target state="translated">はいきょや、だけ、つうろ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Villa Guard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13871</xliff:note></xliff:trans-unit><xliff:trans-unit id="31558"><xliff:source>He's having a little lie down.</xliff:source><xliff:target state="translated">かれはすこしうそをついている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13871</xliff:note></xliff:trans-unit><xliff:trans-unit id="31558"><xliff:source>He's having a little lie down.</xliff:source>
+        <xliff:target state="translated">かれはすこしうそをついている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Man
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13872</xliff:note></xliff:trans-unit><xliff:trans-unit id="31559"><xliff:source>Keeping things clean.</xliff:source><xliff:target state="translated">ものをきれいにほっている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13872</xliff:note></xliff:trans-unit><xliff:trans-unit id="31559"><xliff:source>Keeping things clean.</xliff:source>
+        <xliff:target state="translated">ものをきれいにほっている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Cleaner
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13875</xliff:note></xliff:trans-unit><xliff:trans-unit id="31560"><xliff:source>A dwarven mystic.</xliff:source><xliff:target state="translated">こびと、ひみつ、ひと。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13875</xliff:note></xliff:trans-unit><xliff:trans-unit id="31560"><xliff:source>A dwarven mystic.</xliff:source>
+        <xliff:target state="translated">こびと、ひみつ、ひと。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Seer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13876</xliff:note></xliff:trans-unit><xliff:trans-unit id="31561"><xliff:source>Looks after the grapes.</xliff:source><xliff:target state="translated">ぶどうのせわをしている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13876</xliff:note></xliff:trans-unit><xliff:trans-unit id="31561"><xliff:source>Looks after the grapes.</xliff:source>
+        <xliff:target state="translated">ぶどうのせわをしている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Vineyard worker
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13904</xliff:note></xliff:trans-unit><xliff:trans-unit id="31562"><xliff:source>Makes sure the grapes get to where they need to be going.</xliff:source><xliff:target state="translated">ぶどうがそれがいきくひつようがあるばしょにとうちゃくすることをかくにんする。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13904</xliff:note></xliff:trans-unit><xliff:trans-unit id="31562"><xliff:source>Makes sure the grapes get to where they need to be going.</xliff:source>
+        <xliff:target state="translated">ぶどうがそれがいきくひつようがあるばしょにとうちゃくすることをかくにんする。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Vineyard foreman
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13908</xliff:note></xliff:trans-unit><xliff:trans-unit id="31563"><xliff:source>He looks awfully out of place!</xliff:source><xliff:target state="translated">かれはひどくばしょにあわせっていないようにみえます！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13908</xliff:note></xliff:trans-unit><xliff:trans-unit id="31563"><xliff:source>He looks awfully out of place!</xliff:source>
+        <xliff:target state="translated">かれはひどくばしょにあわせっていないようにみえます！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Well-dressed man
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13909</xliff:note></xliff:trans-unit><xliff:trans-unit id="31564"><xliff:source>He's passionate about leafy greens.</xliff:source><xliff:target state="translated">かれは、はっぱ、かしん、ぶかい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13909</xliff:note></xliff:trans-unit><xliff:trans-unit id="31564"><xliff:source>He's passionate about leafy greens.</xliff:source>
+        <xliff:target state="translated">かれは、はっぱ、かしん、ぶかい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Cabbage Farmer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13910</xliff:note></xliff:trans-unit><xliff:trans-unit id="31565"><xliff:source>Why does Nick have to be such a...</xliff:source><xliff:target state="translated">ニックはなぜそのような。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13910</xliff:note></xliff:trans-unit><xliff:trans-unit id="31565"><xliff:source>Why does Nick have to be such a...</xliff:source>
+        <xliff:target state="translated">ニックはなぜそのような。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Nasty Nick
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13911</xliff:note></xliff:trans-unit><xliff:trans-unit id="31566"><xliff:source>She can sell you a thing or two.</xliff:source><xliff:target state="translated">かのじょはあなたにいちつかにつのもをうることができます。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13911</xliff:note></xliff:trans-unit><xliff:trans-unit id="31566"><xliff:source>She can sell you a thing or two.</xliff:source>
+        <xliff:target state="translated">かのじょはあなたにいちつかにつのもをうることができます。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Shopkeeper
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13913</xliff:note></xliff:trans-unit><xliff:trans-unit id="31567"><xliff:source>A purveyor of the finest fruit and veg.</xliff:source><xliff:target state="translated">さいこうのくだものとやさいのプロバイダー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13913</xliff:note></xliff:trans-unit><xliff:trans-unit id="31567"><xliff:source>A purveyor of the finest fruit and veg.</xliff:source>
+        <xliff:target state="translated">さいこうのくだものとやさいのプロバイダー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Faustus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13914</xliff:note></xliff:trans-unit><xliff:trans-unit id="31568"><xliff:source>Her gem knowledge is deeper than the mines they come from.</xliff:source><xliff:target state="translated">かのじょのほうせきちしきはかれらがきるこうざんよりもふかい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13914</xliff:note></xliff:trans-unit><xliff:trans-unit id="31568"><xliff:source>Her gem knowledge is deeper than the mines they come from.</xliff:source>
+        <xliff:target state="translated">かのじょのほうせきちしきはかれらがきるこうざんよりもふかい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Toci
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13915</xliff:note></xliff:trans-unit><xliff:trans-unit id="31569"><xliff:source>The head sommelier for the Moonrise Brewery and Winery.</xliff:source><xliff:target state="translated">ムーンライズブルワリーとワイナリーのせきにんソムリエ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13915</xliff:note></xliff:trans-unit><xliff:trans-unit id="31569"><xliff:source>The head sommelier for the Moonrise Brewery and Winery.</xliff:source>
+        <xliff:target state="translated">ムーンライズブルワリーとワイナリーのせきにんソムリエ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Antonius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13916</xliff:note></xliff:trans-unit><xliff:trans-unit id="31570"><xliff:source>He's in charge here.</xliff:source><xliff:target state="translated">かれはここでせきにんがある。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13916</xliff:note></xliff:trans-unit><xliff:trans-unit id="31570"><xliff:source>He's in charge here.</xliff:source>
+        <xliff:target state="translated">かれはここでせきにんがある。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Supervisor Lalo
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13920</xliff:note></xliff:trans-unit><xliff:trans-unit id="31571"><xliff:source>Looking after the plants.</xliff:source><xliff:target state="translated">しょくぶつを、みかえす。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13920</xliff:note></xliff:trans-unit><xliff:trans-unit id="31571"><xliff:source>Looking after the plants.</xliff:source>
+        <xliff:target state="translated">しょくぶつを、みかえす。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Meztlan
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13922</xliff:note></xliff:trans-unit><xliff:trans-unit id="31572"><xliff:source>A skilled alchemist.</xliff:source><xliff:target state="translated">じゅつ、れんきんじゃ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13922</xliff:note></xliff:trans-unit><xliff:trans-unit id="31572"><xliff:source>A skilled alchemist.</xliff:source>
+        <xliff:target state="translated">じゅつ、れんきんじゃ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Clanila
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13923</xliff:note></xliff:trans-unit><xliff:trans-unit id="31573"><xliff:source>I prefer linguine.</xliff:source><xliff:target state="translated">ぼくは、りんぐいね、せんこうする。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13923</xliff:note></xliff:trans-unit><xliff:trans-unit id="31573"><xliff:source>I prefer linguine.</xliff:source>
+        <xliff:target state="translated">ぼくは、りんぐいね、せんこうする。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Tzatelli
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13924</xliff:note></xliff:trans-unit><xliff:trans-unit id="31574"><xliff:source>Keeping an eye on things.</xliff:source><xliff:target state="translated">ものにめをほつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13924</xliff:note></xliff:trans-unit><xliff:trans-unit id="31574"><xliff:source>Keeping an eye on things.</xliff:source>
+        <xliff:target state="translated">ものにめをほつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Juatil
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13925</xliff:note></xliff:trans-unit><xliff:trans-unit id="31575"><xliff:source>Her goods might come in handy if you're in need of protection.</xliff:source><xliff:target state="translated">かのじょのしなものはほごのひつようがあるならやくにたてつかもしれない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13925</xliff:note></xliff:trans-unit><xliff:trans-unit id="31575"><xliff:source>Her goods might come in handy if you're in need of protection.</xliff:source>
+        <xliff:target state="translated">かのじょのしなものはほごのひつようがあるならやくにたてつかもしれない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ichta
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13929</xliff:note></xliff:trans-unit><xliff:trans-unit id="31576"><xliff:source>A local trader of mining supplies.</xliff:source><xliff:target state="translated">とりこうようしなのじもとのトレーダー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13929</xliff:note></xliff:trans-unit><xliff:trans-unit id="31576"><xliff:source>A local trader of mining supplies.</xliff:source>
+        <xliff:target state="translated">とりこうようしなのじもとのトレーダー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Necto
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13930</xliff:note></xliff:trans-unit><xliff:trans-unit id="31577"><xliff:source>A defender of Mistrock.</xliff:source><xliff:target state="translated">ミストロックのディフェンダー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13930</xliff:note></xliff:trans-unit><xliff:trans-unit id="31577"><xliff:source>A defender of Mistrock.</xliff:source>
+        <xliff:target state="translated">ミストロックのディフェンダー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Guard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13933</xliff:note></xliff:trans-unit><xliff:trans-unit id="31578"><xliff:source>A resident of Mistrock.</xliff:source><xliff:target state="translated">ミストロックのじゅうにん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13933</xliff:note></xliff:trans-unit><xliff:trans-unit id="31578"><xliff:source>A resident of Mistrock.</xliff:source>
+        <xliff:target state="translated">ミストロックのじゅうにん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Citizen
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13936</xliff:note></xliff:trans-unit><xliff:trans-unit id="31579"><xliff:source>One of Mistrock's youngest residents.</xliff:source><xliff:target state="translated">ミストロックのもっともねんすこしきょすみものいちつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13936</xliff:note></xliff:trans-unit><xliff:trans-unit id="31579"><xliff:source>One of Mistrock's youngest residents.</xliff:source>
+        <xliff:target state="translated">ミストロックのもっともねんすこしきょすみものいちつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Child
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13944</xliff:note></xliff:trans-unit><xliff:trans-unit id="31580"><xliff:source>He's in charge of Mistrock.</xliff:source><xliff:target state="translated">かれはミストロックのせきにんがある。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13944</xliff:note></xliff:trans-unit><xliff:trans-unit id="31580"><xliff:source>He's in charge of Mistrock.</xliff:source>
+        <xliff:target state="translated">かれはミストロックのせきにんがある。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Overseer Khougo
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13956</xliff:note></xliff:trans-unit><xliff:trans-unit id="31581"><xliff:source>The most refined animal in all of Varlamore.</xliff:source><xliff:target state="translated">ヴァーラモアぜんからだでもっともせんれんされたどうぶつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13956</xliff:note></xliff:trans-unit><xliff:trans-unit id="31581"><xliff:source>The most refined animal in all of Varlamore.</xliff:source>
+        <xliff:target state="translated">ヴァーラモアぜんからだでもっともせんれんされたどうぶつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Capybara
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13957</xliff:note></xliff:trans-unit><xliff:trans-unit id="31582"><xliff:source>So small it could fit in your pocket!</xliff:source><xliff:target state="translated">ポケットにいりるほどちいさい！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13957</xliff:note></xliff:trans-unit><xliff:trans-unit id="31582"><xliff:source>So small it could fit in your pocket!</xliff:source>
+        <xliff:target state="translated">ポケットにいりるほどちいさい！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Techichi
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13958</xliff:note></xliff:trans-unit><xliff:trans-unit id="31583"><xliff:source>He seems to be keeping a watchful eye on something happening in the distance...</xliff:source><xliff:target state="translated">かれはとおいくでおきているなにかにちゅういふかいめをほつようです。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13958</xliff:note></xliff:trans-unit><xliff:trans-unit id="31583"><xliff:source>He seems to be keeping a watchful eye on something happening in the distance...</xliff:source>
+        <xliff:target state="translated">かれはとおいくでおきているなにかにちゅういふかいめをほつようです。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Techichi
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13960</xliff:note></xliff:trans-unit><xliff:trans-unit id="31584"><xliff:source>Apparently they specialise in herding alpacas.</xliff:source><xliff:target state="translated">あかりらかにかれらはアルパカをぼくちくすることをせんもんとしている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13960</xliff:note></xliff:trans-unit><xliff:trans-unit id="31584"><xliff:source>Apparently they specialise in herding alpacas.</xliff:source>
+        <xliff:target state="translated">あかりらかにかれらはアルパカをぼくちくすることをせんもんとしている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Chiribaya
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13961</xliff:note></xliff:trans-unit><xliff:trans-unit id="31585"><xliff:source>He's busy investigating a cabbage crime scene.</xliff:source><xliff:target state="translated">かれは、きゃべつ、はんざい、げんば、ちょうさ、いそがしい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13961</xliff:note></xliff:trans-unit><xliff:trans-unit id="31585"><xliff:source>He's busy investigating a cabbage crime scene.</xliff:source>
+        <xliff:target state="translated">かれは、きゃべつ、はんざい、げんば、ちょうさ、いそがしい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Locke McScruff
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13965</xliff:note></xliff:trans-unit><xliff:trans-unit id="31586"><xliff:source>He's examining some suspicious muddy footprints.</xliff:source><xliff:target state="translated">かれは、あやしい、どろどろ、あしあと、しらべている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13965</xliff:note></xliff:trans-unit><xliff:trans-unit id="31586"><xliff:source>He's examining some suspicious muddy footprints.</xliff:source>
+        <xliff:target state="translated">かれは、あやしい、どろどろ、あしあと、しらべている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Woofson
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13966</xliff:note></xliff:trans-unit><xliff:trans-unit id="31587"><xliff:source>He's down on his luck and wandering aimlessly...</xliff:source><xliff:target state="translated">かれはかれのはこびにおちこみんでいてあてもなくさまよっている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13966</xliff:note></xliff:trans-unit><xliff:trans-unit id="31587"><xliff:source>He's down on his luck and wandering aimlessly...</xliff:source>
+        <xliff:target state="translated">かれはかれのはこびにおちこみんでいてあてもなくさまよっている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Scorpion
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13967</xliff:note></xliff:trans-unit><xliff:trans-unit id="31588"><xliff:source>A spiky fellow.</xliff:source><xliff:target state="translated">とげとげ、やつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13967</xliff:note></xliff:trans-unit><xliff:trans-unit id="31588"><xliff:source>A spiky fellow.</xliff:source>
+        <xliff:target state="translated">とげとげ、やつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Porcupine
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13968</xliff:note></xliff:trans-unit><xliff:trans-unit id="31589"><xliff:source>A seller of high quality plate armour.</xliff:source><xliff:target state="translated">こうひんしつのプレートよろいのうるひと。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13968</xliff:note></xliff:trans-unit><xliff:trans-unit id="31589"><xliff:source>A seller of high quality plate armour.</xliff:source>
+        <xliff:target state="translated">こうひんしつのプレートよろいのうるひと。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Salius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13970</xliff:note></xliff:trans-unit><xliff:trans-unit id="31590"><xliff:source>As the name suggests, they like collecting salvage.</xliff:source><xliff:target state="translated">なまえがていあんするように、かれらはすくむずかしいしなをあつめるのがすきだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13970</xliff:note></xliff:trans-unit><xliff:trans-unit id="31590"><xliff:source>As the name suggests, they like collecting salvage.</xliff:source>
+        <xliff:target state="translated">なまえがていあんするように、かれらはすくむずかしいしなをあつめるのがすきだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Salvager
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13971</xliff:note></xliff:trans-unit><xliff:trans-unit id="31591"><xliff:source>A strange man in a moon helmet.</xliff:source><xliff:target state="translated">つきのヘルメットのきみょうなおとこ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13971</xliff:note></xliff:trans-unit><xliff:trans-unit id="31591"><xliff:source>A strange man in a moon helmet.</xliff:source>
+        <xliff:target state="translated">つきのヘルメットのきみょうなおとこ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Chosen Aluinus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13978</xliff:note></xliff:trans-unit><xliff:trans-unit id="31592"><xliff:source>He's not looking so great.</xliff:source><xliff:target state="translated">かれはそんなにすばらしいらしくみえていない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13978</xliff:note></xliff:trans-unit><xliff:trans-unit id="31592"><xliff:source>He's not looking so great.</xliff:source>
+        <xliff:target state="translated">かれはそんなにすばらしいらしくみえていない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hugh
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13979</xliff:note></xliff:trans-unit><xliff:trans-unit id="31593"><xliff:source>Leader of the salvagers.</xliff:source><xliff:target state="translated">すくむずかしいものリーダー。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13979</xliff:note></xliff:trans-unit><xliff:trans-unit id="31593"><xliff:source>Leader of the salvagers.</xliff:source>
+        <xliff:target state="translated">すくむずかしいものリーダー。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Izel
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13980</xliff:note></xliff:trans-unit><xliff:trans-unit id="31594"><xliff:source>Enjoys termites.</xliff:source><xliff:target state="translated">しろあり、たのしむ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13980</xliff:note></xliff:trans-unit><xliff:trans-unit id="31594"><xliff:source>Enjoys termites.</xliff:source>
+        <xliff:target state="translated">しろあり、たのしむ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Worm Tongue
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13981</xliff:note></xliff:trans-unit><xliff:trans-unit id="31595"><xliff:source>He seems lost in thought...</xliff:source><xliff:target state="translated">かれはおもいにむかされているようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13981</xliff:note></xliff:trans-unit><xliff:trans-unit id="31595"><xliff:source>He seems lost in thought...</xliff:source>
+        <xliff:target state="translated">かれはおもいにむかされているようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Construction Worker
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13983</xliff:note></xliff:trans-unit><xliff:trans-unit id="31596"><xliff:source>She's been on more than a few voyages.</xliff:source><xliff:target state="translated">かのじょはかずかいいじょうのうこうをしている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13983</xliff:note></xliff:trans-unit><xliff:trans-unit id="31596"><xliff:source>She's been on more than a few voyages.</xliff:source>
+        <xliff:target state="translated">かのじょはかずかいいじょうのうこうをしている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Antonia
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13984</xliff:note></xliff:trans-unit><xliff:trans-unit id="31597"><xliff:source>She's coordinating the expedition.</xliff:source><xliff:target state="translated">かのじょは、たんさく、ちょうせい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13984</xliff:note></xliff:trans-unit><xliff:trans-unit id="31597"><xliff:source>She's coordinating the expedition.</xliff:source>
+        <xliff:target state="translated">かのじょは、たんさく、ちょうせい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Taala
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13996</xliff:note></xliff:trans-unit><xliff:trans-unit id="31598"><xliff:source>Guarding against hunger.</xliff:source><xliff:target state="translated">きゅうえう、そなえ、まもる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13996</xliff:note></xliff:trans-unit><xliff:trans-unit id="31598"><xliff:source>Guarding against hunger.</xliff:source>
+        <xliff:target state="translated">きゅうえう、そなえ、まもる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Chef
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13998</xliff:note></xliff:trans-unit><xliff:trans-unit id="31599"><xliff:source>Keeping order in the camp.</xliff:source><xliff:target state="translated">キャンプのちつじょをほつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13998</xliff:note></xliff:trans-unit><xliff:trans-unit id="31599"><xliff:source>Keeping order in the camp.</xliff:source>
+        <xliff:target state="translated">キャンプのちつじょをほつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Guard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14000</xliff:note></xliff:trans-unit><xliff:trans-unit id="31600"><xliff:source>A grumpy-looking nelta in service to Ralos.</xliff:source><xliff:target state="translated">ラロスへのサービスできむずかしそうにみえるネルタ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14000</xliff:note></xliff:trans-unit><xliff:trans-unit id="31600"><xliff:source>A grumpy-looking nelta in service to Ralos.</xliff:source>
+        <xliff:target state="translated">ラロスへのサービスできむずかしそうにみえるネルタ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Manauia
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14007</xliff:note></xliff:trans-unit><xliff:trans-unit id="31601"><xliff:source>It's like it's part of the mountain itself.</xliff:source><xliff:target state="translated">それはやまじたいのいちぶのようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14007</xliff:note></xliff:trans-unit><xliff:trans-unit id="31601"><xliff:source>It's like it's part of the mountain itself.</xliff:source>
+        <xliff:target state="translated">それはやまじたいのいちぶのようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: The Hueycoatl
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14009</xliff:note></xliff:trans-unit><xliff:trans-unit id="31602"><xliff:source>It's shielding itself.</xliff:source><xliff:target state="translated">それが、じぶん、ぼうえい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14009</xliff:note></xliff:trans-unit><xliff:trans-unit id="31602"><xliff:source>It's shielding itself.</xliff:source>
+        <xliff:target state="translated">それが、じぶん、ぼうえい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: The Hueycoatl
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14011</xliff:note></xliff:trans-unit><xliff:trans-unit id="31603"><xliff:source>It doesn't seem very happy.</xliff:source><xliff:target state="translated">それはあまりさちせそうにみえない。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14011</xliff:note></xliff:trans-unit><xliff:trans-unit id="31603"><xliff:source>It doesn't seem very happy.</xliff:source>
+        <xliff:target state="translated">それはあまりさちせそうにみえない。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: The Hueycoatl
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14013</xliff:note></xliff:trans-unit><xliff:trans-unit id="31604"><xliff:source>I'd best avoid that.</xliff:source><xliff:target state="translated">ぼくは、あれを、さけるのが、いい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14013</xliff:note></xliff:trans-unit><xliff:trans-unit id="31604"><xliff:source>I'd best avoid that.</xliff:source>
+        <xliff:target state="translated">ぼくは、あれを、さけるのが、いい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hueycoatl tail
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14014</xliff:note></xliff:trans-unit><xliff:trans-unit id="31605"><xliff:source>The sharp plating has been broken off.</xliff:source><xliff:target state="translated">するどい、はくめき、こわれた。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14014</xliff:note></xliff:trans-unit><xliff:trans-unit id="31605"><xliff:source>The sharp plating has been broken off.</xliff:source>
+        <xliff:target state="translated">するどい、はくめき、こわれた。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hueycoatl tail (broken)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14015</xliff:note></xliff:trans-unit><xliff:trans-unit id="31606"><xliff:source>There's a monster in this mountain...</xliff:source><xliff:target state="translated">このやまにはモンスターがいます。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14015</xliff:note></xliff:trans-unit><xliff:trans-unit id="31606"><xliff:source>There's a monster in this mountain...</xliff:source>
+        <xliff:target state="translated">このやまにはモンスターがいます。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Hueycoatl body
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14017</xliff:note></xliff:trans-unit><xliff:trans-unit id="31607"><xliff:source>A pile of rock and broken scales.</xliff:source><xliff:target state="translated">いわとこわれたハカリのパイル。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14017</xliff:note></xliff:trans-unit><xliff:trans-unit id="31607"><xliff:source>A pile of rock and broken scales.</xliff:source>
+        <xliff:target state="translated">いわとこわれたハカリのパイル。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Rubble
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14018</xliff:note></xliff:trans-unit><xliff:trans-unit id="31608"><xliff:source>A local seller of various goods.</xliff:source><xliff:target state="translated">さま々なしなもののじもとのうりて。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14018</xliff:note></xliff:trans-unit><xliff:trans-unit id="31608"><xliff:source>A local seller of various goods.</xliff:source>
+        <xliff:target state="translated">さま々なしなもののじもとのうりて。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Shopkeeper
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14021</xliff:note></xliff:trans-unit><xliff:trans-unit id="31609"><xliff:source>A lone wanderer.</xliff:source><xliff:target state="translated">ひとり、さまようもの。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14021</xliff:note></xliff:trans-unit><xliff:trans-unit id="31609"><xliff:source>A lone wanderer.</xliff:source>
+        <xliff:target state="translated">ひとり、さまようもの。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Pilgrim
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14022</xliff:note></xliff:trans-unit><xliff:trans-unit id="31610"><xliff:source>An expert on all things brewing.</xliff:source><xliff:target state="translated">すべてのもののじょうぞうのえきもん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14022</xliff:note></xliff:trans-unit><xliff:trans-unit id="31610"><xliff:source>An expert on all things brewing.</xliff:source>
+        <xliff:target state="translated">すべてのもののじょうぞうのえきもん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Lucrezia
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14029</xliff:note></xliff:trans-unit><xliff:trans-unit id="31611"><xliff:source>A giant squirrel with a skeletal aesthetic.</xliff:source><xliff:target state="translated">ほねのびまなびをもちつきょじんのリス。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14029</xliff:note></xliff:trans-unit><xliff:trans-unit id="31611"><xliff:source>A giant squirrel with a skeletal aesthetic.</xliff:source>
+        <xliff:target state="translated">ほねのびまなびをもちつきょじんのリス。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Bone Squirrel
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14032</xliff:note></xliff:trans-unit><xliff:trans-unit id="31612"><xliff:source>Looks very polite.</xliff:source><xliff:target state="translated">ひじょうにていねいにみえる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14032</xliff:note></xliff:trans-unit><xliff:trans-unit id="31612"><xliff:source>Looks very polite.</xliff:source>
+        <xliff:target state="translated">ひじょうにていねいにみえる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Huberte
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14033</xliff:note></xliff:trans-unit><xliff:trans-unit id="31613"><xliff:source>A tiny frost nagua.</xliff:source><xliff:target state="translated">ちいさい、しもや、ながうあ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14033</xliff:note></xliff:trans-unit><xliff:trans-unit id="31613"><xliff:source>A tiny frost nagua.</xliff:source>
+        <xliff:target state="translated">ちいさい、しもや、ながうあ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Moxi
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14034</xliff:note></xliff:trans-unit><xliff:trans-unit id="31614"><xliff:source>A naughty sea bird.</xliff:source><xliff:target state="translated">いたずらなうみのとり。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14034</xliff:note></xliff:trans-unit><xliff:trans-unit id="31614"><xliff:source>A naughty sea bird.</xliff:source>
+        <xliff:target state="translated">いたずらなうみのとり。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Gull
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14047</xliff:note></xliff:trans-unit><xliff:trans-unit id="31615"><xliff:source>MeoooOoOoOooOoOooo.</xliff:source><xliff:target state="translated">みゃああああああああああああああ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14047</xliff:note></xliff:trans-unit><xliff:trans-unit id="31615"><xliff:source>MeoooOoOoOooOoOooo.</xliff:source>
+        <xliff:target state="translated">みゃああああああああああああああ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ghost Cat
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14109</xliff:note></xliff:trans-unit><xliff:trans-unit id="31616"><xliff:source>All dressed up for Halloween!</xliff:source><xliff:target state="translated">ハロウィーン、ため、ぜんぶ、ようふく、きた。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14109</xliff:note></xliff:trans-unit><xliff:trans-unit id="31616"><xliff:source>All dressed up for Halloween!</xliff:source>
+        <xliff:target state="translated">ハロウィーン、ため、ぜんぶ、ようふく、きた。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Stray dog
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14112</xliff:note></xliff:trans-unit><xliff:trans-unit id="31617"><xliff:source>A small odd-looking spider.</xliff:source><xliff:target state="translated">しょうさいおかしくみえるくも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14112</xliff:note></xliff:trans-unit><xliff:trans-unit id="31617"><xliff:source>A small odd-looking spider.</xliff:source>
+        <xliff:target state="translated">しょうさいおかしくみえるくも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Araxyte
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11174</xliff:note></xliff:trans-unit><xliff:trans-unit id="31618"><xliff:source>A large odd-looking spider.</xliff:source><xliff:target state="translated">おおきいおかしくみえるくも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11174</xliff:note></xliff:trans-unit><xliff:trans-unit id="31618"><xliff:source>A large odd-looking spider.</xliff:source>
+        <xliff:target state="translated">おおきいおかしくみえるくも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Araxyte
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11175</xliff:note></xliff:trans-unit><xliff:trans-unit id="31619"><xliff:source>A very large odd-looking spider.</xliff:source><xliff:target state="translated">とてもおおきいおかしくみえるくも。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11175</xliff:note></xliff:trans-unit><xliff:trans-unit id="31619"><xliff:source>A very large odd-looking spider.</xliff:source>
+        <xliff:target state="translated">とてもおおきいおかしくみえるくも。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Araxyte
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11176</xliff:note></xliff:trans-unit><xliff:trans-unit id="31620"><xliff:source>The custodian of this museum.</xliff:source><xliff:target state="translated">このミュージアムのほかん。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11176</xliff:note></xliff:trans-unit><xliff:trans-unit id="31620"><xliff:source>The custodian of this museum.</xliff:source>
+        <xliff:target state="translated">このミュージアムのほかん。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Curator Herminius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13297</xliff:note></xliff:trans-unit><xliff:trans-unit id="31621"><xliff:source>A rocky horror.</xliff:source><xliff:target state="translated">いわのおそろしいもの。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13297</xliff:note></xliff:trans-unit><xliff:trans-unit id="31621"><xliff:source>A rocky horror.</xliff:source>
+        <xliff:target state="translated">いわのおそろしいもの。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Golem guard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14125</xliff:note></xliff:trans-unit><xliff:trans-unit id="31622"><xliff:source>This dung beetle has mistaken you for its staple diet.</xliff:source><xliff:target state="translated">このふんかぶとむしがあなたをたべものとまちがえた。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14125</xliff:note></xliff:trans-unit><xliff:trans-unit id="31622"><xliff:source>This dung beetle has mistaken you for its staple diet.</xliff:source>
+        <xliff:target state="translated">このふんかぶとむしがあなたをたべものとまちがえた。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Small scarab
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14126</xliff:note></xliff:trans-unit><xliff:trans-unit id="31623"><xliff:source>Looks kind of shifty...</xliff:source><xliff:target state="translated">なんだかあやしくみえる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14126</xliff:note></xliff:trans-unit><xliff:trans-unit id="31623"><xliff:source>Looks kind of shifty...</xliff:source>
+        <xliff:target state="translated">なんだかあやしくみえる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Jonny the Beard
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14138</xliff:note></xliff:trans-unit><xliff:trans-unit id="31624"><xliff:source>They can help you travel to hard to reach places...</xliff:source><xliff:target state="translated">かれらはむずかしいばしょへのりょこうをてつだうことができる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14138</xliff:note></xliff:trans-unit><xliff:trans-unit id="31624"><xliff:source>They can help you travel to hard to reach places...</xliff:source>
+        <xliff:target state="translated">かれらはむずかしいばしょへのりょこうをてつだうことができる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: League Navigator
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14145</xliff:note></xliff:trans-unit><xliff:trans-unit id="31625"><xliff:source>And with its head he came galumphing back.</xliff:source><xliff:target state="translated">そしてそのあたまでかれはどんどんもどりってきた。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14145</xliff:note></xliff:trans-unit><xliff:trans-unit id="31625"><xliff:source>And with its head he came galumphing back.</xliff:source>
+        <xliff:target state="translated">そしてそのあたまでかれはどんどんもどりってきた。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Left head
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=125</xliff:note></xliff:trans-unit><xliff:trans-unit id="31626"><xliff:source>Might have a short temper.</xliff:source><xliff:target state="translated">きっときたんきのしょうばいがあるだろう。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=125</xliff:note></xliff:trans-unit><xliff:trans-unit id="31626"><xliff:source>Might have a short temper.</xliff:source>
+        <xliff:target state="translated">きっときたんきのしょうばいがあるだろう。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Bran
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=10476</xliff:note></xliff:trans-unit><xliff:trans-unit id="31627"><xliff:source>Looks like a chill guy.</xliff:source><xliff:target state="translated">すずしいやつにみえる。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=10476</xliff:note></xliff:trans-unit><xliff:trans-unit id="31627"><xliff:source>Looks like a chill guy.</xliff:source>
+        <xliff:target state="translated">すずしいやつにみえる。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ric
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12592</xliff:note></xliff:trans-unit><xliff:trans-unit id="31628"><xliff:source>Wields the primal force of fire. Majestic and fearsome.</xliff:source><xliff:target state="translated">ひのげんはくりょくをつかう。こうおとしく、おそろしい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12592</xliff:note></xliff:trans-unit><xliff:trans-unit id="31628"><xliff:source>Wields the primal force of fire. Majestic and fearsome.</xliff:source>
+        <xliff:target state="translated">ひのげんはくりょくをつかう。こうおとしく、おそろしい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Branda the Fire Queen
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12596</xliff:note></xliff:trans-unit><xliff:trans-unit id="31629"><xliff:source>Wields the primal force of ice. Kingly and formidable.</xliff:source><xliff:target state="translated">こおりのげんはくりょくをつかう。おうらしく、ぎょうぎょうしい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12596</xliff:note></xliff:trans-unit><xliff:trans-unit id="31629"><xliff:source>Wields the primal force of ice. Kingly and formidable.</xliff:source>
+        <xliff:target state="translated">こおりのげんはくりょくをつかう。おうらしく、ぎょうぎょうしい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Eldric the Ice King
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14147</xliff:note></xliff:trans-unit><xliff:trans-unit id="31630"><xliff:source>She lies defeated, drained and silent... but still faintly alive.</xliff:source><xliff:target state="translated">かのじょはやぶられ、ぬかれ、ふうかに...しかしまだかすかにいきているようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14147</xliff:note></xliff:trans-unit><xliff:trans-unit id="31630"><xliff:source>She lies defeated, drained and silent... but still faintly alive.</xliff:source>
+        <xliff:target state="translated">かのじょはやぶられ、ぬかれ、ふうかに...しかしまだかすかにいきているようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Branda the Fire Queen
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14148</xliff:note></xliff:trans-unit><xliff:trans-unit id="31631"><xliff:source>He lies defeated, drained and silent... but still faintly alive.</xliff:source><xliff:target state="translated">かれはやぶられ、ぬかれ、ふうかに...しかしまだかすかにいきているようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14148</xliff:note></xliff:trans-unit><xliff:trans-unit id="31631"><xliff:source>He lies defeated, drained and silent... but still faintly alive.</xliff:source>
+        <xliff:target state="translated">かれはやぶられ、ぬかれ、ふうかに...しかしまだかすかにいきているようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Eldric the Ice King
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14149</xliff:note></xliff:trans-unit><xliff:trans-unit id="31632"><xliff:source>An ice elemental.</xliff:source><xliff:target state="translated">こおりのようそ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14149</xliff:note></xliff:trans-unit><xliff:trans-unit id="31632"><xliff:source>An ice elemental.</xliff:source>
+        <xliff:target state="translated">こおりのようそ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Ice elemental
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14151</xliff:note></xliff:trans-unit><xliff:trans-unit id="31633"><xliff:source>Burning fiercely.</xliff:source><xliff:target state="translated">はげしくもえている。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14151</xliff:note></xliff:trans-unit><xliff:trans-unit id="31633"><xliff:source>Burning fiercely.</xliff:source>
+        <xliff:target state="translated">はげしくもえている。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Fire
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14152</xliff:note></xliff:trans-unit><xliff:trans-unit id="31634"><xliff:source>Razor sharp.</xliff:source><xliff:target state="translated">かみそりのようにするどい。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14152</xliff:note></xliff:trans-unit><xliff:trans-unit id="31634"><xliff:source>Razor sharp.</xliff:source>
+        <xliff:target state="translated">かみそりのようにするどい。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Icicles
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14153</xliff:note></xliff:trans-unit><xliff:trans-unit id="31635"><xliff:source>He seems to like deviled eggs.</xliff:source><xliff:target state="translated">かれはあくまのたごやきがすきなようだ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14153</xliff:note></xliff:trans-unit><xliff:trans-unit id="31635"><xliff:source>He seems to like deviled eggs.</xliff:source>
+        <xliff:target state="translated">かれはあくまのたごやきがすきなようだ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Yama's throne
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14157</xliff:note></xliff:trans-unit><xliff:trans-unit id="31636"><xliff:source>A large herding dog from a far off place.</xliff:source><xliff:target state="translated">えんきたばしょからのおおきなひつじいぬ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14157</xliff:note></xliff:trans-unit><xliff:trans-unit id="31636"><xliff:source>A large herding dog from a far off place.</xliff:source>
+        <xliff:target state="translated">えんきたばしょからのおおきなひつじいぬ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Sadie
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14163</xliff:note></xliff:trans-unit><xliff:trans-unit id="31637"><xliff:source>A regal little fellow.</xliff:source><xliff:target state="translated">おうらしいちいさいやつ。</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14163</xliff:note></xliff:trans-unit><xliff:trans-unit id="31637"><xliff:source>A regal little fellow.</xliff:source>
+        <xliff:target state="translated">おうらしいちいさいやつ。</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Sir Burrus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14165</xliff:note></xliff:trans-unit><xliff:trans-unit id="31638"><xliff:source>A sweet little dog with a great hairdo!</xliff:source><xliff:target state="translated">いいかみかたのあまいちいさいいぬ！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14165</xliff:note></xliff:trans-unit><xliff:trans-unit id="31638"><xliff:source>A sweet little dog with a great hairdo!</xliff:source>
+        <xliff:target state="translated">いいかみかたのあまいちいさいいぬ！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Archibald
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14167</xliff:note></xliff:trans-unit><xliff:trans-unit id="31639"><xliff:source>Charlie's best friend!</xliff:source><xliff:target state="translated">チャーリーのもっともいいともだち！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14167</xliff:note></xliff:trans-unit><xliff:trans-unit id="31639"><xliff:source>Charlie's best friend!</xliff:source>
+        <xliff:target state="translated">チャーリーのもっともいいともだち！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Duke
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14169</xliff:note></xliff:trans-unit><xliff:trans-unit id="31640"><xliff:source>Would you believe it, that dog was a cat all along!</xliff:source><xliff:target state="translated">しんじるであろうか、そのいぬはずっとねこだったのだ！</xliff:target><xliff:note>category: examine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14169</xliff:note></xliff:trans-unit><xliff:trans-unit id="31640"><xliff:source>Would you believe it, that dog was a cat all along!</xliff:source>
+        <xliff:target state="translated">しんじるであろうか、そのいぬはずっとねこだったのだ！</xliff:target><xliff:note>category: examine
 sub_category: npc
 source: Kimba
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14171</xliff:note></xliff:trans-unit></xliff:body>

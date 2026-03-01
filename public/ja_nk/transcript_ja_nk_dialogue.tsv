@@ -2717,7 +2717,7 @@ Hosidius house	ああ、ごめん。ところで じゅうたん のこと を �
 Cosy cabin	サイズ を あわせてある。もう その しつもん を き くのに ギンコイン いっこ ぐらい つかった。	dialogue	Alwyn	Alwyn
 Cancel	キャンセル	dialogue	Alwyn	Alwyn
 Could I have a Construction guide book?	ああ、そう おもえば いい。ぼくは しろを あらわないと。	dialogue	Alwyn	Alwyn
-Tell me about houses!	また。	dialogue	Alwyn	Alwyn
+Tell me about houses!	いえについて おしえて！	dialogue	Alwyn	Alwyn
 Tell me about that skillcape you're wearing.	その ほん に のってる エリッサ は あなたですか？	dialogue	Alwyn	Alwyn
 Can you sell me a Skillcape of Construction?	『ふしぎな きもち』を あなた に みせました。	dialogue	Alwyn	Alwyn
 I'm not paying that!	ああ、そう です。	dialogue	Alwyn	Alwyn
@@ -7321,7 +7321,7 @@ No thanks.	いいえ、ありがとうございます。	dialogue	Blacksmith	Pla
 As you wish. You are always welcome to return if you change your mind.	かしこまりました。きがかわったらもどってきてもいいですよ。	dialogue	Blacksmith	Blacksmith
 Yes please.	はい、おねがいします。	dialogue	Blacksmith	Blacksmith
 Do you make these yourself?	いきます。	dialogue	Blacksmith	Blacksmith
-Can you repair something for me?	いい。	dialogue	Blacksmith	Blacksmith
+Can you repair something for me?	なにか なおしてくれる？	dialogue	Blacksmith	Blacksmith
 Repair that item: [x] coins.	なに が ありますか?	dialogue	Blacksmith	Blacksmith
 Cancel.	いきます。	dialogue	Blacksmith	Blacksmith
 No thanks.	いいえ、ありがとうございます。	dialogue	Blacksmith	Blacksmith
@@ -15684,7 +15684,7 @@ A chicken!?	なにか。あなたの。けはじのことを。ずっと。し�
 Yeah a chicken. It could have been worse though.	そう。あなたは。ヘアドレッサーが。いったほうが。いいです。	dialogue	Donie	Player
 Very true, poor guy.	ああ。ありがとうございます。	dialogue	Donie	Donie
 Where can I get a haircut like yours?	ルムブリッジの。ゼネラル・ストアで。ちずを。ってます。もし。わすれたら。	dialogue	Donie	Player
-Yes, it does look like you need a hairdresser.	なに。	dialogue	Donie	Donie
+Yes, it does look like you need a hairdresser.	たしかに びようしが ひつようそうだね。	dialogue	Donie	Donie
 Oh thanks!	そう。そらが。あがっていました。	dialogue	Donie	Player
 No problem. The hairdresser in Falador will probably be able to sort you out.	もんだいありません。ファラダーのびようしがおおいぶんあなたをてつだいうことができます。	dialogue	Donie	Donie
 The Lumbridge general store sells useful maps if you don't know the way.	ああ。ざんねん。のぞけないです。	dialogue	Donie	Donie
@@ -16514,7 +16514,7 @@ Yes, I can help.	かうんと　ちぇっくへの　ぎふと。	dialogue	Duke 
 Talk about something else.	ぎりーへの　ぎふと。	dialogue	Duke Horacio	Duke Horacio
 Where do I get the tree branches from?	ふぁーまー　ふれっどへの　ぎふと。	dialogue	Duke Horacio	Duke Horacio
 Where do I get the decoration?	どーむ　せいやーへの　ぎふと。	dialogue	Duke Horacio	Duke Horacio
-How do I put it all together?	なし。	dialogue	Duke Horacio	Duke Horacio
+How do I put it all together?	どうやって ぜんぶ くみたてるの？	dialogue	Duke Horacio	Duke Horacio
 Why do I need it again?	ぷれいやーねーむ！　きてくれて　ありがとう。　さるを　あつめてくれて　かんしゃしています。	dialogue	Duke Horacio	Duke Horacio
 No thanks, bye.	あなたを　てつだってくれて　ありがとう、ぷれいやーねーむ。　もし　いんべんとりの　すぺーすが　あいてたら、ほうしゅうを　あげたいです。	dialogue	Duke Horacio	Duke Horacio
 Present for Hans.	あなたを　てつだってくれて　ありがとう、ぷれいやーねーむ。　かんしゃのしるしに　ほうしゅうを　よういしました。	dialogue	Duke Horacio	Duke Horacio
@@ -27366,7 +27366,7 @@ If you complete all of the easy tasks in Lumbridge and Draynor, your ring can re
 Thanks!	ありがとう！	dialogue	Hatius Cosaintus	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Hatius Cosaintus	Player
 In addition to the easy rewards, your ring can restore half of your run energy and teleport you to the Draynor cabbage patch three times per day, there's also a new shortcut available under the Draynor village wall.	はい。	dialogue	Hatius Cosaintus	Hatius Cosaintus
-Tell me more about the Hard rewards please!	そう。	dialogue	Hatius Cosaintus	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Hatius Cosaintus	Player
 In addition to the easy and medium benefits, the ring will have unlimited cabbage teleports and four charges to restore half your run energy. Collecting Tears of Guthix will provide increased experience and a shortcut	なん か できますか？	dialogue	Hatius Cosaintus	Hatius Cosaintus
 from Lumbridge swamp to the Desert becomes available.	いろいろ あります。とうは すばらしい です。	dialogue	Hatius Cosaintus	Hatius Cosaintus
 Tell me more about the Elite rewards please!	こんにちは。いちば を すすめます。	dialogue	Hatius Cosaintus	Player
@@ -27714,7 +27714,7 @@ You mean Roger! I guess he was quite friendly.	ああ。たのしい。	dialogue
 Then perhaps crocodiles are not as rude as you think.	もちろん。ぜんぶ だ。パンテオン。	dialogue	Het	Crondis
 As you wish.	かしこまりました。	dialogue	Het	Crondis
 We will be here.	わかりました。	dialogue	Het	Crondis
-I have a question for Het.	また。	dialogue	Het	Player
+I have a question for Het.	ヘトに しつもんが ある。	dialogue	Het	Player
 I am Tumeken's avatar of health, both physical and mental.	ぜんぶ に しつもん。	dialogue	Het	Het
 You talk about strength and fighting a lot. Surely fighting isn't good for someone's health.	アマスカット は どうなる？	dialogue	Het	Player
 Well when it comes to health, is strength not the ultimate goal? The strongest individual is one who is healthy in both body and mind, and what better way to celebrate that strength than in combat!	あの こ しだい。わるければ、さきでい。	dialogue	Het	Het
@@ -27731,7 +27731,7 @@ Now that Amascut is running with her tail between her legs, perhaps we can remin
 Very well.	あ。ほか。	dialogue	Het	Het
 We'll wait for you to return.	ほんとうに かみ？	dialogue	Het	Het
 I have a question for all of you.	この ひと なら、そう いう。	dialogue	Het	Player
-What will happen with Amascut?	でも。	dialogue	Het	Player
+What will happen with Amascut?	アマスカットは どうなるの？	dialogue	Het	Player
 I'd say that's up to her. If she doesn't change her ways, her fate won't be pretty.	つめきん が つくりました。かみの ほんりょく で。	dialogue	Het	Het
 But it's never too late for redemption. There might still be hope for her.	でも かみ じゃない。つよい けど。でも かみ は いない。だから ここ。	dialogue	Het	Apmeken
 Whatever path she takes, we will be ready.	ほんとう に？	dialogue	Het	Crondis
@@ -27773,10 +27773,10 @@ Actually, I've changed my mind.	みは、きがへんわったんだ。	dialogue
 I'll be back soon.	わに は ぶれい じゃない。	dialogue	Het	Het
 I have a question for Crondis.	クロンディスに、しつもんがある。	dialogue	Het	Het
 Why are crocodiles so rude?	けんこう は ため じゃない。よわさ は なおせます。つよい が たすける。	dialogue	Het	Het
-I have a question for Het.	また。	dialogue	Het	Het
+I have a question for Het.	ヘトに しつもんが ある。	dialogue	Het	Het
 Do you have more followers than the others?	ボート が そこ。つかって。	dialogue	Het	Het
 I have a question for all of you.	この ひと なら、そう いう。	dialogue	Het	Het
-What will happen with Amascut?	でも。	dialogue	Het	Het
+What will happen with Amascut?	アマスカットは どうなるの？	dialogue	Het	Het
 Are you actually gods?	またね。ひと。	dialogue	Het	Het
 So what happens now?	ヘット に しつもん。	dialogue	Het	Het
 How's your magic coming along?	あなたのまじゅつのしゅぎょう、すすんでますか？	dialogue	Hetty	Hetty
@@ -29239,7 +29239,7 @@ If it helps I have a book here that will tell you about crystal chanting.	わた
 I can't afford that.	ゆみ は どれだけ ですか？	dialogue	Ilfeen	Player
 How much is the bow?	これが あなた のために しょかい する のが はじめて ですから、これは せいう こうきん になります。ねだん は より はやく やすく なるべき です。わたしは あなたの みゃくどうしん を やすいにく。	dialogue	Ilfeen	Player
 As this is the first one I've made for you it will be 900,000 coins. The cost should get cheaper as I get to know your resonance.	イルフィーン は あなたに くりすたる ゆみ を わたします。	dialogue	Ilfeen	Ilfeen
-Ilfeen hands you a crystal bow.	おい。	dialogue	Ilfeen	Ilfeen
+Ilfeen hands you a crystal bow.	イルフィーンが すいしょうの ゆみを わたしてくれた。	dialogue	Ilfeen	Ilfeen
 Hello again.	またかいったね。	dialogue	Ilfeen	Player
 Hey.	あなたは ほしゃ なこ を しょてなお いますか？	dialogue	Ilfeen	Ilfeen
 Are you still offering to chant seeds?	わたしは です。しかし あなたが しゅ を あたえるはず ですね。	dialogue	Ilfeen	Player
@@ -29282,7 +29282,7 @@ Congratulations!	かれ は かれの いぎゃく を みぎ に たき まし�
 He ripped his opponent in half!	それは いたい に する ことが ひつよう です！	dialogue	Ima	Ima
 That's gotta hurt!	かれ は ただ じゅう としも！	dialogue	Ima	Player
 He's only 10 as well!	あなたは かれら を わかい ばい！	dialogue	Ima	Ima
-You gotta start 'em young!	ふん。	dialogue	Ima	Player
+You gotta start 'em young!	わかいうちから はじめないとね！	dialogue	Ima	Player
 Hmph.	わたしの もっとも すきな ファイター は ムバリズ です！	dialogue	Ima	Ima
 My favourite fighter is Mubariz!	ぎょうかんおしかけ の ひと？	dialogue	Ima	Ima
 The guy at the information kiosk?	はい！かれは ゲート!	dialogue	Ima	Player
@@ -30044,7 +30044,7 @@ Congratulations!	かれ は かれの いぎゃく を みぎ に たき まし�
 He ripped his opponent in half!	それは いたい に する ことが ひつよう です！	dialogue	Jadid	Jadid
 That's gotta hurt!	かれ は ただ じゅう としも！	dialogue	Jadid	Player
 He's only 10 as well!	あなたは かれら を わかい ばい！	dialogue	Jadid	Jadid
-You gotta start 'em young!	ふん。	dialogue	Jadid	Player
+You gotta start 'em young!	わかいうちから はじめないとね！	dialogue	Jadid	Player
 Can't you see I'm watching the duels?	わたしは もうしわけ ありません！	dialogue	Jadid	Jadid
 I'm sorry!	ああ。これは しょうり を する ほうが いい です!	dialogue	Jadid	Player
 Knock knock!	なかない で。これは わたし です！	dialogue	Jadid	Jadid
@@ -30189,7 +30189,7 @@ If you complete all of the easy tasks in the Desert, you can charge a Pharaoh's 
 Thanks!	ありがとう！	dialogue	Jarr	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Jarr	Player
 In addition to the easy rewards, you can charge a Pharaoh's sceptre with 25 charges and the amulet will teleport you to Nardah once per day.	イージーと、ミディアムのほうに、パラオのしゃくじょう、２５かい、チャージ。あみゅれっとで、ナルダーに、１にち１かい、テレポート。	dialogue	Jarr	Jarr
-Tell me more about the Hard rewards please!	そう。	dialogue	Jarr	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Jarr	Player
 In addition to the easy and medium benefits, you can charge a Pharaoh's sceptre with 50 charges, you can adjust your Camulet to teleport you above the temple and the Nardah herbalist will create unfinished potions	イージーと、ミディアムのほかに、パラオのしゃくじょう、５０かい、チャージ。あみゅれっとで、めいしょうのうえの、テレポート。ナルダーのくすりやさんが、しゅくせい、じゃくを、つくります。	dialogue	Jarr	Jarr
 for you, as well as cleaning noted herbs for the usual herb cleaning fee.	あなたのために、くすりで、なおされた、そうをきれいに。	dialogue	Jarr	Jarr
 All your rides on a magic carpet are free, and you can climb through the Al Kharid Palace southern window too, if your Agility level's up to it.	すべての、じゅつりょこうは、ただ。アルカハリドのきゅうてんの、ひがしまどを、よじのぼれます。あなたのアジリティが、たかければ。	dialogue	Jarr	Jarr
@@ -30402,7 +30402,7 @@ Congratulations!	かれ は かれの いぎゃく を みぎ に たき まし�
 He ripped his opponent in half!	それは いたい に する ことが ひつよう です！	dialogue	Jeed	Jeed
 That's gotta hurt!	かれ は ただ じゅう としも！	dialogue	Jeed	Player
 He's only 10 as well!	あなたは かれら を わかい ばい！	dialogue	Jeed	Jeed
-You gotta start 'em young!	ふん。	dialogue	Jeed	Player
+You gotta start 'em young!	わかいうちから はじめないとね！	dialogue	Jeed	Player
 Hmph.	わたしの もっとも すきな ファイター は ムバリズ です！	dialogue	Jeed	Jeed
 My favourite fighter is Mubariz!	ぎょうかんおしかけ の ひと？	dialogue	Jeed	Jeed
 The guy at the information kiosk?	はい！かれは ゲート!	dialogue	Jeed	Player
@@ -34855,7 +34855,7 @@ Thanks!	ありがとう！	dialogue	Le-sabrè	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Le-sabrè	Player
 In addition to the easy rewards, you get 5 daily slime pit teleports and a built-in ghostspeak amulet. Robin in Port Phasmatys will exchange some bonemeal for bones for you, and you'll receive a 5% increase in Slayer	かんたんなほうびにくわえて、ぐーぷいっとへのてれぽーとがごかいになります。そしてゴーストすぴーくあみゅれっとがついています。ぽーとふぁせまてぃすのろびんが、こつみーると、ほねにかえてくれます。そしてすれいやーたうあーでのあっしぐめんとちゅう、けいけんちをじゅうごぱーせんともらえます。	dialogue	Le-sabrè	Le-sabrè
 XP when on assignment in the Slayer Tower too.	すれいやーたうあーでのあっしぐめんとちゅう、けいけんちをじゅうごぱーせんともらえます。	dialogue	Le-sabrè	Le-sabrè
-Tell me more about the Hard rewards please!	そう。	dialogue	Le-sabrè	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Le-sabrè	Player
 In addition to the easy and medium benefits, you can pick double Mort Myre Fungi in the swamp, get more experience from burning shades, access a shortcut on Mos Le`Harmless, receive more runes from Barrows,	かんたんなほうびとちゅうかるほうびにくわえて、ぬまで、もるとみあるきのこを2ばいとれます。やはげばりあることがふえます。もす・れ・はるみれすへのしょーかっとにアクセスできます。ばろうずからのるーんがふえます。	dialogue	Le-sabrè	Le-sabrè
 Robin will exchange more bonemeal for bones each day and you'll receive a 7.5% increase in Slayer XP when on assignment in the Slayer Tower. The disciples at the Ectofuntus will give you a bonecrusher too!	ろびんはまいにち、もっとこつみーるを、ほねにかえてくれます。そしてすれいやーたうあーでのあっしぐめんとちゅう、けいけんちをしちじゅうごぱーせんともらえます。えくとふぁんたすのてぃすかいぷたちが、ぼーんくらっしゃーをくれます。	dialogue	Le-sabrè	Le-sabrè
 Tell me more about the Elite rewards please!	こんにちは。いちば を すすめます。	dialogue	Le-sabrè	Player
@@ -35584,7 +35584,7 @@ Thanks!	ありがとう！	dialogue	Lesser Fanatic	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Lesser Fanatic	Player
 In addition to the easy rewards, Mandrith will give you a 20% discount off entry to the Resource Area, you'll cut Ents faster, you can access a shortcut in the deep Wilderness dungeon. You can also own 4 ecumenical	やせいなほうびに、プラス。マンドリスがリソースエリアの、にゅうていを、にじゅっぱーせんとびきしますよ。えんとを、さっさと、きってみえます。ふかい、やせい、ダンジョンの、しょーかっとに、アクセスできます。えきゅーめにかるきーを、よんつもてます。そして、ルンデイルから、にじゅっこを、もらえます。アーティオ、スピンデル、カルヴァーリオンの、ゆ、やせいぼすへ、アクセスできます。	dialogue	Lesser Fanatic	Lesser Fanatic
 keys at once and receive 20 runes a day from Lundail. Finally, you can now access the lairs of Artio, Spindel and Calvar'ion, three fearsome Wilderness bosses.	やせいなほうびと、ちゅうかるほうびに、プラス。ケンで、ルーンのていていに、いちにちいっかい、テレポートできます。おん、なべに、はんげた、スケール、を、すります。そして、リソースエリアへの、アクセスが、やすくなります。	dialogue	Lesser Fanatic	Lesser Fanatic
-Tell me more about the Hard rewards please!	そう。	dialogue	Lesser Fanatic	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Lesser Fanatic	Player
 In addition to the easy and medium benefits, the sword can teleport you to the Fountain of Rune once per day, you'll get 50% more lava shards when grinding scales and even cheaper access to the Resource Area.	えきゅーめにかるきーを、ごつもてます。ラバドラゴンアイルへの、しょーかっとに、アクセスできます。ルンデイルは、さんじゅっこを、もらえます。えーそうですね、ザモラクのワイン、を、テレグラブでき、のうご、なお、ぎんせつフォーム、で、きます。そして、どのおべいっくに、いくか、えらべます。	dialogue	Lesser Fanatic	Lesser Fanatic
 You can own 5 ecumenical keys, access a shortcut to Lava Dragon Isle and Lundail will give you 30 free runes each day. You can also telegrab Wine of Zamorak from spawns in the Wilderness in banknote	こう。	dialogue	Lesser Fanatic	Lesser Fanatic
 form, and control which Obelisk you want to travel to.	ぜんまえのほうびに、プラス。リソースエリアへの、アクセスが、ただです。ケンが、ルーンのていていへ、むげんテレポート、できます。やせいの、ドラゴンボーン、がノートになって、ルンデイルが、ごじゅっこを、くれます。そして、ダークカニを、つかまえる、スピードが、あがります。	dialogue	Lesser Fanatic	Lesser Fanatic
@@ -50532,7 +50532,7 @@ Congratulations!	かれ は かれの いぎゃく を みぎ に たき まし�
 He ripped his opponent in half!	それは いたい に する ことが ひつよう です！	dialogue	Sabeil	Sabeil
 That's gotta hurt!	かれ は ただ じゅう としも！	dialogue	Sabeil	Player
 He's only 10 as well!	あなたは かれら を わかい ばい！	dialogue	Sabeil	Sabeil
-You gotta start 'em young!	ふん。	dialogue	Sabeil	Player
+You gotta start 'em young!	わかいうちから はじめないとね！	dialogue	Sabeil	Player
 Can't you see I'm watching the duels?	わたしは もうしわけ ありません！	dialogue	Sabeil	Sabeil
 I'm sorry!	ああ。これは しょうり を する ほうが いい です!	dialogue	Sabeil	Player
 Knock knock!	なかない で。これは わたし です！	dialogue	Sabeil	Sabeil
@@ -53534,7 +53534,7 @@ Thanks!	ありがとう！	dialogue	Sir Rebral	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Sir Rebral	Player
 In addition to the easy rewards, the shield can restore half of your prayer points once per day and provides a 10% experience boost at Falador farm. You'll get an increased chance of finding a clue scroll from a Guard	ぼくは まだ さがしてます。	dialogue	Sir Rebral	Sir Rebral
 and can access a shortcut within the Motherlode Mine	もう ひとつ の たて を もらえますか？	dialogue	Sir Rebral	Sir Rebral
-Tell me more about the Hard rewards please!	そう。	dialogue	Sir Rebral	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Sir Rebral	Player
 In addition to the easy and medium benefits, the shield will restore all of your prayer points once per day, you can access a bank deposit box at the crafting guild and a shortcut to the Heroes' Guild fountain. The Giant	そして かんたん な ほかい に くわえて、この たて は いのり の ぶぶん を もどせます。そして これと にすう のうりょく を えられます。	dialogue	Sir Rebral	Sir Rebral
 mole becomes much easier to locate and it will drop noted skins and claws.	ジャイアント モール は さがしやすく なります。そして すこし ずつ おとしぶつ が ふえます。	dialogue	Sir Rebral	Sir Rebral
 Tell me more about the Elite rewards please!	こんにちは。いちば を すすめます。	dialogue	Sir Rebral	Player
@@ -57139,7 +57139,7 @@ Thanks!	ありがとう！	dialogue	The 'Wedge'	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	The 'Wedge'	Player
 In addition to the easy rewards, cutting maples in Seers' village provides 10% more experience. You can spin materials 33% faster at the spinning wheel, get the flax keeper to convert 60 flax to bowstrings each day,	まえ の たいあすうう なし なし では。スルマック いま 20000きん のための せんきり ましょ。ザモラク つり を はせた あの サピコイト に 50% はんたい をあたえます。あなたがシャーロック に なし あたえ つはじめ と あなた が カザビー こう こう から 15% あげました せいしゅやく と フラックス ないこく から 250フラックス をせんきり を かえるよう に します へん のいっさい の はじめて 200コール をいれた こう は あなたが やっぱり みずうみ に おくられます	dialogue	The 'Wedge'	The 'Wedge'
 and the Catherby herb patch provides a 5% higher crop yield. Coal trucks will hold up to 280 coal too.	たぶん カンダリン の タスク を ている。そのため のが けたから。そして わたし が あなたに あったときに あなたの しゅうえき を かい	dialogue	The 'Wedge'	The 'Wedge'
-Tell me more about the Hard rewards please!	そう。	dialogue	The 'Wedge'	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	The 'Wedge'	Player
 In addition to the easy and medium benefits, Thormac will enchant battlestaves for 30,000 gold and you can move the Camelot teleport location to outside of Seers' bank. You'll find 15% more marks of grace on Seers'	ぼくは もっと ぼうし を くれますか	dialogue	The 'Wedge'	The 'Wedge'
 rooftop, receive 10% higher yield from Catherby farming patch, get the flax keeper to convert 120 flax to bowstrings each day, and get 10% more points from Barbarian Assault as well one free daily teleport to	ネコ が あなた を にらみます	dialogue	The 'Wedge'	The 'Wedge'
 Sherlock. Your chances of having an enchanted bolt use it's special attack has increased by 10% too.	ともかく ですね	dialogue	The 'Wedge'	The 'Wedge'
@@ -58086,7 +58086,7 @@ If you complete all of the easy tasks in the Fremennik Province, Peer the Seer c
 Thanks!	ありがとう！	dialogue	Thorodin	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Thorodin	Player
 In addition to the easy rewards, your boots can teleport you to Rellekka once per day and you'll gain access a shortcut on the Miscellania docks as well as an increased rate of gaining approval with your subjects.	さらに，あなたが，いーすー，ミディアムほうしゅうに，さらに，あなたがぶーつが，あなたを，ウォーターバースアイランド，へ，テレポート，あなたがあなたのあきうたえを，かえることが，できる，ロケーション，そしてショートカット，そしてショートカット，ぐわて，ぼっくほ，あぐ，もういちど，ぼくのあぐなルナースペルにかいすることができます。	dialogue	Thorodin	Thorodin
-Tell me more about the Hard rewards please!	そう。	dialogue	Thorodin	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Thorodin	Player
 In addition to the easy and medium benefits, you'll be able to change your lyre teleport location to Waterbirth Island, use a shortcut to the roof of the Troll Stronghold and access two new Lunar spells.	さらに，あなたが，まえの，あぐこのぐうのぼくに，さらに，あなたがぶーつが，あなたを，レレカへ，テレポート，かぎられていないげんからのあなた，あなたがあなたのあきうたえが，あなたを，ジャティスゾ，あるいは，ネイティズノット，へ，チューニング，あなたが，あなたが，もういちど，シール，オブ，パッセージが，ルナー，アイランド，でひつようなくなります。	dialogue	Thorodin	Thorodin
 Tell me more about the Elite rewards please!	こんにちは。いちば を すすめます。	dialogue	Thorodin	Player
 In addition to the previous tiers of rewards, your boots now have unlimited teleports to Rellekka, your lyre can be attuned to teleport you to Jatiszo or Neitiznot, you'll no longer need a seal of passage on Lunar Isle,	ダガンノス，ほね，が，ノート，されて，あなたのしゅじゃくが，あなたのあなたのおうけいを，もっともっと，はやく，もってどうぞ。	dialogue	Thorodin	Thorodin
@@ -58670,7 +58670,7 @@ Thanks!	ありがとう！	dialogue	Toby	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Toby	Player
 In addition to the easy rewards, you have a 10% chance of mining two ores at once up to mithril and a 10% chance of smelting 2 bars at once up to mithril, when using the Edgeville furnace. Zaff will stock 30	かんたんなほうしゅうにくわえて、ミスリルまでにつのこうせきとにつのバーが10パーセント。まいにち30ほんのバトルスタッフ。	dialogue	Toby	Toby
 Battlestaves per day	まいにち30ほんのバトルスタッフ。	dialogue	Toby	Toby
-Tell me more about the Hard rewards please!	そう。	dialogue	Toby	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Toby	Player
 In addition to the easy and medium benefits, you have a 10% chance of mining two ores at once up to adamant and a 10% chance of smelting 2 bars at once up to adamant, when using the Edgeville furnace. Zaff	かんたんでちゅうていどのりてんにくわえて、エッジビルろをしようするばあい、アダマントまでどうじに2つのこうせきをさいくつする10%のたしかりつと、アダマントまでどうじに2つのバーをせいれんする10%のたしかりつがあります。ザフ	dialogue	Toby	Toby
 will stock 60 Battlestaves per day and you can access the bank at the Cooking guild.	まいにち60ほんのバトルスタッフ。りょうりギルドのぎんこうがつかいえます。	dialogue	Toby	Toby
 Tell me more about the Elite rewards please!	こんにちは。いちば を すすめます。	dialogue	Toby	Player
@@ -59692,7 +59692,7 @@ Thanks!	ありがとう！	dialogue	Two-pints	Player
 Tell me more about the Medium rewards please!	そう ですね。ほうしゅう が ほしい？	dialogue	Two-pints	Player
 In addition to the easy rewards: Wizard Cromperty will give you 100 noted pure essence each day, even more drops will be noted in the Tower of Life, you've got a 10% better chance at pickpocketing in Ardougne, you	59693	かんたん、ほうしゅう、くわえ、ウィザード、クロンペルティー、ぼくに、ひゃく、きよい、えッセンス、かりて、どの日、ぼくは、さらに、たくさん、ドロップ、タワー、いのちの、かりて、パーセント、あまり、いい、きかい、ひったくり、アルドゥーニュ、あなたは、できる、トグル、ライフ、リング、テレポート、アルドゥーニュ、あなたは、さんかい、どの日、テレポート、アルドゥーニュ、ふぁー、パッチ、あなたは、こうぼう、ごじゅうろく、こいんの、ふくろ、ひったくり。	dialogue	Two-pints	Two-pints
 can toggle the ring of life to teleport to Ardougne, you get three teleports each day to the Ardougne farming patch and you can hold up to 56 coin pouches whilst pickpocketing.	59694	can toggle the ring of life to teleport to Ardougne, you get three teleports each day to the Ardougne farming patch and you can hold up to 56 coin pouches whilst pickpocketing.	dialogue	Two-pints	Two-pints
-Tell me more about the Hard rewards please!	そう。	dialogue	Two-pints	Player
+Tell me more about the Hard rewards please!	ハードの ほうしゅうについて もっと おしえて！	dialogue	Two-pints	Player
 In addition to the easy and medium benefits: Wizard Cromperty will give you 150 pure essence each day, you can toggle the Watchtower teleport to the centre of Yanille, claim further drops as notes in the Tower of	59696	かんたん、ほうしゅう、くわえ、ウィザード、クロンペルティー、ぼくに、ひゃくごじゅう、きよい、えッセンス、どの日、あなたは、できる、トグル、ウォッチタワー、テレポート、せんたー、ヤニール、クレーム、さらに、ドロップ、メモ、タワー、いのちの、テレポート、ふぁー、パッチ、ぞうくが、ごたい、どの日、ぼくが、ぼうえきに、パーセント、あまり、いい、きかい、ひったくり、どこ、あなたは、こうぼう、はちじゅうよん、こいんの、ふくろ、ひったくり。	dialogue	Two-pints	Two-pints
 Life, teleports to the farming patch increased to five per day, have a 10% better chance at pickpocketing everywhere and you can hold up to 84 coin pouches whilst pickpocketing.	59697	Life, teleports to the farming patch increased to five per day, have a 10% better chance at pickpocketing everywhere and you can hold up to 84 coin pouches whilst pickpocketing.	dialogue	Two-pints	Two-pints
 Tell me more about the Elite rewards please!	こんにちは。いちば を すすめます。	dialogue	Two-pints	Player
