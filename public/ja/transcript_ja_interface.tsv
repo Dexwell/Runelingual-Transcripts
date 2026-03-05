@@ -6915,3 +6915,4 @@ Description: <colNum0>Complete the Tombs of Amascut with the "On a diet" and "De
 Description: <colNum0>Complete Wave <Num0> with either "Red Flag", "Dynamic Duo", or "Doom II" active.</col>	詳細：<colNum0>「赤旗」「ダイナミック・デュオ」「破滅II」のいずれが有効な状態でウェーブ<Num0>を突破する。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".</col>	詳細：<colNum0>血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
+more options	他に{0}つのオプション	interface	generalUI

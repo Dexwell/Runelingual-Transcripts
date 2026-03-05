@@ -363,7 +363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41303">
         <xliff:source>Dream</xliff:source>
-        <xliff:target state="translated">夢を見る</xliff:target>
+        <xliff:target state="translated">夢中</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Dominic Onion
@@ -939,7 +939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41375">
         <xliff:source>Remove</xliff:source>
-        <xliff:target state="translated">取り除く</xliff:target>
+        <xliff:target state="translated">取り外す</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Combat dummy
@@ -1203,7 +1203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41408">
         <xliff:source>Chop</xliff:source>
-        <xliff:target state="translated">切る</xliff:target>
+        <xliff:target state="translated">チョップ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Undead tree
@@ -1763,7 +1763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41478">
         <xliff:source>Smash</xliff:source>
-        <xliff:target state="translated">砕く</xliff:target>
+        <xliff:target state="translated">強打</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Jewelled Crab
@@ -1891,7 +1891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41494">
         <xliff:source>Stun</xliff:source>
-        <xliff:target state="translated">気絶させる</xliff:target>
+        <xliff:target state="translated">スタン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hoop Snake
@@ -2595,7 +2595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41582">
         <xliff:source>Cast</xliff:source>
-        <xliff:target state="translated">唱える</xliff:target>
+        <xliff:target state="translated">投げる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Fishing spot
@@ -2931,7 +2931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41624">
         <xliff:source>Smash</xliff:source>
-        <xliff:target state="translated">砕く</xliff:target>
+        <xliff:target state="translated">強打</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Giant crystal
@@ -3035,7 +3035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41637">
         <xliff:source>Play</xliff:source>
-        <xliff:target state="translated">再生</xliff:target>
+        <xliff:target state="translated">プレイ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Church organ
@@ -3235,7 +3235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41662">
         <xliff:source>Chop</xliff:source>
-        <xliff:target state="translated">切る</xliff:target>
+        <xliff:target state="translated">チョップ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Achey Tree
@@ -3507,7 +3507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41696">
         <xliff:source>Remove</xliff:source>
-        <xliff:target state="translated">取り除く</xliff:target>
+        <xliff:target state="translated">取り外す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Hellhound
@@ -4515,7 +4515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41822">
         <xliff:source>Hack</xliff:source>
-        <xliff:target state="translated">切り開く</xliff:target>
+        <xliff:target state="translated">叩き切る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Light Jungle
@@ -4699,7 +4699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41845">
         <xliff:source>Look-up</xliff:source>
-        <xliff:target state="translated">上を見る</xliff:target>
+        <xliff:target state="translated">上を見る </xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Trellis
@@ -6387,7 +6387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42056">
         <xliff:source>Bind</xliff:source>
-        <xliff:target state="translated">魔力封入</xliff:target>
+        <xliff:target state="translated">バインド</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Blood Altar
@@ -7107,7 +7107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42146">
         <xliff:source>Tree</xliff:source>
-        <xliff:target state="translated">精霊樹</xliff:target>
+        <xliff:target state="translated">木</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7875,7 +7875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42242">
         <xliff:source>Feel</xliff:source>
-        <xliff:target state="translated">探る</xliff:target>
+        <xliff:target state="translated">を手で感じる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Gas hole
@@ -9899,7 +9899,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109780"><xli
 sub_category: menu
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109781"><xliff:source>Play</xliff:source>
-        <xliff:target state="translated">再生</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109782"><xliff:source>Open Activity Adviser</xliff:source>
@@ -10667,7 +10667,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109972"><xli
 sub_category: menu
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109973"><xliff:source>Display</xliff:source>
-        <xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">示す</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109974"><xliff:source>Audio</xliff:source>
@@ -10715,7 +10715,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109984"><xli
 sub_category: menu
 source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109985"><xliff:source>Play</xliff:source>
-        <xliff:target state="translated">再生</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109986"><xliff:source>Thumbs Up</xliff:source>
@@ -10843,7 +10843,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110016"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110017"><xliff:source>Cast</xliff:source>
-        <xliff:target state="translated">唱える</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">投げる</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110018"><xliff:source>Unhide</xliff:source>
@@ -10931,7 +10931,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110038"><xli
 sub_category: item
 source: Fire
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4653</xliff:note></xliff:trans-unit><xliff:trans-unit id="110039"><xliff:source>Remove</xliff:source>
-        <xliff:target state="translated">取り除く</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">取り外す</xliff:target><xliff:note>category: actions
 sub_category: item
 source: Oak lectern
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8334</xliff:note></xliff:trans-unit><xliff:trans-unit id="110040"><xliff:source>Lay</xliff:source>
@@ -10955,7 +10955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110045"><xliff:source>Aggressive</xliff:source>
-        <xliff:target state="translated">積極的</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">積極的に</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110046"><xliff:source>Defensive</xliff:source>
@@ -10967,7 +10967,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110047"><xli
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110048"><xliff:source>Chop</xliff:source>
-        <xliff:target state="translated">切る</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">チョップ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110049"><xliff:source>Slash</xliff:source>
@@ -10999,7 +10999,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110055"><xli
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110056"><xliff:source>Smash</xliff:source>
-        <xliff:target state="translated">砕く</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">強打</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110057"><xliff:source>Lunge</xliff:source>
@@ -11011,7 +11011,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110058"><xli
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110059"><xliff:source>Hack</xliff:source>
-        <xliff:target state="translated">切り開く</xliff:target><xliff:note>category: actions
+        <xliff:target state="translated">叩き切る</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110060"><xliff:source>Reap</xliff:source>

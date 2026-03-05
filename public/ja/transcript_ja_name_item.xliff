@@ -1515,7 +1515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="190">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">銛</xliff:target>
+        <xliff:target state="translated">もりで釣る</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Harpoon
@@ -3587,7 +3587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="449">
         <xliff:source>Message</xliff:source>
-        <xliff:target state="translated">手紙</xliff:target>
+        <xliff:target state="translated">メッセージ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Message
@@ -14683,7 +14683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1836">
         <xliff:source>Manual</xliff:source>
-        <xliff:target state="translated">マニュアル</xliff:target>
+        <xliff:target state="translated">手動</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Manual
@@ -17235,7 +17235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2155">
         <xliff:source>Blue sweets</xliff:source>
-        <xliff:target state="translated">青いアメ&lt;</xliff:target>
+        <xliff:target state="translated">青いアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blue sweets
@@ -17251,7 +17251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2157">
         <xliff:source>White sweets</xliff:source>
-        <xliff:target state="translated">白いアメ&lt;</xliff:target>
+        <xliff:target state="translated">白いアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: White sweets
@@ -17259,7 +17259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2158">
         <xliff:source>Purple sweets</xliff:source>
-        <xliff:target state="translated">紫のアメ&lt;</xliff:target>
+        <xliff:target state="translated">紫のアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Purple sweets
@@ -17267,7 +17267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2159">
         <xliff:source>Red sweets</xliff:source>
-        <xliff:target state="translated">赤いアメ&lt;</xliff:target>
+        <xliff:target state="translated">赤いアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Red sweets
@@ -17275,7 +17275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2160">
         <xliff:source>Green sweets</xliff:source>
-        <xliff:target state="translated">緑のアメ&lt;</xliff:target>
+        <xliff:target state="translated">緑のアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Green sweets
@@ -17283,7 +17283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2161">
         <xliff:source>Pink sweets</xliff:source>
-        <xliff:target state="translated">ピンクのアメ&lt;</xliff:target>
+        <xliff:target state="translated">ピンクのアメ<</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pink sweets
@@ -20219,7 +20219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2528">
         <xliff:source>Rake</xliff:source>
-        <xliff:target state="translated">熊手</xliff:target>
+        <xliff:target state="translated">掻き抜く</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rake
@@ -21331,7 +21331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2667">
         <xliff:source>Gear</xliff:source>
-        <xliff:target state="translated">歯車</xliff:target>
+        <xliff:target state="translated">装備</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gear
@@ -26779,7 +26779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3348">
         <xliff:source>Roll</xliff:source>
-        <xliff:target state="translated">ロールバン</xliff:target>
+        <xliff:target state="translated">転がす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Roll
@@ -27259,7 +27259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3408">
         <xliff:source>Plunder</xliff:source>
-        <xliff:target state="translated">略奪品</xliff:target>
+        <xliff:target state="translated">奪取</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Plunder
@@ -31699,7 +31699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3963">
         <xliff:source>Plant</xliff:source>
-        <xliff:target state="translated">植物</xliff:target>
+        <xliff:target state="translated">植える</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Plant
@@ -33219,7 +33219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4153">
         <xliff:source>Study</xliff:source>
-        <xliff:target state="translated">勉強部屋</xliff:target>
+        <xliff:target state="translated">調べる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Study
@@ -33443,7 +33443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4181">
         <xliff:source>Crude chair</xliff:source>
-        <xliff:target state="translated">粗末な椅子</xliff:target>
+        <xliff:target state="translated"> 粗末な椅子</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crude chair
@@ -34931,7 +34931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4367">
         <xliff:source>Blurite bolts</xliff:source>
-        <xliff:target state="translated">ブルライトのボルト</xliff:target>
+        <xliff:target state="translated"> ブルライトのボルト</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blurite bolts
@@ -35891,7 +35891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4487">
         <xliff:source>Hazelmere's book</xliff:source>
-        <xliff:target state="translated">ヘイゼルミアの本</xliff:target>
+        <xliff:target state="translated"> ヘイゼルミアの本</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hazelmere's book
@@ -49819,7 +49819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6228">
         <xliff:source>Deadman's chest</xliff:source>
-        <xliff:target state="translated">デッドマンのチェスト</xliff:target>
+        <xliff:target state="translated"></xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Deadman's chest
@@ -79027,8 +79027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9879">
         <xliff:source>Trailblazer reloaded rejuvenation pool scroll</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッド再生の飲み場の巻物
-</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッド再生の飲み場の巻物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded rejuvenation pool scroll
@@ -80596,8 +80595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10075">
         <xliff:source>Swamp lizard claw</xliff:source>
-        <xliff:target state="translated">沼トカゲの鉤爪
-</xliff:target>
+        <xliff:target state="translated">沼トカゲの鉤爪</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Swamp lizard claw

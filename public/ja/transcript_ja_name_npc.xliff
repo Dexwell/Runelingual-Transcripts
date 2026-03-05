@@ -443,7 +443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10238">
         <xliff:source>Cook</xliff:source>
-        <xliff:target state="translated">料理人</xliff:target>
+        <xliff:target state="translated">料理する</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cook
@@ -1851,7 +1851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10414">
         <xliff:source>Ice block</xliff:source>
-        <xliff:target state="translated">氷ブロック</xliff:target>
+        <xliff:target state="translated">氷ブロック </xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ice block
@@ -6507,7 +6507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10996">
         <xliff:source>Chaos Elemental</xliff:source>
-        <xliff:target state="translated">混沌エレメンタル</xliff:target>
+        <xliff:target state="translated">混沌エレメ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chaos Elemental
@@ -6675,7 +6675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11017">
         <xliff:source>Tiles</xliff:source>
-        <xliff:target state="translated">タイルズ</xliff:target>
+        <xliff:target state="translated">タイル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tiles
@@ -10131,7 +10131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11449">
         <xliff:source>K'ril Tsutsaroth</xliff:source>
-        <xliff:target state="translated">クリル・ツツァロス</xliff:target>
+        <xliff:target state="translated">クリルツツァ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: K'ril Tsutsaroth
@@ -20163,7 +20163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12703">
         <xliff:source>Chaos Fanatic</xliff:source>
-        <xliff:target state="translated">混沌の狂信者</xliff:target>
+        <xliff:target state="translated">混沌狂信者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chaos Fanatic
@@ -21235,7 +21235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12837">
         <xliff:source>Novice</xliff:source>
-        <xliff:target state="translated">ノヴァイス</xliff:target>
+        <xliff:target state="translated">初級</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Novice
@@ -27251,7 +27251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13589">
         <xliff:source>Acorn</xliff:source>
-        <xliff:target state="translated">エイコーン</xliff:target>
+        <xliff:target state="translated">どんぐり</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Acorn
@@ -28611,7 +28611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13759">
         <xliff:source>TzHaar-Ket-Rak</xliff:source>
-        <xliff:target state="translated">ツザー・ケット・ラク</xliff:target>
+        <xliff:target state="translated">ツザケラク</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: TzHaar-Ket-Rak
@@ -28923,7 +28923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13798">
         <xliff:source>Fire Wave</xliff:source>
-        <xliff:target state="translated">火の波</xliff:target>
+        <xliff:target state="translated">ファイヤー・ウェーブ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fire Wave
@@ -31107,7 +31107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14071">
         <xliff:source>Vardorvis</xliff:source>
-        <xliff:target state="translated">ヴァードーヴィス</xliff:target>
+        <xliff:target state="translated">ヴァードーヴ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Vardorvis
@@ -33610,7 +33610,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Acidic Araxyte
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13675</xliff:note></xliff:trans-unit><xliff:trans-unit id="14410"><xliff:source>Weave</xliff:source>
-        <xliff:target state="translated">織物</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">で編む</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Weave
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13677</xliff:note></xliff:trans-unit><xliff:trans-unit id="14411"><xliff:source>Arancini</xliff:source>
@@ -33630,7 +33630,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
 sub_category: npc
 source: Rax
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13682</xliff:note></xliff:trans-unit><xliff:trans-unit id="14415"><xliff:source>Amoxliatl</xliff:source>
-        <xliff:target state="translated">エモックスリアトル</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">エモックス</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Amoxliatl
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13685</xliff:note></xliff:trans-unit><xliff:trans-unit id="14416"><xliff:source>Unstable ice</xliff:source>
@@ -34158,7 +34158,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="14546"><xlif
 sub_category: npc
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="14547"><xliff:source>Wintertodt</xliff:source>
-        <xliff:target state="translated">ウィンタートッド</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">ウィンタトド</xliff:target><xliff:note>category: name
 sub_category: npc
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="14548"><xliff:source>None</xliff:source>

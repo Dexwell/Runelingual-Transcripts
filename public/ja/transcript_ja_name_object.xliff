@@ -14523,7 +14523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16173">
         <xliff:source>Ropeswing</xliff:source>
-        <xliff:target state="translated">縄のブランコ</xliff:target>
+        <xliff:target state="translated"> 縄のブランコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ropeswing
@@ -34483,7 +34483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18668">
         <xliff:source>Ice Block</xliff:source>
-        <xliff:target state="translated">氷ブロック</xliff:target>
+        <xliff:target state="translated">氷ブロック </xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ice Block

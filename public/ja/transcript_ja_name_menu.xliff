@@ -1046,7 +1046,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112759"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112760"><xliff:source>Charge</xliff:source>
-        <xliff:target state="translated">チャージ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">チャージする</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112761"><xliff:source>Earth Surge</xliff:source>
@@ -1270,7 +1270,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112815"><xli
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112816"><xliff:source>Fertile Soil</xliff:source>
-        <xliff:target state="translated">肥沃化</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">肥えた土地</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112817"><xliff:source>Boost Potion Share</xliff:source>
@@ -1526,7 +1526,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112879"><xli
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112880"><xliff:source>Slash</xliff:source>
-        <xliff:target state="translated">スラッシュ</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">切り裂く</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112881"><xliff:source>Stab</xliff:source>
@@ -1546,7 +1546,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112884"><xli
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112885"><xliff:source>Spike</xliff:source>
-        <xliff:target state="translated">突き刺す</xliff:target><xliff:note>category: name
+        <xliff:target state="translated">突く</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112886"><xliff:source>Impale</xliff:source>

@@ -683,7 +683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109348">
         <xliff:source>Medium</xliff:source>
-        <xliff:target state="translated">普通</xliff:target>
+        <xliff:target state="translated">中級</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1939,7 +1939,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109505">
         <xliff:source>Zanaris</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target>ザナリスへ</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -10390,7 +10390,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110608"><xli
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110609"><xliff:source>Medium</xliff:source>
-        <xliff:target state="translated">普通</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">中級</xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110610"><xliff:source>Tonsure</xliff:source>
@@ -11018,7 +11018,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110765"><xli
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110766"><xliff:source>Zanaris</xliff:source>
-        <xliff:target></xliff:target><xliff:note>category: manual
+        <xliff:target>ザナリスへ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110767"><xliff:source>In the Lighthouse</xliff:source>
@@ -15322,7 +15322,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111841"><xli
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111842"><xliff:source>Medium</xliff:source>
-        <xliff:target state="translated">普通</xliff:target><xliff:note>category: manual
+        <xliff:target state="translated">中級</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111843"><xliff:source>Long</xliff:source>
