@@ -6916,3 +6916,5 @@ Description: <colNum0>Complete Wave <Num0> with either "Red Flag", "Dynamic Duo"
 Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".</col>	詳細：<colNum0>血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
 more options	他に{0}つのオプション	interface	generalUI
+Moving on	つぎへ	interface	generalUI
+Well done, you've just cooked your first meal! Speak to the survival expert if you want a recap, otherwise you can move on. Click on the gate shown and follow the path. Remember, you can use your arrow keys to rotate the camera.	よくやった、はじめての料理を作った！復習したければサバイバルエキスパートに話しかけよう。そうでなければ先に進もう。表示されたゲートをクリックして道を進もう。矢印キーでカメラを回転できるのを忘れずに。	interface	generalUI
